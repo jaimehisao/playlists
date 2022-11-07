@@ -1,0 +1,104 @@
+{
+    "id": "4dsT1VmaHUx3E4e7UITCQl",
+    "tracks": [
+        {
+            "track_id": "76lCwB3Bu4tNcyXRLGvVba",
+            "track_name": "Me And The Devil",
+            "track_artist": "Gil Scott-Heron",
+            "track_album": "I\u2019m New Here",
+            "track_duration": 213706,
+            "track_popularity": 0,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2015-12-29T07:25:53Z",
+            "uri": "spotify:track:76lCwB3Bu4tNcyXRLGvVba"
+        },
+        {
+            "track_id": "6EN5dJMKEibLc9vmqQs0uK",
+            "track_name": "The Long Haul",
+            "track_artist": "Black English",
+            "track_album": "No",
+            "track_duration": 256600,
+            "track_popularity": 0,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2015-12-29T07:26:00Z",
+            "uri": "spotify:track:6EN5dJMKEibLc9vmqQs0uK"
+        },
+        {
+            "track_id": "2uK0gfnFYHKpb73WkQml8h",
+            "track_name": "Devil's Whisper",
+            "track_artist": "Raury",
+            "track_album": "All We Need",
+            "track_duration": 220920,
+            "track_popularity": 40,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2015-12-29T07:26:15Z",
+            "uri": "spotify:track:2uK0gfnFYHKpb73WkQml8h"
+        },
+        {
+            "track_id": "1wYZZtamWTQAoj8B812uKQ",
+            "track_name": "Here",
+            "track_artist": "Alessia Cara",
+            "track_album": "Know-It-All (Deluxe)",
+            "track_duration": 199453,
+            "track_popularity": 3,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2015-12-31T21:44:51Z",
+            "uri": "spotify:track:1wYZZtamWTQAoj8B812uKQ"
+        },
+        {
+            "track_id": "7u63zva845rv8tRFi9FG8a",
+            "track_name": "I Love You Like An Alcoholic",
+            "track_artist": "The Taxpayers",
+            "track_album": "\"God, Forgive These Bastards\" Songs From The Forgotten Life of Henry Turner",
+            "track_duration": 215933,
+            "track_popularity": 66,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2015-12-31T21:45:11Z",
+            "uri": "spotify:track:7u63zva845rv8tRFi9FG8a"
+        },
+        {
+            "track_id": "6sj9rODkg2fpS30JlWbb2t",
+            "track_name": "Lydia",
+            "track_artist": "Highly Suspect",
+            "track_album": "Lydia",
+            "track_duration": 242560,
+            "track_popularity": 19,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-01-13T21:14:58Z",
+            "uri": "spotify:track:6sj9rODkg2fpS30JlWbb2t"
+        },
+        {
+            "track_id": "2KiRgHpE6flTfqgSE7kCEA",
+            "track_name": "Murder Song (5, 4, 3, 2, 1) - Acoustic",
+            "track_artist": "AURORA",
+            "track_album": "Murder Song (5, 4, 3, 2, 1)",
+            "track_duration": 218773,
+            "track_popularity": 37,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-02-01T03:25:39Z",
+            "uri": "spotify:track:2KiRgHpE6flTfqgSE7kCEA"
+        },
+        {
+            "track_id": "6UUMHb56IGU7HclD6FW6qi",
+            "track_name": "Oh My Word",
+            "track_artist": "Flip Grater",
+            "track_album": "While I'm Awake I'm At War",
+            "track_duration": 176053,
+            "track_popularity": 0,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-10-09T01:13:53Z",
+            "uri": "spotify:track:6UUMHb56IGU7HclD6FW6qi"
+        },
+        {
+            "track_id": "7aUuoq4oMfLxaLa5GVUDHi",
+            "track_name": "Way down We Go",
+            "track_artist": "KALEO",
+            "track_album": "Way down We Go",
+            "track_duration": 219560,
+            "track_popularity": 63,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-11-17T01:36:18Z",
+            "uri": "spotify:track:7aUuoq4oMfLxaLa5GVUDHi"
+        }
+    ]
+}
