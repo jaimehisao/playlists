@@ -1,0 +1,280 @@
+{
+    "id": "28JOZg8mRVeTMmEusmsE1f",
+    "tracks": [
+        {
+            "track_id": "7v9Q0dAb9t7h8gJOkcJHay",
+            "track_name": "Face to Face",
+            "track_artist": "Daft Punk",
+            "track_album": "Discovery",
+            "track_duration": 240173,
+            "track_popularity": 62,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:37:46Z",
+            "uri": "spotify:track:7v9Q0dAb9t7h8gJOkcJHay"
+        },
+        {
+            "track_id": "3zMvotMEQK3xvH01vA9wAP",
+            "track_name": "Too Long",
+            "track_artist": "Daft Punk",
+            "track_album": "Discovery",
+            "track_duration": 600293,
+            "track_popularity": 53,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:37:50Z",
+            "uri": "spotify:track:3zMvotMEQK3xvH01vA9wAP"
+        },
+        {
+            "track_id": "3skn2lauGk7Dx6bVIt5DVj",
+            "track_name": "Starlight",
+            "track_artist": "Muse",
+            "track_album": "Black Holes and Revelations",
+            "track_duration": 240213,
+            "track_popularity": 73,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:40:22Z",
+            "uri": "spotify:track:3skn2lauGk7Dx6bVIt5DVj"
+        },
+        {
+            "track_id": "3Ct7Cg6yyJgGopXaawR0FL",
+            "track_name": "Skin",
+            "track_artist": "Teen Flirt",
+            "track_album": "Skin",
+            "track_duration": 180000,
+            "track_popularity": 10,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:42:04Z",
+            "uri": "spotify:track:3Ct7Cg6yyJgGopXaawR0FL"
+        },
+        {
+            "track_id": "0VZs2OQq4axr8GFRdC9nyD",
+            "track_name": "Guts Over Fear",
+            "track_artist": "Eminem",
+            "track_album": "Guts Over Fear",
+            "track_duration": 300386,
+            "track_popularity": 50,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:42:43Z",
+            "uri": "spotify:track:0VZs2OQq4axr8GFRdC9nyD"
+        },
+        {
+            "track_id": "6PkzXU8dlwtfrwyTlUyVnv",
+            "track_name": "Show Me Love - EDX Remix / Radio Edit",
+            "track_artist": "Sam Feldt",
+            "track_album": "Show Me Love (EDX Remix / Radio Edit)",
+            "track_duration": 180336,
+            "track_popularity": 61,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:43:42Z",
+            "uri": "spotify:track:6PkzXU8dlwtfrwyTlUyVnv"
+        },
+        {
+            "track_id": "69B4b2ZLXZtADgzWk2RfpY",
+            "track_name": "Flare Guns",
+            "track_artist": "Quinn XCII",
+            "track_album": "The Story of Us (Deluxe)",
+            "track_duration": 240013,
+            "track_popularity": 36,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:45:04Z",
+            "uri": "spotify:track:69B4b2ZLXZtADgzWk2RfpY"
+        },
+        {
+            "track_id": "6ERZ30cRjVWGtVLhczX9aL",
+            "track_name": "The greatest",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Norman Fucking Rockwell!",
+            "track_duration": 300360,
+            "track_popularity": 66,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:45:31Z",
+            "uri": "spotify:track:6ERZ30cRjVWGtVLhczX9aL"
+        },
+        {
+            "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+            "track_name": "Sweater Weather",
+            "track_artist": "The Neighbourhood",
+            "track_album": "I Love You.",
+            "track_duration": 240400,
+            "track_popularity": 92,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:45:49Z",
+            "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6"
+        },
+        {
+            "track_id": "70wvmV1Dyg1xWtCYSngm4R",
+            "track_name": "Killer Queen",
+            "track_artist": "Queen",
+            "track_album": "Sheer Heart Attack",
+            "track_duration": 180360,
+            "track_popularity": 54,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:47:21Z",
+            "uri": "spotify:track:70wvmV1Dyg1xWtCYSngm4R"
+        },
+        {
+            "track_id": "3kWTePuDbahk3Bbwm8Cc9B",
+            "track_name": "Poppa",
+            "track_artist": "Aiamwhy",
+            "track_album": "Poppa",
+            "track_duration": 299504,
+            "track_popularity": 7,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-16T06:48:20Z",
+            "uri": "spotify:track:3kWTePuDbahk3Bbwm8Cc9B"
+        },
+        {
+            "track_id": "5VSCgNlSmTV2Yq5lB40Eaw",
+            "track_name": "Love Me Again",
+            "track_artist": "John Newman",
+            "track_album": "Tribute",
+            "track_duration": 239894,
+            "track_popularity": 66,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T05:58:44Z",
+            "uri": "spotify:track:5VSCgNlSmTV2Yq5lB40Eaw"
+        },
+        {
+            "track_id": "2Y0iGXY6m6immVb2ktbseM",
+            "track_name": "Little Dark Age",
+            "track_artist": "MGMT",
+            "track_album": "Little Dark Age",
+            "track_duration": 299960,
+            "track_popularity": 82,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:03:03Z",
+            "uri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+        },
+        {
+            "track_id": "2MUZTpr1WsUKOzfTM9SRgt",
+            "track_name": "eez-eh",
+            "track_artist": "Kasabian",
+            "track_album": "48:13 (Deluxe)",
+            "track_duration": 179933,
+            "track_popularity": 50,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:03:16Z",
+            "uri": "spotify:track:2MUZTpr1WsUKOzfTM9SRgt"
+        },
+        {
+            "track_id": "120brZKDllXEtyCZyLCjoI",
+            "track_name": "Slumville Sunrise",
+            "track_artist": "Jake Bugg",
+            "track_album": "Shangri La",
+            "track_duration": 179733,
+            "track_popularity": 26,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:08:51Z",
+            "uri": "spotify:track:120brZKDllXEtyCZyLCjoI"
+        },
+        {
+            "track_id": "2cMDy9FfWA5OYrAo1JzbkX",
+            "track_name": "Dull Times/The Moon",
+            "track_artist": "Band of Horses",
+            "track_album": "Why Are You OK",
+            "track_duration": 419800,
+            "track_popularity": 32,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:19:49Z",
+            "uri": "spotify:track:2cMDy9FfWA5OYrAo1JzbkX"
+        },
+        {
+            "track_id": "3ZU73WOUb6sJ6Phkd7KyKD",
+            "track_name": "Conceal",
+            "track_artist": "Banks & Steelz",
+            "track_album": "Anything But Words",
+            "track_duration": 239866,
+            "track_popularity": 17,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:20:48Z",
+            "uri": "spotify:track:3ZU73WOUb6sJ6Phkd7KyKD"
+        },
+        {
+            "track_id": "5dqNCR3ANsOIMeQLpk54wU",
+            "track_name": "Don't Bother Calling",
+            "track_artist": "Moses Sumney",
+            "track_album": "Aromanticism",
+            "track_duration": 239702,
+            "track_popularity": 7,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:21:15Z",
+            "uri": "spotify:track:5dqNCR3ANsOIMeQLpk54wU"
+        },
+        {
+            "track_id": "19iSYHhd6lvlygQvJwomez",
+            "track_name": "Trinomial",
+            "track_artist": "Dan Solo",
+            "track_album": "Treze",
+            "track_duration": 780000,
+            "track_popularity": 22,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:23:09Z",
+            "uri": "spotify:track:19iSYHhd6lvlygQvJwomez"
+        },
+        {
+            "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
+            "track_name": "Pumped Up Kicks",
+            "track_artist": "Foster The People",
+            "track_album": "Torches",
+            "track_duration": 239600,
+            "track_popularity": 82,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:30:50Z",
+            "uri": "spotify:track:7w87IxuO7BDcJ3YUqCyMTT"
+        },
+        {
+            "track_id": "0c1gHntWjKD7QShC8s99sq",
+            "track_name": "I Don't Want to Miss a Thing - From the Touchstone film, \"Armageddon\"",
+            "track_artist": "Aerosmith",
+            "track_album": "I Don't Want To Miss A Thing",
+            "track_duration": 299760,
+            "track_popularity": 0,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:41:51Z",
+            "uri": "spotify:track:0c1gHntWjKD7QShC8s99sq"
+        },
+        {
+            "track_id": "0EA8k9iH93YEJFaBuRt7Tc",
+            "track_name": "Stumblin' In - 2017 Remaster",
+            "track_artist": "Suzi Quatro",
+            "track_album": "If You Knew Suzi\u2026 (2017 Remaster)",
+            "track_duration": 239529,
+            "track_popularity": 20,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:43:51Z",
+            "uri": "spotify:track:0EA8k9iH93YEJFaBuRt7Tc"
+        },
+        {
+            "track_id": "1SoBehfQMenbfWOqgEZZCG",
+            "track_name": "Must Be Love",
+            "track_artist": "Les Loups",
+            "track_album": "Club Coeur",
+            "track_duration": 240213,
+            "track_popularity": 0,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:48:56Z",
+            "uri": "spotify:track:1SoBehfQMenbfWOqgEZZCG"
+        },
+        {
+            "track_id": "6zGTjEZ2zpLbl5Ij7vzTsi",
+            "track_name": "Magic City",
+            "track_artist": "Gorillaz",
+            "track_album": "The Now Now",
+            "track_duration": 239613,
+            "track_popularity": 55,
+            "track_added_by": "1283325282",
+            "track_added_at": "2020-04-17T06:49:23Z",
+            "uri": "spotify:track:6zGTjEZ2zpLbl5Ij7vzTsi"
+        },
+        {
+            "track_id": "5VQLMrWhailAhErKNUSnv1",
+            "track_name": "The Lucky One",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Deluxe Edition)",
+            "track_duration": 240266,
+            "track_popularity": 46,
+            "track_added_by": "1283325282",
+            "track_added_at": "2021-05-20T02:56:33Z",
+            "uri": "spotify:track:5VQLMrWhailAhErKNUSnv1"
+        }
+    ]
+}
