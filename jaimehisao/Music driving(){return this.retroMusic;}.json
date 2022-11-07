@@ -2519,6 +2519,17 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-08-08T22:58:57Z",
             "uri": "spotify:track:0x4rW5jv6fkKweBgjE5O8F"
+        },
+        {
+            "track_id": "6OnfBiiSc9RGKiBKKtZXgQ",
+            "track_name": "We Built This City",
+            "track_artist": "Starship",
+            "track_album": "Knee Deep In The Hoopla",
+            "track_duration": 296080,
+            "track_popularity": 75,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-11-07T18:01:19Z",
+            "uri": "spotify:track:6OnfBiiSc9RGKiBKKtZXgQ"
         }
     ]
 }
