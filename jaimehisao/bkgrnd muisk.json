@@ -2,147 +2,103 @@
     "id": "6IlHSM9DKgtwsju1GHljec",
     "tracks": [
         {
-            "track_id": "2zdlY4ANqvPcYv4jR7gvhw",
-            "track_name": "Satisfaction Guaranteed",
-            "track_artist": "Two Door Cinema Club",
-            "track_album": "False Alarm",
-            "track_duration": 227934,
+            "track_id": "18RSbd5ZkiguPYxROvxbjU",
+            "track_name": "Redbone",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "Do You Have This Room Reserved?",
+            "track_duration": 217440,
+            "track_popularity": 3,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-16T12:55:29Z",
+            "uri": "spotify:track:18RSbd5ZkiguPYxROvxbjU"
+        },
+        {
+            "track_id": "02bhXnetaYMD5fdiBAbZll",
+            "track_name": "Don't You (Forget About Me)",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "Soundproof",
+            "track_duration": 275826,
+            "track_popularity": 3,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-16T12:55:48Z",
+            "uri": "spotify:track:02bhXnetaYMD5fdiBAbZll"
+        },
+        {
+            "track_id": "7gmK7wGWqyHcGL5P9SNQ4q",
+            "track_name": "September",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "Do You Have This Room Reserved?",
+            "track_duration": 224213,
+            "track_popularity": 2,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-16T12:56:17Z",
+            "uri": "spotify:track:7gmK7wGWqyHcGL5P9SNQ4q"
+        },
+        {
+            "track_id": "7DgoAp18wUZiTXhnGwU5UC",
+            "track_name": "Let's Dance",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "Do You Have This Room Reserved?",
+            "track_duration": 190266,
+            "track_popularity": 2,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-16T12:56:18Z",
+            "uri": "spotify:track:7DgoAp18wUZiTXhnGwU5UC"
+        },
+        {
+            "track_id": "1vG0tMQnmotceEKJagUQbg",
+            "track_name": "Everybody Talks",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "As Viewed From Above",
+            "track_duration": 179346,
+            "track_popularity": 4,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-16T12:56:26Z",
+            "uri": "spotify:track:1vG0tMQnmotceEKJagUQbg"
+        },
+        {
+            "track_id": "2YmYrIQhjwt4JFRLf6ESk8",
+            "track_name": "Island in the Sun",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "Soundproof",
+            "track_duration": 193866,
+            "track_popularity": 2,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-16T12:56:45Z",
+            "uri": "spotify:track:2YmYrIQhjwt4JFRLf6ESk8"
+        },
+        {
+            "track_id": "3tZzPilAMSY3hUy0blZc3P",
+            "track_name": "I Won't Give Up",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "As Viewed From Above",
+            "track_duration": 242533,
+            "track_popularity": 5,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-21T01:55:15Z",
+            "uri": "spotify:track:3tZzPilAMSY3hUy0blZc3P"
+        },
+        {
+            "track_id": "4PyMh9PqpUbJpfAet33t1Y",
+            "track_name": "Fireflies",
+            "track_artist": "The MIT Logarhythms",
+            "track_album": "BAM",
+            "track_duration": 223546,
+            "track_popularity": 1,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-09-21T01:55:29Z",
+            "uri": "spotify:track:4PyMh9PqpUbJpfAet33t1Y"
+        },
+        {
+            "track_id": "34uCXRWTPUvvF0ygr0vPzi",
+            "track_name": "Secrets",
+            "track_artist": "The Virginia Gentlemen",
+            "track_album": "Guys in Ties",
+            "track_duration": 200133,
             "track_popularity": 11,
             "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:52:44Z",
-            "uri": "spotify:track:2zdlY4ANqvPcYv4jR7gvhw"
-        },
-        {
-            "track_id": "7wuPjWX5cehKrCfkQcnBlx",
-            "track_name": "So Many People",
-            "track_artist": "Two Door Cinema Club",
-            "track_album": "False Alarm",
-            "track_duration": 281987,
-            "track_popularity": 15,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:52:48Z",
-            "uri": "spotify:track:7wuPjWX5cehKrCfkQcnBlx"
-        },
-        {
-            "track_id": "2CEaoCPX97Oy3iYQentxJg",
-            "track_name": "Satellite",
-            "track_artist": "Two Door Cinema Club",
-            "track_album": "False Alarm",
-            "track_duration": 259504,
-            "track_popularity": 18,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:53:04Z",
-            "uri": "spotify:track:2CEaoCPX97Oy3iYQentxJg"
-        },
-        {
-            "track_id": "31OaV0P9FVy0l0ITDoEoIa",
-            "track_name": "Cigarettes in the Theatre",
-            "track_artist": "Two Door Cinema Club",
-            "track_album": "Tourist History (Deluxe)",
-            "track_duration": 214293,
-            "track_popularity": 30,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:53:22Z",
-            "uri": "spotify:track:31OaV0P9FVy0l0ITDoEoIa"
-        },
-        {
-            "track_id": "3oHYMkLuIJtHFye1nTMQBo",
-            "track_name": "Do You Want It All?",
-            "track_artist": "Two Door Cinema Club",
-            "track_album": "Tourist History (Deluxe)",
-            "track_duration": 209386,
-            "track_popularity": 26,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:53:29Z",
-            "uri": "spotify:track:3oHYMkLuIJtHFye1nTMQBo"
-        },
-        {
-            "track_id": "0AKqPZfxzimqjTyRXjjwEI",
-            "track_name": "Eat That Up, It's Good for You",
-            "track_artist": "Two Door Cinema Club",
-            "track_album": "Tourist History (Deluxe)",
-            "track_duration": 225426,
-            "track_popularity": 28,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:53:33Z",
-            "uri": "spotify:track:0AKqPZfxzimqjTyRXjjwEI"
-        },
-        {
-            "track_id": "6SefmZLYMs9KU13ZPVToc8",
-            "track_name": "You're Not Stubborn",
-            "track_artist": "Two Door Cinema Club",
-            "track_album": "Tourist History (Deluxe)",
-            "track_duration": 190560,
-            "track_popularity": 23,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:53:35Z",
-            "uri": "spotify:track:6SefmZLYMs9KU13ZPVToc8"
-        },
-        {
-            "track_id": "37WNPHZnXsbsODgCsnBKti",
-            "track_name": "Girlfriend",
-            "track_artist": "Phoenix",
-            "track_album": "Wolfgang Amadeus Phoenix",
-            "track_duration": 204133,
-            "track_popularity": 45,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:54:10Z",
-            "uri": "spotify:track:37WNPHZnXsbsODgCsnBKti"
-        },
-        {
-            "track_id": "1UqhkbzB1kuFwt2iy4h29Q",
-            "track_name": "Cough Syrup",
-            "track_artist": "Young the Giant",
-            "track_album": "Young The Giant (Special Edition)",
-            "track_duration": 249520,
-            "track_popularity": 70,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:54:27Z",
-            "uri": "spotify:track:1UqhkbzB1kuFwt2iy4h29Q"
-        },
-        {
-            "track_id": "1fBl642IhJOE5U319Gy2Go",
-            "track_name": "Animal",
-            "track_artist": "Neon Trees",
-            "track_album": "Habits",
-            "track_duration": 212293,
-            "track_popularity": 70,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:54:31Z",
-            "uri": "spotify:track:1fBl642IhJOE5U319Gy2Go"
-        },
-        {
-            "track_id": "7zkDEBSxkcBVsStS4qBFpK",
-            "track_name": "Lisztomania",
-            "track_artist": "Phoenix",
-            "track_album": "Wolfgang Amadeus Phoenix",
-            "track_duration": 241546,
-            "track_popularity": 64,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:54:47Z",
-            "uri": "spotify:track:7zkDEBSxkcBVsStS4qBFpK"
-        },
-        {
-            "track_id": "5Fli1xRi01bvCjsZvKWro0",
-            "track_name": "Houdini",
-            "track_artist": "Foster The People",
-            "track_album": "Torches",
-            "track_duration": 202466,
-            "track_popularity": 66,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:54:51Z",
-            "uri": "spotify:track:5Fli1xRi01bvCjsZvKWro0"
-        },
-        {
-            "track_id": "3528IXKpbb7OMjdjWYlbfD",
-            "track_name": "Everybody Talks",
-            "track_artist": "Neon Trees",
-            "track_album": "Picture Show (Deluxe Edition)",
-            "track_duration": 177280,
-            "track_popularity": 51,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-04-09T18:54:55Z",
-            "uri": "spotify:track:3528IXKpbb7OMjdjWYlbfD"
+            "track_added_at": "2019-10-02T16:31:44Z",
+            "uri": "spotify:track:34uCXRWTPUvvF0ygr0vPzi"
         }
     ]
 }
