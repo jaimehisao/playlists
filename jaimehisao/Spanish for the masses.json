@@ -1,4 +1,115 @@
 {
     "id": "1teKe8iBDutZNIHWqCLrNH",
-    "tracks": []
+    "tracks": [
+        {
+            "track_id": "08oWrh7AJHR98971LXvRno",
+            "track_name": "Antro",
+            "track_artist": "Kabah",
+            "track_album": "Solo Para Fan\u00e1ticos",
+            "track_duration": 229680,
+            "track_popularity": 46,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:53:14Z",
+            "uri": "spotify:track:08oWrh7AJHR98971LXvRno"
+        },
+        {
+            "track_id": "55TzaicixkSM6XT23JvIZA",
+            "track_name": "Ya Lo Ve\u00eda Venir",
+            "track_artist": "Moderatto",
+            "track_album": "Queremos Rock",
+            "track_duration": 224224,
+            "track_popularity": 68,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:54:38Z",
+            "uri": "spotify:track:55TzaicixkSM6XT23JvIZA"
+        },
+        {
+            "track_id": "31T5cWFYgDSSo4uPQWc1Iy",
+            "track_name": "Al Pasar",
+            "track_artist": "Kabah",
+            "track_album": "Kabah",
+            "track_duration": 206826,
+            "track_popularity": 56,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:54:53Z",
+            "uri": "spotify:track:31T5cWFYgDSSo4uPQWc1Iy"
+        },
+        {
+            "track_id": "16J6wH4Evm97ta1hDQIYQC",
+            "track_name": "Ni T\u00fa Ni Nadie",
+            "track_artist": "M\u0153nia",
+            "track_album": "Stereo Hits",
+            "track_duration": 219533,
+            "track_popularity": 71,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:54:55Z",
+            "uri": "spotify:track:16J6wH4Evm97ta1hDQIYQC"
+        },
+        {
+            "track_id": "4p7XH4NhQ25iGYrrbg93gt",
+            "track_name": "Suave",
+            "track_artist": "Luis Miguel",
+            "track_album": "Aries",
+            "track_duration": 289600,
+            "track_popularity": 67,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:54:58Z",
+            "uri": "spotify:track:4p7XH4NhQ25iGYrrbg93gt"
+        },
+        {
+            "track_id": "0oXLSuno5adlHcPzlzs8l6",
+            "track_name": "Duele El Amor",
+            "track_artist": "Aleks Syntek",
+            "track_album": "Mundo Lite",
+            "track_duration": 275373,
+            "track_popularity": 68,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:55:01Z",
+            "uri": "spotify:track:0oXLSuno5adlHcPzlzs8l6"
+        },
+        {
+            "track_id": "2udRqNX3z2OjdqR01ebDwU",
+            "track_name": "No Dices Mas",
+            "track_artist": "M\u0153nia",
+            "track_album": "Adicion",
+            "track_duration": 259800,
+            "track_popularity": 62,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:55:03Z",
+            "uri": "spotify:track:2udRqNX3z2OjdqR01ebDwU"
+        },
+        {
+            "track_id": "5fSDXbY8o9pA3TKwAbfwML",
+            "track_name": "Mi primer millon",
+            "track_artist": "Bacilos",
+            "track_album": "Caraluna",
+            "track_duration": 237386,
+            "track_popularity": 69,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:55:05Z",
+            "uri": "spotify:track:5fSDXbY8o9pA3TKwAbfwML"
+        },
+        {
+            "track_id": "1h7QKBD2LrRcthLYcZGjOo",
+            "track_name": "Tu Mirada",
+            "track_artist": "Reik",
+            "track_album": "Peligro",
+            "track_duration": 200000,
+            "track_popularity": 55,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:55:06Z",
+            "uri": "spotify:track:1h7QKBD2LrRcthLYcZGjOo"
+        },
+        {
+            "track_id": "0dEPlb8waIqRtKpLb3l6So",
+            "track_name": "Fotograf\u00eda",
+            "track_artist": "Juanes",
+            "track_album": "Un D\u00eda Normal",
+            "track_duration": 238133,
+            "track_popularity": 68,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-05T06:56:24Z",
+            "uri": "spotify:track:0dEPlb8waIqRtKpLb3l6So"
+        }
+    ]
 }

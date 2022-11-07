@@ -1,4 +1,302 @@
 {
     "id": "5VVwHEDXHxVdhRAf3jkdVB",
-    "tracks": []
+    "tracks": [
+        {
+            "track_id": "4gLkg8FU59ahcQZHQFb5nl",
+            "track_name": "American Pie, Pt. 1",
+            "track_artist": "Don McLean",
+            "track_album": "Playlist: 70s Pop",
+            "track_duration": 246514,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:25:08Z",
+            "uri": "spotify:track:4gLkg8FU59ahcQZHQFb5nl"
+        },
+        {
+            "track_id": "0LhILIVhWTJz6eEsbEreZG",
+            "track_name": "Message In A Bottle",
+            "track_artist": "The Police",
+            "track_album": "The Very Best Of Sting And The Police",
+            "track_duration": 288000,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:26:09Z",
+            "uri": "spotify:track:0LhILIVhWTJz6eEsbEreZG"
+        },
+        {
+            "track_id": "1gKmnrz6SzJlGMNRKBLx1V",
+            "track_name": "One Way Or Another",
+            "track_artist": "Blondie",
+            "track_album": "Best Of Blondie",
+            "track_duration": 216400,
+            "track_popularity": 60,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:26:51Z",
+            "uri": "spotify:track:1gKmnrz6SzJlGMNRKBLx1V"
+        },
+        {
+            "track_id": "5FMXrphygZ4z3gVDHGWxgl",
+            "track_name": "Copacabana (At the Copa)",
+            "track_artist": "Barry Manilow",
+            "track_album": "Dance Vault Mixes - Copacabana (At The Copa)",
+            "track_duration": 236760,
+            "track_popularity": 56,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:27:22Z",
+            "uri": "spotify:track:5FMXrphygZ4z3gVDHGWxgl"
+        },
+        {
+            "track_id": "3CPeWqqaHR0hmyfsWhMJQs",
+            "track_name": "Don't Stop - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours (Super Deluxe)",
+            "track_duration": 193346,
+            "track_popularity": 59,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:27:39Z",
+            "uri": "spotify:track:3CPeWqqaHR0hmyfsWhMJQs"
+        },
+        {
+            "track_id": "3SPcBPzvbmWLl8NU5efx4W",
+            "track_name": "Telephone Line",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "A New World Record",
+            "track_duration": 280360,
+            "track_popularity": 61,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:32:10Z",
+            "uri": "spotify:track:3SPcBPzvbmWLl8NU5efx4W"
+        },
+        {
+            "track_id": "6JqxWJYcxbePmG7nQFVb79",
+            "track_name": "Livin' Thing",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "Playlist: The Very Best Of Electric Light Orchestra",
+            "track_duration": 212533,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:32:12Z",
+            "uri": "spotify:track:6JqxWJYcxbePmG7nQFVb79"
+        },
+        {
+            "track_id": "7MTX3vevnm41xuEoPxWT3j",
+            "track_name": "Year of the Cat",
+            "track_artist": "Al Stewart",
+            "track_album": "Year of the Cat",
+            "track_duration": 400066,
+            "track_popularity": 56,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:32:33Z",
+            "uri": "spotify:track:7MTX3vevnm41xuEoPxWT3j"
+        },
+        {
+            "track_id": "7s5YLzLZvWffXgsd6JCZ0H",
+            "track_name": "Show Me The Way",
+            "track_artist": "Peter Frampton",
+            "track_album": "100 Rock",
+            "track_duration": 243266,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:32:42Z",
+            "uri": "spotify:track:7s5YLzLZvWffXgsd6JCZ0H"
+        },
+        {
+            "track_id": "2kBAG8J7THPwTlXEm7GHG2",
+            "track_name": "It's A Heartache",
+            "track_artist": "Bonnie Tyler",
+            "track_album": "It's A Heartache",
+            "track_duration": 208613,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:33:11Z",
+            "uri": "spotify:track:2kBAG8J7THPwTlXEm7GHG2"
+        },
+        {
+            "track_id": "5MjwNUe4SSzAzsHoBjlPOm",
+            "track_name": "Who Loves You",
+            "track_artist": "Frankie Valli & The Four Seasons",
+            "track_album": "Who Loves You",
+            "track_duration": 255600,
+            "track_popularity": 54,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:33:23Z",
+            "uri": "spotify:track:5MjwNUe4SSzAzsHoBjlPOm"
+        },
+        {
+            "track_id": "714hERk9U1W8FMYkoC83CO",
+            "track_name": "You Sexy Thing",
+            "track_artist": "Hot Chocolate",
+            "track_album": "Hot Chocolate",
+            "track_duration": 244920,
+            "track_popularity": 71,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:33:39Z",
+            "uri": "spotify:track:714hERk9U1W8FMYkoC83CO"
+        },
+        {
+            "track_id": "1Qa0Y05al633fG8f9Peytc",
+            "track_name": "Maybe I\u2019m Amazed - 2011 Remaster",
+            "track_artist": "Paul McCartney",
+            "track_album": "McCartney (Archive Collection)",
+            "track_duration": 229826,
+            "track_popularity": 65,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:33:50Z",
+            "uri": "spotify:track:1Qa0Y05al633fG8f9Peytc"
+        },
+        {
+            "track_id": "5IKLwqBQG6KU6MP2zP80Nu",
+            "track_name": "We Are Family - 1995 Remaster",
+            "track_artist": "Sister Sledge",
+            "track_album": "We Are Family (1995 Remaster)",
+            "track_duration": 216733,
+            "track_popularity": 70,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:34:00Z",
+            "uri": "spotify:track:5IKLwqBQG6KU6MP2zP80Nu"
+        },
+        {
+            "track_id": "7gUMShP1l20tC0xf17Zplk",
+            "track_name": "Ride Like the Wind",
+            "track_artist": "Christopher Cross",
+            "track_album": "Christopher Cross",
+            "track_duration": 275506,
+            "track_popularity": 66,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:34:03Z",
+            "uri": "spotify:track:7gUMShP1l20tC0xf17Zplk"
+        },
+        {
+            "track_id": "31HOUWxaaqIedY0fULlGa5",
+            "track_name": "What A Fool Believes",
+            "track_artist": "The Doobie Brothers",
+            "track_album": "Rhino Hi-Five: The Doobie Brothers [Vol. 2]",
+            "track_duration": 222706,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:34:12Z",
+            "uri": "spotify:track:31HOUWxaaqIedY0fULlGa5"
+        },
+        {
+            "track_id": "0ke6ojnByX3wL68Z0MqGqW",
+            "track_name": "I Want You Back",
+            "track_artist": "The Jackson 5",
+            "track_album": "Motown: The Complete No. 1's",
+            "track_duration": 178906,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:34:16Z",
+            "uri": "spotify:track:0ke6ojnByX3wL68Z0MqGqW"
+        },
+        {
+            "track_id": "5HakR2lfKC0gmbjBmMmqwg",
+            "track_name": "Starman - 2002 Digital Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Best Of Bowie",
+            "track_duration": 254893,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:14Z",
+            "uri": "spotify:track:5HakR2lfKC0gmbjBmMmqwg"
+        },
+        {
+            "track_id": "3gaARvSWxkkbkjtTrmkVZH",
+            "track_name": "Take The Long Way Home - 2010 Remastered",
+            "track_artist": "Supertramp",
+            "track_album": "Breakfast In America (Deluxe Edition)",
+            "track_duration": 308853,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:21Z",
+            "uri": "spotify:track:3gaARvSWxkkbkjtTrmkVZH"
+        },
+        {
+            "track_id": "1JQ6Xm1JrvHfvAqhl5pwaA",
+            "track_name": "Easy",
+            "track_artist": "Commodores",
+            "track_album": "Commodores",
+            "track_duration": 256426,
+            "track_popularity": 74,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:25Z",
+            "uri": "spotify:track:1JQ6Xm1JrvHfvAqhl5pwaA"
+        },
+        {
+            "track_id": "4tNwSIfpoBXVcGGzrZ1tJU",
+            "track_name": "Love Really Hurts Without You",
+            "track_artist": "Billy Ocean",
+            "track_album": "The Collection",
+            "track_duration": 185253,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:30Z",
+            "uri": "spotify:track:4tNwSIfpoBXVcGGzrZ1tJU"
+        },
+        {
+            "track_id": "7gREIuHognJFspylIDJ94p",
+            "track_name": "Vienna",
+            "track_artist": "Billy Joel",
+            "track_album": "The Stranger",
+            "track_duration": 214240,
+            "track_popularity": 56,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:38Z",
+            "uri": "spotify:track:7gREIuHognJFspylIDJ94p"
+        },
+        {
+            "track_id": "6YrHQ3Uv9YXK2gJNVTlT8P",
+            "track_name": "Brass in Pocket",
+            "track_artist": "Pretenders",
+            "track_album": "Original Album Series",
+            "track_duration": 184093,
+            "track_popularity": 50,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:47Z",
+            "uri": "spotify:track:6YrHQ3Uv9YXK2gJNVTlT8P"
+        },
+        {
+            "track_id": "14vDlv40PzpXKBo6qmht6M",
+            "track_name": "Make Me Smile (Single Version) - 2002 Remaster",
+            "track_artist": "Chicago",
+            "track_album": "Chicago II",
+            "track_duration": 178933,
+            "track_popularity": 47,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:52Z",
+            "uri": "spotify:track:14vDlv40PzpXKBo6qmht6M"
+        },
+        {
+            "track_id": "4xh7W7tlNMIczFhupCPniY",
+            "track_name": "Go Your Own Way - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours (Super Deluxe)",
+            "track_duration": 223613,
+            "track_popularity": 67,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:37:55Z",
+            "uri": "spotify:track:4xh7W7tlNMIczFhupCPniY"
+        },
+        {
+            "track_id": "2xabqm0YNQCTcPteQjJ22K",
+            "track_name": "Only the Good Die Young",
+            "track_artist": "Billy Joel",
+            "track_album": "The Stranger",
+            "track_duration": 235560,
+            "track_popularity": 55,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:38:07Z",
+            "uri": "spotify:track:2xabqm0YNQCTcPteQjJ22K"
+        },
+        {
+            "track_id": "22vqiTM3mI3r4P1P2N4qUi",
+            "track_name": "I Think I Love You",
+            "track_artist": "The Partridge Family",
+            "track_album": "Partridge Family Album",
+            "track_duration": 175306,
+            "track_popularity": 54,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-30T20:38:21Z",
+            "uri": "spotify:track:22vqiTM3mI3r4P1P2N4qUi"
+        }
+    ]
 }

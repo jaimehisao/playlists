@@ -1,4 +1,82 @@
 {
     "id": "4Kef8ZeEv4hqyEgdLcJklw",
-    "tracks": []
+    "tracks": [
+        {
+            "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+            "track_name": "Beauty And A Beat",
+            "track_artist": "Justin Bieber",
+            "track_album": "Believe",
+            "track_duration": 227986,
+            "track_popularity": 72,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-19T06:29:47Z",
+            "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7"
+        },
+        {
+            "track_id": "5IvhE3L0nR3dxrrmRLHdpp",
+            "track_name": "Strong",
+            "track_artist": "Robbie Williams",
+            "track_album": "I've Been Expecting You",
+            "track_duration": 279293,
+            "track_popularity": 53,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-19T06:29:52Z",
+            "uri": "spotify:track:5IvhE3L0nR3dxrrmRLHdpp"
+        },
+        {
+            "track_id": "7rglLriMNBPAyuJOMGwi39",
+            "track_name": "Cold Heart - PNAU Remix",
+            "track_artist": "Elton John",
+            "track_album": "The Lockdown Sessions",
+            "track_duration": 202735,
+            "track_popularity": 71,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-19T06:30:00Z",
+            "uri": "spotify:track:7rglLriMNBPAyuJOMGwi39"
+        },
+        {
+            "track_id": "4pbyDPjFgfPqFTcIMC8xpK",
+            "track_name": "Rock DJ",
+            "track_artist": "Robbie Williams",
+            "track_album": "Sing When You're Winning",
+            "track_duration": 258560,
+            "track_popularity": 69,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-19T06:30:04Z",
+            "uri": "spotify:track:4pbyDPjFgfPqFTcIMC8xpK"
+        },
+        {
+            "track_id": "0x5CxIxVZUxwOQbwiVLS6J",
+            "track_name": "Charlie Brown",
+            "track_artist": "Coldplay",
+            "track_album": "Mylo Xyloto",
+            "track_duration": 285159,
+            "track_popularity": 29,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-19T06:30:07Z",
+            "uri": "spotify:track:0x5CxIxVZUxwOQbwiVLS6J"
+        },
+        {
+            "track_id": "4btFHqumCO31GksfuBLLv3",
+            "track_name": "Overpass Graffiti",
+            "track_artist": "Ed Sheeran",
+            "track_album": "=",
+            "track_duration": 236906,
+            "track_popularity": 77,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-19T06:36:05Z",
+            "uri": "spotify:track:4btFHqumCO31GksfuBLLv3"
+        },
+        {
+            "track_id": "46HNZY1i7O6jwTA7Slo2PI",
+            "track_name": "My Universe",
+            "track_artist": "Coldplay",
+            "track_album": "Music Of The Spheres",
+            "track_duration": 226198,
+            "track_popularity": 80,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-19T21:12:53Z",
+            "uri": "spotify:track:46HNZY1i7O6jwTA7Slo2PI"
+        }
+    ]
 }

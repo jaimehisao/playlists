@@ -1,4 +1,302 @@
 {
     "id": "63lgwyDj4WibMSntDhSUdi",
-    "tracks": []
+    "tracks": [
+        {
+            "track_id": "45oFq8ZKV9KDhzYb2Rh1y4",
+            "track_name": "Maniac - BOF Flashdance",
+            "track_artist": "Michael Sembello",
+            "track_album": "80's Pop Number 1's",
+            "track_duration": 247440,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:11:40Z",
+            "uri": "spotify:track:45oFq8ZKV9KDhzYb2Rh1y4"
+        },
+        {
+            "track_id": "5T8EDUDqKcs6OSOwEsfqG7",
+            "track_name": "Don't Stop Me Now - Remastered 2011",
+            "track_artist": "Queen",
+            "track_album": "Jazz (2011 Remaster)",
+            "track_duration": 209413,
+            "track_popularity": 81,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:11:46Z",
+            "uri": "spotify:track:5T8EDUDqKcs6OSOwEsfqG7"
+        },
+        {
+            "track_id": "2AW37v0bDyuOzGP3XnmFuA",
+            "track_name": "It's Gonna Be Me",
+            "track_artist": "*NSYNC",
+            "track_album": "No Strings Attached",
+            "track_duration": 192426,
+            "track_popularity": 67,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:12:43Z",
+            "uri": "spotify:track:2AW37v0bDyuOzGP3XnmFuA"
+        },
+        {
+            "track_id": "5b88tNINg4Q4nrRbrCXUmg",
+            "track_name": "Happy - From \"Despicable Me 2\"",
+            "track_artist": "Pharrell Williams",
+            "track_album": "G I R L",
+            "track_duration": 232720,
+            "track_popularity": 1,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:12:47Z",
+            "uri": "spotify:track:5b88tNINg4Q4nrRbrCXUmg"
+        },
+        {
+            "track_id": "519uJbE3zyKLlToVA65PrP",
+            "track_name": "Counting Stars",
+            "track_artist": "OneRepublic",
+            "track_album": "Native (Deluxe)",
+            "track_duration": 257266,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:12:51Z",
+            "uri": "spotify:track:519uJbE3zyKLlToVA65PrP"
+        },
+        {
+            "track_id": "5L95vS64rG1YMIFm1hLjyZ",
+            "track_name": "Rollercoaster",
+            "track_artist": "Bleachers",
+            "track_album": "Strange Desire",
+            "track_duration": 188866,
+            "track_popularity": 65,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:12:56Z",
+            "uri": "spotify:track:5L95vS64rG1YMIFm1hLjyZ"
+        },
+        {
+            "track_id": "77TT8Xvx637TpzV8kKGkUw",
+            "track_name": "Titanium (feat. Sia)",
+            "track_artist": "David Guetta",
+            "track_album": "Nothing but the Beat",
+            "track_duration": 245040,
+            "track_popularity": 59,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:13:00Z",
+            "uri": "spotify:track:77TT8Xvx637TpzV8kKGkUw"
+        },
+        {
+            "track_id": "08KyjbAXbJl0EdtTi7GH3x",
+            "track_name": "Run Run Run",
+            "track_artist": "Celeste Buckingham",
+            "track_album": "Where I Belong",
+            "track_duration": 222413,
+            "track_popularity": 45,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:13:13Z",
+            "uri": "spotify:track:08KyjbAXbJl0EdtTi7GH3x"
+        },
+        {
+            "track_id": "1vWGa8yC21ZELs9dAhiC2Q",
+            "track_name": "Starry Eyed",
+            "track_artist": "Ellie Goulding",
+            "track_album": "Lights",
+            "track_duration": 176613,
+            "track_popularity": 37,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:13:33Z",
+            "uri": "spotify:track:1vWGa8yC21ZELs9dAhiC2Q"
+        },
+        {
+            "track_id": "4w9LtJn74XQhsHD1zAHnzY",
+            "track_name": "Show You Off",
+            "track_artist": "Dan + Shay",
+            "track_album": "Where It All Began",
+            "track_duration": 183280,
+            "track_popularity": 47,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:15:35Z",
+            "uri": "spotify:track:4w9LtJn74XQhsHD1zAHnzY"
+        },
+        {
+            "track_id": "37sINbJZcFdHFAsVNsPq1i",
+            "track_name": "Superheroes",
+            "track_artist": "The Script",
+            "track_album": "No Sound Without Silence",
+            "track_duration": 245466,
+            "track_popularity": 74,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:15:43Z",
+            "uri": "spotify:track:37sINbJZcFdHFAsVNsPq1i"
+        },
+        {
+            "track_id": "0Dv4DdNy1xnhNcCd9YVoiH",
+            "track_name": "No Good in Goodbye",
+            "track_artist": "The Script",
+            "track_album": "No Sound Without Silence",
+            "track_duration": 307680,
+            "track_popularity": 54,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:15:50Z",
+            "uri": "spotify:track:0Dv4DdNy1xnhNcCd9YVoiH"
+        },
+        {
+            "track_id": "3zkWCteF82vJwv0hRLba76",
+            "track_name": "Stitches",
+            "track_artist": "Shawn Mendes",
+            "track_album": "Handwritten",
+            "track_duration": 206880,
+            "track_popularity": 79,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:15:53Z",
+            "uri": "spotify:track:3zkWCteF82vJwv0hRLba76"
+        },
+        {
+            "track_id": "7GUVaGNiu11HXN2aqF6Rir",
+            "track_name": "Lasso",
+            "track_artist": "Phoenix",
+            "track_album": "Wolfgang Amadeus Phoenix",
+            "track_duration": 167840,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:15:58Z",
+            "uri": "spotify:track:7GUVaGNiu11HXN2aqF6Rir"
+        },
+        {
+            "track_id": "3AA8xNhDC0MpqwkGX3EP5V",
+            "track_name": "If I Ever Feel Better",
+            "track_artist": "Phoenix",
+            "track_album": "United",
+            "track_duration": 266600,
+            "track_popularity": 63,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:16:04Z",
+            "uri": "spotify:track:3AA8xNhDC0MpqwkGX3EP5V"
+        },
+        {
+            "track_id": "1mvyqSb1tOvtVP1qfWEyPa",
+            "track_name": "1901",
+            "track_artist": "Phoenix",
+            "track_album": "Wolfgang Amadeus Phoenix",
+            "track_duration": 193120,
+            "track_popularity": 61,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:16:06Z",
+            "uri": "spotify:track:1mvyqSb1tOvtVP1qfWEyPa"
+        },
+        {
+            "track_id": "6AUYnTv5LXbWm2oHxN3QAw",
+            "track_name": "Sultans Of Swing",
+            "track_artist": "Dire Straits",
+            "track_album": "The Best of Dire Straits & Mark Knopfler - Private Investigations (Limited Edition)",
+            "track_duration": 348520,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:17:11Z",
+            "uri": "spotify:track:6AUYnTv5LXbWm2oHxN3QAw"
+        },
+        {
+            "track_id": "7ef4DlsgrMEH11cDZd32M6",
+            "track_name": "One Kiss (with Dua Lipa)",
+            "track_artist": "Calvin Harris",
+            "track_album": "One Kiss (with Dua Lipa)",
+            "track_duration": 214846,
+            "track_popularity": 88,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:18:22Z",
+            "uri": "spotify:track:7ef4DlsgrMEH11cDZd32M6"
+        },
+        {
+            "track_id": "1gihuPhrLraKYrJMAEONyc",
+            "track_name": "Feel So Close - Radio Edit",
+            "track_artist": "Calvin Harris",
+            "track_album": "18 Months",
+            "track_duration": 206413,
+            "track_popularity": 79,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:18:28Z",
+            "uri": "spotify:track:1gihuPhrLraKYrJMAEONyc"
+        },
+        {
+            "track_id": "24LS4lQShWyixJ0ZrJXfJ5",
+            "track_name": "Sweet Nothing (feat. Florence Welch)",
+            "track_artist": "Calvin Harris",
+            "track_album": "18 Months",
+            "track_duration": 212560,
+            "track_popularity": 71,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:18:30Z",
+            "uri": "spotify:track:24LS4lQShWyixJ0ZrJXfJ5"
+        },
+        {
+            "track_id": "1y4eb6hmAvsqlDOl3fx9kk",
+            "track_name": "Hot N Cold",
+            "track_artist": "Katy Perry",
+            "track_album": "One Of The Boys",
+            "track_duration": 220226,
+            "track_popularity": 69,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:18:39Z",
+            "uri": "spotify:track:1y4eb6hmAvsqlDOl3fx9kk"
+        },
+        {
+            "track_id": "7AqISujIaWcY3h5zrOqt5v",
+            "track_name": "Forget You",
+            "track_artist": "CeeLo Green",
+            "track_album": "The Lady Killer",
+            "track_duration": 222733,
+            "track_popularity": 63,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:18:41Z",
+            "uri": "spotify:track:7AqISujIaWcY3h5zrOqt5v"
+        },
+        {
+            "track_id": "6nsLzJfvp5OLd4mgqUJkpq",
+            "track_name": "Waiting For Love",
+            "track_artist": "Avicii",
+            "track_album": "Stories",
+            "track_duration": 230613,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:18:47Z",
+            "uri": "spotify:track:6nsLzJfvp5OLd4mgqUJkpq"
+        },
+        {
+            "track_id": "3CvRHWTTER3tsaLPAL2Yxv",
+            "track_name": "Love Me Again",
+            "track_artist": "John Newman",
+            "track_album": "Tribute (Deluxe)",
+            "track_duration": 239894,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:18:55Z",
+            "uri": "spotify:track:3CvRHWTTER3tsaLPAL2Yxv"
+        },
+        {
+            "track_id": "2IOvJJrN6RajoMOd9TyGra",
+            "track_name": "Road Trippin'",
+            "track_artist": "Dan + Shay",
+            "track_album": "Obsessed",
+            "track_duration": 212573,
+            "track_popularity": 46,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:31:17Z",
+            "uri": "spotify:track:2IOvJJrN6RajoMOd9TyGra"
+        },
+        {
+            "track_id": "5sjIhQzNljMVrDklI91ezp",
+            "track_name": "A Guy with a Girl",
+            "track_artist": "Blake Shelton",
+            "track_album": "If I'm Honest",
+            "track_duration": 189466,
+            "track_popularity": 59,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:31:19Z",
+            "uri": "spotify:track:5sjIhQzNljMVrDklI91ezp"
+        },
+        {
+            "track_id": "2Ms33RTRCT6gArrpcrPxmo",
+            "track_name": "Feel",
+            "track_artist": "Robbie Williams",
+            "track_album": "Escapology",
+            "track_duration": 263866,
+            "track_popularity": 73,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:37:48Z",
+            "uri": "spotify:track:2Ms33RTRCT6gArrpcrPxmo"
+        }
+    ]
 }

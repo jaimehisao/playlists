@@ -1,4 +1,115 @@
 {
     "id": "1VaBvyESpI6uboxtiMwaap",
-    "tracks": []
+    "tracks": [
+        {
+            "track_id": "69gQgkobVW8bWjoCjBYQUd",
+            "track_name": "I Got U",
+            "track_artist": "Duke Dumont",
+            "track_album": "EP1",
+            "track_duration": 285596,
+            "track_popularity": 59,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-04-11T23:14:29Z",
+            "uri": "spotify:track:69gQgkobVW8bWjoCjBYQUd"
+        },
+        {
+            "track_id": "5r3aYGutXgsxSqB6W3RrzJ",
+            "track_name": "Sunlight (feat. Years and Years) - Radio Edit",
+            "track_artist": "The Magician",
+            "track_album": "Sunlight (feat. Years & Years) [Radio Edit]",
+            "track_duration": 193481,
+            "track_popularity": 61,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-04-11T23:14:59Z",
+            "uri": "spotify:track:5r3aYGutXgsxSqB6W3RrzJ"
+        },
+        {
+            "track_id": "4FjT3dqUW2Uq0R3pMz5V7C",
+            "track_name": "Help Me Lose My Mind",
+            "track_artist": "Disclosure",
+            "track_album": "Settle (Deluxe)",
+            "track_duration": 244480,
+            "track_popularity": 59,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-04-11T23:15:07Z",
+            "uri": "spotify:track:4FjT3dqUW2Uq0R3pMz5V7C"
+        },
+        {
+            "track_id": "2Vwa9SOgZPLDr8bue6gLyB",
+            "track_name": "Foreign Language - Flight Facilities Extended Mix",
+            "track_artist": "Flight Facilities",
+            "track_album": "Foreign Language (Remixes)",
+            "track_duration": 359013,
+            "track_popularity": 42,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-04-11T23:16:19Z",
+            "uri": "spotify:track:2Vwa9SOgZPLDr8bue6gLyB"
+        },
+        {
+            "track_id": "4ESWJepzBtY2lR9oZDYVaP",
+            "track_name": "Crave You",
+            "track_artist": "Flight Facilities",
+            "track_album": "Down To Earth",
+            "track_duration": 234786,
+            "track_popularity": 60,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-04-11T23:16:31Z",
+            "uri": "spotify:track:4ESWJepzBtY2lR9oZDYVaP"
+        },
+        {
+            "track_id": "12QphPukpWDR9w1iimddfP",
+            "track_name": "Ani Kuni",
+            "track_artist": "Polo & Pan",
+            "track_album": "Ani Kuni",
+            "track_duration": 276386,
+            "track_popularity": 59,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-11T04:28:28Z",
+            "uri": "spotify:track:12QphPukpWDR9w1iimddfP"
+        },
+        {
+            "track_id": "3W2ZcrRsInZbjWylOi6KhZ",
+            "track_name": "You & Me - Flume Remix",
+            "track_artist": "Disclosure",
+            "track_album": "Settle (Special Edition)",
+            "track_duration": 282812,
+            "track_popularity": 72,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-09-18T19:56:31Z",
+            "uri": "spotify:track:3W2ZcrRsInZbjWylOi6KhZ"
+        },
+        {
+            "track_id": "5yfHDmZHjMw2gLjbghG90V",
+            "track_name": "Hot Hands",
+            "track_artist": "Darius",
+            "track_album": "Romance",
+            "track_duration": 253090,
+            "track_popularity": 62,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-09-18T19:56:35Z",
+            "uri": "spotify:track:5yfHDmZHjMw2gLjbghG90V"
+        },
+        {
+            "track_id": "4yLebnID5b6tqlrwUdaQ01",
+            "track_name": "Wild Child",
+            "track_artist": "WEKEED",
+            "track_album": "Wild Child",
+            "track_duration": 274015,
+            "track_popularity": 42,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-09-18T20:08:32Z",
+            "uri": "spotify:track:4yLebnID5b6tqlrwUdaQ01"
+        },
+        {
+            "track_id": "3hGc6zv9LgSxGrIlhFdfT6",
+            "track_name": "Espoir",
+            "track_artist": "Darius",
+            "track_album": "Romance",
+            "track_duration": 242242,
+            "track_popularity": 53,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-09-18T20:08:52Z",
+            "uri": "spotify:track:3hGc6zv9LgSxGrIlhFdfT6"
+        }
+    ]
 }

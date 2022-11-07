@@ -1,4 +1,181 @@
 {
     "id": "11rdIOTFkkdcaXFr8I6CSd",
-    "tracks": []
+    "tracks": [
+        {
+            "track_id": "7Gutanf1Mf2r8ASTlrR5ku",
+            "track_name": "Low Down Dirty",
+            "track_artist": "Lynyrd Skynyrd",
+            "track_album": "Last of a Dyin' Breed (Special Edition)",
+            "track_duration": 194493,
+            "track_popularity": 51,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:25:32Z",
+            "uri": "spotify:track:7Gutanf1Mf2r8ASTlrR5ku"
+        },
+        {
+            "track_id": "3ZOEytgrvLwQaqXreDs2Jx",
+            "track_name": "Can't Stop",
+            "track_artist": "Red Hot Chili Peppers",
+            "track_album": "By the Way (Deluxe Edition)",
+            "track_duration": 269000,
+            "track_popularity": 81,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:25:36Z",
+            "uri": "spotify:track:3ZOEytgrvLwQaqXreDs2Jx"
+        },
+        {
+            "track_id": "44wXefe8WB9Fd6xwtmAwbR",
+            "track_name": "Monkey Wrench",
+            "track_artist": "Foo Fighters",
+            "track_album": "The Colour And The Shape",
+            "track_duration": 231480,
+            "track_popularity": 69,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:25:39Z",
+            "uri": "spotify:track:44wXefe8WB9Fd6xwtmAwbR"
+        },
+        {
+            "track_id": "4pIKFpwflOdhYNIRmPTj3E",
+            "track_name": "Dance Macabre",
+            "track_artist": "Ghost",
+            "track_album": "Prequelle",
+            "track_duration": 219720,
+            "track_popularity": 63,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:25:41Z",
+            "uri": "spotify:track:4pIKFpwflOdhYNIRmPTj3E"
+        },
+        {
+            "track_id": "383QXk8nb2YrARMUwDdjQS",
+            "track_name": "Psycho",
+            "track_artist": "Muse",
+            "track_album": "Drones",
+            "track_duration": 316717,
+            "track_popularity": 67,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:25:44Z",
+            "uri": "spotify:track:383QXk8nb2YrARMUwDdjQS"
+        },
+        {
+            "track_id": "144fBZWn4968hszzQkXV9q",
+            "track_name": "Run Run Run",
+            "track_artist": "Black Paisley",
+            "track_album": "Late Bloomer",
+            "track_duration": 270293,
+            "track_popularity": 41,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:25:47Z",
+            "uri": "spotify:track:144fBZWn4968hszzQkXV9q"
+        },
+        {
+            "track_id": "6HNruFQlzQx4ulL4ppRLYI",
+            "track_name": "The Pretender",
+            "track_artist": "Foo Fighters",
+            "track_album": "Greatest Hits",
+            "track_duration": 267360,
+            "track_popularity": 54,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:25:53Z",
+            "uri": "spotify:track:6HNruFQlzQx4ulL4ppRLYI"
+        },
+        {
+            "track_id": "4GMQOjbWshf4Mzphkjg0DJ",
+            "track_name": "Tornado Of Souls",
+            "track_artist": "Megadeth",
+            "track_album": "Rust In Peace",
+            "track_duration": 322933,
+            "track_popularity": 11,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:26:38Z",
+            "uri": "spotify:track:4GMQOjbWshf4Mzphkjg0DJ"
+        },
+        {
+            "track_id": "7N3PAbqfTjSEU1edb2tY8j",
+            "track_name": "Jump - 2015 Remaster",
+            "track_artist": "Van Halen",
+            "track_album": "1984 (Remastered)",
+            "track_duration": 241599,
+            "track_popularity": 77,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:31:52Z",
+            "uri": "spotify:track:7N3PAbqfTjSEU1edb2tY8j"
+        },
+        {
+            "track_id": "1KSkVwl54ghzE1jSbsVNBr",
+            "track_name": "Just like Heaven - 2006 Remaster",
+            "track_artist": "The Cure",
+            "track_album": "Kiss Me Kiss Me Kiss Me",
+            "track_duration": 212013,
+            "track_popularity": 48,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:31:57Z",
+            "uri": "spotify:track:1KSkVwl54ghzE1jSbsVNBr"
+        },
+        {
+            "track_id": "0GONea6G2XdnHWjNZd6zt3",
+            "track_name": "Summer Of '69",
+            "track_artist": "Bryan Adams",
+            "track_album": "Reckless (30th Anniversary / Deluxe Edition)",
+            "track_duration": 216053,
+            "track_popularity": 81,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:32:06Z",
+            "uri": "spotify:track:0GONea6G2XdnHWjNZd6zt3"
+        },
+        {
+            "track_id": "2DyHhPyCZgZzNXn1IrtsTu",
+            "track_name": "Any Way You Want It",
+            "track_artist": "Journey",
+            "track_album": "The Essential Journey",
+            "track_duration": 201866,
+            "track_popularity": 60,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:32:09Z",
+            "uri": "spotify:track:2DyHhPyCZgZzNXn1IrtsTu"
+        },
+        {
+            "track_id": "3MrRksHupTVEQ7YbA0FsZK",
+            "track_name": "The Final Countdown",
+            "track_artist": "Europe",
+            "track_album": "The Final Countdown (Expanded Edition)",
+            "track_duration": 310333,
+            "track_popularity": 77,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:32:13Z",
+            "uri": "spotify:track:3MrRksHupTVEQ7YbA0FsZK"
+        },
+        {
+            "track_id": "43GS3mtezoIFiuIZCLLiDY",
+            "track_name": "Every Rose Has Its Thorn - Remastered 2003",
+            "track_artist": "Poison",
+            "track_album": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+            "track_duration": 260173,
+            "track_popularity": 70,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:32:32Z",
+            "uri": "spotify:track:43GS3mtezoIFiuIZCLLiDY"
+        },
+        {
+            "track_id": "2abfaXRfvXr9ErmI8oqz4g",
+            "track_name": "It's The End Of The World As We Know It (And I Feel Fine)",
+            "track_artist": "R.E.M.",
+            "track_album": "Document (The I.R.S. Years Vintage 1987)",
+            "track_duration": 246973,
+            "track_popularity": 51,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:32:34Z",
+            "uri": "spotify:track:2abfaXRfvXr9ErmI8oqz4g"
+        },
+        {
+            "track_id": "2m1hi0nfMR9vdGC8UcrnwU",
+            "track_name": "All The Small Things",
+            "track_artist": "blink-182",
+            "track_album": "Enema Of The State",
+            "track_duration": 167066,
+            "track_popularity": 81,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:32:38Z",
+            "uri": "spotify:track:2m1hi0nfMR9vdGC8UcrnwU"
+        }
+    ]
 }
