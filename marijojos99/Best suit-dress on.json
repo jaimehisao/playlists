@@ -2222,6 +2222,28 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2022-11-06T21:05:31Z",
             "uri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd"
+        },
+        {
+            "track_id": "1uZOev7V8UkfhCKuMDnAdy",
+            "track_name": "Burnin' for You",
+            "track_artist": "Blue \u00d6yster Cult",
+            "track_album": "The Essential Blue \u00d6yster Cult",
+            "track_duration": 271066,
+            "track_popularity": 0,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2022-11-07T15:59:34Z",
+            "uri": "spotify:track:1uZOev7V8UkfhCKuMDnAdy"
+        },
+        {
+            "track_id": "5MjwNUe4SSzAzsHoBjlPOm",
+            "track_name": "Who Loves You",
+            "track_artist": "Frankie Valli & The Four Seasons",
+            "track_album": "Who Loves You",
+            "track_duration": 255600,
+            "track_popularity": 54,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2022-11-07T16:38:21Z",
+            "uri": "spotify:track:5MjwNUe4SSzAzsHoBjlPOm"
         }
     ]
 }
