@@ -689,7 +689,7 @@
             "track_artist": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
             "track_album": "No Te Voy A Perdonar, Volumen 4",
             "track_duration": 232756,
-            "track_popularity": 2,
+            "track_popularity": 1,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-11-22T06:38:24Z",
             "uri": "spotify:track:4LDJhbXkL9ckWAOBlBQJKG"
@@ -755,7 +755,7 @@
             "track_artist": "Los Socios Del Ritmo",
             "track_album": "Hoy",
             "track_duration": 218453,
-            "track_popularity": 61,
+            "track_popularity": 60,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-12-03T03:48:53Z",
             "uri": "spotify:track:7JIVOkgktlJWxzzq5ANpN6"
@@ -766,7 +766,7 @@
             "track_artist": "Bobby Pulido",
             "track_album": "Vive",
             "track_duration": 180560,
-            "track_popularity": 56,
+            "track_popularity": 57,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-12-03T06:53:38Z",
             "uri": "spotify:track:1tg7ZzCAkjDNENdWL7WuIr"
@@ -821,7 +821,7 @@
             "track_artist": "Margarita la diosa de la cumbia",
             "track_album": "30 Aniversario",
             "track_duration": 259466,
-            "track_popularity": 56,
+            "track_popularity": 57,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-12-14T03:12:00Z",
             "uri": "spotify:track:6azC9WCgqehMj2tHoaa10b"
@@ -920,7 +920,7 @@
             "track_artist": "Intocable",
             "track_album": "Intocable",
             "track_duration": 204066,
-            "track_popularity": 58,
+            "track_popularity": 59,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-03-30T19:56:37Z",
             "uri": "spotify:track:2awJPHamaNQY8a1davj5k4"
@@ -1100,17 +1100,6 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2021-10-10T16:41:39Z",
             "uri": "spotify:track:0Ft9dBN6vm9bhvGaUPHyYO"
-        },
-        {
-            "track_id": "0rm05uUozKEMkO14sxSSmJ",
-            "track_name": "Celoso",
-            "track_artist": "Grupo Toppaz De Reynaldo Flores",
-            "track_album": "Remezclados Y Remasterizados",
-            "track_duration": 167706,
-            "track_popularity": 49,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2022-02-07T02:24:58Z",
-            "uri": "spotify:track:0rm05uUozKEMkO14sxSSmJ"
         }
     ]
 }

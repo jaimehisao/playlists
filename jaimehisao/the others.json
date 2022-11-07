@@ -337,7 +337,7 @@
             "track_artist": "Black Eyed Peas",
             "track_album": "Elephunk",
             "track_duration": 272533,
-            "track_popularity": 8,
+            "track_popularity": 11,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-03-20T22:37:24Z",
             "uri": "spotify:track:1FreAz1lmnDi5aKLB6GdFM"
@@ -480,7 +480,7 @@
             "track_artist": "P!nk",
             "track_album": "Funhouse (Deluxe Version)",
             "track_duration": 215160,
-            "track_popularity": 46,
+            "track_popularity": 45,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-03-20T22:41:28Z",
             "uri": "spotify:track:4LyvsPgJtjUQQtw0FJ6Jys"
@@ -865,7 +865,7 @@
             "track_artist": "Sigala",
             "track_album": "Brighter Days",
             "track_duration": 202213,
-            "track_popularity": 64,
+            "track_popularity": 63,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-03-20T23:12:08Z",
             "uri": "spotify:track:1qp0ptMXNg9hqLH8sk7cc2"
@@ -1100,72 +1100,6 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-03-20T23:18:22Z",
             "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh"
-        },
-        {
-            "track_id": "02jcEwywffn3Tsb48fXmlW",
-            "track_name": "Get the Party Started",
-            "track_artist": "P!nk",
-            "track_album": "M!ssundaztood (Expanded Edition)",
-            "track_duration": 192533,
-            "track_popularity": 69,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-03-20T23:18:35Z",
-            "uri": "spotify:track:02jcEwywffn3Tsb48fXmlW"
-        },
-        {
-            "track_id": "60nZcImufyMA1MKQY3dcCH",
-            "track_name": "Happy - From \"Despicable Me 2\"",
-            "track_artist": "Pharrell Williams",
-            "track_album": "G I R L",
-            "track_duration": 232720,
-            "track_popularity": 80,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-03-20T23:18:54Z",
-            "uri": "spotify:track:60nZcImufyMA1MKQY3dcCH"
-        },
-        {
-            "track_id": "7ks6AZmFcm3Y6PGGxGSmlB",
-            "track_name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
-            "track_artist": "David Guetta",
-            "track_album": "Nothing but the Beat (Ultimate Edition)",
-            "track_duration": 194840,
-            "track_popularity": 73,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-03-20T23:19:03Z",
-            "uri": "spotify:track:7ks6AZmFcm3Y6PGGxGSmlB"
-        },
-        {
-            "track_id": "5OhxHYkob2Y1S0h502LC7e",
-            "track_name": "Mr Saxobeat - Radio Edit",
-            "track_artist": "Alexandra Stan",
-            "track_album": "Saxobeat's (feat. Carlprit, Jason Ray)",
-            "track_duration": 194386,
-            "track_popularity": 50,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-03-20T23:19:11Z",
-            "uri": "spotify:track:5OhxHYkob2Y1S0h502LC7e"
-        },
-        {
-            "track_id": "2cZrrQMjB63c0iIugYH9zS",
-            "track_name": "Rain Over Me (feat. Marc Anthony)",
-            "track_artist": "Pitbull",
-            "track_album": "Planet Pit (Deluxe Version)",
-            "track_duration": 231573,
-            "track_popularity": 69,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-03-20T23:19:15Z",
-            "uri": "spotify:track:2cZrrQMjB63c0iIugYH9zS"
-        },
-        {
-            "track_id": "60ZGteAEtPCnGE6zevgUcd",
-            "track_name": "Mountain Sound",
-            "track_artist": "Of Monsters and Men",
-            "track_album": "My Head Is An Animal",
-            "track_duration": 211453,
-            "track_popularity": 62,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2020-03-20T23:22:57Z",
-            "uri": "spotify:track:60ZGteAEtPCnGE6zevgUcd"
         }
     ]
 }

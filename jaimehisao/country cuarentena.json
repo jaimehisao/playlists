@@ -634,7 +634,7 @@
             "track_artist": "John Michael Montgomery",
             "track_album": "Kickin' It Up",
             "track_duration": 172200,
-            "track_popularity": 60,
+            "track_popularity": 59,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-12-01T07:35:33Z",
             "uri": "spotify:track:7pY4ul6PNtKKHCCQgYVtT7"
@@ -678,7 +678,7 @@
             "track_artist": "Alan Jackson",
             "track_album": "Under The Influence",
             "track_duration": 171266,
-            "track_popularity": 39,
+            "track_popularity": 40,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-12-01T07:37:10Z",
             "uri": "spotify:track:0QyVjtQSFi8rWz62QraZhz"
@@ -711,7 +711,7 @@
             "track_artist": "Little Texas",
             "track_album": "Rhino Hi-Five: Little Texas",
             "track_duration": 208733,
-            "track_popularity": 35,
+            "track_popularity": 34,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-12-01T07:39:45Z",
             "uri": "spotify:track:4qkshp4FWe0msInDWTbBlR"
@@ -876,7 +876,7 @@
             "track_artist": "Randy Travis",
             "track_album": "Fool's Love Affair",
             "track_duration": 176133,
-            "track_popularity": 5,
+            "track_popularity": 4,
             "track_added_by": "jaimehisao",
             "track_added_at": "2021-01-18T07:24:51Z",
             "uri": "spotify:track:6dko4bgiL9XsKjUiqYN5V4"
@@ -1100,28 +1100,6 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-04-24T18:28:44Z",
             "uri": "spotify:track:5K1HsMKNWMrxADlqAUjpIp"
-        },
-        {
-            "track_id": "7DhvNzyMM8jJWcfykG3psB",
-            "track_name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-            "track_artist": "Dustin Lynch",
-            "track_album": "Thinking 'Bout You (feat. MacKenzie Porter)",
-            "track_duration": 170560,
-            "track_popularity": 3,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2022-04-22T21:09:17Z",
-            "uri": "spotify:track:7DhvNzyMM8jJWcfykG3psB"
-        },
-        {
-            "track_id": "446Jufq5oOCwOSXbkqq5yD",
-            "track_name": "Bring It On Over",
-            "track_artist": "Billy Currington",
-            "track_album": "Bring It On Over",
-            "track_duration": 182133,
-            "track_popularity": 50,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2022-04-22T21:16:25Z",
-            "uri": "spotify:track:446Jufq5oOCwOSXbkqq5yD"
         }
     ]
 }
