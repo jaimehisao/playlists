@@ -1,0 +1,126 @@
+{
+    "id": "3IwZkucgoCTCVxc5JrkuBW",
+    "tracks": [
+        {
+            "track_id": "1bWEngw5tAF7vWByrf5Oy5",
+            "track_name": "bloody valentine",
+            "track_artist": "Machine Gun Kelly",
+            "track_album": "bloody valentine",
+            "track_duration": 205015,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T21:54:48Z",
+            "uri": "spotify:track:1bWEngw5tAF7vWByrf5Oy5"
+        },
+        {
+            "track_id": "4iG2gAwKXsOcijVaVXzRPW",
+            "track_name": "Time to Pretend",
+            "track_artist": "MGMT",
+            "track_album": "Oracular Spectacular",
+            "track_duration": 261000,
+            "track_popularity": 71,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:01:46Z",
+            "uri": "spotify:track:4iG2gAwKXsOcijVaVXzRPW"
+        },
+        {
+            "track_id": "3YBZIN3rekqsKxbJc9FZko",
+            "track_name": "Paradise City",
+            "track_artist": "Guns N' Roses",
+            "track_album": "Appetite For Destruction",
+            "track_duration": 405640,
+            "track_popularity": 78,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:01:54Z",
+            "uri": "spotify:track:3YBZIN3rekqsKxbJc9FZko"
+        },
+        {
+            "track_id": "7e89621JPkKaeDSTQ3avtg",
+            "track_name": "Sweet Home Alabama",
+            "track_artist": "Lynyrd Skynyrd",
+            "track_album": "Second Helping (Expanded Edition)",
+            "track_duration": 283800,
+            "track_popularity": 80,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:01:57Z",
+            "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg"
+        },
+        {
+            "track_id": "7oK9VyNzrYvRFo7nQEYkWN",
+            "track_name": "Mr. Brightside",
+            "track_artist": "The Killers",
+            "track_album": "Hot Fuss",
+            "track_duration": 222586,
+            "track_popularity": 28,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:01:59Z",
+            "uri": "spotify:track:7oK9VyNzrYvRFo7nQEYkWN"
+        },
+        {
+            "track_id": "45Ia1U4KtIjAPPU7Wv1Sea",
+            "track_name": "Are You Gonna Go My Way",
+            "track_artist": "Lenny Kravitz",
+            "track_album": "Are You Gonna Go My Way",
+            "track_duration": 211933,
+            "track_popularity": 74,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:02:02Z",
+            "uri": "spotify:track:45Ia1U4KtIjAPPU7Wv1Sea"
+        },
+        {
+            "track_id": "5mhUPDWQH3s544WCsa0r9w",
+            "track_name": "Human",
+            "track_artist": "The Killers",
+            "track_album": "Day & Age",
+            "track_duration": 245360,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:02:09Z",
+            "uri": "spotify:track:5mhUPDWQH3s544WCsa0r9w"
+        },
+        {
+            "track_id": "39shmbIHICJ2Wxnk1fPSdz",
+            "track_name": "Should I Stay or Should I Go - Remastered",
+            "track_artist": "The Clash",
+            "track_album": "Combat Rock (Remastered)",
+            "track_duration": 188986,
+            "track_popularity": 79,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:02:15Z",
+            "uri": "spotify:track:39shmbIHICJ2Wxnk1fPSdz"
+        },
+        {
+            "track_id": "7N3PAbqfTjSEU1edb2tY8j",
+            "track_name": "Jump - 2015 Remaster",
+            "track_artist": "Van Halen",
+            "track_album": "1984 (Remastered)",
+            "track_duration": 241599,
+            "track_popularity": 77,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T22:02:18Z",
+            "uri": "spotify:track:7N3PAbqfTjSEU1edb2tY8j"
+        },
+        {
+            "track_id": "2x8evxqUlF0eRabbW2JBJd",
+            "track_name": "Fluorescent Adolescent",
+            "track_artist": "Arctic Monkeys",
+            "track_album": "Favourite Worst Nightmare",
+            "track_duration": 183893,
+            "track_popularity": 78,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T23:06:01Z",
+            "uri": "spotify:track:2x8evxqUlF0eRabbW2JBJd"
+        },
+        {
+            "track_id": "7H0jlAh4VoUtdeBUurXae9",
+            "track_name": "Don't Look Back In Anger",
+            "track_artist": "Oasis",
+            "track_album": "(What's The Story) Morning Glory",
+            "track_duration": 287826,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-08-08T23:06:05Z",
+            "uri": "spotify:track:7H0jlAh4VoUtdeBUurXae9"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": "08xir0BQxLfjCk6bVEloNu",
+    "tracks": [
+        {
+            "track_id": "2HiEJnTMam9v7sybIZC5SL",
+            "track_name": "B\u00e9same Morenita",
+            "track_artist": "Caloncho",
+            "track_album": "B\u00e9same Morenita",
+            "track_duration": 165520,
+            "track_popularity": 56,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T05:46:32Z",
+            "uri": "spotify:track:2HiEJnTMam9v7sybIZC5SL"
+        },
+        {
+            "track_id": "70um118ETgSKTghQNF9iEC",
+            "track_name": "Deja",
+            "track_artist": "Bomba Est\u00e9reo",
+            "track_album": "Agua",
+            "track_duration": 230893,
+            "track_popularity": 42,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T05:48:14Z",
+            "uri": "spotify:track:70um118ETgSKTghQNF9iEC"
+        },
+        {
+            "track_id": "0Y1WKjtTEJakcSy1QbKspx",
+            "track_name": "T\u00fa",
+            "track_artist": "Okills",
+            "track_album": "Dimensi\u00f3n Caribe",
+            "track_duration": 236026,
+            "track_popularity": 48,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T05:55:27Z",
+            "uri": "spotify:track:0Y1WKjtTEJakcSy1QbKspx"
+        },
+        {
+            "track_id": "7lruysdjllso0aWGM7qDGj",
+            "track_name": "S\u00f3lo Tu\u0301",
+            "track_artist": "Kinky",
+            "track_album": "S\u00f3lo T\u00fa",
+            "track_duration": 196923,
+            "track_popularity": 36,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T06:16:34Z",
+            "uri": "spotify:track:7lruysdjllso0aWGM7qDGj"
+        },
+        {
+            "track_id": "5nvYlqNKRFImnSNYHL67IS",
+            "track_name": "Entre las Dos",
+            "track_artist": "Miranda!",
+            "track_album": "Entre las Dos",
+            "track_duration": 205436,
+            "track_popularity": 30,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T07:25:47Z",
+            "uri": "spotify:track:5nvYlqNKRFImnSNYHL67IS"
+        },
+        {
+            "track_id": "6v4E6pYWuQr2LKUoJx99S0",
+            "track_name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos) - TSSQ - Michel Cleis RMX",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos) [TSSQ - Michel Cleis RMX]",
+            "track_duration": 211880,
+            "track_popularity": 24,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T07:28:05Z",
+            "uri": "spotify:track:6v4E6pYWuQr2LKUoJx99S0"
+        },
+        {
+            "track_id": "2RGk67GArzQcQa3AWSulJb",
+            "track_name": "Departamento",
+            "track_artist": "Bandalos Chinos",
+            "track_album": "Departamento",
+            "track_duration": 234466,
+            "track_popularity": 0,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T07:29:55Z",
+            "uri": "spotify:track:2RGk67GArzQcQa3AWSulJb"
+        },
+        {
+            "track_id": "6tf0bXVfaNy60dE3Yn4Q8o",
+            "track_name": "Esp\u00e9rame Feat. Elastic Bond",
+            "track_artist": "Los Amigos Invisibles",
+            "track_album": "El Paradise",
+            "track_duration": 255233,
+            "track_popularity": 7,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T07:32:43Z",
+            "uri": "spotify:track:6tf0bXVfaNy60dE3Yn4Q8o"
+        }
+    ]
+}

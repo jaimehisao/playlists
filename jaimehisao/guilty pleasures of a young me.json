@@ -1,0 +1,247 @@
+{
+    "id": "5IgUsTmViYVNUAt2fbA0AD",
+    "tracks": [
+        {
+            "track_id": "4B0JvthVoAAuygILe3n4Bs",
+            "track_name": "What Do You Mean?",
+            "track_artist": "Justin Bieber",
+            "track_album": "Purpose (Deluxe)",
+            "track_duration": 205680,
+            "track_popularity": 77,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T22:29:43Z",
+            "uri": "spotify:track:4B0JvthVoAAuygILe3n4Bs"
+        },
+        {
+            "track_id": "4vaR4v3KN1NmUMdYxED8Gm",
+            "track_name": "One Time",
+            "track_artist": "Justin Bieber",
+            "track_album": "My Worlds (International Version)",
+            "track_duration": 215866,
+            "track_popularity": 47,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T22:35:08Z",
+            "uri": "spotify:track:4vaR4v3KN1NmUMdYxED8Gm"
+        },
+        {
+            "track_id": "3H040I1iKknjbO2pU6v0zD",
+            "track_name": "Down To Earth",
+            "track_artist": "Justin Bieber",
+            "track_album": "My Worlds (International Version)",
+            "track_duration": 245760,
+            "track_popularity": 41,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T22:35:35Z",
+            "uri": "spotify:track:3H040I1iKknjbO2pU6v0zD"
+        },
+        {
+            "track_id": "6epn3r7S14KUqlReYr77hA",
+            "track_name": "Baby",
+            "track_artist": "Justin Bieber",
+            "track_album": "My World 2.0",
+            "track_duration": 214240,
+            "track_popularity": 81,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T22:36:05Z",
+            "uri": "spotify:track:6epn3r7S14KUqlReYr77hA"
+        },
+        {
+            "track_id": "4pYlyrBINcwbsBAemZ44CF",
+            "track_name": "One Less Lonely Girl",
+            "track_artist": "Justin Bieber",
+            "track_album": "My Worlds (International Version)",
+            "track_duration": 229106,
+            "track_popularity": 45,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:00:20Z",
+            "uri": "spotify:track:4pYlyrBINcwbsBAemZ44CF"
+        },
+        {
+            "track_id": "6LtrSXoBzbTF3SxcJb1Fnm",
+            "track_name": "Somebody To Love",
+            "track_artist": "Justin Bieber",
+            "track_album": "My Worlds (International Version)",
+            "track_duration": 220920,
+            "track_popularity": 46,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:00:45Z",
+            "uri": "spotify:track:6LtrSXoBzbTF3SxcJb1Fnm"
+        },
+        {
+            "track_id": "0KDJBhhe2OYnnoJtbtXy1f",
+            "track_name": "U Smile",
+            "track_artist": "Justin Bieber",
+            "track_album": "My Worlds (International Version)",
+            "track_duration": 196906,
+            "track_popularity": 42,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:00:49Z",
+            "uri": "spotify:track:0KDJBhhe2OYnnoJtbtXy1f"
+        },
+        {
+            "track_id": "5E9CeQTevMVg2nVOomIgiE",
+            "track_name": "Boyfriend",
+            "track_artist": "Big Time Rush",
+            "track_album": "BTR",
+            "track_duration": 201040,
+            "track_popularity": 60,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:01:10Z",
+            "uri": "spotify:track:5E9CeQTevMVg2nVOomIgiE"
+        },
+        {
+            "track_id": "0JDwWYxYrQ2aWmz4ktas5W",
+            "track_name": "Worldwide",
+            "track_artist": "Big Time Rush",
+            "track_album": "BTR",
+            "track_duration": 224333,
+            "track_popularity": 53,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:01:13Z",
+            "uri": "spotify:track:0JDwWYxYrQ2aWmz4ktas5W"
+        },
+        {
+            "track_id": "2oq45s3fJdRUsY2u9eMAw8",
+            "track_name": "Big Time Rush",
+            "track_artist": "Big Time Rush",
+            "track_album": "BTR",
+            "track_duration": 197560,
+            "track_popularity": 52,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:01:23Z",
+            "uri": "spotify:track:2oq45s3fJdRUsY2u9eMAw8"
+        },
+        {
+            "track_id": "2dq3CylL7hxKaPpAaEff3J",
+            "track_name": "Halfway There",
+            "track_artist": "Big Time Rush",
+            "track_album": "BTR",
+            "track_duration": 212813,
+            "track_popularity": 43,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:01:28Z",
+            "uri": "spotify:track:2dq3CylL7hxKaPpAaEff3J"
+        },
+        {
+            "track_id": "4zP7ADsgJgHGY6VzxbNp1z",
+            "track_name": "Year 3000",
+            "track_artist": "Jonas Brothers",
+            "track_album": "Music From Chasing Happiness",
+            "track_duration": 201960,
+            "track_popularity": 64,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:01:54Z",
+            "uri": "spotify:track:4zP7ADsgJgHGY6VzxbNp1z"
+        },
+        {
+            "track_id": "6sDP4912wjwB7BJhbSnjS1",
+            "track_name": "S.O.S.",
+            "track_artist": "Jonas Brothers",
+            "track_album": "Jonas Brothers",
+            "track_duration": 153346,
+            "track_popularity": 60,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:02:03Z",
+            "uri": "spotify:track:6sDP4912wjwB7BJhbSnjS1"
+        },
+        {
+            "track_id": "4qEoqyPbLYnLOii6mKlIjI",
+            "track_name": "Determinate - From \"Lemonade Mouth\"",
+            "track_artist": "Adam Hicks",
+            "track_album": "Lemonade Mouth",
+            "track_duration": 198106,
+            "track_popularity": 65,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T03:02:06Z",
+            "uri": "spotify:track:4qEoqyPbLYnLOii6mKlIjI"
+        },
+        {
+            "track_id": "2VEsmoek0sol9MnJFyoG9e",
+            "track_name": "Burnin' Up",
+            "track_artist": "Jonas Brothers",
+            "track_album": "A Little Bit Longer",
+            "track_duration": 175093,
+            "track_popularity": 68,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-20T06:08:18Z",
+            "uri": "spotify:track:2VEsmoek0sol9MnJFyoG9e"
+        },
+        {
+            "track_id": "03teNQu8rWlFnNzF1ULXIq",
+            "track_name": "Starstruck",
+            "track_artist": "Christopher Wilde",
+            "track_album": "StarStruck",
+            "track_duration": 175026,
+            "track_popularity": 54,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-20T06:08:21Z",
+            "uri": "spotify:track:03teNQu8rWlFnNzF1ULXIq"
+        },
+        {
+            "track_id": "3q3pZHncNkvIWJebMeuQqQ",
+            "track_name": "Hero",
+            "track_artist": "Christopher Wilde",
+            "track_album": "StarStruck",
+            "track_duration": 196893,
+            "track_popularity": 61,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-21T05:45:45Z",
+            "uri": "spotify:track:3q3pZHncNkvIWJebMeuQqQ"
+        },
+        {
+            "track_id": "07HPV6hzecJmMJwsIX8YVU",
+            "track_name": "He Could Be the One",
+            "track_artist": "Hannah Montana",
+            "track_album": "Hannah Montana 3",
+            "track_duration": 180800,
+            "track_popularity": 67,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-02T05:39:02Z",
+            "uri": "spotify:track:07HPV6hzecJmMJwsIX8YVU"
+        },
+        {
+            "track_id": "5GYbkDveRD2I8M5ZJ14hWn",
+            "track_name": "Never Say Never",
+            "track_artist": "Justin Bieber",
+            "track_album": "Never Say Never - The Remixes",
+            "track_duration": 227853,
+            "track_popularity": 71,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-12-15T16:11:15Z",
+            "uri": "spotify:track:5GYbkDveRD2I8M5ZJ14hWn"
+        },
+        {
+            "track_id": "7c223RltkvhN8wrxIqspM5",
+            "track_name": "Nobody's Perfect",
+            "track_artist": "Hannah Montana",
+            "track_album": "Hannah Montana 2 (Original Soundtrack)",
+            "track_duration": 200826,
+            "track_popularity": 59,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-12-15T16:11:19Z",
+            "uri": "spotify:track:7c223RltkvhN8wrxIqspM5"
+        },
+        {
+            "track_id": "74tQaH4CxM5Rs9BzerEbHr",
+            "track_name": "Introducing Me - From \"Camp Rock 2: The Final Jam\"",
+            "track_artist": "Nick Jonas",
+            "track_album": "Camp Rock 2: The Final Jam",
+            "track_duration": 186893,
+            "track_popularity": 64,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-12-15T16:11:20Z",
+            "uri": "spotify:track:74tQaH4CxM5Rs9BzerEbHr"
+        },
+        {
+            "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+            "track_name": "Beauty And A Beat",
+            "track_artist": "Justin Bieber",
+            "track_album": "Believe",
+            "track_duration": 227986,
+            "track_popularity": 72,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-12-15T16:11:26Z",
+            "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7"
+        }
+    ]
+}
