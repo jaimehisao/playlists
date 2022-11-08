@@ -95,7 +95,7 @@
             "track_artist": "AC/DC",
             "track_album": "Back In Black",
             "track_duration": 255493,
-            "track_popularity": 84,
+            "track_popularity": 83,
             "track_added_by": "1293929854",
             "track_added_at": "2016-07-12T18:57:05Z",
             "uri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj"
@@ -392,7 +392,7 @@
             "track_artist": "KISS",
             "track_album": "Smashes Thrashes & Hits",
             "track_duration": 228560,
-            "track_popularity": 69,
+            "track_popularity": 68,
             "track_added_by": "1293929854",
             "track_added_at": "2016-08-14T21:09:02Z",
             "uri": "spotify:track:3uz0O62HqYoyRiWZjS61KK"
@@ -887,7 +887,7 @@
             "track_artist": "The White Stripes",
             "track_album": "Elephant",
             "track_duration": 231800,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1293929854",
             "track_added_at": "2016-11-17T22:50:42Z",
             "uri": "spotify:track:3ctoHckjyd13eBi2IDw2Ip"
@@ -920,7 +920,7 @@
             "track_artist": "Kid Rock",
             "track_album": "Rock n Roll Jesus",
             "track_duration": 296960,
-            "track_popularity": 55,
+            "track_popularity": 54,
             "track_added_by": "1293929854",
             "track_added_at": "2016-11-28T22:28:29Z",
             "uri": "spotify:track:368S2jjTfDk9Hk9x9YDzwj"
@@ -1096,7 +1096,7 @@
             "track_artist": "Sum 41",
             "track_album": "All Killer, No Filler",
             "track_duration": 207093,
-            "track_popularity": 75,
+            "track_popularity": 74,
             "track_added_by": "1293929854",
             "track_added_at": "2017-02-01T23:41:51Z",
             "uri": "spotify:track:1HNE2PX70ztbEl6MLxrpNL"
@@ -1459,7 +1459,7 @@
             "track_artist": "The Black Jets",
             "track_album": "ReCovered Hits, Vol. 2",
             "track_duration": 177086,
-            "track_popularity": 64,
+            "track_popularity": 63,
             "track_added_by": "1293929854",
             "track_added_at": "2021-12-08T23:44:43Z",
             "uri": "spotify:track:06qEGQMavekDfu9fVsFAMz"
