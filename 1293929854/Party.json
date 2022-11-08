@@ -29,7 +29,7 @@
             "track_artist": "Reik",
             "track_album": "Me Niego (feat. Ozuna & Wisin)",
             "track_duration": 221653,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "1293929854",
             "track_added_at": "2018-06-04T19:25:48Z",
             "uri": "spotify:track:6jA8JUuPCGYjFcgw0AoM5T"
@@ -95,7 +95,7 @@
             "track_artist": "Maluma",
             "track_album": "Coraz\u00f3n",
             "track_duration": 184066,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1293929854",
             "track_added_at": "2018-06-04T19:51:54Z",
             "uri": "spotify:track:4lESS6vuruP6a79KWRaQou"
@@ -293,7 +293,7 @@
             "track_artist": "Nicky Jam",
             "track_album": "F\u00e9nix",
             "track_duration": 221026,
-            "track_popularity": 65,
+            "track_popularity": 64,
             "track_added_by": "1293929854",
             "track_added_at": "2018-07-09T04:07:17Z",
             "uri": "spotify:track:4yN6xPLopmTLvc27pO9LIE"
@@ -546,7 +546,7 @@
             "track_artist": "Leka el Poeta",
             "track_album": "Ella Quiere Hmm... Haa... Hmm...",
             "track_duration": 212035,
-            "track_popularity": 61,
+            "track_popularity": 62,
             "track_added_by": "1293929854",
             "track_added_at": "2018-09-02T23:11:40Z",
             "uri": "spotify:track:0QN1rkBy3D6j9Yw3Czlcsc"
@@ -1371,7 +1371,7 @@
             "track_artist": "Myke Towers",
             "track_album": "Easy Money Baby",
             "track_duration": 237013,
-            "track_popularity": 60,
+            "track_popularity": 59,
             "track_added_by": "1293929854",
             "track_added_at": "2021-08-04T03:46:40Z",
             "uri": "spotify:track:4jMwPJMtMF977ciTvD5fwg"
@@ -1646,7 +1646,7 @@
             "track_artist": "DaniLeigh",
             "track_album": "The Plan",
             "track_duration": 174720,
-            "track_popularity": 55,
+            "track_popularity": 54,
             "track_added_by": "1293929854",
             "track_added_at": "2021-12-08T02:28:36Z",
             "uri": "spotify:track:2fwkl5Z8ujDtAh6qxEA5x0"
@@ -1668,7 +1668,7 @@
             "track_artist": "Bad Bunny",
             "track_album": "Un Verano Sin Ti",
             "track_duration": 173119,
-            "track_popularity": 92,
+            "track_popularity": 91,
             "track_added_by": "1293929854",
             "track_added_at": "2022-06-23T05:37:54Z",
             "uri": "spotify:track:31i56LZnwE6uSu3exoHjtB"
