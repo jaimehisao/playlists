@@ -117,7 +117,7 @@
             "track_artist": "Two Another",
             "track_album": "Keeping Me Under",
             "track_duration": 218926,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-01-28T21:44:45Z",
             "uri": "spotify:track:1PQNcWNJt5P9gSLRLA5gmT"
@@ -249,7 +249,7 @@
             "track_artist": "Tom Misch",
             "track_album": "Reverie",
             "track_duration": 228861,
-            "track_popularity": 24,
+            "track_popularity": 23,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-02-01T00:29:17Z",
             "uri": "spotify:track:1eCf3kMSUXWAv5W75bQ0oO"
@@ -271,7 +271,7 @@
             "track_artist": "BROCKBEATS",
             "track_album": "Special Nerds",
             "track_duration": 169000,
-            "track_popularity": 6,
+            "track_popularity": 7,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-02-01T00:34:13Z",
             "uri": "spotify:track:7serOpSTWJFRcHDIysQ1eo"
@@ -689,7 +689,7 @@
             "track_artist": "Flight Facilities",
             "track_album": "Down To Earth",
             "track_duration": 234786,
-            "track_popularity": 60,
+            "track_popularity": 59,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-03-30T20:05:36Z",
             "uri": "spotify:track:4ESWJepzBtY2lR9oZDYVaP"
