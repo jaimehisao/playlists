@@ -73,7 +73,7 @@
             "track_artist": "The Killers",
             "track_album": "Hot Fuss",
             "track_duration": 222586,
-            "track_popularity": 28,
+            "track_popularity": 27,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-05-14T00:35:12Z",
             "uri": "spotify:track:7oK9VyNzrYvRFo7nQEYkWN"
@@ -392,7 +392,7 @@
             "track_artist": "ABBA",
             "track_album": "Arrival",
             "track_duration": 230693,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-05-25T15:26:19Z",
             "uri": "spotify:track:4NtUY5IGzHCaqfZemmAu56"
@@ -1206,7 +1206,7 @@
             "track_artist": "AC/DC",
             "track_album": "Back In Black",
             "track_duration": 255493,
-            "track_popularity": 84,
+            "track_popularity": 83,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-07-07T22:11:50Z",
             "uri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj"
@@ -2064,7 +2064,7 @@
             "track_artist": "Chuck Berry",
             "track_album": "Berry Is On Top",
             "track_duration": 161560,
-            "track_popularity": 75,
+            "track_popularity": 76,
             "track_added_by": "jaimehisao",
             "track_added_at": "2020-01-22T05:32:39Z",
             "uri": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2"
