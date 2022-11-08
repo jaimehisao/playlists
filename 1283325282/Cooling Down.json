@@ -271,7 +271,7 @@
             "track_artist": "Lord Huron",
             "track_album": "Strange Trails",
             "track_duration": 208211,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "1283325282",
             "track_added_at": "2019-05-20T02:58:36Z",
             "uri": "spotify:track:6mORGLOz79w6VsCRLWYYuK"
@@ -656,7 +656,7 @@
             "track_artist": "SiR",
             "track_album": "November",
             "track_duration": 171818,
-            "track_popularity": 65,
+            "track_popularity": 64,
             "track_added_by": "1283325282",
             "track_added_at": "2019-05-20T16:12:33Z",
             "uri": "spotify:track:0wY9rA9fJkuESyYm9uzVK5"
