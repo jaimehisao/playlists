@@ -843,7 +843,7 @@
             "track_artist": "M.I.A.",
             "track_album": "Kala",
             "track_duration": 205200,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-01-09T01:40:48Z",
             "uri": "spotify:track:1wgqttlPacpvmX5DKVboOa"
@@ -1261,7 +1261,7 @@
             "track_artist": "Smino",
             "track_album": "blkswn",
             "track_duration": 259338,
-            "track_popularity": 53,
+            "track_popularity": 52,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-01-09T01:43:23Z",
             "uri": "spotify:track:4hP7NIeToP2hU6lyvIHPyp"
@@ -1481,7 +1481,7 @@
             "track_artist": "Logic",
             "track_album": "Everybody",
             "track_duration": 162373,
-            "track_popularity": 38,
+            "track_popularity": 37,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-01-09T01:45:00Z",
             "uri": "spotify:track:51sVgPeBHYwbeM1cWegVqR"
@@ -1690,7 +1690,7 @@
             "track_artist": "The Wombats",
             "track_album": "Lemon to a Knife Fight",
             "track_duration": 205821,
-            "track_popularity": 30,
+            "track_popularity": 29,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-01-09T01:46:26Z",
             "uri": "spotify:track:3Q5Pc6K4UXJ0ke6YnklC1e"
@@ -2229,7 +2229,7 @@
             "track_artist": "Kendrick Lamar",
             "track_album": "Black Panther The Album Music From And Inspired By",
             "track_duration": 221826,
-            "track_popularity": 65,
+            "track_popularity": 64,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-02-16T04:57:03Z",
             "uri": "spotify:track:5cXg9IQS34FzLVdHhp7hu7"
@@ -2537,7 +2537,7 @@
             "track_artist": "Rex Orange County",
             "track_album": "Sunflower",
             "track_duration": 252230,
-            "track_popularity": 68,
+            "track_popularity": 67,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-07-16T15:05:58Z",
             "uri": "spotify:track:4EpZ4eYuZOwPSSwyqpdHnJ"
@@ -2647,7 +2647,7 @@
             "track_artist": "Nothing But Thieves",
             "track_album": "Nothing But Thieves (Deluxe)",
             "track_duration": 191946,
-            "track_popularity": 52,
+            "track_popularity": 51,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-09-09T01:24:23Z",
             "uri": "spotify:track:730AR8R0KvjxVeHmrYy4OR"
@@ -3131,7 +3131,7 @@
             "track_artist": "Grizzly Bear",
             "track_album": "Veckatimest",
             "track_duration": 269706,
-            "track_popularity": 41,
+            "track_popularity": 40,
             "track_added_by": "marijojos99",
             "track_added_at": "2018-11-06T05:28:36Z",
             "uri": "spotify:track:6ISgf39hqL5wImQpRrLcCr"
