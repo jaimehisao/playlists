@@ -106,7 +106,7 @@
             "track_artist": "ABBA",
             "track_album": "Arrival",
             "track_duration": 230693,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "analaurdzz",
             "track_added_at": "2018-07-07T04:38:51Z",
             "uri": "spotify:track:4NtUY5IGzHCaqfZemmAu56"
@@ -326,7 +326,7 @@
             "track_artist": "George Ezra",
             "track_album": "Wanted on Voyage",
             "track_duration": 200720,
-            "track_popularity": 1,
+            "track_popularity": 2,
             "track_added_by": "analaurdzz",
             "track_added_at": "2018-07-07T04:40:44Z",
             "uri": "spotify:track:7GJClzimvMSghjcrKxuf1M"
@@ -337,7 +337,7 @@
             "track_artist": "George Ezra",
             "track_album": "Staying at Tamara's",
             "track_duration": 222044,
-            "track_popularity": 68,
+            "track_popularity": 67,
             "track_added_by": "analaurdzz",
             "track_added_at": "2018-07-07T04:40:54Z",
             "uri": "spotify:track:38zwkK6TtTjIW9tpYBfZ3D"
@@ -436,7 +436,7 @@
             "track_artist": "George Ezra",
             "track_album": "Wanted on Voyage",
             "track_duration": 200720,
-            "track_popularity": 1,
+            "track_popularity": 2,
             "track_added_by": "analaurdzz",
             "track_added_at": "2018-07-07T04:42:34Z",
             "uri": "spotify:track:7GJClzimvMSghjcrKxuf1M"
