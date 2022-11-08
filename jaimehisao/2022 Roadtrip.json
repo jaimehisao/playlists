@@ -106,7 +106,7 @@
             "track_artist": "The Verve",
             "track_album": "Urban Hymns (Remastered 2016)",
             "track_duration": 357266,
-            "track_popularity": 79,
+            "track_popularity": 78,
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-04-07T20:52:20Z",
             "uri": "spotify:track:57iDDD9N9tTWe75x6qhStw"
@@ -117,7 +117,7 @@
             "track_artist": "Oasis",
             "track_album": "(What's the Story) Morning Glory?",
             "track_duration": 258906,
-            "track_popularity": 2,
+            "track_popularity": 3,
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-04-07T20:52:58Z",
             "uri": "spotify:track:3UNAMgNHKl0fWzbZaU0fDM"
@@ -469,7 +469,7 @@
             "track_artist": "Fleetwood Mac",
             "track_album": "Tango In the Night (Deluxe Edition)",
             "track_duration": 221053,
-            "track_popularity": 70,
+            "track_popularity": 71,
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-04-08T16:25:57Z",
             "uri": "spotify:track:4CoSCPlKNrWli7E5kFtbcl"
@@ -1217,7 +1217,7 @@
             "track_artist": "M.I.A.",
             "track_album": "Kala",
             "track_duration": 205200,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-04-11T06:04:56Z",
             "uri": "spotify:track:1wgqttlPacpvmX5DKVboOa"
@@ -1448,7 +1448,7 @@
             "track_artist": "Soda Stereo",
             "track_album": "Sue\u00f1o Stereo (Remastered)",
             "track_duration": 206306,
-            "track_popularity": 58,
+            "track_popularity": 59,
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-04-11T06:18:02Z",
             "uri": "spotify:track:1djou52IdL1mVEE7gTauxo"
