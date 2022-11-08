@@ -29,7 +29,7 @@
             "track_artist": "Daddy Yankee",
             "track_album": "La Rompe Corazones",
             "track_duration": 204520,
-            "track_popularity": 71,
+            "track_popularity": 70,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-06T05:19:13Z",
             "uri": "spotify:track:2Q85xwXagilpHKTfdrbC7M"
@@ -40,7 +40,7 @@
             "track_artist": "Ozuna",
             "track_album": "Baila Baila Baila",
             "track_duration": 158400,
-            "track_popularity": 2,
+            "track_popularity": 1,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-06T05:19:32Z",
             "uri": "spotify:track:7uH27oIt4a6cIFCA8ZPcyG"
@@ -524,7 +524,7 @@
             "track_artist": "Maluma",
             "track_album": "Coraz\u00f3n",
             "track_duration": 184066,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-06T05:32:14Z",
             "uri": "spotify:track:4lESS6vuruP6a79KWRaQou"
@@ -1228,7 +1228,7 @@
             "track_artist": "The Killers",
             "track_album": "Hot Fuss",
             "track_duration": 222586,
-            "track_popularity": 28,
+            "track_popularity": 27,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-06T06:06:00Z",
             "uri": "spotify:track:7oK9VyNzrYvRFo7nQEYkWN"
@@ -1371,7 +1371,7 @@
             "track_artist": "Reik",
             "track_album": "Me Niego (feat. Ozuna & Wisin)",
             "track_duration": 221653,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-06T06:07:51Z",
             "uri": "spotify:track:6jA8JUuPCGYjFcgw0AoM5T"
@@ -1426,7 +1426,7 @@
             "track_artist": "Kudai",
             "track_album": "Vuelo",
             "track_duration": 195666,
-            "track_popularity": 63,
+            "track_popularity": 62,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-06T06:08:45Z",
             "uri": "spotify:track:1Cafs1zrIyOzF8XPmkSI4p"
@@ -1459,7 +1459,7 @@
             "track_artist": "Luis Miguel",
             "track_album": "Soy Como Quiero Ser",
             "track_duration": 236413,
-            "track_popularity": 64,
+            "track_popularity": 65,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-06T06:08:53Z",
             "uri": "spotify:track:3hVaK0zn3sVWWY8TvN1Te5"
