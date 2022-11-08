@@ -227,7 +227,7 @@
             "track_artist": "George Ezra",
             "track_album": "Wanted on Voyage",
             "track_duration": 200720,
-            "track_popularity": 1,
+            "track_popularity": 2,
             "track_added_by": "analaurdzz",
             "track_added_at": "2017-07-13T21:10:13Z",
             "uri": "spotify:track:7GJClzimvMSghjcrKxuf1M"
@@ -502,7 +502,7 @@
             "track_artist": "ABBA",
             "track_album": "Arrival",
             "track_duration": 230693,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "analaurdzz",
             "track_added_at": "2018-03-20T04:31:45Z",
             "uri": "spotify:track:4NtUY5IGzHCaqfZemmAu56"
@@ -590,7 +590,7 @@
             "track_artist": "George Ezra",
             "track_album": "Staying at Tamara's",
             "track_duration": 222044,
-            "track_popularity": 68,
+            "track_popularity": 67,
             "track_added_by": "analaurdzz",
             "track_added_at": "2018-07-07T04:40:59Z",
             "uri": "spotify:track:38zwkK6TtTjIW9tpYBfZ3D"
@@ -1030,7 +1030,7 @@
             "track_artist": "Taylor Swift",
             "track_album": "ME! (feat. Brendon Urie of Panic! At The Disco)",
             "track_duration": 193040,
-            "track_popularity": 12,
+            "track_popularity": 11,
             "track_added_by": "analaurdzz",
             "track_added_at": "2019-06-10T00:52:02Z",
             "uri": "spotify:track:4MsUsFfWseB9M2plGJyuIw"
@@ -1085,7 +1085,7 @@
             "track_artist": "The 1975",
             "track_album": "A Brief Inquiry Into Online Relationships",
             "track_duration": 225955,
-            "track_popularity": 64,
+            "track_popularity": 65,
             "track_added_by": "analaurdzz",
             "track_added_at": "2019-06-22T17:26:33Z",
             "uri": "spotify:track:6HguG9HRb1Ke1bhihfE4m8"
@@ -1437,7 +1437,7 @@
             "track_artist": "Oh Wonder",
             "track_album": "No One Else Can Wear Your Crown (Deluxe)",
             "track_duration": 172906,
-            "track_popularity": 47,
+            "track_popularity": 46,
             "track_added_by": "analaurdzz",
             "track_added_at": "2020-03-04T18:30:56Z",
             "uri": "spotify:track:64oxZ8Ma5HAWV04LAI2KwT"
@@ -1844,7 +1844,7 @@
             "track_artist": "Autoheart",
             "track_album": "Punch",
             "track_duration": 234571,
-            "track_popularity": 45,
+            "track_popularity": 44,
             "track_added_by": "analaurdzz",
             "track_added_at": "2020-12-06T06:48:11Z",
             "uri": "spotify:track:4ylE1Sl2wohbCvToD1fHsl"
@@ -1987,7 +1987,7 @@
             "track_artist": "Taylor Swift",
             "track_album": "Fearless (Taylor's Version)",
             "track_duration": 243136,
-            "track_popularity": 81,
+            "track_popularity": 80,
             "track_added_by": "analaurdzz",
             "track_added_at": "2021-04-09T05:07:27Z",
             "uri": "spotify:track:22bPsP2jCgbLUvh82U0Z3M"
@@ -2438,7 +2438,7 @@
             "track_artist": "Meghan Trainor",
             "track_album": "Takin' It Back",
             "track_duration": 134256,
-            "track_popularity": 86,
+            "track_popularity": 87,
             "track_added_by": "analaurdzz",
             "track_added_at": "2022-10-26T02:47:47Z",
             "uri": "spotify:track:0QHEIqNKsMoOY5urbzN48u"
