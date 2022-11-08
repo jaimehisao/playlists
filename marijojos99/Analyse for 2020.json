@@ -491,7 +491,7 @@
             "track_artist": "Mitski",
             "track_album": "Be the Cowboy",
             "track_duration": 128198,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "marijojos99",
             "track_added_at": "2020-06-19T05:26:24Z",
             "uri": "spotify:track:4Ys8jQvZOISzmp34BsImRf"
@@ -799,7 +799,7 @@
             "track_artist": "Jungle",
             "track_album": "For Ever",
             "track_duration": 234369,
-            "track_popularity": 67,
+            "track_popularity": 66,
             "track_added_by": "marijojos99",
             "track_added_at": "2020-12-06T06:16:10Z",
             "uri": "spotify:track:44ZKnfWEkp7wPs035j4Tua"
