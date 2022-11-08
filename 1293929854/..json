@@ -414,7 +414,7 @@
             "track_artist": "AC/DC",
             "track_album": "Back In Black",
             "track_duration": 255493,
-            "track_popularity": 84,
+            "track_popularity": 83,
             "track_added_by": "1293929854",
             "track_added_at": "2015-09-15T23:46:02Z",
             "uri": "spotify:track:08mG3Y1vljYA6bvDt4Wqkj"
@@ -601,7 +601,7 @@
             "track_artist": "Deaf Kev",
             "track_album": "Invincible",
             "track_duration": 279600,
-            "track_popularity": 6,
+            "track_popularity": 5,
             "track_added_by": "1293929854",
             "track_added_at": "2016-01-11T23:18:45Z",
             "uri": "spotify:track:7MTZVwYiEahXQIyCU2FLPV"
@@ -722,7 +722,7 @@
             "track_artist": "Spektrem",
             "track_album": "Shine",
             "track_duration": 315585,
-            "track_popularity": 4,
+            "track_popularity": 3,
             "track_added_by": "1293929854",
             "track_added_at": "2016-02-13T06:05:27Z",
             "uri": "spotify:track:0bEieeFbVqwFLWa2XpJseK"
@@ -821,7 +821,7 @@
             "track_artist": "Alan Walker",
             "track_album": "Fade",
             "track_duration": 264013,
-            "track_popularity": 1,
+            "track_popularity": 2,
             "track_added_by": "1293929854",
             "track_added_at": "2016-04-01T16:24:21Z",
             "uri": "spotify:track:2lfPecqFbH8X4lHSpTxt8l"
@@ -1041,7 +1041,7 @@
             "track_artist": "Kid Rock",
             "track_album": "Rock n Roll Jesus",
             "track_duration": 296960,
-            "track_popularity": 55,
+            "track_popularity": 54,
             "track_added_by": "1293929854",
             "track_added_at": "2016-11-28T22:28:32Z",
             "uri": "spotify:track:368S2jjTfDk9Hk9x9YDzwj"
@@ -2636,7 +2636,7 @@
             "track_artist": "Edwin Luna y La Trakalosa de Monterrey",
             "track_album": "De Monterrey a Sinaloa",
             "track_duration": 204200,
-            "track_popularity": 4,
+            "track_popularity": 3,
             "track_added_by": "1293929854",
             "track_added_at": "2018-06-01T06:33:03Z",
             "uri": "spotify:track:2xjxGXr3eASzCvo9MUHk0w"
@@ -2680,7 +2680,7 @@
             "track_artist": "John Denver",
             "track_album": "The John Denver Collection, Vol. 1: Take Me Home Country Roads",
             "track_duration": 197813,
-            "track_popularity": 0,
+            "track_popularity": 1,
             "track_added_by": "1293929854",
             "track_added_at": "2018-06-11T05:14:16Z",
             "uri": "spotify:track:2xYlyywNgefLCRDG8hlxZq"
@@ -3076,7 +3076,7 @@
             "track_artist": "Los \u00c1ngeles Azules",
             "track_album": "Una Lluvia De Rosas",
             "track_duration": 216106,
-            "track_popularity": 70,
+            "track_popularity": 71,
             "track_added_by": "1293929854",
             "track_added_at": "2018-08-12T19:05:58Z",
             "uri": "spotify:track:5hrxAFrYbNTLjAYSrmbpgr"
