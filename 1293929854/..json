@@ -260,7 +260,7 @@
             "track_artist": "The Rolling Stones",
             "track_album": "GRRR! (Deluxe Version)",
             "track_duration": 203053,
-            "track_popularity": 4,
+            "track_popularity": 3,
             "track_added_by": "1293929854",
             "track_added_at": "2015-06-11T00:35:44Z",
             "uri": "spotify:track:1Kvjmr2oqZjzhryoEKzqij"
@@ -447,7 +447,7 @@
             "track_artist": "Borgeous",
             "track_album": "Invincible",
             "track_duration": 282041,
-            "track_popularity": 27,
+            "track_popularity": 26,
             "track_added_by": "1293929854",
             "track_added_at": "2015-11-19T04:36:41Z",
             "uri": "spotify:track:42Q8gr73Sjr6supT4PlU2F"
@@ -1338,7 +1338,7 @@
             "track_artist": "Snow Patrol",
             "track_album": "Eyes Open",
             "track_duration": 267933,
-            "track_popularity": 51,
+            "track_popularity": 50,
             "track_added_by": "1293929854",
             "track_added_at": "2017-06-04T21:54:59Z",
             "uri": "spotify:track:11bD1JtSjlIgKgZG2134DZ"
@@ -2449,7 +2449,7 @@
             "track_artist": "El Poder Del Norte",
             "track_album": "XXII - Veintid\u00f3s",
             "track_duration": 243653,
-            "track_popularity": 9,
+            "track_popularity": 10,
             "track_added_by": "1293929854",
             "track_added_at": "2018-05-26T20:08:42Z",
             "uri": "spotify:track:4tJrxuP2RhmChrWHLBecwO"
@@ -3065,7 +3065,7 @@
             "track_artist": "Wolfine",
             "track_album": "Bella",
             "track_duration": 197120,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1293929854",
             "track_added_at": "2018-08-12T19:05:07Z",
             "uri": "spotify:track:3xcCix7Jv1Rp90YVmgo35D"
@@ -3076,7 +3076,7 @@
             "track_artist": "Los \u00c1ngeles Azules",
             "track_album": "Una Lluvia De Rosas",
             "track_duration": 216106,
-            "track_popularity": 71,
+            "track_popularity": 70,
             "track_added_by": "1293929854",
             "track_added_at": "2018-08-12T19:05:58Z",
             "uri": "spotify:track:5hrxAFrYbNTLjAYSrmbpgr"
@@ -3285,7 +3285,7 @@
             "track_artist": "Simba Musical",
             "track_album": "Cumbias Bailables",
             "track_duration": 180200,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1293929854",
             "track_added_at": "2018-10-13T20:19:53Z",
             "uri": "spotify:track:5dKcpH68xBgZ4E5vkNzGqa"
