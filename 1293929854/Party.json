@@ -150,7 +150,7 @@
             "track_artist": "Wolfine",
             "track_album": "Bella",
             "track_duration": 197120,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1293929854",
             "track_added_at": "2018-06-09T16:41:47Z",
             "uri": "spotify:track:3xcCix7Jv1Rp90YVmgo35D"
@@ -931,7 +931,7 @@
             "track_artist": "J Balvin",
             "track_album": "OASIS",
             "track_duration": 277106,
-            "track_popularity": 82,
+            "track_popularity": 81,
             "track_added_by": "1293929854",
             "track_added_at": "2020-04-22T23:25:54Z",
             "uri": "spotify:track:7hynhxDoDpgMIV12JuVtNa"
@@ -1679,7 +1679,7 @@
             "track_artist": "Bad Bunny",
             "track_album": "Un Verano Sin Ti",
             "track_duration": 178567,
-            "track_popularity": 96,
+            "track_popularity": 95,
             "track_added_by": "1293929854",
             "track_added_at": "2022-06-29T17:33:29Z",
             "uri": "spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -1723,7 +1723,7 @@
             "track_artist": "Bad Bunny",
             "track_album": "Un Verano Sin Ti",
             "track_duration": 178567,
-            "track_popularity": 96,
+            "track_popularity": 95,
             "track_added_by": "1293929854",
             "track_added_at": "2022-09-23T05:15:17Z",
             "uri": "spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx"
