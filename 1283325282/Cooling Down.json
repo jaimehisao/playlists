@@ -172,7 +172,7 @@
             "track_artist": "Iron & Wine",
             "track_album": "The Shepherd's Dog",
             "track_duration": 241917,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1283325282",
             "track_added_at": "2019-04-08T15:41:04Z",
             "uri": "spotify:track:1X3T2J7S1s6aCIbmjFf2NG"
@@ -271,7 +271,7 @@
             "track_artist": "Lord Huron",
             "track_album": "Strange Trails",
             "track_duration": 208211,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1283325282",
             "track_added_at": "2019-05-20T02:58:36Z",
             "uri": "spotify:track:6mORGLOz79w6VsCRLWYYuK"
@@ -326,7 +326,7 @@
             "track_artist": "Snow Patrol",
             "track_album": "Eyes Open",
             "track_duration": 267933,
-            "track_popularity": 51,
+            "track_popularity": 50,
             "track_added_by": "1283325282",
             "track_added_at": "2019-05-20T02:59:24Z",
             "uri": "spotify:track:11bD1JtSjlIgKgZG2134DZ"
