@@ -51,7 +51,7 @@
             "track_artist": "Wham!",
             "track_album": "Make It Big",
             "track_duration": 231333,
-            "track_popularity": 79,
+            "track_popularity": 78,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-05-13T21:15:45Z",
             "uri": "spotify:track:0ikz6tENMONtK6qGkOrU3c"
@@ -436,7 +436,7 @@
             "track_artist": "The Proclaimers",
             "track_album": "Finest",
             "track_duration": 219466,
-            "track_popularity": 71,
+            "track_popularity": 70,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-05-30T02:06:35Z",
             "uri": "spotify:track:66S14BkJDxgkYxLl5DCqOz"
@@ -755,7 +755,7 @@
             "track_artist": "Bonnie Tyler",
             "track_album": "The Very Best Of Bonnie Tyler",
             "track_duration": 269786,
-            "track_popularity": 1,
+            "track_popularity": 2,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-08T22:09:19Z",
             "uri": "spotify:track:5prTs2HAw2G4idHZyeFp8o"
@@ -788,7 +788,7 @@
             "track_artist": "Rick Astley",
             "track_album": "Whenever You Need Somebody",
             "track_duration": 205533,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-06-08T22:14:40Z",
             "uri": "spotify:track:76QJgXPE3oc1cnkE4PFHEn"
@@ -1228,7 +1228,7 @@
             "track_artist": "Men At Work",
             "track_album": "Super Hits",
             "track_duration": 200293,
-            "track_popularity": 54,
+            "track_popularity": 53,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-07-20T22:45:15Z",
             "uri": "spotify:track:0DnA2DyUwy0W4xMYtRxocL"
@@ -1756,7 +1756,7 @@
             "track_artist": "Eagles",
             "track_album": "Hotel California (2013 Remaster)",
             "track_duration": 286219,
-            "track_popularity": 71,
+            "track_popularity": 70,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-12-13T06:34:01Z",
             "uri": "spotify:track:6gXrEUzibufX9xYPk3HD5p"
@@ -1921,7 +1921,7 @@
             "track_artist": "TOTO",
             "track_album": "Fahrenheit",
             "track_duration": 229880,
-            "track_popularity": 69,
+            "track_popularity": 70,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-12-26T02:09:07Z",
             "uri": "spotify:track:1WeoeHh0TSzsApyJ6Q8OOK"
