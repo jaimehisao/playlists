@@ -29,7 +29,7 @@
             "track_artist": "Imagine Dragons",
             "track_album": "Natural",
             "track_duration": 189466,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1293929854",
             "track_added_at": "2021-03-20T07:06:14Z",
             "uri": "spotify:track:4zIO3ilp5HvTeK3HJHxhMP"
@@ -282,7 +282,7 @@
             "track_artist": "Johnny Cash",
             "track_album": "American IV: The Man Comes Around",
             "track_duration": 266733,
-            "track_popularity": 63,
+            "track_popularity": 62,
             "track_added_by": "1293929854",
             "track_added_at": "2021-03-20T07:06:14Z",
             "uri": "spotify:track:3Jq9rsqmRtqcVKtzP9dnxZ"
@@ -425,7 +425,7 @@
             "track_artist": "NF",
             "track_album": "Perception",
             "track_duration": 268666,
-            "track_popularity": 63,
+            "track_popularity": 64,
             "track_added_by": "1293929854",
             "track_added_at": "2021-03-20T07:06:14Z",
             "uri": "spotify:track:6e56CkYWD3JO6ovFZBA8po"
