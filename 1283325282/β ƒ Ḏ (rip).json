@@ -623,7 +623,7 @@
             "track_artist": "Foo Fighters",
             "track_album": "Medicine At Midnight",
             "track_duration": 257426,
-            "track_popularity": 50,
+            "track_popularity": 51,
             "track_added_by": "felip\u00e2\u00f6",
             "track_added_at": "2021-03-03T05:51:41Z",
             "uri": "spotify:track:21Qmkbvp6GvZdO0IMQtae5"
@@ -821,7 +821,7 @@
             "track_artist": "Pink Floyd",
             "track_album": "The Dark Side of the Moon",
             "track_duration": 283872,
-            "track_popularity": 64,
+            "track_popularity": 65,
             "track_added_by": "felip\u00e2\u00f6",
             "track_added_at": "2021-03-03T18:53:28Z",
             "uri": "spotify:track:2TjdnqlpwOjhijHCwHCP2d"
@@ -1118,7 +1118,7 @@
             "track_artist": "Placebo",
             "track_album": "Meds",
             "track_duration": 175386,
-            "track_popularity": 47,
+            "track_popularity": 46,
             "track_added_by": "felip\u00e2\u00f6",
             "track_added_at": "2021-03-22T19:10:59Z",
             "uri": "spotify:track:5fVTi3rIiLvsEVYp0cRvaI"
@@ -1778,7 +1778,7 @@
             "track_artist": "Dr. Dre",
             "track_album": "The Chronic",
             "track_duration": 261293,
-            "track_popularity": 2,
+            "track_popularity": 1,
             "track_added_by": "felip\u00e2\u00f6",
             "track_added_at": "2022-01-28T01:03:06Z",
             "uri": "spotify:track:1pjDKRg5WddCDSlG5PXcKy"
