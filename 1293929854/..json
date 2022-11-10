@@ -2581,7 +2581,7 @@
             "track_artist": "Belinda",
             "track_album": "Belinda",
             "track_duration": 180640,
-            "track_popularity": 45,
+            "track_popularity": 46,
             "track_added_by": "1293929854",
             "track_added_at": "2018-06-01T06:29:11Z",
             "uri": "spotify:track:7oIXQNqGfaijrHJdyW52J1"
@@ -3032,7 +3032,7 @@
             "track_artist": "Imagine Dragons",
             "track_album": "Natural",
             "track_duration": 189466,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "1293929854",
             "track_added_at": "2018-07-17T04:38:02Z",
             "uri": "spotify:track:4zIO3ilp5HvTeK3HJHxhMP"
