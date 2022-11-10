@@ -29,7 +29,7 @@
             "track_artist": "Wham!",
             "track_album": "Make It Big",
             "track_duration": 231333,
-            "track_popularity": 79,
+            "track_popularity": 78,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-05-23T15:04:25Z",
             "uri": "spotify:track:0ikz6tENMONtK6qGkOrU3c"
@@ -62,7 +62,7 @@
             "track_artist": "Imagine Dragons",
             "track_album": "Natural",
             "track_duration": 189466,
-            "track_popularity": 1,
+            "track_popularity": 0,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-05-23T15:04:25Z",
             "uri": "spotify:track:4zIO3ilp5HvTeK3HJHxhMP"
@@ -447,7 +447,7 @@
             "track_artist": "ZHU",
             "track_album": "THE NIGHTDAY",
             "track_duration": 255093,
-            "track_popularity": 61,
+            "track_popularity": 60,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-05-23T15:04:25Z",
             "uri": "spotify:track:5Z3trOR982mBrJcPfrLUsq"
