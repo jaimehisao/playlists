@@ -1,0 +1,45 @@
+{
+    "id": "7g24CS4AWmrFvMdw0exG32",
+    "tracks": [
+        {
+            "track_id": "35keiknicSk7ZiEl1Wa4Hg",
+            "track_name": "Just the Way It Is, Baby",
+            "track_artist": "The Rembrandts",
+            "track_album": "The Rembrandts",
+            "track_duration": 243893,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-03-25T02:46:21Z",
+            "uri": "spotify:track:35keiknicSk7ZiEl1Wa4Hg"
+        },
+        {
+            "track_id": "5X0zqWSaSnulsbf74CrljV",
+            "track_name": "Someday We'll Know",
+            "track_artist": "New Radicals",
+            "track_album": "Maybe You've Been Brainwashed Too",
+            "track_duration": 217466,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-03-25T02:46:35Z",
+            "uri": "spotify:track:5X0zqWSaSnulsbf74CrljV"
+        },
+        {
+            "track_id": "1Cwsd5xI8CajJz795oy4XF",
+            "track_name": "You Get What You Give",
+            "track_artist": "New Radicals",
+            "track_album": "Maybe You've Been Brainwashed Too",
+            "track_duration": 300773,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-03-25T02:46:49Z",
+            "uri": "spotify:track:1Cwsd5xI8CajJz795oy4XF"
+        },
+        {
+            "track_id": "1v2zyAJrChw5JnfafSkwkJ",
+            "track_name": "Shiny Happy People",
+            "track_artist": "R.E.M.",
+            "track_album": "Out Of Time (25th Anniversary Edition)",
+            "track_duration": 225786,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-03-26T02:10:20Z",
+            "uri": "spotify:track:1v2zyAJrChw5JnfafSkwkJ"
+        }
+    ]
+}
