@@ -1,0 +1,565 @@
+{
+    "id": "1GS2oIxh67qxbL3TtpJz6J",
+    "tracks": [
+        {
+            "track_id": "2Fn01AIMyHbha2ceNQeOqw",
+            "track_name": "Tim McGraw",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 232106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw"
+        },
+        {
+            "track_id": "4BYejINgfZF0qKDMEH2cim",
+            "track_name": "Picture To Burn",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 173066,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:4BYejINgfZF0qKDMEH2cim"
+        },
+        {
+            "track_id": "2TF4UtYreqNbQ6Z9AccldU",
+            "track_name": "Teardrops On My Guitar - Radio Single Remix",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 203040,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:2TF4UtYreqNbQ6Z9AccldU"
+        },
+        {
+            "track_id": "1oR4MUBpyNrAViC8wPNpfm",
+            "track_name": "A Place in this World",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 199200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:1oR4MUBpyNrAViC8wPNpfm"
+        },
+        {
+            "track_id": "569sXXQ7t0jSdqHooi2yqs",
+            "track_name": "Cold As You",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 239013,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:569sXXQ7t0jSdqHooi2yqs"
+        },
+        {
+            "track_id": "5Tj2MqcFMf60CaGsKbM1aq",
+            "track_name": "The Outside",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 207106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:5Tj2MqcFMf60CaGsKbM1aq"
+        },
+        {
+            "track_id": "2zzxwmoOBnXDT0KnJsoIWk",
+            "track_name": "Tied Together with a Smile",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 248106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:2zzxwmoOBnXDT0KnJsoIWk"
+        },
+        {
+            "track_id": "41sjzdjScVwnxnxADElts6",
+            "track_name": "Stay Beautiful",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 236053,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:41sjzdjScVwnxnxADElts6"
+        },
+        {
+            "track_id": "6CdaXOq1MWe2JHDalTG01d",
+            "track_name": "Should've Said No",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 242200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:6CdaXOq1MWe2JHDalTG01d"
+        },
+        {
+            "track_id": "2O8sogKJCfVZ4rotBv1vVF",
+            "track_name": "Mary's Song (Oh My My My)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 213080,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:2O8sogKJCfVZ4rotBv1vVF"
+        },
+        {
+            "track_id": "1j6gmK6u4WNI33lMZ8dC1s",
+            "track_name": "Our Song",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 201106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+        },
+        {
+            "track_id": "7CzxXgQXurKZCyHz9ufbo1",
+            "track_name": "I'm Only Me When I'm With You",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 213053,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:7CzxXgQXurKZCyHz9ufbo1"
+        },
+        {
+            "track_id": "1k3PzDNjg38cWqOvL4M9vq",
+            "track_name": "Invisible",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 203226,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:1k3PzDNjg38cWqOvL4M9vq"
+        },
+        {
+            "track_id": "0YgHuReCSPwTXYny7isLja",
+            "track_name": "A Perfectly Good Heart",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 220146,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:0YgHuReCSPwTXYny7isLja"
+        },
+        {
+            "track_id": "1hxLyjC9D9Jpw6EAPKqWv4",
+            "track_name": "Teardrops on My Guitar - Pop Version",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 179066,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:26Z",
+            "uri": "spotify:track:1hxLyjC9D9Jpw6EAPKqWv4"
+        },
+        {
+            "track_id": "0GxW5K0qzrq7L1jwSY5OmY",
+            "track_name": "Mine - POP Mix",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 230546,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:0GxW5K0qzrq7L1jwSY5OmY"
+        },
+        {
+            "track_id": "46NGAvL695VnbcSeTmQWmM",
+            "track_name": "Sparks Fly",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 260946,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:46NGAvL695VnbcSeTmQWmM"
+        },
+        {
+            "track_id": "5l6GqSxplqnZbLg0LTPQeG",
+            "track_name": "Back To December",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 293040,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:5l6GqSxplqnZbLg0LTPQeG"
+        },
+        {
+            "track_id": "7dXKdjpOaH2iwfFKmUj7aq",
+            "track_name": "Speak Now",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 240773,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:7dXKdjpOaH2iwfFKmUj7aq"
+        },
+        {
+            "track_id": "3K2es3gElMRJ3qvmPW442g",
+            "track_name": "Dear John",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 403933,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:3K2es3gElMRJ3qvmPW442g"
+        },
+        {
+            "track_id": "0KztjtD3ytzgYjUKIVfBnW",
+            "track_name": "Mean",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 237746,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:0KztjtD3ytzgYjUKIVfBnW"
+        },
+        {
+            "track_id": "3lXekiVK1ZPZbKconsys73",
+            "track_name": "The Story Of Us",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 265680,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:3lXekiVK1ZPZbKconsys73"
+        },
+        {
+            "track_id": "3JilapcaOXzjR9gtvCY8FO",
+            "track_name": "Never Grow Up",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 290480,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:3JilapcaOXzjR9gtvCY8FO"
+        },
+        {
+            "track_id": "04S1pkp1VaIqjg8zZqknR5",
+            "track_name": "Enchanted",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 352200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+        },
+        {
+            "track_id": "0PWgAyoxsjwGRuFSO0fyya",
+            "track_name": "Better Than Revenge",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 217173,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:0PWgAyoxsjwGRuFSO0fyya"
+        },
+        {
+            "track_id": "0mTgFzkDgSAF3nJY25XCXG",
+            "track_name": "Innocent",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 302266,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:0mTgFzkDgSAF3nJY25XCXG"
+        },
+        {
+            "track_id": "2YjKcFQ1vYFhQPgsmCOjss",
+            "track_name": "Haunted",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 242093,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:2YjKcFQ1vYFhQPgsmCOjss"
+        },
+        {
+            "track_id": "4EUQXLipplO2v9mVaqQtjc",
+            "track_name": "Last Kiss",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 367146,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:4EUQXLipplO2v9mVaqQtjc"
+        },
+        {
+            "track_id": "4ewAfHYpDTzpW1GKO44CVP",
+            "track_name": "Long Live",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 317960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:55:54Z",
+            "uri": "spotify:track:4ewAfHYpDTzpW1GKO44CVP"
+        },
+        {
+            "track_id": "10nqz67NQWWa7XPq7ycihi",
+            "track_name": "Welcome To New York",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 212600,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:10nqz67NQWWa7XPq7ycihi"
+        },
+        {
+            "track_id": "2ls70nUDfjzm1lSRDuKxmw",
+            "track_name": "Blank Space",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 231826,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:2ls70nUDfjzm1lSRDuKxmw"
+        },
+        {
+            "track_id": "7EpVQjqtKygiwJIASxMWNg",
+            "track_name": "Out Of The Woods",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 235800,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:7EpVQjqtKygiwJIASxMWNg"
+        },
+        {
+            "track_id": "4NNolUeL5m2ju7kf8pdg6H",
+            "track_name": "All You Had To Do Was Stay",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 193293,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:4NNolUeL5m2ju7kf8pdg6H"
+        },
+        {
+            "track_id": "1kKlhuQE0HXp1IwBRpaH2P",
+            "track_name": "Shake It Off",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 219200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:1kKlhuQE0HXp1IwBRpaH2P"
+        },
+        {
+            "track_id": "5RVJ6VKfwtosA5Q1qeHdjF",
+            "track_name": "I Wish You Would",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 207440,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:5RVJ6VKfwtosA5Q1qeHdjF"
+        },
+        {
+            "track_id": "0TvQLMecTE8utzoNmvXRbK",
+            "track_name": "Bad Blood",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 211933,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:0TvQLMecTE8utzoNmvXRbK"
+        },
+        {
+            "track_id": "5Z9ocF6ng0m2haHnKtHwTp",
+            "track_name": "How You Get The Girl",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 247533,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:5Z9ocF6ng0m2haHnKtHwTp"
+        },
+        {
+            "track_id": "6Ck9WerfsyvC4v4AylUoDp",
+            "track_name": "I Know Places",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 195706,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:6Ck9WerfsyvC4v4AylUoDp"
+        },
+        {
+            "track_id": "2k43eySbfpDVx0PrO99UI8",
+            "track_name": "Clean",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 271000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:31Z",
+            "uri": "spotify:track:2k43eySbfpDVx0PrO99UI8"
+        },
+        {
+            "track_id": "2yLa0QULdQr0qAIvVwN6B5",
+            "track_name": "...Ready For It?",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 208186,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:2yLa0QULdQr0qAIvVwN6B5"
+        },
+        {
+            "track_id": "2x0WlnmfG39ZuDmstl9xfX",
+            "track_name": "End Game",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 244826,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:2x0WlnmfG39ZuDmstl9xfX"
+        },
+        {
+            "track_id": "4svZDCRz4cJoneBpjpx8DJ",
+            "track_name": "I Did Something Bad",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 238253,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:4svZDCRz4cJoneBpjpx8DJ"
+        },
+        {
+            "track_id": "1R0a2iXumgCiFb7HEZ7gUE",
+            "track_name": "Don\u2019t Blame Me",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 236413,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:1R0a2iXumgCiFb7HEZ7gUE"
+        },
+        {
+            "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
+            "track_name": "Delicate",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 232253,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+        },
+        {
+            "track_id": "1P17dC1amhFzptugyAO7Il",
+            "track_name": "Look What You Made Me Do",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 211853,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:1P17dC1amhFzptugyAO7Il"
+        },
+        {
+            "track_id": "5PxFv9yJEg9dxvbZggykro",
+            "track_name": "So It Goes...",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 227906,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:5PxFv9yJEg9dxvbZggykro"
+        },
+        {
+            "track_id": "1ZY1PqizIl78geGM4xWlEA",
+            "track_name": "Gorgeous",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 209680,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:1ZY1PqizIl78geGM4xWlEA"
+        },
+        {
+            "track_id": "0VE4kBnHJUgtMf0dy6DRmW",
+            "track_name": "Getaway Car",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 233626,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+        },
+        {
+            "track_id": "7HuBDWi18s4aJM8UFnNheH",
+            "track_name": "King Of My Heart",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 214320,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:7HuBDWi18s4aJM8UFnNheH"
+        },
+        {
+            "track_id": "7I7JbDv63ZJJsSi24DyJrz",
+            "track_name": "Dancing With Our Hands Tied",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 211506,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:7I7JbDv63ZJJsSi24DyJrz"
+        },
+        {
+            "track_id": "6oVxXO5oQ4pTpO8RSnkzvv",
+            "track_name": "Dress",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 230373,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv"
+        },
+        {
+            "track_id": "07NxDD1iKCHbAldceD7QLP",
+            "track_name": "This Is Why We Can't Have Nice Things",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 207133,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:07NxDD1iKCHbAldceD7QLP"
+        },
+        {
+            "track_id": "1GwMQaZz6Au3QLDbjbMdme",
+            "track_name": "Call It What You Want",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 203506,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:1GwMQaZz6Au3QLDbjbMdme"
+        },
+        {
+            "track_id": "7F5oktn5YOsR9eR5YsFtqb",
+            "track_name": "New Year\u2019s Day",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 235466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-07T17:56:42Z",
+            "uri": "spotify:track:7F5oktn5YOsR9eR5YsFtqb"
+        },
+        {
+            "track_id": "71PmZqBXH0RUETqxpwlV0w",
+            "track_name": "Style",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 231000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-13T18:03:19Z",
+            "uri": "spotify:track:71PmZqBXH0RUETqxpwlV0w"
+        },
+        {
+            "track_id": "0qAIiGFKLdV1xpNlEhjpq8",
+            "track_name": "New Romantics",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 230466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-10-09T03:31:48Z",
+            "uri": "spotify:track:0qAIiGFKLdV1xpNlEhjpq8"
+        }
+    ]
+}
