@@ -1,0 +1,75 @@
+{
+    "id": "7BdgynbTZDn0BhmTEoYCuS",
+    "tracks": [
+        {
+            "track_id": "1oL8NJLQiFN0PtCpmtzYC3",
+            "track_name": "Deep Cover",
+            "track_artist": "Man Man",
+            "track_album": "On Oni Pond",
+            "track_duration": 183600,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-03-14T03:14:07Z",
+            "uri": "spotify:track:1oL8NJLQiFN0PtCpmtzYC3"
+        },
+        {
+            "track_id": "3Ig9iIYOsY1DEQhQ6Arrr6",
+            "track_name": "Dead Sea",
+            "track_artist": "The Lumineers",
+            "track_album": "The Lumineers",
+            "track_duration": 247933,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-03-14T03:19:45Z",
+            "uri": "spotify:track:3Ig9iIYOsY1DEQhQ6Arrr6"
+        },
+        {
+            "track_id": "2jTidefcsTu6VQhpIImJrt",
+            "track_name": "All I Want",
+            "track_artist": "Kodaline",
+            "track_album": "In A Perfect World (Deluxe)",
+            "track_duration": 305746,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-03-14T03:45:35Z",
+            "uri": "spotify:track:2jTidefcsTu6VQhpIImJrt"
+        },
+        {
+            "track_id": "0jWgAnTrNZmOGmqgvHhZEm",
+            "track_name": "What's Up?",
+            "track_artist": "4 Non Blondes",
+            "track_album": "Bigger, Better, Faster, More !",
+            "track_duration": 295533,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-03-28T03:53:18Z",
+            "uri": "spotify:track:0jWgAnTrNZmOGmqgvHhZEm"
+        },
+        {
+            "track_id": "1jdNcAD8Ir58RlsdGjJJdx",
+            "track_name": "Ho Hey",
+            "track_artist": "The Lumineers",
+            "track_album": "The Lumineers",
+            "track_duration": 161226,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2016-04-15T16:51:54Z",
+            "uri": "spotify:track:1jdNcAD8Ir58RlsdGjJJdx"
+        },
+        {
+            "track_id": "7Cia4WzapwjMr0NUQF8vf3",
+            "track_name": "Oceans",
+            "track_artist": "Seafret",
+            "track_album": "Oceans - EP",
+            "track_duration": 216186,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2017-02-06T06:45:10Z",
+            "uri": "spotify:track:7Cia4WzapwjMr0NUQF8vf3"
+        },
+        {
+            "track_id": "1rQZDmnKJIjzzTJrbBeEW2",
+            "track_name": "Behind the Sea",
+            "track_artist": "Panic! At The Disco",
+            "track_album": "Pretty. Odd.",
+            "track_duration": 213426,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2017-08-31T05:07:55Z",
+            "uri": "spotify:track:1rQZDmnKJIjzzTJrbBeEW2"
+        }
+    ]
+}
