@@ -1,0 +1,35 @@
+{
+    "id": "3id3hrslig2SKtNXC7BAra",
+    "tracks": [
+        {
+            "track_id": "2wKHx2Bg7AysBPrZ9axL1D",
+            "track_name": "Tracy",
+            "track_artist": "Pontiac Puma",
+            "track_album": "Tracy",
+            "track_duration": 122666,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-09-13T06:48:12Z",
+            "uri": "spotify:track:2wKHx2Bg7AysBPrZ9axL1D"
+        },
+        {
+            "track_id": "7qrBYrivpvfXUPBMmqh3dA",
+            "track_name": "5:32pm",
+            "track_artist": "The Deli",
+            "track_album": "Vibes 2",
+            "track_duration": 136914,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-09-21T07:08:41Z",
+            "uri": "spotify:track:7qrBYrivpvfXUPBMmqh3dA"
+        },
+        {
+            "track_id": "7woCxOw0jmj65ohlQ3x0tH",
+            "track_name": "controlla",
+            "track_artist": "Idealism",
+            "track_album": "rainy evening",
+            "track_duration": 108000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-09-21T07:08:50Z",
+            "uri": "spotify:track:7woCxOw0jmj65ohlQ3x0tH"
+        }
+    ]
+}
