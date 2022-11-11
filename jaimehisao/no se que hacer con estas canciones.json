@@ -1,0 +1,775 @@
+{
+    "id": "7ckmOAG5IWxrPs7F7R1Ttn",
+    "tracks": [
+        {
+            "track_id": "0k9un4VZY52tvtxNhg6XLo",
+            "track_name": "Englishman In New York",
+            "track_artist": "Sting",
+            "track_album": "Nothing Like The Sun",
+            "track_duration": 266960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:20:14Z",
+            "uri": "spotify:track:0k9un4VZY52tvtxNhg6XLo"
+        },
+        {
+            "track_id": "0hKF8N8aflF1uDzEEnPr2j",
+            "track_name": "Life Is A Highway",
+            "track_artist": "Tom Cochrane",
+            "track_album": "Mad Mad World",
+            "track_duration": 266560,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:21:08Z",
+            "uri": "spotify:track:0hKF8N8aflF1uDzEEnPr2j"
+        },
+        {
+            "track_id": "0i5el041vd6nxrGEU8QRxy",
+            "track_name": "Cruise",
+            "track_artist": "Florida Georgia Line",
+            "track_album": "Here's To The Good Times",
+            "track_duration": 208960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:21:11Z",
+            "uri": "spotify:track:0i5el041vd6nxrGEU8QRxy"
+        },
+        {
+            "track_id": "6XnaogpLEF3StecNqq8FHN",
+            "track_name": "Fr\u00eda Como El Viento",
+            "track_artist": "Luis Miguel",
+            "track_album": "Grandes \u00c9xitos",
+            "track_duration": 235106,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:25:26Z",
+            "uri": "spotify:track:6XnaogpLEF3StecNqq8FHN"
+        },
+        {
+            "track_id": "7q5wl8tkCmzcyoDc6BVTLX",
+            "track_name": "No Podr\u00e1s",
+            "track_artist": "Cristian Castro",
+            "track_album": "Lo Mejor De Cristian Castro Y Aleks Syntek",
+            "track_duration": 245920,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:25:38Z",
+            "uri": "spotify:track:7q5wl8tkCmzcyoDc6BVTLX"
+        },
+        {
+            "track_id": "5EL8hqM8YQJHKKnzGdahly",
+            "track_name": "Dreaming Of You",
+            "track_artist": "Selena",
+            "track_album": "Dreaming Of You",
+            "track_duration": 314866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:28:12Z",
+            "uri": "spotify:track:5EL8hqM8YQJHKKnzGdahly"
+        },
+        {
+            "track_id": "2xLOMHjkOK8nzxJ4r6yOKR",
+            "track_name": "Birthday",
+            "track_artist": "Katy Perry",
+            "track_album": "PRISM (Deluxe)",
+            "track_duration": 215042,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:28:16Z",
+            "uri": "spotify:track:2xLOMHjkOK8nzxJ4r6yOKR"
+        },
+        {
+            "track_id": "0TxXEbxn52XsuAhxb6VFZw",
+            "track_name": "This Kiss",
+            "track_artist": "Faith Hill",
+            "track_album": "The Hits",
+            "track_duration": 194906,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:31:36Z",
+            "uri": "spotify:track:0TxXEbxn52XsuAhxb6VFZw"
+        },
+        {
+            "track_id": "6BoueSxgJU2heOvYVDTBuk",
+            "track_name": "I Do (Cherish You)",
+            "track_artist": "98\u00ba",
+            "track_album": "98 Degrees And Rising",
+            "track_duration": 226580,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:31:48Z",
+            "uri": "spotify:track:6BoueSxgJU2heOvYVDTBuk"
+        },
+        {
+            "track_id": "4lq4yY0y3XqDQZsx03ITaH",
+            "track_name": "I'll Never Break Your Heart",
+            "track_artist": "Backstreet Boys",
+            "track_album": "Backstreet Boys",
+            "track_duration": 287506,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:31:54Z",
+            "uri": "spotify:track:4lq4yY0y3XqDQZsx03ITaH"
+        },
+        {
+            "track_id": "1UI0l2L66HJ9AtoEOlHzv4",
+            "track_name": "Sometimes",
+            "track_artist": "Britney Spears",
+            "track_album": "...Baby One More Time (Digital Deluxe Version)",
+            "track_duration": 245066,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:32:03Z",
+            "uri": "spotify:track:1UI0l2L66HJ9AtoEOlHzv4"
+        },
+        {
+            "track_id": "1AAEWUVZpew24mP6nC1IU5",
+            "track_name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+            "track_artist": "Berlin",
+            "track_album": "Top Gun Deluxe Edition",
+            "track_duration": 254520,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:32:35Z",
+            "uri": "spotify:track:1AAEWUVZpew24mP6nC1IU5"
+        },
+        {
+            "track_id": "1YYhDizHx7PnDhAhko6cDS",
+            "track_name": "Take Me Home, Country Roads",
+            "track_artist": "John Denver",
+            "track_album": "Poems, Prayers and Promises",
+            "track_duration": 190160,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:38:16Z",
+            "uri": "spotify:track:1YYhDizHx7PnDhAhko6cDS"
+        },
+        {
+            "track_id": "3Tows9RnoAq9CmMJaII2cO",
+            "track_name": "Hard Habit to Break - 2006 Remaster",
+            "track_artist": "Chicago",
+            "track_album": "Chicago 17 (Expanded & Remastered)",
+            "track_duration": 283733,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:38:36Z",
+            "uri": "spotify:track:3Tows9RnoAq9CmMJaII2cO"
+        },
+        {
+            "track_id": "19Ym5Sg0YyOCa6ao21bdoG",
+            "track_name": "Gypsy",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Greatest Hits",
+            "track_duration": 264906,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:39:09Z",
+            "uri": "spotify:track:19Ym5Sg0YyOCa6ao21bdoG"
+        },
+        {
+            "track_id": "254bXAqt3zP6P50BdQvEsq",
+            "track_name": "Everywhere - 2017 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Tango In the Night (Deluxe Edition)",
+            "track_duration": 226653,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:40:10Z",
+            "uri": "spotify:track:254bXAqt3zP6P50BdQvEsq"
+        },
+        {
+            "track_id": "07GvNcU1WdyZJq3XxP0kZa",
+            "track_name": "Go Your Own Way - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours",
+            "track_duration": 223613,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:40:27Z",
+            "uri": "spotify:track:07GvNcU1WdyZJq3XxP0kZa"
+        },
+        {
+            "track_id": "3jYRpwbctfqB77uU7T7K3U",
+            "track_name": "Caught Up In You",
+            "track_artist": "38 Special",
+            "track_album": "Special Forces",
+            "track_duration": 279333,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:41:24Z",
+            "uri": "spotify:track:3jYRpwbctfqB77uU7T7K3U"
+        },
+        {
+            "track_id": "7wWw7hBmErNg9u5w6Xx0vy",
+            "track_name": "Make It with You",
+            "track_artist": "Bread",
+            "track_album": "On the Waters",
+            "track_duration": 192200,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:41:39Z",
+            "uri": "spotify:track:7wWw7hBmErNg9u5w6Xx0vy"
+        },
+        {
+            "track_id": "0ofHAoxe9vBkTCp2UQIavz",
+            "track_name": "Dreams - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours (Super Deluxe)",
+            "track_duration": 257800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-09T05:44:13Z",
+            "uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz"
+        },
+        {
+            "track_id": "1Wvl2q8WYfHGyFnpxmv9op",
+            "track_name": "Everytime You Go Away",
+            "track_artist": "Paul Young",
+            "track_album": "Pure... Love",
+            "track_duration": 322813,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-10T15:22:58Z",
+            "uri": "spotify:track:1Wvl2q8WYfHGyFnpxmv9op"
+        },
+        {
+            "track_id": "57HCT9SJ58ZK3JpeQMrdvn",
+            "track_name": "Te necesito",
+            "track_artist": "Hombres G",
+            "track_album": "Las baladas (Los singles vol II)",
+            "track_duration": 246253,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-12T01:08:31Z",
+            "uri": "spotify:track:57HCT9SJ58ZK3JpeQMrdvn"
+        },
+        {
+            "track_id": "4M0m4FUdc4wD2guhUHogLF",
+            "track_name": "Sharing The Night Together",
+            "track_artist": "Dr. Hook",
+            "track_album": "Pleasure & Pain",
+            "track_duration": 174533,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-11T20:49:23Z",
+            "uri": "spotify:track:4M0m4FUdc4wD2guhUHogLF"
+        },
+        {
+            "track_id": "1h22h211rde6dDCeW2hXpN",
+            "track_name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
+            "track_artist": "Joe Cocker",
+            "track_album": "20th Century Masters: The Best Of Joe Cocker (The Millennium Collection)",
+            "track_duration": 232573,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T03:07:55Z",
+            "uri": "spotify:track:1h22h211rde6dDCeW2hXpN"
+        },
+        {
+            "track_id": "29wJiSQcze8HEmxkUQykyp",
+            "track_name": "Carrie",
+            "track_artist": "Europe",
+            "track_album": "The Final Countdown (Expanded Edition)",
+            "track_duration": 272133,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T05:58:54Z",
+            "uri": "spotify:track:29wJiSQcze8HEmxkUQykyp"
+        },
+        {
+            "track_id": "1Eb90nmqTrxylKFhcUzW8P",
+            "track_name": "(Everything I Do) I Do It For You",
+            "track_artist": "Bryan Adams",
+            "track_album": "Waking Up The Neighbours",
+            "track_duration": 393640,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T05:59:03Z",
+            "uri": "spotify:track:1Eb90nmqTrxylKFhcUzW8P"
+        },
+        {
+            "track_id": "0Rfi2wqaCJzUOnXwQhKbyN",
+            "track_name": "Lovesong (The Way) [feat. Bluets]",
+            "track_artist": "Charlie Burg",
+            "track_album": "One, Violet",
+            "track_duration": 239523,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-17T04:04:33Z",
+            "uri": "spotify:track:0Rfi2wqaCJzUOnXwQhKbyN"
+        },
+        {
+            "track_id": "13J4KuQoJaf0ubp9gzPuFo",
+            "track_name": "Inconsolable",
+            "track_artist": "Backstreet Boys",
+            "track_album": "Unbreakable",
+            "track_duration": 216653,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-19T01:23:04Z",
+            "uri": "spotify:track:13J4KuQoJaf0ubp9gzPuFo"
+        },
+        {
+            "track_id": "08pTiz7esTei1eOpIN5T0e",
+            "track_name": "Contigo",
+            "track_artist": "Elefante",
+            "track_album": "Contigo",
+            "track_duration": 216160,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-22T01:31:07Z",
+            "uri": "spotify:track:08pTiz7esTei1eOpIN5T0e"
+        },
+        {
+            "track_id": "5fnOrhQ4KgT5irGCjIccGH",
+            "track_name": "Arthur's Theme (Best That You Can Do)",
+            "track_artist": "Christopher Cross",
+            "track_album": "Arthur - The Album [Original Soundtrack]",
+            "track_duration": 234493,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-11-03T23:08:12Z",
+            "uri": "spotify:track:5fnOrhQ4KgT5irGCjIccGH"
+        },
+        {
+            "track_id": "2flxduIqEbsicdmPyj1WVW",
+            "track_name": "Imagination",
+            "track_artist": "Foster The People",
+            "track_album": "Imagination",
+            "track_duration": 256266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-11-05T14:15:54Z",
+            "uri": "spotify:track:2flxduIqEbsicdmPyj1WVW"
+        },
+        {
+            "track_id": "7kTvXtMERxvwCGcWv68ssH",
+            "track_name": "Sweat (A La La La La Long)",
+            "track_artist": "Inner Circle",
+            "track_album": "Bad To The Bone",
+            "track_duration": 226546,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-11-14T05:00:42Z",
+            "uri": "spotify:track:7kTvXtMERxvwCGcWv68ssH"
+        },
+        {
+            "track_id": "5oHH3wAhMt2McYsA6bBKMw",
+            "track_name": "Temblando",
+            "track_artist": "Hombres G",
+            "track_album": "Las baladas (Los singles vol II)",
+            "track_duration": 190080,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-11-15T07:39:26Z",
+            "uri": "spotify:track:5oHH3wAhMt2McYsA6bBKMw"
+        },
+        {
+            "track_id": "3bR6JvYSnJlzNlyUZbFMWJ",
+            "track_name": "Sentimettal",
+            "track_artist": "Moderatto",
+            "track_album": "\u00a1GRRRR!",
+            "track_duration": 213760,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-11-16T02:45:23Z",
+            "uri": "spotify:track:3bR6JvYSnJlzNlyUZbFMWJ"
+        },
+        {
+            "track_id": "1q8NdCAQ9QUjpYiqzdd3mv",
+            "track_name": "Atr\u00e9vete-Te-Te",
+            "track_artist": "Calle 13",
+            "track_album": "Calle 13 (Explicit Version)",
+            "track_duration": 239306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-11-16T02:51:53Z",
+            "uri": "spotify:track:1q8NdCAQ9QUjpYiqzdd3mv"
+        },
+        {
+            "track_id": "6cy3ki60hLwimwIje7tALf",
+            "track_name": "RITMO (Bad Boys For Life)",
+            "track_artist": "Black Eyed Peas",
+            "track_album": "RITMO (Bad Boys For Life)",
+            "track_duration": 221714,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-11-26T21:32:52Z",
+            "uri": "spotify:track:6cy3ki60hLwimwIje7tALf"
+        },
+        {
+            "track_id": "5U4pDBaeq2Jl2dKuWWUSsh",
+            "track_name": "Ave Mar\u00eda",
+            "track_artist": "David Bisbal",
+            "track_album": "Corazon Latino",
+            "track_duration": 209946,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-15T16:49:14Z",
+            "uri": "spotify:track:5U4pDBaeq2Jl2dKuWWUSsh"
+        },
+        {
+            "track_id": "3RlsVPIIs5KFhLFhxZ4iDF",
+            "track_name": "Rockstar",
+            "track_artist": "Nickelback",
+            "track_album": "All the Right Reasons (Walmart Exclusive Edition)",
+            "track_duration": 252040,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:26:08Z",
+            "uri": "spotify:track:3RlsVPIIs5KFhLFhxZ4iDF"
+        },
+        {
+            "track_id": "4BggEwLhGfrbrl7JBhC8EC",
+            "track_name": "Butterfly",
+            "track_artist": "Crazy Town",
+            "track_album": "The Gift Of Game",
+            "track_duration": 216733,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:26:40Z",
+            "uri": "spotify:track:4BggEwLhGfrbrl7JBhC8EC"
+        },
+        {
+            "track_id": "5itOtNx0WxtJmi1TQ3RuRd",
+            "track_name": "Giant (with Rag'n'Bone Man)",
+            "track_artist": "Calvin Harris",
+            "track_album": "Giant (with Rag'n'Bone Man)",
+            "track_duration": 229184,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:26:58Z",
+            "uri": "spotify:track:5itOtNx0WxtJmi1TQ3RuRd"
+        },
+        {
+            "track_id": "0keKy6pj4UmtUoLQPNDFmm",
+            "track_name": "Vinnetrow Road",
+            "track_artist": "Dutch Criminal Record",
+            "track_album": "Vinnetrow Road",
+            "track_duration": 241621,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:27:05Z",
+            "uri": "spotify:track:0keKy6pj4UmtUoLQPNDFmm"
+        },
+        {
+            "track_id": "7mldq42yDuxiUNn08nvzHO",
+            "track_name": "Body Like A Back Road",
+            "track_artist": "Sam Hunt",
+            "track_album": "Body Like A Back Road",
+            "track_duration": 165386,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:27:27Z",
+            "uri": "spotify:track:7mldq42yDuxiUNn08nvzHO"
+        },
+        {
+            "track_id": "3K0SJUQNbOkUprTFcwwAKN",
+            "track_name": "Jungle Boogie",
+            "track_artist": "Kool & The Gang",
+            "track_album": "Wild And Peaceful",
+            "track_duration": 186533,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T22:02:59Z",
+            "uri": "spotify:track:3K0SJUQNbOkUprTFcwwAKN"
+        },
+        {
+            "track_id": "5yKQTwznar5I75UyYJ9CnR",
+            "track_name": "Pies Descalzos, Sue\u00f1os Blancos",
+            "track_artist": "Shakira",
+            "track_album": "Pies Descalzos",
+            "track_duration": 205800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-27T18:45:25Z",
+            "uri": "spotify:track:5yKQTwznar5I75UyYJ9CnR"
+        },
+        {
+            "track_id": "1JQ6Xm1JrvHfvAqhl5pwaA",
+            "track_name": "Easy",
+            "track_artist": "Commodores",
+            "track_album": "Commodores",
+            "track_duration": 256426,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-27T19:41:22Z",
+            "uri": "spotify:track:1JQ6Xm1JrvHfvAqhl5pwaA"
+        },
+        {
+            "track_id": "1WfcVgyKPrwdQ3Gi7abQBU",
+            "track_name": "True",
+            "track_artist": "Spandau Ballet",
+            "track_album": "Once More",
+            "track_duration": 344266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-31T14:48:26Z",
+            "uri": "spotify:track:1WfcVgyKPrwdQ3Gi7abQBU"
+        },
+        {
+            "track_id": "4xiyq1iRdsxuU1BPUJ490Z",
+            "track_name": "Close To Me",
+            "track_artist": "The Cure",
+            "track_album": "The Head On The Door (Remastered)",
+            "track_duration": 203266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-22T05:39:54Z",
+            "uri": "spotify:track:4xiyq1iRdsxuU1BPUJ490Z"
+        },
+        {
+            "track_id": "1lkvpmrCaXK8QtliFDcHBO",
+            "track_name": "Bubbly",
+            "track_artist": "Colbie Caillat",
+            "track_album": "Coco",
+            "track_duration": 196226,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-23T20:35:13Z",
+            "uri": "spotify:track:1lkvpmrCaXK8QtliFDcHBO"
+        },
+        {
+            "track_id": "1DmoN9uX1oyiyZYSy080yQ",
+            "track_name": "If I Ain't Got You (feat. Usher)",
+            "track_artist": "Alicia Keys",
+            "track_album": "Pure... Love",
+            "track_duration": 231493,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-23T20:49:46Z",
+            "uri": "spotify:track:1DmoN9uX1oyiyZYSy080yQ"
+        },
+        {
+            "track_id": "116H0KvKr2Zl4RPuVBruDO",
+            "track_name": "MIA (feat. Drake)",
+            "track_artist": "Bad Bunny",
+            "track_album": "MIA (feat. Drake)",
+            "track_duration": 210367,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-26T07:34:44Z",
+            "uri": "spotify:track:116H0KvKr2Zl4RPuVBruDO"
+        },
+        {
+            "track_id": "501a6C1zDnBaRu8iLBddhA",
+            "track_name": "Hold On",
+            "track_artist": "Crooked Colours",
+            "track_album": "Langata",
+            "track_duration": 246813,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-01T05:43:02Z",
+            "uri": "spotify:track:501a6C1zDnBaRu8iLBddhA"
+        },
+        {
+            "track_id": "4w2Yq2cklbssmUtUy5Vh6H",
+            "track_name": "Better Man",
+            "track_artist": "Robbie Williams",
+            "track_album": "Sing When You're Winning",
+            "track_duration": 202640,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-04T21:56:52Z",
+            "uri": "spotify:track:4w2Yq2cklbssmUtUy5Vh6H"
+        },
+        {
+            "track_id": "38v9pKVik1eEJhpSuh97oc",
+            "track_name": "Sovereign Light Caf\u00e9",
+            "track_artist": "Keane",
+            "track_album": "Strangeland",
+            "track_duration": 218840,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-04T22:02:04Z",
+            "uri": "spotify:track:38v9pKVik1eEJhpSuh97oc"
+        },
+        {
+            "track_id": "78TnMTAFmWUWWCgNXR7D3K",
+            "track_name": "Listen To Your Heart",
+            "track_artist": "Roxette",
+            "track_album": "Look Sharp! (2009 Version)",
+            "track_duration": 328093,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-04T22:02:23Z",
+            "uri": "spotify:track:78TnMTAFmWUWWCgNXR7D3K"
+        },
+        {
+            "track_id": "1iqQPqYRmkrW8SZ2W7wxA2",
+            "track_name": "Breathe In",
+            "track_artist": "Lucie Silvas",
+            "track_album": "Breathe In",
+            "track_duration": 229053,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-04T22:12:52Z",
+            "uri": "spotify:track:1iqQPqYRmkrW8SZ2W7wxA2"
+        },
+        {
+            "track_id": "3wgzAliQocAzmpi5dEwRqJ",
+            "track_name": "Heaven",
+            "track_artist": "Bryan Adams",
+            "track_album": "Reckless",
+            "track_duration": 243693,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-04T22:18:27Z",
+            "uri": "spotify:track:3wgzAliQocAzmpi5dEwRqJ"
+        },
+        {
+            "track_id": "62GncHY2Zlet2US2ZCtaBU",
+            "track_name": "Dignity",
+            "track_artist": "Deacon Blue",
+            "track_album": "Raintown / When The World Knows Your Name",
+            "track_duration": 238440,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-04T22:22:00Z",
+            "uri": "spotify:track:62GncHY2Zlet2US2ZCtaBU"
+        },
+        {
+            "track_id": "1YW369EbVyjpeLE3YbsjKQ",
+            "track_name": "Love My Life",
+            "track_artist": "Robbie Williams",
+            "track_album": "The Heavy Entertainment Show (Deluxe)",
+            "track_duration": 208320,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-05T02:41:36Z",
+            "uri": "spotify:track:1YW369EbVyjpeLE3YbsjKQ"
+        },
+        {
+            "track_id": "2Ms33RTRCT6gArrpcrPxmo",
+            "track_name": "Feel",
+            "track_artist": "Robbie Williams",
+            "track_album": "Escapology",
+            "track_duration": 263866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-05T03:01:03Z",
+            "uri": "spotify:track:2Ms33RTRCT6gArrpcrPxmo"
+        },
+        {
+            "track_id": "2ldAdghnrO34HPcZ0IWfTu",
+            "track_name": "Ten Feet Tall",
+            "track_artist": "Afrojack",
+            "track_album": "Forget The World (Deluxe)",
+            "track_duration": 229149,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-07T16:42:05Z",
+            "uri": "spotify:track:2ldAdghnrO34HPcZ0IWfTu"
+        },
+        {
+            "track_id": "4kSKacywUJHdhyst4PL6pl",
+            "track_name": "Somethin' Stupid",
+            "track_artist": "Robbie Williams",
+            "track_album": "Swing When You're Winning",
+            "track_duration": 170493,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-10T20:57:16Z",
+            "uri": "spotify:track:4kSKacywUJHdhyst4PL6pl"
+        },
+        {
+            "track_id": "7EVRvvmpDvPbWyLAk1NRsH",
+            "track_name": "Four Leaf Clover",
+            "track_artist": "The Kooks",
+            "track_album": "Let's Go Sunshine",
+            "track_duration": 203081,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-12T04:37:14Z",
+            "uri": "spotify:track:7EVRvvmpDvPbWyLAk1NRsH"
+        },
+        {
+            "track_id": "2tnVG71enUj33Ic2nFN6kZ",
+            "track_name": "Ride It",
+            "track_artist": "Regard",
+            "track_album": "Ride It",
+            "track_duration": 157605,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T02:14:20Z",
+            "uri": "spotify:track:2tnVG71enUj33Ic2nFN6kZ"
+        },
+        {
+            "track_id": "4cVRPrhh7mTVejhx73qA6U",
+            "track_name": "Rock And Roll Never Forgets",
+            "track_artist": "Bob Seger",
+            "track_album": "Night Moves",
+            "track_duration": 232356,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T05:58:21Z",
+            "uri": "spotify:track:4cVRPrhh7mTVejhx73qA6U"
+        },
+        {
+            "track_id": "2OgVsp77En2nju8pnCieVU",
+            "track_name": "Waiting for a Girl like You",
+            "track_artist": "Foreigner",
+            "track_album": "4 (Expanded)",
+            "track_duration": 292066,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T18:07:21Z",
+            "uri": "spotify:track:2OgVsp77En2nju8pnCieVU"
+        },
+        {
+            "track_id": "6xBedrkburGrmhQGvlBfoH",
+            "track_name": "If This Is It",
+            "track_artist": "Huey Lewis & The News",
+            "track_album": "Sports",
+            "track_duration": 234266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T18:07:52Z",
+            "uri": "spotify:track:6xBedrkburGrmhQGvlBfoH"
+        },
+        {
+            "track_id": "7gUMShP1l20tC0xf17Zplk",
+            "track_name": "Ride Like the Wind",
+            "track_artist": "Christopher Cross",
+            "track_album": "Christopher Cross",
+            "track_duration": 275506,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T18:08:07Z",
+            "uri": "spotify:track:7gUMShP1l20tC0xf17Zplk"
+        },
+        {
+            "track_id": "72hpTHMLFrO4ErhSQl2FhZ",
+            "track_name": "Can't Stop Lovin' You",
+            "track_artist": "Van Halen",
+            "track_album": "Balance",
+            "track_duration": 247466,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T18:13:40Z",
+            "uri": "spotify:track:72hpTHMLFrO4ErhSQl2FhZ"
+        },
+        {
+            "track_id": "5NGhngAm1hGOweiROgt3T3",
+            "track_name": "As She's Walking Away (feat. Alan Jackson)",
+            "track_artist": "Zac Brown Band",
+            "track_album": "You Get What You Give",
+            "track_duration": 223826,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-15T22:48:07Z",
+            "uri": "spotify:track:5NGhngAm1hGOweiROgt3T3"
+        },
+        {
+            "track_id": "0AiTIiCQ15NW8QHQwSxKuR",
+            "track_name": "Drowning",
+            "track_artist": "Backstreet Boys",
+            "track_album": "The Hits--Chapter One",
+            "track_duration": 267226,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T02:32:50Z",
+            "uri": "spotify:track:0AiTIiCQ15NW8QHQwSxKuR"
+        },
+        {
+            "track_id": "4lO57zZGFcj7vSY4QhfVDq",
+            "track_name": "She's The One",
+            "track_artist": "Robbie Williams",
+            "track_album": "I've Been Expecting You",
+            "track_duration": 258026,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-17T02:32:52Z",
+            "uri": "spotify:track:4lO57zZGFcj7vSY4QhfVDq"
+        },
+        {
+            "track_id": "6IItbPTlgbmtOrEQ0ddct6",
+            "track_name": "Holding On",
+            "track_artist": "Classixx",
+            "track_album": "Hanging Gardens",
+            "track_duration": 380240,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-07T02:24:39Z",
+            "uri": "spotify:track:6IItbPTlgbmtOrEQ0ddct6"
+        },
+        {
+            "track_id": "5rv4eHaluaLvw9yUSQP9sR",
+            "track_name": "Lisztomania - Classixx Version",
+            "track_artist": "Phoenix",
+            "track_album": "Kitsun\u00e9: Lisztomania Remixes - EP",
+            "track_duration": 304413,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-07T02:24:47Z",
+            "uri": "spotify:track:5rv4eHaluaLvw9yUSQP9sR"
+        },
+        {
+            "track_id": "22LGgFochmXJw5vVr5knDl",
+            "track_name": "Optimista",
+            "track_artist": "Caloncho",
+            "track_album": "B\u00e1lsamo",
+            "track_duration": 212226,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-07T22:11:11Z",
+            "uri": "spotify:track:22LGgFochmXJw5vVr5knDl"
+        },
+        {
+            "track_id": "7eCDfoEl8UGeWqcpRO5lgz",
+            "track_name": "Brillo Mio",
+            "track_artist": "Caloncho",
+            "track_album": "B\u00e1lsamo",
+            "track_duration": 196266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-07T22:11:26Z",
+            "uri": "spotify:track:7eCDfoEl8UGeWqcpRO5lgz"
+        },
+        {
+            "track_id": "1HBDWCrQVjrALiOA5rILnE",
+            "track_name": "Sure Know Something",
+            "track_artist": "KISS",
+            "track_album": "Dynasty",
+            "track_duration": 241506,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-09T21:56:38Z",
+            "uri": "spotify:track:1HBDWCrQVjrALiOA5rILnE"
+        },
+        {
+            "track_id": "6m3MU9YQIwqcAnXgbL4vgI",
+            "track_name": "Amigo Mujer",
+            "track_artist": "Caloncho",
+            "track_album": "B\u00e1lsamo",
+            "track_duration": 213200,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-10T05:45:29Z",
+            "uri": "spotify:track:6m3MU9YQIwqcAnXgbL4vgI"
+        }
+    ]
+}
