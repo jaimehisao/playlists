@@ -1,0 +1,475 @@
+{
+    "id": "0pBkOo32CHYQdDx9RADmz2",
+    "tracks": [
+        {
+            "track_id": "4kbj5MwxO1bq9wjT5g9HaA",
+            "track_name": "Shut Up and Dance",
+            "track_artist": "WALK THE MOON",
+            "track_album": "TALKING IS HARD",
+            "track_duration": 199080,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:09:53Z",
+            "uri": "spotify:track:4kbj5MwxO1bq9wjT5g9HaA"
+        },
+        {
+            "track_id": "6Z8R6UsFuGXGtiIxiD8ISb",
+            "track_name": "Safe And Sound",
+            "track_artist": "Capital Cities",
+            "track_album": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+            "track_duration": 192789,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:10:01Z",
+            "uri": "spotify:track:6Z8R6UsFuGXGtiIxiD8ISb"
+        },
+        {
+            "track_id": "1rqqCSm0Qe4I9rUvWncaom",
+            "track_name": "High Hopes",
+            "track_artist": "Panic! At The Disco",
+            "track_album": "Pray for the Wicked",
+            "track_duration": 190946,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:10:11Z",
+            "uri": "spotify:track:1rqqCSm0Qe4I9rUvWncaom"
+        },
+        {
+            "track_id": "2Rk4JlNc2TPmZe2af99d45",
+            "track_name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 193000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:10:26Z",
+            "uri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
+        },
+        {
+            "track_id": "4wNIkl5XGiAACjFBlDWuSd",
+            "track_name": "What A Man Gotta Do",
+            "track_artist": "Jonas Brothers",
+            "track_album": "What A Man Gotta Do",
+            "track_duration": 180644,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:10:30Z",
+            "uri": "spotify:track:4wNIkl5XGiAACjFBlDWuSd"
+        },
+        {
+            "track_id": "0hVXuCcriWRGvwMV1r5Yn9",
+            "track_name": "I Don't Care (with Justin Bieber)",
+            "track_artist": "Ed Sheeran",
+            "track_album": "No.6 Collaborations Project",
+            "track_duration": 219946,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:03Z",
+            "uri": "spotify:track:0hVXuCcriWRGvwMV1r5Yn9"
+        },
+        {
+            "track_id": "2bT1PH7Cw3J9p3t7nlXCdh",
+            "track_name": "If I Can't Have You",
+            "track_artist": "Shawn Mendes",
+            "track_album": "Shawn Mendes (Deluxe)",
+            "track_duration": 191466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:05Z",
+            "uri": "spotify:track:2bT1PH7Cw3J9p3t7nlXCdh"
+        },
+        {
+            "track_id": "22vgEDb5hykfaTwLuskFGD",
+            "track_name": "Sucker",
+            "track_artist": "Jonas Brothers",
+            "track_album": "Happiness Begins",
+            "track_duration": 181026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:09Z",
+            "uri": "spotify:track:22vgEDb5hykfaTwLuskFGD"
+        },
+        {
+            "track_id": "5Hroj5K7vLpIG4FNCRIjbP",
+            "track_name": "Best Day Of My Life",
+            "track_artist": "American Authors",
+            "track_album": "Oh, What A Life",
+            "track_duration": 194240,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:12Z",
+            "uri": "spotify:track:5Hroj5K7vLpIG4FNCRIjbP"
+        },
+        {
+            "track_id": "1zB4vmk8tFRmM9UULNzbLB",
+            "track_name": "Thunder",
+            "track_artist": "Imagine Dragons",
+            "track_album": "Evolve",
+            "track_duration": 187146,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:15Z",
+            "uri": "spotify:track:1zB4vmk8tFRmM9UULNzbLB"
+        },
+        {
+            "track_id": "5k5fWendNngd89O8JKoE8L",
+            "track_name": "Better When I'm Dancin'",
+            "track_artist": "Meghan Trainor",
+            "track_album": "Better When I'm Dancin'",
+            "track_duration": 176266,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:17Z",
+            "uri": "spotify:track:5k5fWendNngd89O8JKoE8L"
+        },
+        {
+            "track_id": "32OlwWuMpZ6b0aN2RZOeMS",
+            "track_name": "Uptown Funk (feat. Bruno Mars)",
+            "track_artist": "Mark Ronson",
+            "track_album": "Uptown Special",
+            "track_duration": 269666,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:18Z",
+            "uri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS"
+        },
+        {
+            "track_id": "0cqRj7pUJDkTCEsJkx8snD",
+            "track_name": "Shake It Off",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 219200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:20Z",
+            "uri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
+        },
+        {
+            "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
+            "track_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "track_artist": "Post Malone",
+            "track_album": "Hollywood's Bleeding",
+            "track_duration": 157560,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:22Z",
+            "uri": "spotify:track:0RiRZpuVRbi7oqRdSMwhQY"
+        },
+        {
+            "track_id": "3E7dfMvvCLUddWissuqMwr",
+            "track_name": "Party In The U.S.A.",
+            "track_artist": "Miley Cyrus",
+            "track_album": "The Time Of Our Lives (International Version)",
+            "track_duration": 202066,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:43Z",
+            "uri": "spotify:track:3E7dfMvvCLUddWissuqMwr"
+        },
+        {
+            "track_id": "4cluDES4hQEUhmXj6TXkSo",
+            "track_name": "What Makes You Beautiful",
+            "track_artist": "One Direction",
+            "track_album": "Up All Night",
+            "track_duration": 199986,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:44Z",
+            "uri": "spotify:track:4cluDES4hQEUhmXj6TXkSo"
+        },
+        {
+            "track_id": "1kPpge9JDLpcj15qgrPbYX",
+            "track_name": "Good Time",
+            "track_artist": "Owl City",
+            "track_album": "The Midsummer Station",
+            "track_duration": 205933,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:50Z",
+            "uri": "spotify:track:1kPpge9JDLpcj15qgrPbYX"
+        },
+        {
+            "track_id": "5T7ZFtCcOgkpjxcuaeZbw0",
+            "track_name": "Best Song Ever",
+            "track_artist": "One Direction",
+            "track_album": "Midnight Memories (Deluxe)",
+            "track_duration": 200106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:53Z",
+            "uri": "spotify:track:5T7ZFtCcOgkpjxcuaeZbw0"
+        },
+        {
+            "track_id": "7qiZfU4dY1lWllzX7mPBI3",
+            "track_name": "Shape of You",
+            "track_artist": "Ed Sheeran",
+            "track_album": "\u00f7 (Deluxe)",
+            "track_duration": 233712,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:13:59Z",
+            "uri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+        },
+        {
+            "track_id": "6RUKPb4LETWmmr3iAEQktW",
+            "track_name": "Something Just Like This",
+            "track_artist": "The Chainsmokers",
+            "track_album": "Memories...Do Not Open",
+            "track_duration": 247160,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:03Z",
+            "uri": "spotify:track:6RUKPb4LETWmmr3iAEQktW"
+        },
+        {
+            "track_id": "2P91MQbaiQOfbiz9VqhqKQ",
+            "track_name": "I Like Me Better",
+            "track_artist": "Lauv",
+            "track_album": "I met you when I was 18. (the playlist)",
+            "track_duration": 197436,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:06Z",
+            "uri": "spotify:track:2P91MQbaiQOfbiz9VqhqKQ"
+        },
+        {
+            "track_id": "6UelLqGlWMcVH1E5c4H7lY",
+            "track_name": "Watermelon Sugar",
+            "track_artist": "Harry Styles",
+            "track_album": "Fine Line",
+            "track_duration": 174000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:08Z",
+            "uri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+        },
+        {
+            "track_id": "4HlFJV71xXKIGcU3kRyttv",
+            "track_name": "Hey, Soul Sister",
+            "track_artist": "Train",
+            "track_album": "Save Me, San Francisco (Golden Gate Edition)",
+            "track_duration": 216773,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:09Z",
+            "uri": "spotify:track:4HlFJV71xXKIGcU3kRyttv"
+        },
+        {
+            "track_id": "05wIrZSwuaVWhcv5FfqeH0",
+            "track_name": "Walking On Sunshine",
+            "track_artist": "Katrina & The Waves",
+            "track_album": "Katrina & The Waves",
+            "track_duration": 238733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:21Z",
+            "uri": "spotify:track:05wIrZSwuaVWhcv5FfqeH0"
+        },
+        {
+            "track_id": "6ce41JVa6KFaryfmC2bu2W",
+            "track_name": "22",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Big Machine Radio Release Special)",
+            "track_duration": 232120,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:22Z",
+            "uri": "spotify:track:6ce41JVa6KFaryfmC2bu2W"
+        },
+        {
+            "track_id": "7vFoFDWqTX0mHzLfrF1Cfy",
+            "track_name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+            "track_artist": "OMI",
+            "track_album": "Me 4 U",
+            "track_duration": 180565,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:27Z",
+            "uri": "spotify:track:7vFoFDWqTX0mHzLfrF1Cfy"
+        },
+        {
+            "track_id": "2Fs18NaCDuluPG1DHGw1XG",
+            "track_name": "Life is a Highway",
+            "track_artist": "Rascal Flatts",
+            "track_album": "Me And My Gang",
+            "track_duration": 276320,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T18:14:28Z",
+            "uri": "spotify:track:2Fs18NaCDuluPG1DHGw1XG"
+        },
+        {
+            "track_id": "4e4fqjx0Izh4svvTef1z7e",
+            "track_name": "Meant to Be (feat. Florida Georgia Line)",
+            "track_artist": "Bebe Rexha",
+            "track_album": "Expectations",
+            "track_duration": 164205,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:47:30Z",
+            "uri": "spotify:track:4e4fqjx0Izh4svvTef1z7e"
+        },
+        {
+            "track_id": "2tUBqZG2AbRi7Q0BIrVrEj",
+            "track_name": "I Wanna Dance with Somebody (Who Loves Me)",
+            "track_artist": "Whitney Houston",
+            "track_album": "Whitney",
+            "track_duration": 291293,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:47:34Z",
+            "uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj"
+        },
+        {
+            "track_id": "3DmW6y7wTEYHJZlLo1r6XJ",
+            "track_name": "Shower",
+            "track_artist": "Becky G",
+            "track_album": "Shower",
+            "track_duration": 206166,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:47:45Z",
+            "uri": "spotify:track:3DmW6y7wTEYHJZlLo1r6XJ"
+        },
+        {
+            "track_id": "2LEF1A8DOZ9wRYikWgVlZ8",
+            "track_name": "Good Feeling",
+            "track_artist": "Flo Rida",
+            "track_album": "Wild Ones",
+            "track_duration": 248133,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:50:19Z",
+            "uri": "spotify:track:2LEF1A8DOZ9wRYikWgVlZ8"
+        },
+        {
+            "track_id": "5y6pj7OeBFF0CVgZKhRbOG",
+            "track_name": "Black Magic",
+            "track_artist": "Little Mix",
+            "track_album": "Get Weird (Deluxe)",
+            "track_duration": 211773,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:50:36Z",
+            "uri": "spotify:track:5y6pj7OeBFF0CVgZKhRbOG"
+        },
+        {
+            "track_id": "3avYqdwHKEq8beXbeWCKqJ",
+            "track_name": "Last Friday Night (T.G.I.F.)",
+            "track_artist": "Katy Perry",
+            "track_album": "Teenage Dream",
+            "track_duration": 230733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:51:26Z",
+            "uri": "spotify:track:3avYqdwHKEq8beXbeWCKqJ"
+        },
+        {
+            "track_id": "1Je1IMUlBXcx1Fz0WE7oPT",
+            "track_name": "Wannabe",
+            "track_artist": "Spice Girls",
+            "track_album": "Spice",
+            "track_duration": 173026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:51:32Z",
+            "uri": "spotify:track:1Je1IMUlBXcx1Fz0WE7oPT"
+        },
+        {
+            "track_id": "77W6VUoJdasCQgjc5DW19q",
+            "track_name": "Wings",
+            "track_artist": "Little Mix",
+            "track_album": "DNA: The Deluxe Edition",
+            "track_duration": 219733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:51:33Z",
+            "uri": "spotify:track:77W6VUoJdasCQgjc5DW19q"
+        },
+        {
+            "track_id": "5vTPxzm4h2bY9rYyVrGEU5",
+            "track_name": "Really Don't Care",
+            "track_artist": "Demi Lovato",
+            "track_album": "Demi",
+            "track_duration": 201600,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:52:09Z",
+            "uri": "spotify:track:5vTPxzm4h2bY9rYyVrGEU5"
+        },
+        {
+            "track_id": "3bidbhpOYeV4knp8AIu8Xn",
+            "track_name": "Can't Hold Us (feat. Ray Dalton)",
+            "track_artist": "Macklemore & Ryan Lewis",
+            "track_album": "The Heist",
+            "track_duration": 258342,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:52:12Z",
+            "uri": "spotify:track:3bidbhpOYeV4knp8AIu8Xn"
+        },
+        {
+            "track_id": "1oHNvJVbFkexQc0BpQp7Y4",
+            "track_name": "Starships",
+            "track_artist": "Nicki Minaj",
+            "track_album": "Pink Friday ... Roman Reloaded",
+            "track_duration": 210626,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:52:25Z",
+            "uri": "spotify:track:1oHNvJVbFkexQc0BpQp7Y4"
+        },
+        {
+            "track_id": "0iYebKFUSfF72fUu2OW6ZT",
+            "track_name": "Super Bass",
+            "track_artist": "Nicki Minaj",
+            "track_album": "Pink Friday (Deluxe)",
+            "track_duration": 200013,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:53:08Z",
+            "uri": "spotify:track:0iYebKFUSfF72fUu2OW6ZT"
+        },
+        {
+            "track_id": "27tNWlhdAryQY04Gb2ZhUI",
+            "track_name": "Roar",
+            "track_artist": "Katy Perry",
+            "track_album": "PRISM",
+            "track_duration": 223546,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-15T21:56:45Z",
+            "uri": "spotify:track:27tNWlhdAryQY04Gb2ZhUI"
+        },
+        {
+            "track_id": "1Cv1YLb4q0RzL6pybtaMLo",
+            "track_name": "Sunday Best",
+            "track_artist": "Surfaces",
+            "track_album": "Where the Light Is",
+            "track_duration": 158571,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-16T02:23:33Z",
+            "uri": "spotify:track:1Cv1YLb4q0RzL6pybtaMLo"
+        },
+        {
+            "track_id": "5xvUgoVED1F4mBu8FL0HaW",
+            "track_name": "Ready or Not",
+            "track_artist": "Bridgit Mendler",
+            "track_album": "Hello My Name Is...",
+            "track_duration": 200946,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-16T03:03:04Z",
+            "uri": "spotify:track:5xvUgoVED1F4mBu8FL0HaW"
+        },
+        {
+            "track_id": "7EQGXaVSyEDsCWKmUcfpLk",
+            "track_name": "Die Young",
+            "track_artist": "Kesha",
+            "track_album": "Warrior (Expanded Edition)",
+            "track_duration": 211920,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-16T03:03:10Z",
+            "uri": "spotify:track:7EQGXaVSyEDsCWKmUcfpLk"
+        },
+        {
+            "track_id": "4My8w8AA1JpG6E5SiAPvJL",
+            "track_name": "Kiss You",
+            "track_artist": "One Direction",
+            "track_album": "Take Me Home (Expanded Edition)",
+            "track_duration": 182866,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-16T03:03:15Z",
+            "uri": "spotify:track:4My8w8AA1JpG6E5SiAPvJL"
+        },
+        {
+            "track_id": "1mCsF9Tw4AkIZOjvZbZZdT",
+            "track_name": "Break My Stride",
+            "track_artist": "Matthew Wilder",
+            "track_album": "I Don't Speak The Language",
+            "track_duration": 184480,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-09-25T14:38:49Z",
+            "uri": "spotify:track:1mCsF9Tw4AkIZOjvZbZZdT"
+        },
+        {
+            "track_id": "3615sTQ5vxerUDBLSKRfds",
+            "track_name": "I'm Coming Out",
+            "track_artist": "Diana Ross",
+            "track_album": "20th Century Masters: The Millennium Collection: Best of Diana Ross",
+            "track_duration": 324333,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-09-30T19:34:01Z",
+            "uri": "spotify:track:3615sTQ5vxerUDBLSKRfds"
+        },
+        {
+            "track_id": "3cHyrEgdyYRjgJKSOiOtcS",
+            "track_name": "Timber (feat. Ke$ha)",
+            "track_artist": "Pitbull",
+            "track_album": "Global Warming: Meltdown (Deluxe Version)",
+            "track_duration": 204160,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-09-03T01:25:09Z",
+            "uri": "spotify:track:3cHyrEgdyYRjgJKSOiOtcS"
+        }
+    ]
+}
