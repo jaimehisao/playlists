@@ -1,0 +1,895 @@
+{
+    "id": "716hzRj5SaKUcGoGSixmsv",
+    "tracks": [
+        {
+            "track_id": "17FEpCqKLVOIMHp35sUIlg",
+            "track_name": "Crashing into You",
+            "track_artist": "Vance Joy",
+            "track_album": "Nation of Two",
+            "track_duration": 188133,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:30:45Z",
+            "uri": "spotify:track:17FEpCqKLVOIMHp35sUIlg"
+        },
+        {
+            "track_id": "2hGQDYmjkwTS0J7Q2bM2sF",
+            "track_name": "Mind Is A Prison",
+            "track_artist": "Alec Benjamin",
+            "track_album": "These Two Windows",
+            "track_duration": 161697,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:31:26Z",
+            "uri": "spotify:track:2hGQDYmjkwTS0J7Q2bM2sF"
+        },
+        {
+            "track_id": "3iQjudKcOPBZQ5tDHFINHd",
+            "track_name": "Queen Songs / human.",
+            "track_artist": "Judah & the Lion",
+            "track_album": "Pep Talks",
+            "track_duration": 480893,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:32:04Z",
+            "uri": "spotify:track:3iQjudKcOPBZQ5tDHFINHd"
+        },
+        {
+            "track_id": "3k5oLgungD1dSOGLqQdIQw",
+            "track_name": "Texas Sun",
+            "track_artist": "Khruangbin",
+            "track_album": "Texas Sun",
+            "track_duration": 252811,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:33:07Z",
+            "uri": "spotify:track:3k5oLgungD1dSOGLqQdIQw"
+        },
+        {
+            "track_id": "0VcVy0kpfwyd5rMS5URyVD",
+            "track_name": "Joyride",
+            "track_artist": "Adam Melchor",
+            "track_album": "Joyride",
+            "track_duration": 212945,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:34:21Z",
+            "uri": "spotify:track:0VcVy0kpfwyd5rMS5URyVD"
+        },
+        {
+            "track_id": "57HJa4ktE7iHGrbFhwzEr2",
+            "track_name": "Fuzzybrain",
+            "track_artist": "Dayglow",
+            "track_album": "Fuzzybrain",
+            "track_duration": 219428,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:35:08Z",
+            "uri": "spotify:track:57HJa4ktE7iHGrbFhwzEr2"
+        },
+        {
+            "track_id": "3OM0KP9JWirEE5q2qU3zS9",
+            "track_name": "Deep Sea Diver",
+            "track_artist": "Briston Maroney",
+            "track_album": "Deep Sea Diver",
+            "track_duration": 222586,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:35:33Z",
+            "uri": "spotify:track:3OM0KP9JWirEE5q2qU3zS9"
+        },
+        {
+            "track_id": "3pdaoKvvkDRW5ed0LM2LBe",
+            "track_name": "Coincidental",
+            "track_artist": "Betcha",
+            "track_album": "Falling",
+            "track_duration": 260293,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:36:12Z",
+            "uri": "spotify:track:3pdaoKvvkDRW5ed0LM2LBe"
+        },
+        {
+            "track_id": "73WyCOipkJRtIH8klizJd5",
+            "track_name": "Strangers",
+            "track_artist": "Mt. Joy",
+            "track_album": "Strangers",
+            "track_duration": 193186,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T15:36:36Z",
+            "uri": "spotify:track:73WyCOipkJRtIH8klizJd5"
+        },
+        {
+            "track_id": "4O7kxdfjLOFUwIB6Q63ScX",
+            "track_name": "October Skies",
+            "track_artist": "Mumford & Sons",
+            "track_album": "Delta",
+            "track_duration": 223685,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T16:33:57Z",
+            "uri": "spotify:track:4O7kxdfjLOFUwIB6Q63ScX"
+        },
+        {
+            "track_id": "6pCBRjjwhfyafZQPWx8KPK",
+            "track_name": "Rose Of Sharon",
+            "track_artist": "Mumford & Sons",
+            "track_album": "Delta",
+            "track_duration": 203700,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T16:34:20Z",
+            "uri": "spotify:track:6pCBRjjwhfyafZQPWx8KPK"
+        },
+        {
+            "track_id": "5ykbOijJEfRhuo2Td1m0Qd",
+            "track_name": "7",
+            "track_artist": "Catfish and the Bottlemen",
+            "track_album": "The Ride",
+            "track_duration": 256306,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T17:02:11Z",
+            "uri": "spotify:track:5ykbOijJEfRhuo2Td1m0Qd"
+        },
+        {
+            "track_id": "6QTPacyXkZWG9FMwq6L1hJ",
+            "track_name": "Love You For A Long Time",
+            "track_artist": "Maggie Rogers",
+            "track_album": "Love You For A Long Time",
+            "track_duration": 223120,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T18:33:06Z",
+            "uri": "spotify:track:6QTPacyXkZWG9FMwq6L1hJ"
+        },
+        {
+            "track_id": "0fqjy5gVNVmQQmxOLLfb3c",
+            "track_name": "Take Your Time",
+            "track_artist": "Vance Joy",
+            "track_album": "Nation of Two",
+            "track_duration": 217173,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T18:33:11Z",
+            "uri": "spotify:track:0fqjy5gVNVmQQmxOLLfb3c"
+        },
+        {
+            "track_id": "44uOreAESeRIBaxkuCW4wN",
+            "track_name": "Sleep On The Floor",
+            "track_artist": "The Lumineers",
+            "track_album": "Cleopatra",
+            "track_duration": 211851,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T18:36:48Z",
+            "uri": "spotify:track:44uOreAESeRIBaxkuCW4wN"
+        },
+        {
+            "track_id": "4RC5YmcpCbRsX3AtRzoQeh",
+            "track_name": "Over Again",
+            "track_artist": "One Direction",
+            "track_album": "Take Me Home: Yearbook Edition",
+            "track_duration": 182200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T18:43:09Z",
+            "uri": "spotify:track:4RC5YmcpCbRsX3AtRzoQeh"
+        },
+        {
+            "track_id": "20svOpmCQao5GUBgSu8zDe",
+            "track_name": "Rivers and Roads",
+            "track_artist": "The Head And The Heart",
+            "track_album": "The Head and the Heart",
+            "track_duration": 284000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:33:56Z",
+            "uri": "spotify:track:20svOpmCQao5GUBgSu8zDe"
+        },
+        {
+            "track_id": "6Qwuw0eOeszVlewLpu24gR",
+            "track_name": "I'm with You",
+            "track_artist": "Vance Joy",
+            "track_album": "Nation of Two",
+            "track_duration": 239786,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:36:53Z",
+            "uri": "spotify:track:6Qwuw0eOeszVlewLpu24gR"
+        },
+        {
+            "track_id": "6Zz5CiVpQk2Fz2nV8m3YQm",
+            "track_name": "Angela",
+            "track_artist": "The Lumineers",
+            "track_album": "Cleopatra",
+            "track_duration": 201785,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:37:10Z",
+            "uri": "spotify:track:6Zz5CiVpQk2Fz2nV8m3YQm"
+        },
+        {
+            "track_id": "72zmwnbXjx9fMUjw3mbDSs",
+            "track_name": "All We Ever Knew",
+            "track_artist": "The Head And The Heart",
+            "track_album": "Signs of Light",
+            "track_duration": 225560,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:40:09Z",
+            "uri": "spotify:track:72zmwnbXjx9fMUjw3mbDSs"
+        },
+        {
+            "track_id": "2uhEKg8kIzpdvz4gyy6x8W",
+            "track_name": "Only Love",
+            "track_artist": "Ben Howard",
+            "track_album": "Every Kingdom",
+            "track_duration": 249173,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:40:11Z",
+            "uri": "spotify:track:2uhEKg8kIzpdvz4gyy6x8W"
+        },
+        {
+            "track_id": "3hRV0jL3vUpRrcy398teAU",
+            "track_name": "The Night We Met",
+            "track_artist": "Lord Huron",
+            "track_album": "Strange Trails",
+            "track_duration": 208211,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:40:20Z",
+            "uri": "spotify:track:3hRV0jL3vUpRrcy398teAU"
+        },
+        {
+            "track_id": "5L7IgwUPhir2FJftGNXJDW",
+            "track_name": "Heart",
+            "track_artist": "Rainbow Kitten Surprise",
+            "track_album": "Mary (b-sides)",
+            "track_duration": 219696,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:40:53Z",
+            "uri": "spotify:track:5L7IgwUPhir2FJftGNXJDW"
+        },
+        {
+            "track_id": "1IFRVS4t1olI0XG9RBWdKH",
+            "track_name": "The Girl",
+            "track_artist": "City and Colour",
+            "track_album": "Bring Me Your Love (Special Edition)",
+            "track_duration": 360106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:40:56Z",
+            "uri": "spotify:track:1IFRVS4t1olI0XG9RBWdKH"
+        },
+        {
+            "track_id": "7CEV9VwA8XO9wwxTXgYKvY",
+            "track_name": "I And Love And You",
+            "track_artist": "The Avett Brothers",
+            "track_album": "I And Love And You",
+            "track_duration": 300840,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:41:03Z",
+            "uri": "spotify:track:7CEV9VwA8XO9wwxTXgYKvY"
+        },
+        {
+            "track_id": "1OwHOfTeJkdRhdqq93y2XV",
+            "track_name": "Need The Sun To Break",
+            "track_artist": "James Bay",
+            "track_album": "Chaos And The Calm",
+            "track_duration": 224813,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:41:18Z",
+            "uri": "spotify:track:1OwHOfTeJkdRhdqq93y2XV"
+        },
+        {
+            "track_id": "22GUd9JOxhSidGguHxf3Nu",
+            "track_name": "All My Love",
+            "track_artist": "George Ezra",
+            "track_album": "Staying at Tamara's",
+            "track_duration": 160950,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:41:36Z",
+            "uri": "spotify:track:22GUd9JOxhSidGguHxf3Nu"
+        },
+        {
+            "track_id": "0hLObGB9xRjuRVasHehmLI",
+            "track_name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+            "track_artist": "Yoke Lore",
+            "track_album": "Spotify Singles",
+            "track_duration": 190392,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-14T20:41:40Z",
+            "uri": "spotify:track:0hLObGB9xRjuRVasHehmLI"
+        },
+        {
+            "track_id": "0NdTUS4UiNYCNn5FgVqKQY",
+            "track_name": "Snap Out Of It",
+            "track_artist": "Arctic Monkeys",
+            "track_album": "AM",
+            "track_duration": 193030,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-15T05:05:58Z",
+            "uri": "spotify:track:0NdTUS4UiNYCNn5FgVqKQY"
+        },
+        {
+            "track_id": "0xmtSOofR05Lu0ggb5lZ7X",
+            "track_name": "Red Hot Lights",
+            "track_artist": "Moon Taxi",
+            "track_album": "Daybreaker",
+            "track_duration": 210906,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-16T03:54:50Z",
+            "uri": "spotify:track:0xmtSOofR05Lu0ggb5lZ7X"
+        },
+        {
+            "track_id": "5TTGoX70AFrTvuEtqHK37S",
+            "track_name": "No. 1 Party Anthem",
+            "track_artist": "Arctic Monkeys",
+            "track_album": "AM",
+            "track_duration": 243131,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-16T16:42:00Z",
+            "uri": "spotify:track:5TTGoX70AFrTvuEtqHK37S"
+        },
+        {
+            "track_id": "5xoUgPXbMNUmoHU0Enwtwq",
+            "track_name": "She Moves In Her Own Way",
+            "track_artist": "The Kooks",
+            "track_album": "Inside In / Inside Out",
+            "track_duration": 169306,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-16T17:47:13Z",
+            "uri": "spotify:track:5xoUgPXbMNUmoHU0Enwtwq"
+        },
+        {
+            "track_id": "4lMwlBtIrYootJyUTTs3SE",
+            "track_name": "Taking Pictures Of You",
+            "track_artist": "The Kooks",
+            "track_album": "Junk Of The Heart",
+            "track_duration": 161982,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-16T18:05:37Z",
+            "uri": "spotify:track:4lMwlBtIrYootJyUTTs3SE"
+        },
+        {
+            "track_id": "5NORWMFC27ywGSZxi8uquP",
+            "track_name": "Ophelia",
+            "track_artist": "The Lumineers",
+            "track_album": "Cleopatra",
+            "track_duration": 160097,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-16T18:23:25Z",
+            "uri": "spotify:track:5NORWMFC27ywGSZxi8uquP"
+        },
+        {
+            "track_id": "2QUlMbvD9bL8wHqfsoqoet",
+            "track_name": "Stop The World I Wanna Get Off With You",
+            "track_artist": "Arctic Monkeys",
+            "track_album": "Why'd You Only Call Me When You're High?",
+            "track_duration": 191040,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-16T22:05:07Z",
+            "uri": "spotify:track:2QUlMbvD9bL8wHqfsoqoet"
+        },
+        {
+            "track_id": "5CalS8Gn69OOrR9aiw0ZO9",
+            "track_name": "Honeybee",
+            "track_artist": "The Head And The Heart",
+            "track_album": "Living Mirage",
+            "track_duration": 196055,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-17T00:24:15Z",
+            "uri": "spotify:track:5CalS8Gn69OOrR9aiw0ZO9"
+        },
+        {
+            "track_id": "75uDsw2UW51hT2ZrjYEK19",
+            "track_name": "Honey Bee",
+            "track_artist": "The Kooks",
+            "track_album": "Let's Go Sunshine",
+            "track_duration": 137754,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-17T00:25:02Z",
+            "uri": "spotify:track:75uDsw2UW51hT2ZrjYEK19"
+        },
+        {
+            "track_id": "7bMkcxifc4EjIQKw49EC7h",
+            "track_name": "September Song - Guitar Acoustic",
+            "track_artist": "JP Cooper",
+            "track_album": "Raised Under Grey Skies (Deluxe)",
+            "track_duration": 212152,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-17T01:16:53Z",
+            "uri": "spotify:track:7bMkcxifc4EjIQKw49EC7h"
+        },
+        {
+            "track_id": "2c62Xf5Po1YSa1N6LOjPHy",
+            "track_name": "Hello My Old Heart",
+            "track_artist": "The Oh Hellos",
+            "track_album": "The Oh Hellos EP",
+            "track_duration": 256006,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-17T01:17:23Z",
+            "uri": "spotify:track:2c62Xf5Po1YSa1N6LOjPHy"
+        },
+        {
+            "track_id": "5uCax9HTNlzGybIStD3vDh",
+            "track_name": "Say You Won't Let Go",
+            "track_artist": "James Arthur",
+            "track_album": "Back from the Edge",
+            "track_duration": 211466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-17T02:01:00Z",
+            "uri": "spotify:track:5uCax9HTNlzGybIStD3vDh"
+        },
+        {
+            "track_id": "6C6xqMptwc0qjFo1KzCzX3",
+            "track_name": "Long Way From Home",
+            "track_artist": "The Lumineers",
+            "track_album": "Cleopatra",
+            "track_duration": 152280,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-17T21:23:45Z",
+            "uri": "spotify:track:6C6xqMptwc0qjFo1KzCzX3"
+        },
+        {
+            "track_id": "708HrtYYClY6j6EOiToEBy",
+            "track_name": "Pride (with mxmtoon)",
+            "track_artist": "Noah Kahan",
+            "track_album": "Pride",
+            "track_duration": 169453,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-24T07:20:05Z",
+            "uri": "spotify:track:708HrtYYClY6j6EOiToEBy"
+        },
+        {
+            "track_id": "1O311g0sdTeNGr7nusQteS",
+            "track_name": "My Vibe",
+            "track_artist": "Mt. Joy",
+            "track_album": "Rearrange Us",
+            "track_duration": 157266,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-25T03:31:14Z",
+            "uri": "spotify:track:1O311g0sdTeNGr7nusQteS"
+        },
+        {
+            "track_id": "6YRLMz4DOqNtGCvqGR2E0N",
+            "track_name": "I CHOOSE YOU",
+            "track_artist": "Adam Melchor",
+            "track_album": "I CHOOSE YOU",
+            "track_duration": 217807,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-26T00:02:09Z",
+            "uri": "spotify:track:6YRLMz4DOqNtGCvqGR2E0N"
+        },
+        {
+            "track_id": "5lO1htX1UPjwyItDLurhR5",
+            "track_name": "baseball",
+            "track_artist": "Hippo Campus",
+            "track_album": "warm glow",
+            "track_duration": 198106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-26T18:26:35Z",
+            "uri": "spotify:track:5lO1htX1UPjwyItDLurhR5"
+        },
+        {
+            "track_id": "5X0zqWSaSnulsbf74CrljV",
+            "track_name": "Someday We'll Know",
+            "track_artist": "New Radicals",
+            "track_album": "Maybe You've Been Brainwashed Too",
+            "track_duration": 217466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-10-27T02:58:11Z",
+            "uri": "spotify:track:5X0zqWSaSnulsbf74CrljV"
+        },
+        {
+            "track_id": "47Bg6IrMed1GPbxRgwH2aC",
+            "track_name": "Best Friend",
+            "track_artist": "Rex Orange County",
+            "track_album": "Best Friend",
+            "track_duration": 262231,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-02T21:18:27Z",
+            "uri": "spotify:track:47Bg6IrMed1GPbxRgwH2aC"
+        },
+        {
+            "track_id": "1AsQFm7ORbr4NEZ0dUltOY",
+            "track_name": "Way It Goes",
+            "track_artist": "Hippo Campus",
+            "track_album": "Landmark",
+            "track_duration": 245456,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-02T21:30:43Z",
+            "uri": "spotify:track:1AsQFm7ORbr4NEZ0dUltOY"
+        },
+        {
+            "track_id": "4EpZ4eYuZOwPSSwyqpdHnJ",
+            "track_name": "Sunflower",
+            "track_artist": "Rex Orange County",
+            "track_album": "Sunflower",
+            "track_duration": 252230,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-02T21:31:05Z",
+            "uri": "spotify:track:4EpZ4eYuZOwPSSwyqpdHnJ"
+        },
+        {
+            "track_id": "6VrAgFXBbRX2PkT92lAoKK",
+            "track_name": "Can't Help Falling in Love",
+            "track_artist": "Christian Leave",
+            "track_album": "Hope",
+            "track_duration": 135714,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-02T21:39:15Z",
+            "uri": "spotify:track:6VrAgFXBbRX2PkT92lAoKK"
+        },
+        {
+            "track_id": "64lsIF5pw0sJY0gV5kz0RN",
+            "track_name": "Can I Call You Tonight?",
+            "track_artist": "Dayglow",
+            "track_album": "Fuzzybrain",
+            "track_duration": 278769,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-05T16:39:11Z",
+            "uri": "spotify:track:64lsIF5pw0sJY0gV5kz0RN"
+        },
+        {
+            "track_id": "4Jz4bjXeiF2SXVj9P4YfY5",
+            "track_name": "Keep Your Head Up",
+            "track_artist": "Andy Grammer",
+            "track_album": "Andy Grammer",
+            "track_duration": 189933,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-08T03:40:14Z",
+            "uri": "spotify:track:4Jz4bjXeiF2SXVj9P4YfY5"
+        },
+        {
+            "track_id": "7CCCX50zGHMTuHsyKQy03l",
+            "track_name": "Dancing in My Room",
+            "track_artist": "347aidan",
+            "track_album": "Dancing in My Room",
+            "track_duration": 180121,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-15T12:21:37Z",
+            "uri": "spotify:track:7CCCX50zGHMTuHsyKQy03l"
+        },
+        {
+            "track_id": "5tfZ1uYrArdbDqiZ7z1aCE",
+            "track_name": "Space Girl",
+            "track_artist": "Frances Forever",
+            "track_album": "Space Girl",
+            "track_duration": 231428,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-12-08T21:20:05Z",
+            "uri": "spotify:track:5tfZ1uYrArdbDqiZ7z1aCE"
+        },
+        {
+            "track_id": "4RPSs5aQymn0A5syaHE7VI",
+            "track_name": "On Your Mind",
+            "track_artist": "Noah Floersch",
+            "track_album": "On Your Mind",
+            "track_duration": 159600,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-12-11T20:32:48Z",
+            "uri": "spotify:track:4RPSs5aQymn0A5syaHE7VI"
+        },
+        {
+            "track_id": "3Q6crokpbPGwumkQ2KBnVn",
+            "track_name": "Ease up Kid - Demo",
+            "track_artist": "Hippo Campus",
+            "track_album": "Demos II",
+            "track_duration": 160453,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-12-11T20:33:16Z",
+            "uri": "spotify:track:3Q6crokpbPGwumkQ2KBnVn"
+        },
+        {
+            "track_id": "52a6VcF23v5HB7KfDEmBHq",
+            "track_name": "Carried Away",
+            "track_artist": "Passion Pit",
+            "track_album": "Gossamer",
+            "track_duration": 221973,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-12-16T18:33:42Z",
+            "uri": "spotify:track:52a6VcF23v5HB7KfDEmBHq"
+        },
+        {
+            "track_id": "5KQDGl3vAkNGyfvSbaW89E",
+            "track_name": "I'm Good",
+            "track_artist": "The Mowgli's",
+            "track_album": "Kids In Love",
+            "track_duration": 166893,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-12-18T15:20:38Z",
+            "uri": "spotify:track:5KQDGl3vAkNGyfvSbaW89E"
+        },
+        {
+            "track_id": "5GbVzc6Ex5LYlLJqzRQhuy",
+            "track_name": "Mystery of Love",
+            "track_artist": "Sufjan Stevens",
+            "track_album": "Mystery of Love",
+            "track_duration": 248960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-12-24T15:55:20Z",
+            "uri": "spotify:track:5GbVzc6Ex5LYlLJqzRQhuy"
+        },
+        {
+            "track_id": "2Z5wXgysowvzl0nKGNGU0t",
+            "track_name": "Out of My League",
+            "track_artist": "Fitz and The Tantrums",
+            "track_album": "More Than Just a Dream",
+            "track_duration": 209386,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-05T07:39:43Z",
+            "uri": "spotify:track:2Z5wXgysowvzl0nKGNGU0t"
+        },
+        {
+            "track_id": "50CrMqvVH178XRNNhhXfTy",
+            "track_name": "Winona",
+            "track_artist": "Miloe",
+            "track_album": "Winona",
+            "track_duration": 145186,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-09T22:43:45Z",
+            "uri": "spotify:track:50CrMqvVH178XRNNhhXfTy"
+        },
+        {
+            "track_id": "2kfGoV9a5dbSKCNmUWH2ZF",
+            "track_name": "Turning Page",
+            "track_artist": "Sleeping At Last",
+            "track_album": "Turning Page",
+            "track_duration": 255893,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-10T09:39:27Z",
+            "uri": "spotify:track:2kfGoV9a5dbSKCNmUWH2ZF"
+        },
+        {
+            "track_id": "4v7DgEMw6EvYyuQ4eWFD9l",
+            "track_name": "What If (I Told You I Like You)",
+            "track_artist": "Johnny Orlando",
+            "track_album": "What If (I Told You I Like You)",
+            "track_duration": 219186,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-10T07:01:53Z",
+            "uri": "spotify:track:4v7DgEMw6EvYyuQ4eWFD9l"
+        },
+        {
+            "track_id": "0nCfCedKIf6EjWFt55AXum",
+            "track_name": "Clouds (with Sabrina Carpenter)",
+            "track_artist": "Fin Argus",
+            "track_album": "CLOUDS (Music From The Disney+ Original Movie)",
+            "track_duration": 185687,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-10T07:07:07Z",
+            "uri": "spotify:track:0nCfCedKIf6EjWFt55AXum"
+        },
+        {
+            "track_id": "43bLAUudVwgT5Cp69X1BXA",
+            "track_name": "You",
+            "track_artist": "Vacation Manor",
+            "track_album": "You",
+            "track_duration": 167733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-12T20:08:25Z",
+            "uri": "spotify:track:43bLAUudVwgT5Cp69X1BXA"
+        },
+        {
+            "track_id": "0i5QVxsK3IvEDbUjTA64Li",
+            "track_name": "Silver Lining",
+            "track_artist": "Mt. Joy",
+            "track_album": "Mt. Joy",
+            "track_duration": 198600,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-16T23:35:34Z",
+            "uri": "spotify:track:0i5QVxsK3IvEDbUjTA64Li"
+        },
+        {
+            "track_id": "7lPN2DXiMsVn7XUKtOW1CS",
+            "track_name": "drivers license",
+            "track_artist": "Olivia Rodrigo",
+            "track_album": "drivers license",
+            "track_duration": 242013,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-25T02:34:07Z",
+            "uri": "spotify:track:7lPN2DXiMsVn7XUKtOW1CS"
+        },
+        {
+            "track_id": "4RFQqoOFw0pdropkjrPnh3",
+            "track_name": "Midway",
+            "track_artist": "Bad Bad Hats",
+            "track_album": "Psychic Reader",
+            "track_duration": 184871,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-28T01:00:48Z",
+            "uri": "spotify:track:4RFQqoOFw0pdropkjrPnh3"
+        },
+        {
+            "track_id": "012mXeduixpzNnhJlKEf77",
+            "track_name": "Shock",
+            "track_artist": "Andrew Cassara",
+            "track_album": "Freak on Repeat (Deluxe)",
+            "track_duration": 183203,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-28T01:02:31Z",
+            "uri": "spotify:track:012mXeduixpzNnhJlKEf77"
+        },
+        {
+            "track_id": "0dqJjKKxuKD5Dt3QH2n4CG",
+            "track_name": "Hands Down",
+            "track_artist": "The Greeting Committee",
+            "track_album": "It\u2019s Not All That Bad",
+            "track_duration": 257693,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-30T08:49:02Z",
+            "uri": "spotify:track:0dqJjKKxuKD5Dt3QH2n4CG"
+        },
+        {
+            "track_id": "5pP462QnVPfXeTvAiYAV6w",
+            "track_name": "Nothing Gets Me High",
+            "track_artist": "Bad Bad Hats",
+            "track_album": "Lightning Round",
+            "track_duration": 235400,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-01-30T17:15:43Z",
+            "uri": "spotify:track:5pP462QnVPfXeTvAiYAV6w"
+        },
+        {
+            "track_id": "0ecM7uGyjgJnBliXS2fPP9",
+            "track_name": "Morocco",
+            "track_artist": "Moon Taxi",
+            "track_album": "Mountains Beaches Cities",
+            "track_duration": 208053,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-03T08:00:04Z",
+            "uri": "spotify:track:0ecM7uGyjgJnBliXS2fPP9"
+        },
+        {
+            "track_id": "0gW3SSTZHPpmehjVfG45oi",
+            "track_name": "Fever Dream",
+            "track_artist": "The Brummies",
+            "track_album": "Automatic World",
+            "track_duration": 207372,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-04T21:24:24Z",
+            "uri": "spotify:track:0gW3SSTZHPpmehjVfG45oi"
+        },
+        {
+            "track_id": "1phLuNWayQAU80c0NTm2kY",
+            "track_name": "live forever",
+            "track_artist": "almost monday",
+            "track_album": "live forever",
+            "track_duration": 184132,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-11T05:34:09Z",
+            "uri": "spotify:track:1phLuNWayQAU80c0NTm2kY"
+        },
+        {
+            "track_id": "36seMHoyXmLUNxcwzwjdF7",
+            "track_name": "Please Notice",
+            "track_artist": "Christian Leave",
+            "track_album": "Hope",
+            "track_duration": 116666,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-14T19:00:30Z",
+            "uri": "spotify:track:36seMHoyXmLUNxcwzwjdF7"
+        },
+        {
+            "track_id": "568ZnkQDsn09lX1FXn7a4Q",
+            "track_name": "Dream Girl",
+            "track_artist": "Anna of the North",
+            "track_album": "Dream Girl",
+            "track_duration": 151680,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-14T22:27:21Z",
+            "uri": "spotify:track:568ZnkQDsn09lX1FXn7a4Q"
+        },
+        {
+            "track_id": "3bne7Qit5AbHkX6kWDItYP",
+            "track_name": "In My Head",
+            "track_artist": "Peter Manos",
+            "track_album": "In My Head",
+            "track_duration": 214533,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-15T07:06:08Z",
+            "uri": "spotify:track:3bne7Qit5AbHkX6kWDItYP"
+        },
+        {
+            "track_id": "6UnCGAEmrbGIOSmGRZQ1M2",
+            "track_name": "Light On",
+            "track_artist": "Maggie Rogers",
+            "track_album": "Heard It In A Past Life",
+            "track_duration": 233880,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-15T19:10:49Z",
+            "uri": "spotify:track:6UnCGAEmrbGIOSmGRZQ1M2"
+        },
+        {
+            "track_id": "4MIPNDbxVPWdLwH6A4nsiY",
+            "track_name": "There's Still A Light In The House",
+            "track_artist": "Valley",
+            "track_album": "MAYBE",
+            "track_duration": 203106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-23T19:48:44Z",
+            "uri": "spotify:track:4MIPNDbxVPWdLwH6A4nsiY"
+        },
+        {
+            "track_id": "6v7qHbxSnh5zFT9JPI3MMD",
+            "track_name": "Philomena",
+            "track_artist": "The Decemberists",
+            "track_album": "What A Terrible World, What A Beautiful World",
+            "track_duration": 184720,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-02-28T22:06:04Z",
+            "uri": "spotify:track:6v7qHbxSnh5zFT9JPI3MMD"
+        },
+        {
+            "track_id": "6kcHg7XL6SKyPNd78daRBL",
+            "track_name": "Sweet Talk",
+            "track_artist": "Saint Motel",
+            "track_album": "saintmotelevision",
+            "track_duration": 192040,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-03-02T23:57:22Z",
+            "uri": "spotify:track:6kcHg7XL6SKyPNd78daRBL"
+        },
+        {
+            "track_id": "7apizLyhMRutg3ccXvr2qv",
+            "track_name": "Hurt Somebody",
+            "track_artist": "Noah Kahan",
+            "track_album": "Hurt Somebody",
+            "track_duration": 168640,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-03-10T07:12:06Z",
+            "uri": "spotify:track:7apizLyhMRutg3ccXvr2qv"
+        },
+        {
+            "track_id": "6t44iU80A0h8WQ7vc4OoRj",
+            "track_name": "Fake Happy",
+            "track_artist": "Paramore",
+            "track_album": "After Laughter",
+            "track_duration": 235706,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-03-10T07:26:30Z",
+            "uri": "spotify:track:6t44iU80A0h8WQ7vc4OoRj"
+        },
+        {
+            "track_id": "2enPRFda84VE2wtI8c86Uf",
+            "track_name": "Always Forever",
+            "track_artist": "Cults",
+            "track_album": "Static",
+            "track_duration": 223746,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-03-24T01:35:53Z",
+            "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf"
+        },
+        {
+            "track_id": "2Cnex42j4eC4zUt0U3NsfN",
+            "track_name": "Breathe Deep",
+            "track_artist": "Sleeping At Last",
+            "track_album": "Breathe Deep",
+            "track_duration": 227840,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-03-31T20:43:04Z",
+            "uri": "spotify:track:2Cnex42j4eC4zUt0U3NsfN"
+        },
+        {
+            "track_id": "254bXAqt3zP6P50BdQvEsq",
+            "track_name": "Everywhere - 2017 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Tango In the Night (Deluxe Edition)",
+            "track_duration": 226653,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-04-14T17:45:19Z",
+            "uri": "spotify:track:254bXAqt3zP6P50BdQvEsq"
+        },
+        {
+            "track_id": "2769RhOZs0ezRncRW1vryp",
+            "track_name": "Till Forever Falls Apart",
+            "track_artist": "Ashe",
+            "track_album": "Till Forever Falls Apart",
+            "track_duration": 222860,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-04-20T18:33:23Z",
+            "uri": "spotify:track:2769RhOZs0ezRncRW1vryp"
+        },
+        {
+            "track_id": "1oUb2nyyq0IWVj1nsuft0H",
+            "track_name": "How to Love (feat. Sofia Reyes)",
+            "track_artist": "Cash Cash",
+            "track_album": "Blood, Sweat & 3 Years",
+            "track_duration": 219240,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-04-20T18:33:48Z",
+            "uri": "spotify:track:1oUb2nyyq0IWVj1nsuft0H"
+        },
+        {
+            "track_id": "4ja2gzrNh9VNigzoXfmbwD",
+            "track_name": "Mariposa",
+            "track_artist": "Peach Tree Rascals",
+            "track_album": "Mariposa",
+            "track_duration": 210000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-05-15T11:42:35Z",
+            "uri": "spotify:track:4ja2gzrNh9VNigzoXfmbwD"
+        }
+    ]
+}
