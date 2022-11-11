@@ -1,0 +1,35 @@
+{
+    "id": "10zyb7NmdgQlvlrSiE1fmV",
+    "tracks": [
+        {
+            "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+            "track_name": "Everybody Wants To Rule The World",
+            "track_artist": "Tears For Fears",
+            "track_album": "Songs From The Big Chair (Super Deluxe Edition)",
+            "track_duration": 251488,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-02-17T19:06:34Z",
+            "uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE"
+        },
+        {
+            "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+            "track_name": "Everybody Wants To Rule The World",
+            "track_artist": "Tears For Fears",
+            "track_album": "Songs From The Big Chair (Super Deluxe Edition)",
+            "track_duration": 251488,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-02-17T19:06:32Z",
+            "uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE"
+        },
+        {
+            "track_id": "5nNmj1cLH3r4aA4XDJ2bgY",
+            "track_name": "September",
+            "track_artist": "Earth, Wind & Fire",
+            "track_album": "The Eternal Dance",
+            "track_duration": 214826,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-02-17T19:06:31Z",
+            "uri": "spotify:track:5nNmj1cLH3r4aA4XDJ2bgY"
+        }
+    ]
+}

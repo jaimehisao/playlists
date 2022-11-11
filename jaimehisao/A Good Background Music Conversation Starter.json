@@ -1,0 +1,365 @@
+{
+    "id": "0DymO3VIBiYDvfjCNv6kds",
+    "tracks": [
+        {
+            "track_id": "0i5el041vd6nxrGEU8QRxy",
+            "track_name": "Cruise",
+            "track_artist": "Florida Georgia Line",
+            "track_album": "Here's To The Good Times",
+            "track_duration": 208960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:29:45Z",
+            "uri": "spotify:track:0i5el041vd6nxrGEU8QRxy"
+        },
+        {
+            "track_id": "4dGJf1SER1T6ooX46vwzRB",
+            "track_name": "Chicken Fried",
+            "track_artist": "Zac Brown Band",
+            "track_album": "The Foundation",
+            "track_duration": 238146,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:30:57Z",
+            "uri": "spotify:track:4dGJf1SER1T6ooX46vwzRB"
+        },
+        {
+            "track_id": "6M4nkEPZMj58acftDRTuKL",
+            "track_name": "Tous les m\u00eames",
+            "track_artist": "Stromae",
+            "track_album": "racine carr\u00e9e",
+            "track_duration": 210933,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:32:02Z",
+            "uri": "spotify:track:6M4nkEPZMj58acftDRTuKL"
+        },
+        {
+            "track_id": "4NtUY5IGzHCaqfZemmAu56",
+            "track_name": "Dancing Queen",
+            "track_artist": "ABBA",
+            "track_album": "Arrival",
+            "track_duration": 230693,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:32:50Z",
+            "uri": "spotify:track:4NtUY5IGzHCaqfZemmAu56"
+        },
+        {
+            "track_id": "3FZEg8UWOwKzJKzKT90hUZ",
+            "track_name": "The Reason",
+            "track_artist": "Hoobastank",
+            "track_album": "The Reason (Expanded Edition)",
+            "track_duration": 232800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:33:01Z",
+            "uri": "spotify:track:3FZEg8UWOwKzJKzKT90hUZ"
+        },
+        {
+            "track_id": "7FwBtcecmlpc1sLySPXeGE",
+            "track_name": "Dancing In the Dark",
+            "track_artist": "Bruce Springsteen",
+            "track_album": "Born In The U.S.A.",
+            "track_duration": 241306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:33:33Z",
+            "uri": "spotify:track:7FwBtcecmlpc1sLySPXeGE"
+        },
+        {
+            "track_id": "2TVxnKdb3tqe1nhQWwwZCO",
+            "track_name": "Tiny Dancer",
+            "track_artist": "Elton John",
+            "track_album": "Madman Across The Water",
+            "track_duration": 377093,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-25T09:33:53Z",
+            "uri": "spotify:track:2TVxnKdb3tqe1nhQWwwZCO"
+        },
+        {
+            "track_id": "5FVd6KXrgO9B3JPmC8OPst",
+            "track_name": "Do I Wanna Know?",
+            "track_artist": "Arctic Monkeys",
+            "track_album": "AM",
+            "track_duration": 272394,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-28T00:14:39Z",
+            "uri": "spotify:track:5FVd6KXrgO9B3JPmC8OPst"
+        },
+        {
+            "track_id": "3SPcBPzvbmWLl8NU5efx4W",
+            "track_name": "Telephone Line",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "A New World Record",
+            "track_duration": 280360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-07T21:42:03Z",
+            "uri": "spotify:track:3SPcBPzvbmWLl8NU5efx4W"
+        },
+        {
+            "track_id": "56NkIxSZZiMpFP5ZNSxtnT",
+            "track_name": "Someday",
+            "track_artist": "The Strokes",
+            "track_album": "Is This It",
+            "track_duration": 183573,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-08T04:25:27Z",
+            "uri": "spotify:track:56NkIxSZZiMpFP5ZNSxtnT"
+        },
+        {
+            "track_id": "4VRTc5oeHT6Wtz0WzdArGJ",
+            "track_name": "Midnight Blue",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "Discovery",
+            "track_duration": 257666,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:32:18Z",
+            "uri": "spotify:track:4VRTc5oeHT6Wtz0WzdArGJ"
+        },
+        {
+            "track_id": "2gQsUHVFY4tpXc3AFU2mcS",
+            "track_name": "Games People Play",
+            "track_artist": "The Alan Parsons Project",
+            "track_album": "The Turn Of A Friendly Card (Expanded Edition)",
+            "track_duration": 263106,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:32:34Z",
+            "uri": "spotify:track:2gQsUHVFY4tpXc3AFU2mcS"
+        },
+        {
+            "track_id": "6xE6ZWzK1YDDSYzqOCoQlz",
+            "track_name": "Last Train to London",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "Discovery",
+            "track_duration": 270066,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:37:05Z",
+            "uri": "spotify:track:6xE6ZWzK1YDDSYzqOCoQlz"
+        },
+        {
+            "track_id": "39qYD4J4BKvZMQgxfXl5bv",
+            "track_name": "Eye In The Sky",
+            "track_artist": "The Alan Parsons Project",
+            "track_album": "Eye In The Sky (Expanded Edition)",
+            "track_duration": 276280,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:38:02Z",
+            "uri": "spotify:track:39qYD4J4BKvZMQgxfXl5bv"
+        },
+        {
+            "track_id": "3IeVrRu0jOlwOkTwD9AykT",
+            "track_name": "Don't Answer Me",
+            "track_artist": "The Alan Parsons Project",
+            "track_album": "Ammonia Avenue (Expanded Edition)",
+            "track_duration": 251853,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:38:19Z",
+            "uri": "spotify:track:3IeVrRu0jOlwOkTwD9AykT"
+        },
+        {
+            "track_id": "2RlgNHKcydI9sayD2Df2xp",
+            "track_name": "Mr. Blue Sky",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "Out of the Blue",
+            "track_duration": 303373,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:38:28Z",
+            "uri": "spotify:track:2RlgNHKcydI9sayD2Df2xp"
+        },
+        {
+            "track_id": "4a5pNRjwmzYQuEY1E7O6pj",
+            "track_name": "Breakfast In America - 2010 Remastered",
+            "track_artist": "Supertramp",
+            "track_album": "Breakfast In America (Deluxe Edition)",
+            "track_duration": 159346,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:38:30Z",
+            "uri": "spotify:track:4a5pNRjwmzYQuEY1E7O6pj"
+        },
+        {
+            "track_id": "3qrEG6rQ9Qm72MNWeUKKiU",
+            "track_name": "Wham Bam Shang-A-Lang",
+            "track_artist": "Silver",
+            "track_album": "Silver",
+            "track_duration": 212840,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T02:38:40Z",
+            "uri": "spotify:track:3qrEG6rQ9Qm72MNWeUKKiU"
+        },
+        {
+            "track_id": "5U7ZOV3xLDgtzHOCJfLBEj",
+            "track_name": "Till the End",
+            "track_artist": "TOTO",
+            "track_album": "Fahrenheit",
+            "track_duration": 327293,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-10T03:08:48Z",
+            "uri": "spotify:track:5U7ZOV3xLDgtzHOCJfLBEj"
+        },
+        {
+            "track_id": "72ahyckBJfTigJCFCviVN7",
+            "track_name": "Don't Bring Me Down",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "Discovery",
+            "track_duration": 243373,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-11T07:05:05Z",
+            "uri": "spotify:track:72ahyckBJfTigJCFCviVN7"
+        },
+        {
+            "track_id": "48yJZwYYDZX5GKFND7wDfC",
+            "track_name": "Time",
+            "track_artist": "The Alan Parsons Project",
+            "track_album": "The Turn Of A Friendly Card (Expanded Edition)",
+            "track_duration": 314640,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-12T19:00:11Z",
+            "uri": "spotify:track:48yJZwYYDZX5GKFND7wDfC"
+        },
+        {
+            "track_id": "5e9TFTbltYBg2xThimr0rU",
+            "track_name": "The Chain - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours (Super Deluxe)",
+            "track_duration": 270213,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-12T19:00:14Z",
+            "uri": "spotify:track:5e9TFTbltYBg2xThimr0rU"
+        },
+        {
+            "track_id": "54eZmuggBFJbV7k248bTTt",
+            "track_name": "A Horse with No Name",
+            "track_artist": "America",
+            "track_album": "America",
+            "track_duration": 252239,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-12T19:00:21Z",
+            "uri": "spotify:track:54eZmuggBFJbV7k248bTTt"
+        },
+        {
+            "track_id": "6zeE5tKyr8Nu882DQhhSQI",
+            "track_name": "Dust in the Wind",
+            "track_artist": "Kansas",
+            "track_album": "Point Of Know Return (Expanded Edition)",
+            "track_duration": 206266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-12T19:00:33Z",
+            "uri": "spotify:track:6zeE5tKyr8Nu882DQhhSQI"
+        },
+        {
+            "track_id": "37Tmv4NnfQeb0ZgUC4fOJj",
+            "track_name": "Sultans Of Swing",
+            "track_artist": "Dire Straits",
+            "track_album": "Dire Straits",
+            "track_duration": 348400,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-12T19:00:36Z",
+            "uri": "spotify:track:37Tmv4NnfQeb0ZgUC4fOJj"
+        },
+        {
+            "track_id": "7kv7zBjMtVf0eIJle2VZxn",
+            "track_name": "Southern Nights",
+            "track_artist": "Glen Campbell",
+            "track_album": "Southern Nights",
+            "track_duration": 180026,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-12T19:00:39Z",
+            "uri": "spotify:track:7kv7zBjMtVf0eIJle2VZxn"
+        },
+        {
+            "track_id": "07GvNcU1WdyZJq3XxP0kZa",
+            "track_name": "Go Your Own Way - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours",
+            "track_duration": 223613,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-12T19:00:42Z",
+            "uri": "spotify:track:07GvNcU1WdyZJq3XxP0kZa"
+        },
+        {
+            "track_id": "5r5cp9IpziiIsR6b93vcnQ",
+            "track_name": "Walking On A Dream",
+            "track_artist": "Empire of the Sun",
+            "track_album": "Walking On A Dream (10th Anniversary Edition)",
+            "track_duration": 198440,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-13T02:13:32Z",
+            "uri": "spotify:track:5r5cp9IpziiIsR6b93vcnQ"
+        },
+        {
+            "track_id": "1ZqeykOaDmjkldzs7XGR4b",
+            "track_name": "Where Angels Fear To Tread",
+            "track_artist": "Disclosure",
+            "track_album": "Moonlight",
+            "track_duration": 225906,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-13T05:25:57Z",
+            "uri": "spotify:track:1ZqeykOaDmjkldzs7XGR4b"
+        },
+        {
+            "track_id": "5WBnKCEsPwsvWHUZmLjS3s",
+            "track_name": "Alive",
+            "track_artist": "Empire of the Sun",
+            "track_album": "Ice On The Dune",
+            "track_duration": 204591,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-17T04:49:17Z",
+            "uri": "spotify:track:5WBnKCEsPwsvWHUZmLjS3s"
+        },
+        {
+            "track_id": "48p5E25cFPanxuwCTmTpuL",
+            "track_name": "The Promise",
+            "track_artist": "When In Rome",
+            "track_album": "When In Rome",
+            "track_duration": 220960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-20T22:58:20Z",
+            "uri": "spotify:track:48p5E25cFPanxuwCTmTpuL"
+        },
+        {
+            "track_id": "7v8B1M09vnvymSNGcvGBva",
+            "track_name": "Depths (Pt. I)",
+            "track_artist": "Yumi Zouma",
+            "track_album": "Depths (Pt. I)",
+            "track_duration": 170027,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-23T20:03:25Z",
+            "uri": "spotify:track:7v8B1M09vnvymSNGcvGBva"
+        },
+        {
+            "track_id": "2xLSFrm2oBeMtBMjlAoZSC",
+            "track_name": "Nightswimming",
+            "track_artist": "R.E.M.",
+            "track_album": "Automatic For The People (U.S. Version)",
+            "track_duration": 258266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-23T20:17:04Z",
+            "uri": "spotify:track:2xLSFrm2oBeMtBMjlAoZSC"
+        },
+        {
+            "track_id": "0oLtiMnTizg2Lw5f74z9Gm",
+            "track_name": "Leila - Poolside Remix",
+            "track_artist": "Miami Horror",
+            "track_album": "Leila (Poolside Remix)",
+            "track_duration": 318461,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-23T20:20:57Z",
+            "uri": "spotify:track:0oLtiMnTizg2Lw5f74z9Gm"
+        },
+        {
+            "track_id": "1klDPm7SfsS32hl7KHV9iy",
+            "track_name": "Stuck In A Moment You Can't Get Out Of",
+            "track_artist": "U2",
+            "track_album": "All That You Can't Leave Behind",
+            "track_duration": 273466,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-01-30T03:34:11Z",
+            "uri": "spotify:track:1klDPm7SfsS32hl7KHV9iy"
+        },
+        {
+            "track_id": "4E5P1XyAFtrjpiIxkydly4",
+            "track_name": "Replay",
+            "track_artist": "Iyaz",
+            "track_album": "Replay",
+            "track_duration": 182306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-02-03T01:08:39Z",
+            "uri": "spotify:track:4E5P1XyAFtrjpiIxkydly4"
+        }
+    ]
+}
