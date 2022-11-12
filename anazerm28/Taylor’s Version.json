@@ -1310,6 +1310,66 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-11-09T01:40:58Z",
             "uri": "spotify:track:0j0gJqxitjhmmkrW56dtQH"
+        },
+        {
+            "track_id": "4MGexoZc12lqE0hYkq9YYx",
+            "track_name": "august - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 260000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:01Z",
+            "uri": "spotify:track:4MGexoZc12lqE0hYkq9YYx"
+        },
+        {
+            "track_id": "1kdWw77ZpYOkhxeuhzU1j6",
+            "track_name": "it\u2019s time to go - bonus track",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore (deluxe version)",
+            "track_duration": 254640,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:12Z",
+            "uri": "spotify:track:1kdWw77ZpYOkhxeuhzU1j6"
+        },
+        {
+            "track_id": "3oF7Or7T35yhQbGxbCGvRX",
+            "track_name": "Death By A Thousand Cuts - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Death By A Thousand Cuts (Live From Paris)",
+            "track_duration": 199066,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:15Z",
+            "uri": "spotify:track:3oF7Or7T35yhQbGxbCGvRX"
+        },
+        {
+            "track_id": "3fGnrtrtL1IHSX9t4DKOYf",
+            "track_name": "Cornelia Street - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Cornelia Street (Live From Paris)",
+            "track_duration": 296013,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:16Z",
+            "uri": "spotify:track:3fGnrtrtL1IHSX9t4DKOYf"
+        },
+        {
+            "track_id": "7ryS0xBZNYjQqql34GCkDp",
+            "track_name": "Daylight - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Daylight (Live From Paris)",
+            "track_duration": 262320,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:17Z",
+            "uri": "spotify:track:7ryS0xBZNYjQqql34GCkDp"
+        },
+        {
+            "track_id": "2yceD2hx5HhOLgkm1CITCi",
+            "track_name": "mirrorball - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 237373,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:21Z",
+            "uri": "spotify:track:2yceD2hx5HhOLgkm1CITCi"
         }
     ]
 }
