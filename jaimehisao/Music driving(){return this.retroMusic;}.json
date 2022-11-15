@@ -2310,6 +2310,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-11-11T18:24:43Z",
             "uri": "spotify:track:7FwBtcecmlpc1sLySPXeGE"
+        },
+        {
+            "track_id": "2igwFfvr1OAGX9SKDCPBwO",
+            "track_name": "Empire State Of Mind",
+            "track_artist": "JAY-Z",
+            "track_album": "The Blueprint 3",
+            "track_duration": 276920,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-11-15T20:42:24Z",
+            "uri": "spotify:track:2igwFfvr1OAGX9SKDCPBwO"
         }
     ]
 }
