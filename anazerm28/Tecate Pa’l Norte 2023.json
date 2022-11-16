@@ -30,6 +30,116 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-11-14T04:02:28Z",
             "uri": "spotify:track:2ydUT1pFhuLDnouelIv4WH"
+        },
+        {
+            "track_id": "3TgMcrV32NUKjEG2ujn9eh",
+            "track_name": "It's Not Living (If It's Not With You)",
+            "track_artist": "The 1975",
+            "track_album": "A Brief Inquiry Into Online Relationships",
+            "track_duration": 248335,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:37:44Z",
+            "uri": "spotify:track:3TgMcrV32NUKjEG2ujn9eh"
+        },
+        {
+            "track_id": "73jVPicY2G9YHmzgjk69ae",
+            "track_name": "Robbers",
+            "track_artist": "The 1975",
+            "track_album": "The 1975",
+            "track_duration": 254509,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:37:47Z",
+            "uri": "spotify:track:73jVPicY2G9YHmzgjk69ae"
+        },
+        {
+            "track_id": "4m0q0xQ2BNl9SCAGKyfiGZ",
+            "track_name": "Somebody Else",
+            "track_artist": "The 1975",
+            "track_album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+            "track_duration": 347525,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:37:53Z",
+            "uri": "spotify:track:4m0q0xQ2BNl9SCAGKyfiGZ"
+        },
+        {
+            "track_id": "57RA3JGafJm5zRtKJiKPIm",
+            "track_name": "Are You Bored Yet? (feat. Clairo)",
+            "track_artist": "Wallows",
+            "track_album": "Nothing Happens",
+            "track_duration": 178000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:38:21Z",
+            "uri": "spotify:track:57RA3JGafJm5zRtKJiKPIm"
+        },
+        {
+            "track_id": "4gZDCOFuLCxCRWNhSEcOtJ",
+            "track_name": "These Days",
+            "track_artist": "Wallows",
+            "track_album": "Spring EP",
+            "track_duration": 202626,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:38:26Z",
+            "uri": "spotify:track:4gZDCOFuLCxCRWNhSEcOtJ"
+        },
+        {
+            "track_id": "0APAKxMXB7jdDs4kw1l30y",
+            "track_name": "OK",
+            "track_artist": "Wallows",
+            "track_album": "OK",
+            "track_duration": 193293,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:38:41Z",
+            "uri": "spotify:track:0APAKxMXB7jdDs4kw1l30y"
+        },
+        {
+            "track_id": "003vvx7Niy0yvhvHt4a68B",
+            "track_name": "Mr. Brightside",
+            "track_artist": "The Killers",
+            "track_album": "Hot Fuss",
+            "track_duration": 222973,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:40:38Z",
+            "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B"
+        },
+        {
+            "track_id": "1A8SxnqRK3qabmuN2qxIpa",
+            "track_name": "Spaceman",
+            "track_artist": "The Killers",
+            "track_album": "Day & Age (Bonus Tracks)",
+            "track_duration": 284546,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:40:49Z",
+            "uri": "spotify:track:1A8SxnqRK3qabmuN2qxIpa"
+        },
+        {
+            "track_id": "70wYA8oYHoMzhRRkARoMhU",
+            "track_name": "When You Were Young",
+            "track_artist": "The Killers",
+            "track_album": "Sam's Town",
+            "track_duration": 220426,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:40:54Z",
+            "uri": "spotify:track:70wYA8oYHoMzhRRkARoMhU"
+        },
+        {
+            "track_id": "3aVyHFxRkf8lSjhWdJ68AW",
+            "track_name": "Just Another Girl",
+            "track_artist": "The Killers",
+            "track_album": "Direct Hits",
+            "track_duration": 262000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:41:03Z",
+            "uri": "spotify:track:3aVyHFxRkf8lSjhWdJ68AW"
+        },
+        {
+            "track_id": "2aZ2Co4NeQRsqWcU930zHT",
+            "track_name": "Shot At The Night",
+            "track_artist": "The Killers",
+            "track_album": "Direct Hits",
+            "track_duration": 242506,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-16T16:41:08Z",
+            "uri": "spotify:track:2aZ2Co4NeQRsqWcU930zHT"
         }
     ]
 }
