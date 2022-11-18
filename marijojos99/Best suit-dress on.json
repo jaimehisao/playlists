@@ -2060,6 +2060,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2022-11-16T05:30:06Z",
             "uri": "spotify:track:3KDCYRQl4O681lkYI2sCqE"
+        },
+        {
+            "track_id": "7pGiF0h4aIPfs7jRRKXkTf",
+            "track_name": "Big Yellow Taxi - 2004 Remaster",
+            "track_artist": "Joni Mitchell",
+            "track_album": "Dreamland",
+            "track_duration": 137213,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2022-11-18T02:49:13Z",
+            "uri": "spotify:track:7pGiF0h4aIPfs7jRRKXkTf"
         }
     ]
 }
