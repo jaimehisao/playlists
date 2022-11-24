@@ -320,6 +320,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-11-05T07:14:43Z",
             "uri": "spotify:track:5Axapk6xMmSHK2A75EZiYo"
+        },
+        {
+            "track_id": "7cMFjxhbXBpOlais7KMF3j",
+            "track_name": "Voyager",
+            "track_artist": "Daft Punk",
+            "track_album": "Discovery",
+            "track_duration": 227866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-11-24T23:12:33Z",
+            "uri": "spotify:track:7cMFjxhbXBpOlais7KMF3j"
         }
     ]
 }
