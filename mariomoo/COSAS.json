@@ -1,0 +1,45 @@
+{
+    "id": "2UOPd6Ia8el3NNDBZDBX9I",
+    "tracks": [
+        {
+            "track_id": "0auJIepOjK6fKaptiN6OiR",
+            "track_name": "Elves At the Mercy of Man",
+            "track_artist": "EA Games Soundtrack",
+            "track_album": "Dragon Age: Origins",
+            "track_duration": 81680,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-11-25T21:41:46Z",
+            "uri": "spotify:track:0auJIepOjK6fKaptiN6OiR"
+        },
+        {
+            "track_id": "1yFyWBo38TVViZm75Z3a0u",
+            "track_name": "The Western Approach",
+            "track_artist": "Trevor Morris",
+            "track_album": "Dragon Age Inquisition",
+            "track_duration": 127386,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-11-25T21:41:53Z",
+            "uri": "spotify:track:1yFyWBo38TVViZm75Z3a0u"
+        },
+        {
+            "track_id": "149g1z4mDkQsNG8ZB0xbev",
+            "track_name": "Spikeroog",
+            "track_artist": "Mikolai Stroinski",
+            "track_album": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+            "track_duration": 185699,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-11-25T21:42:01Z",
+            "uri": "spotify:track:149g1z4mDkQsNG8ZB0xbev"
+        },
+        {
+            "track_id": "6MPL7WpETrp3N8RmRMMZGK",
+            "track_name": "Kaer Morhen",
+            "track_artist": "Marcin Przyby\u0142owicz",
+            "track_album": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+            "track_duration": 155109,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-11-25T21:42:05Z",
+            "uri": "spotify:track:6MPL7WpETrp3N8RmRMMZGK"
+        }
+    ]
+}
