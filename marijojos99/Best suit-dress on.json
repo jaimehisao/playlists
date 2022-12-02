@@ -2130,6 +2130,36 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2022-11-29T17:05:35Z",
             "uri": "spotify:track:1rfGO3N4DPGodJLSSY9Re5"
+        },
+        {
+            "track_id": "7z84Fwf1R3Z2BwHCP620CI",
+            "track_name": "This Is Why",
+            "track_artist": "Paramore",
+            "track_album": "This Is Why",
+            "track_duration": 207652,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2022-12-02T15:08:26Z",
+            "uri": "spotify:track:7z84Fwf1R3Z2BwHCP620CI"
+        },
+        {
+            "track_id": "38x9U1nlxCblWCmu6g4mPy",
+            "track_name": "I Don't Really Care for You",
+            "track_artist": "CMAT",
+            "track_album": "If My Wife New I'd Be Dead (Deluxe)",
+            "track_duration": 244693,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2022-12-02T15:17:56Z",
+            "uri": "spotify:track:38x9U1nlxCblWCmu6g4mPy"
+        },
+        {
+            "track_id": "260Ub1Yuj4CobdISTOBvM9",
+            "track_name": "Wet Dream",
+            "track_artist": "Wet Leg",
+            "track_album": "Wet Leg",
+            "track_duration": 140080,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2022-12-02T15:24:12Z",
+            "uri": "spotify:track:260Ub1Yuj4CobdISTOBvM9"
         }
     ]
 }
