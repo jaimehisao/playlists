@@ -1,0 +1,55 @@
+{
+    "id": "1QFFnv2hEJJE5mY12tgwxz",
+    "tracks": [
+        {
+            "track_id": "1SGpOusZOaKgoyicqZv5MW",
+            "track_name": "Mi primer millon",
+            "track_artist": "Bacilos",
+            "track_album": "Grandes Exitos",
+            "track_duration": 237386,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-02T03:51:55Z",
+            "uri": "spotify:track:1SGpOusZOaKgoyicqZv5MW"
+        },
+        {
+            "track_id": "7dITAq1YP5e0kTcaDq4YWI",
+            "track_name": "Lim\u00f3n y Sal",
+            "track_artist": "Julieta Venegas",
+            "track_album": "Limon Y Sal",
+            "track_duration": 205413,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-02T03:52:40Z",
+            "uri": "spotify:track:7dITAq1YP5e0kTcaDq4YWI"
+        },
+        {
+            "track_id": "7zuwr7YqqpveNtxlKe1vn6",
+            "track_name": "Y T\u00fa Te Vas",
+            "track_artist": "Chayanne",
+            "track_album": "Grandes Exitos",
+            "track_duration": 283893,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-02T03:53:02Z",
+            "uri": "spotify:track:7zuwr7YqqpveNtxlKe1vn6"
+        },
+        {
+            "track_id": "4RcN7qGRs4OfbI8cHmqQiL",
+            "track_name": "Chiquilla",
+            "track_artist": "A.B. Quintanilla III Y Los Kumbia Kings",
+            "track_album": "From KK To Kumbia All-Starz",
+            "track_duration": 210306,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-02T03:53:17Z",
+            "uri": "spotify:track:4RcN7qGRs4OfbI8cHmqQiL"
+        },
+        {
+            "track_id": "4fFgpzgSkmn3wajioLBPOr",
+            "track_name": "Mis Ojos Lloran Por Ti",
+            "track_artist": "Big Boy",
+            "track_album": "Mis Ojos Lloran Por Ti",
+            "track_duration": 295533,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-02T03:54:09Z",
+            "uri": "spotify:track:4fFgpzgSkmn3wajioLBPOr"
+        }
+    ]
+}
