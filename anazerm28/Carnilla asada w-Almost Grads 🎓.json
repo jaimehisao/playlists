@@ -600,6 +600,16 @@
             "track_added_by": "fermtz020700",
             "track_added_at": "2022-12-03T22:09:56Z",
             "uri": "spotify:track:2GSr8anleCXKLNjjjijoMZ"
+        },
+        {
+            "track_id": "5E9CeQTevMVg2nVOomIgiE",
+            "track_name": "Boyfriend",
+            "track_artist": "Big Time Rush",
+            "track_album": "BTR",
+            "track_duration": 201040,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2022-12-03T23:36:00Z",
+            "uri": "spotify:track:5E9CeQTevMVg2nVOomIgiE"
         }
     ]
 }
