@@ -520,6 +520,36 @@
             "track_added_by": "marifer_salas",
             "track_added_at": "2022-12-03T02:57:15Z",
             "uri": "spotify:track:2RJ1fg4qf2vgZKifTa4HgA"
+        },
+        {
+            "track_id": "5Eax0qFko2dh7Rl2lYs3bx",
+            "track_name": "Efecto",
+            "track_artist": "Bad Bunny",
+            "track_album": "Un Verano Sin Ti",
+            "track_duration": 213061,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-03T16:42:22Z",
+            "uri": "spotify:track:5Eax0qFko2dh7Rl2lYs3bx"
+        },
+        {
+            "track_id": "6Xom58OOXk2SoU711L2IXO",
+            "track_name": "Moscow Mule",
+            "track_artist": "Bad Bunny",
+            "track_album": "Un Verano Sin Ti",
+            "track_duration": 245939,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-03T16:42:30Z",
+            "uri": "spotify:track:6Xom58OOXk2SoU711L2IXO"
+        },
+        {
+            "track_id": "69vlMrzHwATKzupwNcUPyK",
+            "track_name": "La Santa",
+            "track_artist": "Bad Bunny",
+            "track_album": "YHLQMDLG",
+            "track_duration": 206420,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-03T16:42:38Z",
+            "uri": "spotify:track:69vlMrzHwATKzupwNcUPyK"
         }
     ]
 }
