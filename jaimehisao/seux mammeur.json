@@ -510,6 +510,46 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-09-20T05:05:43Z",
             "uri": "spotify:track:0g2x0hTPKHONcep74XrtbX"
+        },
+        {
+            "track_id": "7AxvbiA33YaRmtLVYBMbIP",
+            "track_name": "Femme Fanto\u0302me",
+            "track_artist": "Lockhart",
+            "track_album": "Femme Fant\u00f4me",
+            "track_duration": 228214,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-05T06:06:16Z",
+            "uri": "spotify:track:7AxvbiA33YaRmtLVYBMbIP"
+        },
+        {
+            "track_id": "5Bd4dr2A8ZGb7S5bktjmwo",
+            "track_name": "L'amour joue au violon",
+            "track_artist": "Bon Entendeur",
+            "track_album": "Aller-retour",
+            "track_duration": 206186,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-05T06:06:24Z",
+            "uri": "spotify:track:5Bd4dr2A8ZGb7S5bktjmwo"
+        },
+        {
+            "track_id": "00mO8JKk2wQ7VqdPcY1r4O",
+            "track_name": "Peur des filles",
+            "track_artist": "L'Imp\u00e9ratrice",
+            "track_album": "Tako Tsubo",
+            "track_duration": 208805,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-05T06:09:04Z",
+            "uri": "spotify:track:00mO8JKk2wQ7VqdPcY1r4O"
+        },
+        {
+            "track_id": "5naBxlfM61rL6tE42fQiL9",
+            "track_name": "Instantan\u00e9",
+            "track_artist": "Paradis",
+            "track_album": "Recto Verso",
+            "track_duration": 381706,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-05T06:08:51Z",
+            "uri": "spotify:track:5naBxlfM61rL6tE42fQiL9"
         }
     ]
 }
