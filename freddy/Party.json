@@ -1600,6 +1600,36 @@
             "track_added_by": "1293929854",
             "track_added_at": "2022-09-23T05:20:26Z",
             "uri": "spotify:track:3k3NWokhRRkEPhCzPmV8TW"
+        },
+        {
+            "track_id": "6WbAhuwE6fCOriBu5786X1",
+            "track_name": "CAIRO",
+            "track_artist": "KAROL G",
+            "track_album": "CAIRO",
+            "track_duration": 201280,
+            "track_added_by": "1293929854",
+            "track_added_at": "2022-12-06T23:43:20Z",
+            "uri": "spotify:track:6WbAhuwE6fCOriBu5786X1"
+        },
+        {
+            "track_id": "31i56LZnwE6uSu3exoHjtB",
+            "track_name": "Neverita",
+            "track_artist": "Bad Bunny",
+            "track_album": "Un Verano Sin Ti",
+            "track_duration": 173119,
+            "track_added_by": "1293929854",
+            "track_added_at": "2022-12-06T23:43:27Z",
+            "uri": "spotify:track:31i56LZnwE6uSu3exoHjtB"
+        },
+        {
+            "track_id": "5fhcuVxuBWfgNXGuyAtLmr",
+            "track_name": "Los Cachos",
+            "track_artist": "Piso 21",
+            "track_album": "Los Cachos",
+            "track_duration": 212304,
+            "track_added_by": "1293929854",
+            "track_added_at": "2022-12-06T23:45:58Z",
+            "uri": "spotify:track:5fhcuVxuBWfgNXGuyAtLmr"
         }
     ]
 }
