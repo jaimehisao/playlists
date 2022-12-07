@@ -1650,6 +1650,16 @@
             "track_added_by": "1293929854",
             "track_added_at": "2022-12-06T23:57:54Z",
             "uri": "spotify:track:7kN7u1ZDOrNBKcEEGwGeDY"
+        },
+        {
+            "track_id": "7D93pJcwymzaZx8WgBo2zG",
+            "track_name": "Algo M\u00e1gico",
+            "track_artist": "Rauw Alejandro",
+            "track_album": "Afrodis\u00edaco",
+            "track_duration": 261603,
+            "track_added_by": "1293929854",
+            "track_added_at": "2022-12-07T20:10:37Z",
+            "uri": "spotify:track:7D93pJcwymzaZx8WgBo2zG"
         }
     ]
 }
