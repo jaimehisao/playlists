@@ -2180,6 +2180,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2022-12-08T17:37:25Z",
             "uri": "spotify:track:3ceQfWfkQmDsDsfHrAsasD"
+        },
+        {
+            "track_id": "7BmDZS7RTEdJGRxYlimvTU",
+            "track_name": "Second Nature",
+            "track_artist": "Lucius",
+            "track_album": "Second Nature",
+            "track_duration": 211336,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2022-12-08T21:43:38Z",
+            "uri": "spotify:track:7BmDZS7RTEdJGRxYlimvTU"
         }
     ]
 }
