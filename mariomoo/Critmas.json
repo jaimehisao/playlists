@@ -1,0 +1,55 @@
+{
+    "id": "2LMbsrQz6vIA68E6nPwxBP",
+    "tracks": [
+        {
+            "track_id": "3KzgdYUlqV6TOG7JCmx2Wg",
+            "track_name": "Beyond the Sea",
+            "track_artist": "Bobby Darin",
+            "track_album": "That's All",
+            "track_duration": 172480,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-09T20:26:00Z",
+            "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg"
+        },
+        {
+            "track_id": "2hE5Lm5XOHR4t3xlhIFauP",
+            "track_name": "Fooled Around And Fell In Love",
+            "track_artist": "Elvin Bishop",
+            "track_album": "Struttin' My Stuff",
+            "track_duration": 276000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-09T20:26:10Z",
+            "uri": "spotify:track:2hE5Lm5XOHR4t3xlhIFauP"
+        },
+        {
+            "track_id": "5TGSGO90t7pVhLGbcbVdOJ",
+            "track_name": "Dancing In The Moonlight",
+            "track_artist": "King Harvest",
+            "track_album": "The Hitman's Bodyguard (Original Soundtrack Album)",
+            "track_duration": 178045,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-09T20:26:15Z",
+            "uri": "spotify:track:5TGSGO90t7pVhLGbcbVdOJ"
+        },
+        {
+            "track_id": "561F1zqRwGPCTMRsLsXVtL",
+            "track_name": "Time in a Bottle",
+            "track_artist": "Jim Croce",
+            "track_album": "You Don't Mess Around With Jim",
+            "track_duration": 146175,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-09T20:32:22Z",
+            "uri": "spotify:track:561F1zqRwGPCTMRsLsXVtL"
+        },
+        {
+            "track_id": "7kv7zBjMtVf0eIJle2VZxn",
+            "track_name": "Southern Nights",
+            "track_artist": "Glen Campbell",
+            "track_album": "Southern Nights",
+            "track_duration": 180026,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-09T20:32:27Z",
+            "uri": "spotify:track:7kv7zBjMtVf0eIJle2VZxn"
+        }
+    ]
+}
