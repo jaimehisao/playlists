@@ -50,6 +50,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2022-12-09T20:32:27Z",
             "uri": "spotify:track:7kv7zBjMtVf0eIJle2VZxn"
+        },
+        {
+            "track_id": "2qkqnpWaSM6zWqDpQWaFEL",
+            "track_name": "Personality",
+            "track_artist": "Johnny Mercer",
+            "track_album": "Accentuate The Positive!",
+            "track_duration": 169626,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-10T01:48:28Z",
+            "uri": "spotify:track:2qkqnpWaSM6zWqDpQWaFEL"
         }
     ]
 }
