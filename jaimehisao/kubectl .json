@@ -330,6 +330,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-11-24T23:12:33Z",
             "uri": "spotify:track:7cMFjxhbXBpOlais7KMF3j"
+        },
+        {
+            "track_id": "3Nw9tgLAg0Tua3QA0Wm9FU",
+            "track_name": "80 D\u00edas",
+            "track_artist": "Siddhartha",
+            "track_album": "00:00",
+            "track_duration": 168193,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-11T01:55:28Z",
+            "uri": "spotify:track:3Nw9tgLAg0Tua3QA0Wm9FU"
         }
     ]
 }
