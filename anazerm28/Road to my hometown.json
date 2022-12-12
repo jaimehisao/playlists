@@ -330,6 +330,16 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-12-08T04:07:06Z",
             "uri": "spotify:track:0wavGRldH0AWyu2zvTz8zb"
+        },
+        {
+            "track_id": "670fUmXf4KQekzbEgaXyPA",
+            "track_name": "dorothea",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 225880,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-12T05:39:49Z",
+            "uri": "spotify:track:670fUmXf4KQekzbEgaXyPA"
         }
     ]
 }
