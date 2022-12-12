@@ -340,6 +340,26 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-12-12T05:39:49Z",
             "uri": "spotify:track:670fUmXf4KQekzbEgaXyPA"
+        },
+        {
+            "track_id": "3zwMVvkBe2qIKDObWgXw4N",
+            "track_name": "right where you left me - bonus track",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore (deluxe version)",
+            "track_duration": 245026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-12T22:43:21Z",
+            "uri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N"
+        },
+        {
+            "track_id": "4D7BCuvgdJlYvlX5WlN54t",
+            "track_name": "You're On Your Own, Kid",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 194206,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-12T22:43:22Z",
+            "uri": "spotify:track:4D7BCuvgdJlYvlX5WlN54t"
         }
     ]
 }
