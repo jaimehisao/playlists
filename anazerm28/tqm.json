@@ -550,6 +550,26 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-05-21T15:49:03Z",
             "uri": "spotify:track:10X6HjWW6revK6zFAvJAzR"
+        },
+        {
+            "track_id": "7hipALmB4PgPnjG1wr8ls4",
+            "track_name": "Pintando El Amor",
+            "track_artist": "Danna Paola",
+            "track_album": "Atr\u00e9vete A So\u00f1ar 2",
+            "track_duration": 199880,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-17T14:58:46Z",
+            "uri": "spotify:track:7hipALmB4PgPnjG1wr8ls4"
+        },
+        {
+            "track_id": "1fDFHXcykq4iw8Gg7s5hG9",
+            "track_name": "About You",
+            "track_artist": "The 1975",
+            "track_album": "Being Funny In A Foreign Language",
+            "track_duration": 326490,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-17T14:59:05Z",
+            "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9"
         }
     ]
 }
