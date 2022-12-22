@@ -80,6 +80,26 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2022-12-19T21:06:44Z",
             "uri": "spotify:track:4IU1RL4BKvFyXtbTwaHAvW"
+        },
+        {
+            "track_id": "0ikz6tENMONtK6qGkOrU3c",
+            "track_name": "Wake Me Up Before You Go-Go",
+            "track_artist": "Wham!",
+            "track_album": "Make It Big",
+            "track_duration": 231333,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-22T22:48:51Z",
+            "uri": "spotify:track:0ikz6tENMONtK6qGkOrU3c"
+        },
+        {
+            "track_id": "5e9TFTbltYBg2xThimr0rU",
+            "track_name": "The Chain - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours (Super Deluxe)",
+            "track_duration": 270213,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-22T22:49:29Z",
+            "uri": "spotify:track:5e9TFTbltYBg2xThimr0rU"
         }
     ]
 }
