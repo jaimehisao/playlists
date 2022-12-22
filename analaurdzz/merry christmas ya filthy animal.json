@@ -1010,6 +1010,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2021-11-17T00:30:05Z",
             "uri": "spotify:track:7shn2DNJ4WDGNyHrKNz7hZ"
+        },
+        {
+            "track_id": "0YOvpCzybTujVytCzSeaSV",
+            "track_name": "Christmas (Baby Please Come Home)",
+            "track_artist": "Death Cab for Cutie",
+            "track_album": "Christmas (Baby Please Come Home)",
+            "track_duration": 185106,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2022-12-22T05:03:17Z",
+            "uri": "spotify:track:0YOvpCzybTujVytCzSeaSV"
         }
     ]
 }
