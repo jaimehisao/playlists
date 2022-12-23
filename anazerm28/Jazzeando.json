@@ -200,6 +200,66 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2021-03-14T21:51:40Z",
             "uri": "spotify:track:29Nw8U4t69QQbaHh2TcRvv"
+        },
+        {
+            "track_id": "7paEvsQ08LWCV8Agvo9CWa",
+            "track_name": "Isn't This A Lovely Day?",
+            "track_artist": "Ella Fitzgerald",
+            "track_album": "The Complete Ella And Louis On Verve",
+            "track_duration": 377333,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-08-11T13:53:54Z",
+            "uri": "spotify:track:7paEvsQ08LWCV8Agvo9CWa"
+        },
+        {
+            "track_id": "3MNxcdz3SFeMfX4KunRsjZ",
+            "track_name": "In A Sentimental Mood",
+            "track_artist": "Ella Fitzgerald",
+            "track_album": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+            "track_duration": 168346,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-08-11T13:53:59Z",
+            "uri": "spotify:track:3MNxcdz3SFeMfX4KunRsjZ"
+        },
+        {
+            "track_id": "0sQ9ee2jJNTQgjy55Pse5H",
+            "track_name": "Joy Spring",
+            "track_artist": "Clifford Brown",
+            "track_album": "The Best Of Clifford Brown",
+            "track_duration": 198800,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-08-11T16:47:26Z",
+            "uri": "spotify:track:0sQ9ee2jJNTQgjy55Pse5H"
+        },
+        {
+            "track_id": "1J9iVCaEriyoMXpj2XszhU",
+            "track_name": "When Sunny Gets Blue",
+            "track_artist": "McCoy Tyner",
+            "track_album": "Today And Tomorrow",
+            "track_duration": 282320,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-08-11T16:47:59Z",
+            "uri": "spotify:track:1J9iVCaEriyoMXpj2XszhU"
+        },
+        {
+            "track_id": "34zhjduFdQFhkRUJ230h9T",
+            "track_name": "April In Paris",
+            "track_artist": "Billie Holiday",
+            "track_album": "All Or Nothing At All",
+            "track_duration": 185586,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-08-11T16:48:02Z",
+            "uri": "spotify:track:34zhjduFdQFhkRUJ230h9T"
+        },
+        {
+            "track_id": "5iGleL7HpEThuuYQ3us2jh",
+            "track_name": "Moon River(Vocal Audrey Hepburn)",
+            "track_artist": "Henry Mancini",
+            "track_album": "Breakfast At Tiffany's (50th Anniversary Edition)",
+            "track_duration": 125585,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-08-11T16:55:02Z",
+            "uri": "spotify:track:5iGleL7HpEThuuYQ3us2jh"
         }
     ]
 }
