@@ -110,6 +110,96 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-12-25T23:23:01Z",
             "uri": "spotify:track:6P3dT8EkJd0LOyZklOl0Na"
+        },
+        {
+            "track_id": "57dG9il4j7Hi7G8Cqgi0Ts",
+            "track_name": "Tatuajes",
+            "track_artist": "Joan Sebastian",
+            "track_album": "Joan Sebastian Con Mariachi",
+            "track_duration": 211255,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:16:38Z",
+            "uri": "spotify:track:57dG9il4j7Hi7G8Cqgi0Ts"
+        },
+        {
+            "track_id": "2FDFz5TuYlpP180AUicAcl",
+            "track_name": "Ac\u00e1 Entre Nos",
+            "track_artist": "Vicente Fern\u00e1ndez",
+            "track_album": "Que De Raro Tiene",
+            "track_duration": 195373,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:16:40Z",
+            "uri": "spotify:track:2FDFz5TuYlpP180AUicAcl"
+        },
+        {
+            "track_id": "1OYoXMNCUYlpDyMONw2sNc",
+            "track_name": "Alguien Te Va A Hacer Llorar",
+            "track_artist": "Intocable",
+            "track_album": "X",
+            "track_duration": 249413,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:16:49Z",
+            "uri": "spotify:track:1OYoXMNCUYlpDyMONw2sNc"
+        },
+        {
+            "track_id": "68pE8830rWrd5LSSfKcRqn",
+            "track_name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+            "track_artist": "Juan Gabriel",
+            "track_album": "Juan Gabriel",
+            "track_duration": 182880,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:16:54Z",
+            "uri": "spotify:track:68pE8830rWrd5LSSfKcRqn"
+        },
+        {
+            "track_id": "2R7r52Ar8PrKCysGFUPynn",
+            "track_name": "Ojal\u00e1 que te mueras",
+            "track_artist": "Pesado",
+            "track_album": "Rezare",
+            "track_duration": 180666,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:16:58Z",
+            "uri": "spotify:track:2R7r52Ar8PrKCysGFUPynn"
+        },
+        {
+            "track_id": "6u6kH7V7Tx5xDJtF82vVw0",
+            "track_name": "Estos Celos",
+            "track_artist": "Vicente Fern\u00e1ndez",
+            "track_album": "Vicente Fernandez Para Siempre",
+            "track_duration": 190226,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:17:02Z",
+            "uri": "spotify:track:6u6kH7V7Tx5xDJtF82vVw0"
+        },
+        {
+            "track_id": "6j5LtifAnuTjTYvml61yFZ",
+            "track_name": "Un Mill\u00f3n de Primaveras",
+            "track_artist": "Vicente Fern\u00e1ndez",
+            "track_album": "Vicente Fernandez Para Siempre",
+            "track_duration": 173080,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:18:01Z",
+            "uri": "spotify:track:6j5LtifAnuTjTYvml61yFZ"
+        },
+        {
+            "track_id": "5Cf8MCD6NcYvy8RQL2khAS",
+            "track_name": "Maracas",
+            "track_artist": "Joan Sebastian",
+            "track_album": "Grandes Duetos",
+            "track_duration": 188917,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:18:07Z",
+            "uri": "spotify:track:5Cf8MCD6NcYvy8RQL2khAS"
+        },
+        {
+            "track_id": "7bEZbS1gadU29L5eIwM2gM",
+            "track_name": "Inolvidable",
+            "track_artist": "Jenni Rivera",
+            "track_album": "Mi Vida Loca",
+            "track_duration": 179320,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T19:18:10Z",
+            "uri": "spotify:track:7bEZbS1gadU29L5eIwM2gM"
         }
     ]
 }
