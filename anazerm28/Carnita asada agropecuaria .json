@@ -200,6 +200,76 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-12-26T19:18:10Z",
             "uri": "spotify:track:7bEZbS1gadU29L5eIwM2gM"
+        },
+        {
+            "track_id": "2nbq7IAJfYK9fuw5g2ePv3",
+            "track_name": "La ni\u00f1a fresa",
+            "track_artist": "Banda Zeta",
+            "track_album": "Fiesta Mexicana Con La Banda",
+            "track_duration": 160626,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T20:59:36Z",
+            "uri": "spotify:track:2nbq7IAJfYK9fuw5g2ePv3"
+        },
+        {
+            "track_id": "33i30iRaIfo7ABAaT5oqDy",
+            "track_name": "Pi\u00e9nsalo - In\u00e9dita",
+            "track_artist": "Banda MS de Sergio Liz\u00e1rraga",
+            "track_album": "En Vivo Guadalajara - Monterrey (Live)",
+            "track_duration": 155973,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T20:59:40Z",
+            "uri": "spotify:track:33i30iRaIfo7ABAaT5oqDy"
+        },
+        {
+            "track_id": "3WjFVB8Cbh9DCnrFgwFSQP",
+            "track_name": "No Te Creas Tan Importante",
+            "track_artist": "El Bebeto",
+            "track_album": "En Tu Mirada",
+            "track_duration": 165733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T21:00:04Z",
+            "uri": "spotify:track:3WjFVB8Cbh9DCnrFgwFSQP"
+        },
+        {
+            "track_id": "21Ullb4TU8qMsQd0Iselng",
+            "track_name": "Sabes Una Cosa",
+            "track_artist": "Luis Miguel",
+            "track_album": "Mexico en la Piel (edicion diamante)",
+            "track_duration": 200386,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T21:28:56Z",
+            "uri": "spotify:track:21Ullb4TU8qMsQd0Iselng"
+        },
+        {
+            "track_id": "7y4HLPy4f0TJpmX3rqDjHH",
+            "track_name": "Amarte A La Antigua",
+            "track_artist": "Pedro Fern\u00e1ndez",
+            "track_album": "Amarte A La Antigua",
+            "track_duration": 218533,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T21:29:46Z",
+            "uri": "spotify:track:7y4HLPy4f0TJpmX3rqDjHH"
+        },
+        {
+            "track_id": "5k4oS18NesIeSpnZEDnh6p",
+            "track_name": "Yo...El Aventurero",
+            "track_artist": "Pedro Fern\u00e1ndez",
+            "track_album": "La M\u00e1s Completa Colecci\u00f3n",
+            "track_duration": 179266,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T21:30:18Z",
+            "uri": "spotify:track:5k4oS18NesIeSpnZEDnh6p"
+        },
+        {
+            "track_id": "0SygIagLM5nPX3qWvh53UY",
+            "track_name": "Yo No Fui",
+            "track_artist": "Pedro Fern\u00e1ndez",
+            "track_album": "Yo No Fui",
+            "track_duration": 292400,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-12-26T21:30:23Z",
+            "uri": "spotify:track:0SygIagLM5nPX3qWvh53UY"
         }
     ]
 }
