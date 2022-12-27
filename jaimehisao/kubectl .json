@@ -350,6 +350,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-12-17T21:20:02Z",
             "uri": "spotify:track:2Bs4jQEGMycglOfWPBqrVG"
+        },
+        {
+            "track_id": "6YyeAJrK1IECGERP6OMEvI",
+            "track_name": "Vicio",
+            "track_artist": "Camilo S\u00e9ptimo",
+            "track_album": "\u00d3leos",
+            "track_duration": 277547,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-27T07:03:39Z",
+            "uri": "spotify:track:6YyeAJrK1IECGERP6OMEvI"
         }
     ]
 }
