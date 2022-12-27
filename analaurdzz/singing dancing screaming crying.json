@@ -2220,6 +2220,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2022-10-26T02:47:47Z",
             "uri": "spotify:track:0QHEIqNKsMoOY5urbzN48u"
+        },
+        {
+            "track_id": "0SJYp3obd4YEs5tzy5HXlA",
+            "track_name": "New York Kiss",
+            "track_artist": "Spoon",
+            "track_album": "They Want My Soul",
+            "track_duration": 206826,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2022-12-27T05:27:57Z",
+            "uri": "spotify:track:0SJYp3obd4YEs5tzy5HXlA"
         }
     ]
 }
