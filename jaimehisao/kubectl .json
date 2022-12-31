@@ -360,6 +360,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-12-27T07:03:39Z",
             "uri": "spotify:track:6YyeAJrK1IECGERP6OMEvI"
+        },
+        {
+            "track_id": "4qWizh4UB8BuSypZ3T1zAz",
+            "track_name": "Love Bites",
+            "track_artist": "Def Leppard",
+            "track_album": "Hysteria",
+            "track_duration": 346960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-12-31T07:01:04Z",
+            "uri": "spotify:track:4qWizh4UB8BuSypZ3T1zAz"
         }
     ]
 }
