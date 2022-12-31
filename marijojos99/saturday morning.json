@@ -1,4 +1,205 @@
 {
     "id": "3q3AEmZa1oEADWk9zs5Bte",
-    "tracks": []
+    "tracks": [
+        {
+            "track_id": "4JGKZS7h4Qa16gOU3oNETV",
+            "track_name": "Dreams",
+            "track_artist": "The Cranberries",
+            "track_album": "Everybody Else Is Doing It, So Why Can't We?",
+            "track_duration": 271560,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:30:23Z",
+            "uri": "spotify:track:4JGKZS7h4Qa16gOU3oNETV"
+        },
+        {
+            "track_id": "4ZdmTNaBTErD8n9AQE0YaX",
+            "track_name": "British Bombs",
+            "track_artist": "Declan McKenna",
+            "track_album": "British Bombs",
+            "track_duration": 297714,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:33:52Z",
+            "uri": "spotify:track:4ZdmTNaBTErD8n9AQE0YaX"
+        },
+        {
+            "track_id": "2vJrsjzQp4cGvqOCPSCrxb",
+            "track_name": "Emily",
+            "track_artist": "Declan McKenna",
+            "track_album": "Zeros",
+            "track_duration": 252266,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:42:41Z",
+            "uri": "spotify:track:2vJrsjzQp4cGvqOCPSCrxb"
+        },
+        {
+            "track_id": "5Az8KU81g2aLBbJN67F2CI",
+            "track_name": "Mind Over Matter",
+            "track_artist": "Young the Giant",
+            "track_album": "Mind Over Matter",
+            "track_duration": 244693,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:42:57Z",
+            "uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI"
+        },
+        {
+            "track_id": "67YPjbcxUypwNOwYBZquq1",
+            "track_name": "Superposition",
+            "track_artist": "Young the Giant",
+            "track_album": "Mirror Master",
+            "track_duration": 230959,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:46:25Z",
+            "uri": "spotify:track:67YPjbcxUypwNOwYBZquq1"
+        },
+        {
+            "track_id": "2faSzprTWJ7L1EkZNko4ww",
+            "track_name": "Take Off Your Cool (feat. Norah Jones)",
+            "track_artist": "Outkast",
+            "track_album": "Speakerboxxx/The Love Below",
+            "track_duration": 158093,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:50:45Z",
+            "uri": "spotify:track:2faSzprTWJ7L1EkZNko4ww"
+        },
+        {
+            "track_id": "5CMjjywI0eZMixPeqNd75R",
+            "track_name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+            "track_artist": "Daft Punk",
+            "track_album": "Random Access Memories",
+            "track_duration": 353893,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:51:29Z",
+            "uri": "spotify:track:5CMjjywI0eZMixPeqNd75R"
+        },
+        {
+            "track_id": "49Nvfaxj7ZbGkMov8odLmW",
+            "track_name": "Gasoline",
+            "track_artist": "HAIM",
+            "track_album": "Women In Music Pt. III",
+            "track_duration": 193373,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:52:02Z",
+            "uri": "spotify:track:49Nvfaxj7ZbGkMov8odLmW"
+        },
+        {
+            "track_id": "7I1kle4TNmkfednJDKo8GR",
+            "track_name": "If You Want To",
+            "track_artist": "beabadoobee",
+            "track_album": "Patched Up",
+            "track_duration": 223638,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:52:27Z",
+            "uri": "spotify:track:7I1kle4TNmkfednJDKo8GR"
+        },
+        {
+            "track_id": "0yTJtxZJ5VLfBEHhiNUNeY",
+            "track_name": "Silvertongue",
+            "track_artist": "Young the Giant",
+            "track_album": "Home of the Strange",
+            "track_duration": 197426,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:52:43Z",
+            "uri": "spotify:track:0yTJtxZJ5VLfBEHhiNUNeY"
+        },
+        {
+            "track_id": "3q8iHOd2icirSipnkE7fae",
+            "track_name": "Light Of Love",
+            "track_artist": "Florence + The Machine",
+            "track_album": "Light Of Love",
+            "track_duration": 240720,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T16:58:32Z",
+            "uri": "spotify:track:3q8iHOd2icirSipnkE7fae"
+        },
+        {
+            "track_id": "0zL76omZWytdTtyXKVfuDw",
+            "track_name": "Homemade Dynamite",
+            "track_artist": "Lorde",
+            "track_album": "Melodrama",
+            "track_duration": 189796,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:02:16Z",
+            "uri": "spotify:track:0zL76omZWytdTtyXKVfuDw"
+        },
+        {
+            "track_id": "1nYeVF5vIBxMxfPoL0SIWg",
+            "track_name": "Hallucinate",
+            "track_artist": "Dua Lipa",
+            "track_album": "Future Nostalgia",
+            "track_duration": 208505,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:08:55Z",
+            "uri": "spotify:track:1nYeVF5vIBxMxfPoL0SIWg"
+        },
+        {
+            "track_id": "65tjr5cWJmsA8KHVvuC7b2",
+            "track_name": "Break-Thru",
+            "track_artist": "Dirty Projectors",
+            "track_album": "Lamp Lit Prose",
+            "track_duration": 227826,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:11:19Z",
+            "uri": "spotify:track:65tjr5cWJmsA8KHVvuC7b2"
+        },
+        {
+            "track_id": "77iRifbhkJGvGBBRNykUwN",
+            "track_name": "Suddenly",
+            "track_artist": "Drugdealer",
+            "track_album": "The End Of Comedy",
+            "track_duration": 197040,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:11:41Z",
+            "uri": "spotify:track:77iRifbhkJGvGBBRNykUwN"
+        },
+        {
+            "track_id": "4Ys8jQvZOISzmp34BsImRf",
+            "track_name": "Washing Machine Heart",
+            "track_artist": "Mitski",
+            "track_album": "Be the Cowboy",
+            "track_duration": 128198,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:11:51Z",
+            "uri": "spotify:track:4Ys8jQvZOISzmp34BsImRf"
+        },
+        {
+            "track_id": "5OLQo8LBsfh0LszlsyWlzL",
+            "track_name": "Finger Back",
+            "track_artist": "Vampire Weekend",
+            "track_album": "Modern Vampires of the City",
+            "track_duration": 205960,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:12:14Z",
+            "uri": "spotify:track:5OLQo8LBsfh0LszlsyWlzL"
+        },
+        {
+            "track_id": "3B0K8G7WESjdKxQvVMByR9",
+            "track_name": "Click (feat. Kim Petras and Tommy Cash)",
+            "track_artist": "Charli XCX",
+            "track_album": "Charli",
+            "track_duration": 233293,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:16:51Z",
+            "uri": "spotify:track:3B0K8G7WESjdKxQvVMByR9"
+        },
+        {
+            "track_id": "73SBAGI4fPFm4VkB3NjXq8",
+            "track_name": "I Want You To Love Me",
+            "track_artist": "Fiona Apple",
+            "track_album": "Fetch The Bolt Cutters",
+            "track_duration": 237713,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T17:34:01Z",
+            "uri": "spotify:track:73SBAGI4fPFm4VkB3NjXq8"
+        },
+        {
+            "track_id": "4djIFfof5TpbSGRZUpsTXq",
+            "track_name": "Talk Too Much",
+            "track_artist": "COIN",
+            "track_album": "How Will You Know If You Never Try",
+            "track_duration": 187133,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2020-09-12T18:07:17Z",
+            "uri": "spotify:track:4djIFfof5TpbSGRZUpsTXq"
+        }
+    ]
 }
