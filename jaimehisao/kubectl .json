@@ -380,6 +380,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-12-31T07:58:46Z",
             "uri": "spotify:track:7p8HVe22aGW1XtO1hoDHGo"
+        },
+        {
+            "track_id": "6BZ6pl5bczDc3cMF1kBaOy",
+            "track_name": "pink skies",
+            "track_artist": "LANY",
+            "track_album": "kinda",
+            "track_duration": 185922,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-01-03T01:09:09Z",
+            "uri": "spotify:track:6BZ6pl5bczDc3cMF1kBaOy"
         }
     ]
 }
