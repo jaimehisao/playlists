@@ -390,6 +390,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-01-03T01:09:09Z",
             "uri": "spotify:track:6BZ6pl5bczDc3cMF1kBaOy"
+        },
+        {
+            "track_id": "7vFv0yFGMJW3qVXbAd9BK9",
+            "track_name": "Your Body Is a Wonderland",
+            "track_artist": "John Mayer",
+            "track_album": "Room For Squares",
+            "track_duration": 249626,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-01-03T06:08:55Z",
+            "uri": "spotify:track:7vFv0yFGMJW3qVXbAd9BK9"
         }
     ]
 }
