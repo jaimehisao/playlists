@@ -202,6 +202,206 @@
             "uri": "spotify:track:5CGoF0BhLnKEWYlb8kWKos"
         },
         {
+            "track_id": "6oodugdkaoA4NQ23jMpnfl",
+            "track_name": "C\u00f3mo Es Posible Que a Mi Lado",
+            "track_artist": "Luis Miguel",
+            "track_album": "Grandes \u00c9xitos",
+            "track_duration": 256186,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T06:42:54Z",
+            "uri": "spotify:track:6oodugdkaoA4NQ23jMpnfl"
+        },
+        {
+            "track_id": "61N8sBOfE9iM0uRhInFnKN",
+            "track_name": "Against All Odds (Take a Look at Me Now) - Live from the Serious Tour 1990; 2019 Remaster",
+            "track_artist": "Phil Collins",
+            "track_album": "Serious Hits...Live! (2019 Remaster)",
+            "track_duration": 209720,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T07:23:30Z",
+            "uri": "spotify:track:61N8sBOfE9iM0uRhInFnKN"
+        },
+        {
+            "track_id": "7DFawVSjI88xR9mjnWwURg",
+            "track_name": "If You Don't Know Me by Now - 2008 Remaster",
+            "track_artist": "Simply Red",
+            "track_album": "A New Flame (Expanded Version)",
+            "track_duration": 204000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T07:23:42Z",
+            "uri": "spotify:track:7DFawVSjI88xR9mjnWwURg"
+        },
+        {
+            "track_id": "254bXAqt3zP6P50BdQvEsq",
+            "track_name": "Everywhere - 2017 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Tango In the Night (Deluxe Edition)",
+            "track_duration": 226653,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T07:34:53Z",
+            "uri": "spotify:track:254bXAqt3zP6P50BdQvEsq"
+        },
+        {
+            "track_id": "7oHymG8r14Iv9zn5hFTNax",
+            "track_name": "Can't Take My Eyes Off You",
+            "track_artist": "Engelbert Humperdinck",
+            "track_album": "A Man Without Love",
+            "track_duration": 221373,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T07:34:59Z",
+            "uri": "spotify:track:7oHymG8r14Iv9zn5hFTNax"
+        },
+        {
+            "track_id": "528CAH5pTLq86oZ52fHifA",
+            "track_name": "The Flame",
+            "track_artist": "Cheap Trick",
+            "track_album": "Lap Of Luxury",
+            "track_duration": 338800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T07:35:02Z",
+            "uri": "spotify:track:528CAH5pTLq86oZ52fHifA"
+        },
+        {
+            "track_id": "0e3yhVeNaTfKIWQRw9U9sY",
+            "track_name": "Sacrifice",
+            "track_artist": "Elton John",
+            "track_album": "Sleeping With The Past (Remastered with bonus tracks)",
+            "track_duration": 304133,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T07:35:15Z",
+            "uri": "spotify:track:0e3yhVeNaTfKIWQRw9U9sY"
+        },
+        {
+            "track_id": "4gcz959YVbjQJd8NYrasZf",
+            "track_name": "Rhiannon (Will You Ever Win) - Single; 2017 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Fleetwood Mac (2017 Remaster)",
+            "track_duration": 228320,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-24T07:35:27Z",
+            "uri": "spotify:track:4gcz959YVbjQJd8NYrasZf"
+        },
+        {
+            "track_id": "0TeRQdoBuzG0S21QM5tHaX",
+            "track_name": "How Long Will This Last? - Single Mix",
+            "track_artist": "Blossoms",
+            "track_album": "How Long Will This Last?",
+            "track_duration": 203208,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-25T23:57:40Z",
+            "uri": "spotify:track:0TeRQdoBuzG0S21QM5tHaX"
+        },
+        {
+            "track_id": "4k7P2LIQco8YCVbIZl1vZB",
+            "track_name": "Just Say Yes",
+            "track_artist": "Snow Patrol",
+            "track_album": "Up To Now",
+            "track_duration": 281346,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-27T06:39:36Z",
+            "uri": "spotify:track:4k7P2LIQco8YCVbIZl1vZB"
+        },
+        {
+            "track_id": "49EAN1FCYDbxfEHS3xJvby",
+            "track_name": "Me Pregunto",
+            "track_artist": "Belanova",
+            "track_album": "Dulce Beat",
+            "track_duration": 187546,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-05-31T19:05:31Z",
+            "uri": "spotify:track:49EAN1FCYDbxfEHS3xJvby"
+        },
+        {
+            "track_id": "1ZqeykOaDmjkldzs7XGR4b",
+            "track_name": "Where Angels Fear To Tread",
+            "track_artist": "Disclosure",
+            "track_album": "Moonlight",
+            "track_duration": 225906,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-05T17:50:38Z",
+            "uri": "spotify:track:1ZqeykOaDmjkldzs7XGR4b"
+        },
+        {
+            "track_id": "1FNYYJsaNX0x9azDky286U",
+            "track_name": "Sara - 2015 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Tusk (Deluxe Edition)",
+            "track_duration": 390680,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-07T04:42:07Z",
+            "uri": "spotify:track:1FNYYJsaNX0x9azDky286U"
+        },
+        {
+            "track_id": "2zYCip88nwoF96SC7WEjJm",
+            "track_name": "Hold Me - 2016 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Mirage (Deluxe Edition)",
+            "track_duration": 225034,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-08T23:26:01Z",
+            "uri": "spotify:track:2zYCip88nwoF96SC7WEjJm"
+        },
+        {
+            "track_id": "77O2Awv2GrFf6SBras7JhV",
+            "track_name": "Goodnight Song",
+            "track_artist": "Tears For Fears",
+            "track_album": "Elemental",
+            "track_duration": 233426,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-08T23:30:32Z",
+            "uri": "spotify:track:77O2Awv2GrFf6SBras7JhV"
+        },
+        {
+            "track_id": "68dyhT3QFybWKDSRBDgKof",
+            "track_name": "Otra Vez",
+            "track_artist": "Victor Garcia",
+            "track_album": "Victor Garc\u00eda",
+            "track_duration": 221093,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-09T00:02:26Z",
+            "uri": "spotify:track:68dyhT3QFybWKDSRBDgKof"
+        },
+        {
+            "track_id": "5zGJT3TTShcNHeJeDrjPvs",
+            "track_name": "Fuego en el Fuego",
+            "track_artist": "Eros Ramazzotti",
+            "track_album": "Estilolibre (Spanish Version)",
+            "track_duration": 240893,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-11T01:07:06Z",
+            "uri": "spotify:track:5zGJT3TTShcNHeJeDrjPvs"
+        },
+        {
+            "track_id": "12QphPukpWDR9w1iimddfP",
+            "track_name": "Ani Kuni",
+            "track_artist": "Polo & Pan",
+            "track_album": "Ani Kuni",
+            "track_duration": 276386,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-11T03:43:14Z",
+            "uri": "spotify:track:12QphPukpWDR9w1iimddfP"
+        },
+        {
+            "track_id": "3uEx77R6b16SAltboKfQjh",
+            "track_name": "Popular",
+            "track_artist": "Zo\u00e9",
+            "track_album": "Sonidos De Karm\u00e1tica Resonancia",
+            "track_duration": 270906,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-13T07:27:57Z",
+            "uri": "spotify:track:3uEx77R6b16SAltboKfQjh"
+        },
+        {
+            "track_id": "4H1FWNakPyBYKkohOm6I8O",
+            "track_name": "Daikiri",
+            "track_artist": "Simon Grossmann",
+            "track_album": "Daikiri",
+            "track_duration": 237652,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-06-13T07:28:39Z",
+            "uri": "spotify:track:4H1FWNakPyBYKkohOm6I8O"
+        },
+        {
             "track_id": "5cY6iwmzNfroYMCuLOlJio",
             "track_name": "\u00c1frika",
             "track_artist": "CLUBZ",
