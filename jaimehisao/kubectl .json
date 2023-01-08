@@ -400,6 +400,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-01-03T06:08:55Z",
             "uri": "spotify:track:7vFv0yFGMJW3qVXbAd9BK9"
+        },
+        {
+            "track_id": "1hRFVIy9As8OVRk8B7CrD5",
+            "track_name": "When Love Takes Over (feat. Kelly Rowland)",
+            "track_artist": "David Guetta",
+            "track_album": "One More Love",
+            "track_duration": 191000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-01-08T09:52:47Z",
+            "uri": "spotify:track:1hRFVIy9As8OVRk8B7CrD5"
+        },
+        {
+            "track_id": "3yUcJwYu7fXAfqMj9krY6l",
+            "track_name": "Thank You",
+            "track_artist": "Dido",
+            "track_album": "No Angel",
+            "track_duration": 218360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-01-08T09:53:03Z",
+            "uri": "spotify:track:3yUcJwYu7fXAfqMj9krY6l"
         }
     ]
 }
