@@ -430,6 +430,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-01-08T09:53:03Z",
             "uri": "spotify:track:3yUcJwYu7fXAfqMj9krY6l"
+        },
+        {
+            "track_id": "1nahzW3kfMuwReTka28tH5",
+            "track_name": "Hold On",
+            "track_artist": "Justin Bieber",
+            "track_album": "Justice",
+            "track_duration": 170813,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-01-10T19:46:03Z",
+            "uri": "spotify:track:1nahzW3kfMuwReTka28tH5"
         }
     ]
 }
