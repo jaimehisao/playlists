@@ -1250,6 +1250,36 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-01-09T07:38:32Z",
             "uri": "spotify:track:1BqraLNiOqrwM44Xy95rPZ"
+        },
+        {
+            "track_id": "5l9pLAFiXIsAGBJhSKFvam",
+            "track_name": "True",
+            "track_artist": "Slow Magic",
+            "track_album": "True",
+            "track_duration": 185041,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-10T06:10:47Z",
+            "uri": "spotify:track:5l9pLAFiXIsAGBJhSKFvam"
+        },
+        {
+            "track_id": "0uEDjq4vYsAOtvtCgPC46Q",
+            "track_name": "Our Place",
+            "track_artist": "Attom",
+            "track_album": "Our Place",
+            "track_duration": 200642,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-10T06:15:34Z",
+            "uri": "spotify:track:0uEDjq4vYsAOtvtCgPC46Q"
+        },
+        {
+            "track_id": "2Ot9AdHrKtBZbNRuGqI8hO",
+            "track_name": "Hikikomori - Demo",
+            "track_artist": "Jai Wolf",
+            "track_album": "Hikikomori",
+            "track_duration": 162171,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-10T06:16:40Z",
+            "uri": "spotify:track:2Ot9AdHrKtBZbNRuGqI8hO"
         }
     ]
 }
