@@ -1050,6 +1050,46 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-01-03T22:00:52Z",
             "uri": "spotify:track:5HQ639Z3ms3hnZx0KfWnkp"
+        },
+        {
+            "track_id": "0MHXrqn909p0LRTPsNsGEi",
+            "track_name": "Move on Up - Single Edit",
+            "track_artist": "Curtis Mayfield",
+            "track_album": "Move on Up",
+            "track_duration": 165789,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:01:37Z",
+            "uri": "spotify:track:0MHXrqn909p0LRTPsNsGEi"
+        },
+        {
+            "track_id": "1I7zHEdDx8Ny5RxzYPqsU2",
+            "track_name": "Reelin' In The Years",
+            "track_artist": "Steely Dan",
+            "track_album": "Can't Buy A Thrill",
+            "track_duration": 275466,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:02:17Z",
+            "uri": "spotify:track:1I7zHEdDx8Ny5RxzYPqsU2"
+        },
+        {
+            "track_id": "2BstRQGodshjGpeDGQiNgo",
+            "track_name": "Do It Again",
+            "track_artist": "Steely Dan",
+            "track_album": "Can't Buy A Thrill",
+            "track_duration": 356733,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:02:23Z",
+            "uri": "spotify:track:2BstRQGodshjGpeDGQiNgo"
+        },
+        {
+            "track_id": "476V2d6iA2tWXgQboKmTtA",
+            "track_name": "Father And Son",
+            "track_artist": "Yusuf / Cat Stevens",
+            "track_album": "Tea For The Tillerman (Remastered 2020)",
+            "track_duration": 221120,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:02:29Z",
+            "uri": "spotify:track:476V2d6iA2tWXgQboKmTtA"
         }
     ]
 }
