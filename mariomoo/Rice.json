@@ -1280,6 +1280,66 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-01-10T06:16:40Z",
             "uri": "spotify:track:2Ot9AdHrKtBZbNRuGqI8hO"
+        },
+        {
+            "track_id": "0fuSuYV4bEPKBJMBF8Egn8",
+            "track_name": "So Settled",
+            "track_artist": "Vallis Alps",
+            "track_album": "So Settled",
+            "track_duration": 194738,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:01:22Z",
+            "uri": "spotify:track:0fuSuYV4bEPKBJMBF8Egn8"
+        },
+        {
+            "track_id": "0wdcUJyzZVvg52YjUNV6d9",
+            "track_name": "Slow Dance",
+            "track_artist": "Tennyson",
+            "track_album": "Rot",
+            "track_duration": 194506,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:01:25Z",
+            "uri": "spotify:track:0wdcUJyzZVvg52YjUNV6d9"
+        },
+        {
+            "track_id": "1AZzeXuxOhLXEfEtysYzuV",
+            "track_name": "Closer 2 U",
+            "track_artist": "Slow Magic",
+            "track_album": "it's the end of the world, but it's ok",
+            "track_duration": 193616,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:02:42Z",
+            "uri": "spotify:track:1AZzeXuxOhLXEfEtysYzuV"
+        },
+        {
+            "track_id": "73vIOb4Q7YN6HeJTbscRx5",
+            "track_name": "Miss You",
+            "track_artist": "Oliver Tree",
+            "track_album": "Miss You",
+            "track_duration": 206000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:03:23Z",
+            "uri": "spotify:track:73vIOb4Q7YN6HeJTbscRx5"
+        },
+        {
+            "track_id": "2lfEMPAs5tEMHJITKZydib",
+            "track_name": "Dichotomy (Intro)",
+            "track_artist": "GG Magree",
+            "track_album": "Dichotomy",
+            "track_duration": 70545,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:03:28Z",
+            "uri": "spotify:track:2lfEMPAs5tEMHJITKZydib"
+        },
+        {
+            "track_id": "6SXlHewUNdxtoa9QrZm77f",
+            "track_name": "Hold On (Feat. MOONZz)",
+            "track_artist": "CloZee",
+            "track_album": "Nouvelle Era",
+            "track_duration": 276000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:03:50Z",
+            "uri": "spotify:track:6SXlHewUNdxtoa9QrZm77f"
         }
     ]
 }
