@@ -60,6 +60,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-01-11T09:05:19Z",
             "uri": "spotify:track:04P1ylRDzyxBIl9W0UNWXC"
+        },
+        {
+            "track_id": "4sWZVIOHuTrQOt6mqzMiBE",
+            "track_name": "Your Other Life",
+            "track_artist": "Lord Huron",
+            "track_album": "Long Lost (Deluxe Edition)",
+            "track_duration": 280140,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-01-11T12:07:50Z",
+            "uri": "spotify:track:4sWZVIOHuTrQOt6mqzMiBE"
         }
     ]
 }
