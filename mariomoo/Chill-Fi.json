@@ -330,6 +330,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2022-12-15T17:59:52Z",
             "uri": "spotify:track:7mgX4NHPJweNHwBVk8u0Ml"
+        },
+        {
+            "track_id": "2iTd1CK2bCxsLPQXifX1t5",
+            "track_name": "La Boh\u00e8me",
+            "track_artist": "C Y G N",
+            "track_album": "LA BOH\u00c8ME",
+            "track_duration": 224000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:01:17Z",
+            "uri": "spotify:track:2iTd1CK2bCxsLPQXifX1t5"
         }
     ]
 }
