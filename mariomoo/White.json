@@ -190,6 +190,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2022-08-30T22:12:25Z",
             "uri": "spotify:track:2Iq6HhIquO7JKr0KfTNLzU"
+        },
+        {
+            "track_id": "33WTgxRdPBQQpVCMXpNxhO",
+            "track_name": "Cure For Me",
+            "track_artist": "AURORA",
+            "track_album": "The Gods We Can Touch",
+            "track_duration": 201640,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:03:38Z",
+            "uri": "spotify:track:33WTgxRdPBQQpVCMXpNxhO"
         }
     ]
 }
