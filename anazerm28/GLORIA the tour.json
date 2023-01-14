@@ -90,6 +90,16 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-01-13T08:52:40Z",
             "uri": "spotify:track:5Nm9ERjJZ5oyfXZTECKmRt"
+        },
+        {
+            "track_id": "7t3Xdbufg7q2onVsR8RBdY",
+            "track_name": "Fire On Fire",
+            "track_artist": "Sam Smith",
+            "track_album": "Love Goes",
+            "track_duration": 246735,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-01-14T00:50:08Z",
+            "uri": "spotify:track:7t3Xdbufg7q2onVsR8RBdY"
         }
     ]
 }
