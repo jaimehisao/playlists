@@ -1,0 +1,25 @@
+{
+    "id": "0hPjOCNHelG7ZNVZr9jVMR",
+    "tracks": [
+        {
+            "track_id": "2dW3ZWlCrV4T1SBR1u1ttz",
+            "track_name": "A Kiss",
+            "track_artist": "THE DRIVER ERA",
+            "track_album": "Girlfriend",
+            "track_duration": 271854,
+            "track_added_by": "1292030678",
+            "track_added_at": "2023-01-16T18:42:33Z",
+            "uri": "spotify:track:2dW3ZWlCrV4T1SBR1u1ttz"
+        },
+        {
+            "track_id": "0ehhyO5zJtMcgiLM2lSjpx",
+            "track_name": "TOMMY HANKS",
+            "track_artist": "Jakey",
+            "track_album": "ROMCOM",
+            "track_duration": 185233,
+            "track_added_by": "1292030678",
+            "track_added_at": "2023-01-16T18:42:42Z",
+            "uri": "spotify:track:0ehhyO5zJtMcgiLM2lSjpx"
+        }
+    ]
+}
