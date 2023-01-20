@@ -100,6 +100,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-01-17T21:23:56Z",
             "uri": "spotify:track:4C5iYZMmSYeIUCtX3uShA7"
+        },
+        {
+            "track_id": "3XVBdLihbNbxUwZosxcGuJ",
+            "track_name": "If I Ain't Got You",
+            "track_artist": "Alicia Keys",
+            "track_album": "The Diary Of Alicia Keys",
+            "track_duration": 228706,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-01-20T00:05:00Z",
+            "uri": "spotify:track:3XVBdLihbNbxUwZosxcGuJ"
         }
     ]
 }
