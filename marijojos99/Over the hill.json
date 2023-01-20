@@ -120,6 +120,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-01-20T01:27:54Z",
             "uri": "spotify:track:2VjXGuPVVxyhMgER3Uz2Fe"
+        },
+        {
+            "track_id": "3tJ4y2Zqx6gM9xOAuFfsSF",
+            "track_name": "Cool Girl",
+            "track_artist": "Tove Lo",
+            "track_album": "Lady Wood",
+            "track_duration": 199179,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-01-20T05:11:53Z",
+            "uri": "spotify:track:3tJ4y2Zqx6gM9xOAuFfsSF"
         }
     ]
 }
