@@ -1,0 +1,45 @@
+{
+    "id": "6DrSEIMWqMfu6XRMd3ZB9Z",
+    "tracks": [
+        {
+            "track_id": "0W4G2TqiYXBvkyelLU90IK",
+            "track_name": "Run Tonight",
+            "track_artist": "Kat Meoz",
+            "track_album": "Run Tonight",
+            "track_duration": 155923,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-21T23:11:54Z",
+            "uri": "spotify:track:0W4G2TqiYXBvkyelLU90IK"
+        },
+        {
+            "track_id": "34P3AmfcOZ1ip7RkV0pqoO",
+            "track_name": "God Is Dead",
+            "track_artist": "DEVORA",
+            "track_album": "God Is Dead",
+            "track_duration": 224532,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-21T23:12:05Z",
+            "uri": "spotify:track:34P3AmfcOZ1ip7RkV0pqoO"
+        },
+        {
+            "track_id": "4FKcnQg9yirzNHD545PK61",
+            "track_name": "Wild West",
+            "track_artist": "DEVORA",
+            "track_album": "God Is Dead",
+            "track_duration": 182955,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-21T23:12:40Z",
+            "uri": "spotify:track:4FKcnQg9yirzNHD545PK61"
+        },
+        {
+            "track_id": "5ESoZamdGtJyucO9GHQExV",
+            "track_name": "Fist Fight",
+            "track_artist": "DEVORA",
+            "track_album": "Outlaw",
+            "track_duration": 213171,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-21T23:12:54Z",
+            "uri": "spotify:track:5ESoZamdGtJyucO9GHQExV"
+        }
+    ]
+}
