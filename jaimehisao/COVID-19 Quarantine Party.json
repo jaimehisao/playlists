@@ -202,6 +202,206 @@
             "uri": "spotify:track:1oew3nFNY3vMacJAsvry0S"
         },
         {
+            "track_id": "4HlFJV71xXKIGcU3kRyttv",
+            "track_name": "Hey, Soul Sister",
+            "track_artist": "Train",
+            "track_album": "Save Me, San Francisco (Golden Gate Edition)",
+            "track_duration": 216773,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:34:03Z",
+            "uri": "spotify:track:4HlFJV71xXKIGcU3kRyttv"
+        },
+        {
+            "track_id": "1fBl642IhJOE5U319Gy2Go",
+            "track_name": "Animal",
+            "track_artist": "Neon Trees",
+            "track_album": "Habits",
+            "track_duration": 212293,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:34:11Z",
+            "uri": "spotify:track:1fBl642IhJOE5U319Gy2Go"
+        },
+        {
+            "track_id": "67WTwafOMgegV6ABnBQxcE",
+            "track_name": "Some Nights",
+            "track_artist": "fun.",
+            "track_album": "Some Nights",
+            "track_duration": 277040,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:34:21Z",
+            "uri": "spotify:track:67WTwafOMgegV6ABnBQxcE"
+        },
+        {
+            "track_id": "6RtPijgfPKROxEzTHNRiDp",
+            "track_name": "Rude",
+            "track_artist": "MAGIC!",
+            "track_album": "Don't Kill the Magic",
+            "track_duration": 224840,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:34:46Z",
+            "uri": "spotify:track:6RtPijgfPKROxEzTHNRiDp"
+        },
+        {
+            "track_id": "4356Typ82hUiFAynbLYbPn",
+            "track_name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+            "track_artist": "Usher",
+            "track_album": "Raymond v Raymond (Expanded Edition)",
+            "track_duration": 220800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:35:02Z",
+            "uri": "spotify:track:4356Typ82hUiFAynbLYbPn"
+        },
+        {
+            "track_id": "7BqBn9nzAq8spo5e7cZ0dJ",
+            "track_name": "Just the Way You Are",
+            "track_artist": "Bruno Mars",
+            "track_album": "Doo-Wops & Hooligans",
+            "track_duration": 220734,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:35:06Z",
+            "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ"
+        },
+        {
+            "track_id": "5yDL13y5giogKs2fSNf7sj",
+            "track_name": "Glad You Came",
+            "track_artist": "The Wanted",
+            "track_album": "Battleground (Deluxe Edition)",
+            "track_duration": 197935,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:35:07Z",
+            "uri": "spotify:track:5yDL13y5giogKs2fSNf7sj"
+        },
+        {
+            "track_id": "6OtCIsQZ64Vs1EbzztvAv4",
+            "track_name": "Good Life",
+            "track_artist": "OneRepublic",
+            "track_album": "Waking Up",
+            "track_duration": 253306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:35:12Z",
+            "uri": "spotify:track:6OtCIsQZ64Vs1EbzztvAv4"
+        },
+        {
+            "track_id": "4E5P1XyAFtrjpiIxkydly4",
+            "track_name": "Replay",
+            "track_artist": "Iyaz",
+            "track_album": "Replay",
+            "track_duration": 182306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:35:24Z",
+            "uri": "spotify:track:4E5P1XyAFtrjpiIxkydly4"
+        },
+        {
+            "track_id": "0HPD5WQqrq7wPWR7P7Dw1i",
+            "track_name": "TiK ToK",
+            "track_artist": "Kesha",
+            "track_album": "Animal (Expanded Edition)",
+            "track_duration": 199693,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:36:07Z",
+            "uri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i"
+        },
+        {
+            "track_id": "4QNpBfC0zvjKqPJcyqBy9W",
+            "track_name": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+            "track_artist": "Pitbull",
+            "track_album": "Planet Pit (Deluxe Version)",
+            "track_duration": 252306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:36:11Z",
+            "uri": "spotify:track:4QNpBfC0zvjKqPJcyqBy9W"
+        },
+        {
+            "track_id": "3avYqdwHKEq8beXbeWCKqJ",
+            "track_name": "Last Friday Night (T.G.I.F.)",
+            "track_artist": "Katy Perry",
+            "track_album": "Teenage Dream",
+            "track_duration": 230733,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:36:19Z",
+            "uri": "spotify:track:3avYqdwHKEq8beXbeWCKqJ"
+        },
+        {
+            "track_id": "1NhPKVLsHhFUHIOZ32QnS2",
+            "track_name": "Secrets",
+            "track_artist": "OneRepublic",
+            "track_album": "Waking Up",
+            "track_duration": 224693,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:36:25Z",
+            "uri": "spotify:track:1NhPKVLsHhFUHIOZ32QnS2"
+        },
+        {
+            "track_id": "7wMq5n8mYSKlQIGECKUgTX",
+            "track_name": "Hall of Fame (feat. will.i.am)",
+            "track_artist": "The Script",
+            "track_album": "#3 Deluxe Version",
+            "track_duration": 202533,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:36:36Z",
+            "uri": "spotify:track:7wMq5n8mYSKlQIGECKUgTX"
+        },
+        {
+            "track_id": "1oHNvJVbFkexQc0BpQp7Y4",
+            "track_name": "Starships",
+            "track_artist": "Nicki Minaj",
+            "track_album": "Pink Friday ... Roman Reloaded",
+            "track_duration": 210626,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:36:42Z",
+            "uri": "spotify:track:1oHNvJVbFkexQc0BpQp7Y4"
+        },
+        {
+            "track_id": "1FreAz1lmnDi5aKLB6GdFM",
+            "track_name": "Where Is The Love?",
+            "track_artist": "Black Eyed Peas",
+            "track_album": "Elephunk",
+            "track_duration": 272533,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:37:22Z",
+            "uri": "spotify:track:1FreAz1lmnDi5aKLB6GdFM"
+        },
+        {
+            "track_id": "7vWFaMq63AwkFDhS2OAg5u",
+            "track_name": "The Time (Dirty Bit)",
+            "track_artist": "Black Eyed Peas",
+            "track_album": "The Beginning (Deluxe)",
+            "track_duration": 307640,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:37:35Z",
+            "uri": "spotify:track:7vWFaMq63AwkFDhS2OAg5u"
+        },
+        {
+            "track_id": "1gv4xPanImH17bKZ9rOveR",
+            "track_name": "Raise Your Glass",
+            "track_artist": "P!nk",
+            "track_album": "Raise Your Glass",
+            "track_duration": 202960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:37:42Z",
+            "uri": "spotify:track:1gv4xPanImH17bKZ9rOveR"
+        },
+        {
+            "track_id": "6ebkx7Q5tTxrCxKq4GYj0Y",
+            "track_name": "Club Can't Handle Me (feat. David Guetta)",
+            "track_artist": "Flo Rida",
+            "track_album": "Only One Flo (Part 1)",
+            "track_duration": 234560,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:37:53Z",
+            "uri": "spotify:track:6ebkx7Q5tTxrCxKq4GYj0Y"
+        },
+        {
+            "track_id": "4cluDES4hQEUhmXj6TXkSo",
+            "track_name": "What Makes You Beautiful",
+            "track_artist": "One Direction",
+            "track_album": "Up All Night",
+            "track_duration": 199986,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-03-20T22:39:22Z",
+            "uri": "spotify:track:4cluDES4hQEUhmXj6TXkSo"
+        },
+        {
             "track_id": "5jzKL4BDMClWqRguW5qZvh",
             "track_name": "Teenage Dream",
             "track_artist": "Katy Perry",
