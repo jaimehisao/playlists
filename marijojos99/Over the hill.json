@@ -130,6 +130,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-01-20T05:11:53Z",
             "uri": "spotify:track:3tJ4y2Zqx6gM9xOAuFfsSF"
+        },
+        {
+            "track_id": "0QKfiqpEU4h9ycPSzIFwYe",
+            "track_name": "Maniac",
+            "track_artist": "Michael Sembello",
+            "track_album": "Flashdance (Original Soundtrack From The Motion Picture)",
+            "track_duration": 244706,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-01-23T01:52:40Z",
+            "uri": "spotify:track:0QKfiqpEU4h9ycPSzIFwYe"
         }
     ]
 }
