@@ -140,6 +140,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-01-23T01:52:40Z",
             "uri": "spotify:track:0QKfiqpEU4h9ycPSzIFwYe"
+        },
+        {
+            "track_id": "1NZs6n6hl8UuMaX0UC0YTz",
+            "track_name": "Brooklyn Baby",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Ultraviolence (Deluxe)",
+            "track_duration": 351640,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-01-24T09:03:00Z",
+            "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz"
         }
     ]
 }
