@@ -2240,6 +2240,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-01-13T21:49:59Z",
             "uri": "spotify:track:0yLdNVWF3Srea0uzk55zFn"
+        },
+        {
+            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
+            "track_name": "Paper Rings",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 222400,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-01-24T17:58:03Z",
+            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
         }
     ]
 }
