@@ -400,36 +400,6 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2020-10-29T18:43:42Z",
             "uri": "spotify:track:71keN33KR0rS5jwKi4JNLE"
-        },
-        {
-            "track_id": "4xR0HPOe0abZG0MZi8LYIv",
-            "track_name": "Earth Angel",
-            "track_artist": "Frankie Valli & The Four Seasons",
-            "track_album": "Dawn (Go Away) and 11 Other Hits",
-            "track_duration": 145626,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2020-11-20T03:00:05Z",
-            "uri": "spotify:track:4xR0HPOe0abZG0MZi8LYIv"
-        },
-        {
-            "track_id": "4rfh0qEv1HdKRXWiRXfzWF",
-            "track_name": "It's Been a Long, Long Time",
-            "track_artist": "Harry James",
-            "track_album": "Texas Chatter",
-            "track_duration": 205773,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-03-18T06:59:15Z",
-            "uri": "spotify:track:4rfh0qEv1HdKRXWiRXfzWF"
-        },
-        {
-            "track_id": "7ePFDzrnLt3Ynqgy2UFWri",
-            "track_name": "December, 1963 (Oh What a Night!)",
-            "track_artist": "Frankie Valli & The Four Seasons",
-            "track_album": "The Very Best of Frankie Valli & The 4 Seasons",
-            "track_duration": 201093,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-05-11T16:11:59Z",
-            "uri": "spotify:track:7ePFDzrnLt3Ynqgy2UFWri"
         }
     ]
 }
