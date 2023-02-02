@@ -100,6 +100,76 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2022-08-10T17:50:49Z",
             "uri": "spotify:track:11MSJwrooSunxW64z2COd7"
+        },
+        {
+            "track_id": "3fMYFChVxRUJZnHIpuylc9",
+            "track_name": "I Don't Want To Go To Mars",
+            "track_artist": "White Lies",
+            "track_album": "As I Try Not To Fall Apart",
+            "track_duration": 277706,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-02T18:12:03Z",
+            "uri": "spotify:track:3fMYFChVxRUJZnHIpuylc9"
+        },
+        {
+            "track_id": "05uhED0miR9OJYPalPi7tx",
+            "track_name": "Wild",
+            "track_artist": "Spoon",
+            "track_album": "Lucifer On The Sofa",
+            "track_duration": 193277,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-02T18:12:03Z",
+            "uri": "spotify:track:05uhED0miR9OJYPalPi7tx"
+        },
+        {
+            "track_id": "4ZifmvedzdccUUuiGDAbTU",
+            "track_name": "The Hardest Cut",
+            "track_artist": "Spoon",
+            "track_album": "Lucifer On The Sofa",
+            "track_duration": 193369,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-02T18:12:03Z",
+            "uri": "spotify:track:4ZifmvedzdccUUuiGDAbTU"
+        },
+        {
+            "track_id": "5aMJ1MBPZiCHZVGtjR6Xd9",
+            "track_name": "Outlaw",
+            "track_artist": "DEVORA",
+            "track_album": "Outlaw",
+            "track_duration": 217112,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-02T18:12:03Z",
+            "uri": "spotify:track:5aMJ1MBPZiCHZVGtjR6Xd9"
+        },
+        {
+            "track_id": "7ne867SdHbopGYjxVNyRFM",
+            "track_name": "Lost Cause",
+            "track_artist": "Black Pistol Fire",
+            "track_album": "Deadbeat Graffiti",
+            "track_duration": 212120,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-02T18:12:03Z",
+            "uri": "spotify:track:7ne867SdHbopGYjxVNyRFM"
+        },
+        {
+            "track_id": "5K43AHQPTJTqlyRZ3uBGKz",
+            "track_name": "A Good Song Never Dies",
+            "track_artist": "Saint Motel",
+            "track_album": "The Original Motion Picture Soundtrack",
+            "track_duration": 201013,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-02T18:12:03Z",
+            "uri": "spotify:track:5K43AHQPTJTqlyRZ3uBGKz"
+        },
+        {
+            "track_id": "6nVvCNdAt1l3TUqLKW4swg",
+            "track_name": "Snake Charmer",
+            "track_artist": "Saint Motel",
+            "track_album": "The Original Motion Picture Soundtrack",
+            "track_duration": 235240,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-02T18:12:03Z",
+            "uri": "spotify:track:6nVvCNdAt1l3TUqLKW4swg"
         }
     ]
 }
