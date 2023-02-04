@@ -240,6 +240,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-03T19:32:03Z",
             "uri": "spotify:track:7oOOI85fVQvVnK5ynNMdW7"
+        },
+        {
+            "track_id": "2K6vUau7bnZUamjbRSOOvJ",
+            "track_name": "777",
+            "track_artist": "Bruno Mars",
+            "track_album": "An Evening With Silk Sonic",
+            "track_duration": 165000,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-03T23:54:45Z",
+            "uri": "spotify:track:2K6vUau7bnZUamjbRSOOvJ"
         }
     ]
 }
