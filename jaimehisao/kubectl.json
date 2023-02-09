@@ -490,6 +490,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-02-08T04:33:13Z",
             "uri": "spotify:track:1kPpge9JDLpcj15qgrPbYX"
+        },
+        {
+            "track_id": "6FtIK0IkmG33lKbc1pyAlZ",
+            "track_name": "AMAZING",
+            "track_artist": "Rex Orange County",
+            "track_album": "AMAZING",
+            "track_duration": 209200,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-02-09T01:45:04Z",
+            "uri": "spotify:track:6FtIK0IkmG33lKbc1pyAlZ"
+        },
+        {
+            "track_id": "0L7UzdYmOkLhHoDLEcUa8f",
+            "track_name": "Departamento",
+            "track_artist": "Bandalos Chinos",
+            "track_album": "Departamento",
+            "track_duration": 234866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-02-09T01:49:12Z",
+            "uri": "spotify:track:0L7UzdYmOkLhHoDLEcUa8f"
         }
     ]
 }
