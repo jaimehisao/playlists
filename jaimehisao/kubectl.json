@@ -510,6 +510,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-02-09T01:49:12Z",
             "uri": "spotify:track:0L7UzdYmOkLhHoDLEcUa8f"
+        },
+        {
+            "track_id": "0NMUFQdEFjftg0BQnyZCsh",
+            "track_name": "Love at First Sight",
+            "track_artist": "Kylie Minogue",
+            "track_album": "Fever",
+            "track_duration": 238266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-02-09T18:08:59Z",
+            "uri": "spotify:track:0NMUFQdEFjftg0BQnyZCsh"
         }
     ]
 }
