@@ -2320,6 +2320,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-11-15T20:42:24Z",
             "uri": "spotify:track:2igwFfvr1OAGX9SKDCPBwO"
+        },
+        {
+            "track_id": "2D5xQtVNi4o6F3Gh1qxD3Y",
+            "track_name": "Be Good to Yourself",
+            "track_artist": "Journey",
+            "track_album": "Raised On Radio",
+            "track_duration": 231680,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-02-10T06:42:42Z",
+            "uri": "spotify:track:2D5xQtVNi4o6F3Gh1qxD3Y"
         }
     ]
 }
