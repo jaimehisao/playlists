@@ -2,6 +2,206 @@
     "id": "6DsSFU4b3euHCcRIqQuHT9",
     "tracks": [
         {
+            "track_id": "35Al5qqEh6ocP9wN8tZiZM",
+            "track_name": "Contigo",
+            "track_artist": "Elefante",
+            "track_album": "Elefante",
+            "track_duration": 212280,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-04-29T17:34:10Z",
+            "uri": "spotify:track:35Al5qqEh6ocP9wN8tZiZM"
+        },
+        {
+            "track_id": "3eB9M6owEHwk4nNrZRNUwd",
+            "track_name": "Mi Persona Favorita",
+            "track_artist": "Alejandro Sanz",
+            "track_album": "Mi Persona Favorita",
+            "track_duration": 239972,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-04-29T17:34:26Z",
+            "uri": "spotify:track:3eB9M6owEHwk4nNrZRNUwd"
+        },
+        {
+            "track_id": "4kSKacywUJHdhyst4PL6pl",
+            "track_name": "Somethin' Stupid",
+            "track_artist": "Robbie Williams",
+            "track_album": "Swing When You're Winning",
+            "track_duration": 170493,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-04-29T17:35:11Z",
+            "uri": "spotify:track:4kSKacywUJHdhyst4PL6pl"
+        },
+        {
+            "track_id": "01D7nX5t321cgGgehXH0MU",
+            "track_name": "Work (feat. Pongo)",
+            "track_artist": "Kazy Lambist",
+            "track_album": "Work (feat. Pongo) - Single",
+            "track_duration": 197560,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-04-29T17:40:32Z",
+            "uri": "spotify:track:01D7nX5t321cgGgehXH0MU"
+        },
+        {
+            "track_id": "55Q4grgucNUDMRP13CtL5I",
+            "track_name": "Oh My God",
+            "track_artist": "Kazy Lambist",
+            "track_album": "Sky Kiss",
+            "track_duration": 200733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-04-29T17:42:04Z",
+            "uri": "spotify:track:55Q4grgucNUDMRP13CtL5I"
+        },
+        {
+            "track_id": "5b00r2xveYfVIOExZJJ395",
+            "track_name": "Lloviendo Estrellas",
+            "track_artist": "Cristian Castro",
+            "track_album": "Grandes Hits",
+            "track_duration": 256133,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-04-29T18:08:41Z",
+            "uri": "spotify:track:5b00r2xveYfVIOExZJJ395"
+        },
+        {
+            "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+            "track_name": "Everybody Wants To Rule The World",
+            "track_artist": "Tears For Fears",
+            "track_album": "Songs From The Big Chair (Super Deluxe Edition)",
+            "track_duration": 251488,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-04-29T18:08:55Z",
+            "uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE"
+        },
+        {
+            "track_id": "4lO57zZGFcj7vSY4QhfVDq",
+            "track_name": "She's The One",
+            "track_artist": "Robbie Williams",
+            "track_album": "I've Been Expecting You",
+            "track_duration": 258026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-05-14T05:33:04Z",
+            "uri": "spotify:track:4lO57zZGFcj7vSY4QhfVDq"
+        },
+        {
+            "track_id": "5fgb3Md1xjt3mxeBqguiIA",
+            "track_name": "I Would Do Anything for You",
+            "track_artist": "Foster The People",
+            "track_album": "Torches",
+            "track_duration": 214080,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-05-17T00:29:52Z",
+            "uri": "spotify:track:5fgb3Md1xjt3mxeBqguiIA"
+        },
+        {
+            "track_id": "1kRBzwYo4IHhSUJkJbdvfH",
+            "track_name": "Loco",
+            "track_artist": "Siddhartha",
+            "track_album": "El Vuelo del Pez",
+            "track_duration": 211319,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-05-17T00:35:27Z",
+            "uri": "spotify:track:1kRBzwYo4IHhSUJkJbdvfH"
+        },
+        {
+            "track_id": "69VfaraLe5onolFj90bgyj",
+            "track_name": "Antes Que al M\u00edo",
+            "track_artist": "Los Claxons",
+            "track_album": "Camino a Encontrarte (Edici\u00f3n Especial)",
+            "track_duration": 181280,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-05-17T12:26:11Z",
+            "uri": "spotify:track:69VfaraLe5onolFj90bgyj"
+        },
+        {
+            "track_id": "3EcsBKooLv8jotNKmuYQyd",
+            "track_name": "Tarde",
+            "track_artist": "Siddhartha",
+            "track_album": "\u00danicos",
+            "track_duration": 258200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-05-18T14:29:41Z",
+            "uri": "spotify:track:3EcsBKooLv8jotNKmuYQyd"
+        },
+        {
+            "track_id": "3tixBnQjxKoz3YicViO0Ik",
+            "track_name": "Hasta Que Vuelvas a Verme",
+            "track_artist": "Los Claxons",
+            "track_album": "Hasta Que Vuelvas a Verme",
+            "track_duration": 181746,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-06-14T02:34:36Z",
+            "uri": "spotify:track:3tixBnQjxKoz3YicViO0Ik"
+        },
+        {
+            "track_id": "7G7tgVYORlDuVprcYHuFJh",
+            "track_name": "Don't Dream It's Over",
+            "track_artist": "Crowded House",
+            "track_album": "Crowded House",
+            "track_duration": 236933,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-20T05:15:56Z",
+            "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh"
+        },
+        {
+            "track_id": "2kyezitNXSQaIa1nsQRWVp",
+            "track_name": "Don't Dream It's Over",
+            "track_artist": "Sixpence None The Richer",
+            "track_album": "Divine Discontent",
+            "track_duration": 243960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-20T05:16:06Z",
+            "uri": "spotify:track:2kyezitNXSQaIa1nsQRWVp"
+        },
+        {
+            "track_id": "43z6scIZU2QcEieMQFAJRG",
+            "track_name": "There She Goes",
+            "track_artist": "Sixpence None The Richer",
+            "track_album": "Sixpence None the Richer",
+            "track_duration": 164280,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-08-20T05:51:38Z",
+            "uri": "spotify:track:43z6scIZU2QcEieMQFAJRG"
+        },
+        {
+            "track_id": "0ylPYJtAJmAMr9jdPQ3cF7",
+            "track_name": "This Is The Last Time",
+            "track_artist": "Keane",
+            "track_album": "Hopes And Fears",
+            "track_duration": 207986,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-01T05:34:37Z",
+            "uri": "spotify:track:0ylPYJtAJmAMr9jdPQ3cF7"
+        },
+        {
+            "track_id": "3C3cr2JQwXIhqAHqOardVO",
+            "track_name": "Holding on to You",
+            "track_artist": "Twenty One Pilots",
+            "track_album": "Vessel",
+            "track_duration": 263733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-01T05:45:54Z",
+            "uri": "spotify:track:3C3cr2JQwXIhqAHqOardVO"
+        },
+        {
+            "track_id": "2Y0iGXY6m6immVb2ktbseM",
+            "track_name": "Little Dark Age",
+            "track_artist": "MGMT",
+            "track_album": "Little Dark Age",
+            "track_duration": 299960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-07T01:35:09Z",
+            "uri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+        },
+        {
+            "track_id": "1Vk4yRsz0iBzDiZEoFMQyv",
+            "track_name": "Mia & Sebastian\u2019s Theme",
+            "track_artist": "Justin Hurwitz",
+            "track_album": "La La Land (Original Motion Picture Soundtrack)",
+            "track_duration": 98040,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2020-11-07T13:51:43Z",
+            "uri": "spotify:track:1Vk4yRsz0iBzDiZEoFMQyv"
+        },
+        {
             "track_id": "0Iys022UwQ8xBfxE1g4nWZ",
             "track_name": "One Last Time",
             "track_artist": "Christopher Jackson",
