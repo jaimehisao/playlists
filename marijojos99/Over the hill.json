@@ -290,6 +290,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-10T08:43:03Z",
             "uri": "spotify:track:5TVlcZRCVoJVi9OaDvGxEB"
+        },
+        {
+            "track_id": "7EUhSxz4srS8pqh1cENbLB",
+            "track_name": "Liar",
+            "track_artist": "Paramore",
+            "track_album": "This Is Why",
+            "track_duration": 261868,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-11T08:08:55Z",
+            "uri": "spotify:track:7EUhSxz4srS8pqh1cENbLB"
         }
     ]
 }
