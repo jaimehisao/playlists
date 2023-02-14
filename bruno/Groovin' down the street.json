@@ -1020,6 +1020,16 @@
             "track_added_by": "1283325282",
             "track_added_at": "2022-09-30T15:35:46Z",
             "uri": "spotify:track:3JU7GqkbT5S51rgCbYJ20t"
+        },
+        {
+            "track_id": "6tS3XVuOyu10897O3ae7bi",
+            "track_name": "California Gurls",
+            "track_artist": "Katy Perry",
+            "track_album": "Teenage Dream: The Complete Confection",
+            "track_duration": 234653,
+            "track_added_by": "1283325282",
+            "track_added_at": "2023-02-14T15:47:03Z",
+            "uri": "spotify:track:6tS3XVuOyu10897O3ae7bi"
         }
     ]
 }
