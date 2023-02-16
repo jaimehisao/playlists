@@ -320,6 +320,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-15T15:47:02Z",
             "uri": "spotify:track:1bYIaWyi3QSxv0gYdlITmQ"
+        },
+        {
+            "track_id": "2ZMkAWKrNDXrQuF0N9Q9Xj",
+            "track_name": "You First",
+            "track_artist": "Paramore",
+            "track_album": "This Is Why",
+            "track_duration": 245521,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-16T05:30:53Z",
+            "uri": "spotify:track:2ZMkAWKrNDXrQuF0N9Q9Xj"
         }
     ]
 }
