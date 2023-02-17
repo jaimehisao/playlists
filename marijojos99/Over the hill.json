@@ -330,6 +330,26 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-16T05:30:53Z",
             "uri": "spotify:track:2ZMkAWKrNDXrQuF0N9Q9Xj"
+        },
+        {
+            "track_id": "3aUviSdBVbsdmH406j5GZC",
+            "track_name": "Crush",
+            "track_artist": "Duckwrth",
+            "track_album": "Crush",
+            "track_duration": 135013,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-17T02:31:17Z",
+            "uri": "spotify:track:3aUviSdBVbsdmH406j5GZC"
+        },
+        {
+            "track_id": "74oXlQPr6x05HDrGVaiYXZ",
+            "track_name": "Naked in Manhattan",
+            "track_artist": "Chappell Roan",
+            "track_album": "Naked in Manhattan",
+            "track_duration": 211057,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-17T02:31:27Z",
+            "uri": "spotify:track:74oXlQPr6x05HDrGVaiYXZ"
         }
     ]
 }
