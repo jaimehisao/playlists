@@ -202,6 +202,206 @@
             "uri": "spotify:track:0hrBpAOgrt8RXigk83LLNE"
         },
         {
+            "track_id": "40QPoAAKKMwPms6I6FHJqy",
+            "track_name": "Give It Up",
+            "track_artist": "KC & The Sunshine Band",
+            "track_album": "The Very Best of KC & the Sunshine Band",
+            "track_duration": 245800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:39:55Z",
+            "uri": "spotify:track:40QPoAAKKMwPms6I6FHJqy"
+        },
+        {
+            "track_id": "0iGckQFyv6svOfAbAY9aWJ",
+            "track_name": "Hot N Cold",
+            "track_artist": "Katy Perry",
+            "track_album": "One Of The Boys",
+            "track_duration": 220226,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:39:58Z",
+            "uri": "spotify:track:0iGckQFyv6svOfAbAY9aWJ"
+        },
+        {
+            "track_id": "49X0LAl6faAusYq02PRAY6",
+            "track_name": "Lady - Hear Me Tonight",
+            "track_artist": "Modjo",
+            "track_album": "Modjo (Remastered)",
+            "track_duration": 307153,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:40:03Z",
+            "uri": "spotify:track:49X0LAl6faAusYq02PRAY6"
+        },
+        {
+            "track_id": "3w3y8KPTfNeOKPiqUTakBh",
+            "track_name": "Locked out of Heaven",
+            "track_artist": "Bruno Mars",
+            "track_album": "Unorthodox Jukebox",
+            "track_duration": 233478,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:40:08Z",
+            "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh"
+        },
+        {
+            "track_id": "4EcM86vNf0QIOGkpf4O0UP",
+            "track_name": "Little Lies - 2017 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Tango in the Night (2017 Remaster)",
+            "track_duration": 221053,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:40:14Z",
+            "uri": "spotify:track:4EcM86vNf0QIOGkpf4O0UP"
+        },
+        {
+            "track_id": "4r8lRYnoOGdEi6YyI5OC1o",
+            "track_name": "Bye Bye Bye",
+            "track_artist": "*NSYNC",
+            "track_album": "No Strings Attached",
+            "track_duration": 200560,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:40:25Z",
+            "uri": "spotify:track:4r8lRYnoOGdEi6YyI5OC1o"
+        },
+        {
+            "track_id": "07GvNcU1WdyZJq3XxP0kZa",
+            "track_name": "Go Your Own Way - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours",
+            "track_duration": 223613,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:41:10Z",
+            "uri": "spotify:track:07GvNcU1WdyZJq3XxP0kZa"
+        },
+        {
+            "track_id": "1CZOrmHUUjeDP7N2B4Ba6S",
+            "track_name": "Bad Romance",
+            "track_artist": "Lady Gaga",
+            "track_album": "The Fame Monster (Explicit Version)",
+            "track_duration": 294573,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:41:13Z",
+            "uri": "spotify:track:1CZOrmHUUjeDP7N2B4Ba6S"
+        },
+        {
+            "track_id": "20I6sIOMTCkB6w7ryavxtO",
+            "track_name": "Call Me Maybe",
+            "track_artist": "Carly Rae Jepsen",
+            "track_album": "Kiss",
+            "track_duration": 193400,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:41:51Z",
+            "uri": "spotify:track:20I6sIOMTCkB6w7ryavxtO"
+        },
+        {
+            "track_id": "5L4kmSZOSjaoUEzrFqQadT",
+            "track_name": "Pour Some Sugar On Me",
+            "track_artist": "Def Leppard",
+            "track_album": "Hysteria",
+            "track_duration": 267306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:41:51Z",
+            "uri": "spotify:track:5L4kmSZOSjaoUEzrFqQadT"
+        },
+        {
+            "track_id": "4RepvCWqsP6zBuzvwYibAS",
+            "track_name": "I Feel It Coming",
+            "track_artist": "The Weeknd",
+            "track_album": "Starboy",
+            "track_duration": 269186,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:41:51Z",
+            "uri": "spotify:track:4RepvCWqsP6zBuzvwYibAS"
+        },
+        {
+            "track_id": "3sFEGvMPkY8Ti97K94Pwp9",
+            "track_name": "Red Red Wine",
+            "track_artist": "UB40",
+            "track_album": "Red Red Wine - The Essential UB40",
+            "track_duration": 178333,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T02:59:30Z",
+            "uri": "spotify:track:3sFEGvMPkY8Ti97K94Pwp9"
+        },
+        {
+            "track_id": "2Cy7QY8HPLk925AyNAt6OG",
+            "track_name": "Black or White - Single Version",
+            "track_artist": "Michael Jackson",
+            "track_album": "The Essential Michael Jackson",
+            "track_duration": 202853,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:35:50Z",
+            "uri": "spotify:track:2Cy7QY8HPLk925AyNAt6OG"
+        },
+        {
+            "track_id": "5VVwwfK6Cp9IydkhKfJUEq",
+            "track_name": "You Give Love A Bad Name",
+            "track_artist": "Bon Jovi",
+            "track_album": "Slippery When Wet (Remastered)",
+            "track_duration": 222706,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:36:08Z",
+            "uri": "spotify:track:5VVwwfK6Cp9IydkhKfJUEq"
+        },
+        {
+            "track_id": "7N3PAbqfTjSEU1edb2tY8j",
+            "track_name": "Jump - 2015 Remaster",
+            "track_artist": "Van Halen",
+            "track_album": "1984 (Remastered)",
+            "track_duration": 241599,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:36:11Z",
+            "uri": "spotify:track:7N3PAbqfTjSEU1edb2tY8j"
+        },
+        {
+            "track_id": "4tyl9OMKMG8F2L0RUYQMH3",
+            "track_name": "Walk Of Life",
+            "track_artist": "Dire Straits",
+            "track_album": "Brothers In Arms (Remastered)",
+            "track_duration": 249960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:36:17Z",
+            "uri": "spotify:track:4tyl9OMKMG8F2L0RUYQMH3"
+        },
+        {
+            "track_id": "6uU5OBhGUE1ngSKDj4wtoq",
+            "track_name": "La Bamba",
+            "track_artist": "Los Lobos",
+            "track_album": "Just Another Band From East L.A.: A Collection",
+            "track_duration": 172733,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:37:34Z",
+            "uri": "spotify:track:6uU5OBhGUE1ngSKDj4wtoq"
+        },
+        {
+            "track_id": "2Ms33RTRCT6gArrpcrPxmo",
+            "track_name": "Feel",
+            "track_artist": "Robbie Williams",
+            "track_album": "Escapology",
+            "track_duration": 263866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:37:53Z",
+            "uri": "spotify:track:2Ms33RTRCT6gArrpcrPxmo"
+        },
+        {
+            "track_id": "6ECp64rv50XVz93WvxXMGF",
+            "track_name": "This Love",
+            "track_artist": "Maroon 5",
+            "track_album": "Songs About Jane: 10th Anniversary Edition",
+            "track_duration": 206200,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:38:05Z",
+            "uri": "spotify:track:6ECp64rv50XVz93WvxXMGF"
+        },
+        {
+            "track_id": "2rgqPSIRAfaO2MGo9smdSX",
+            "track_name": "Dancing Queen",
+            "track_artist": "ABBA",
+            "track_album": "ABBA Gold",
+            "track_duration": 231093,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-04-06T03:38:09Z",
+            "uri": "spotify:track:2rgqPSIRAfaO2MGo9smdSX"
+        },
+        {
             "track_id": "76QJgXPE3oc1cnkE4PFHEn",
             "track_name": "Together Forever",
             "track_artist": "Rick Astley",
