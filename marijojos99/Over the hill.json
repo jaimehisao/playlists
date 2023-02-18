@@ -360,6 +360,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-18T02:21:30Z",
             "uri": "spotify:track:2RFPhTEa4Z7WMV4608WBOJ"
+        },
+        {
+            "track_id": "0xaeexn68CvAW4igYKNZpo",
+            "track_name": "Miami",
+            "track_artist": "Caroline Rose",
+            "track_album": "The Doldrums",
+            "track_duration": 284960,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-18T06:44:11Z",
+            "uri": "spotify:track:0xaeexn68CvAW4igYKNZpo"
         }
     ]
 }
