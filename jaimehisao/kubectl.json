@@ -530,6 +530,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-02-16T22:05:29Z",
             "uri": "spotify:track:5J4ZkQpzMUFojo1CtAZYpn"
+        },
+        {
+            "track_id": "0t7fVeEJxO2Xi4H2K5Svc9",
+            "track_name": "Send My Love (To Your New Lover)",
+            "track_artist": "Adele",
+            "track_album": "25",
+            "track_duration": 223078,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-02-19T02:44:24Z",
+            "uri": "spotify:track:0t7fVeEJxO2Xi4H2K5Svc9"
+        },
+        {
+            "track_id": "4jL6WWKFDqCOPo2hC3VhSS",
+            "track_name": "Water Under the Bridge",
+            "track_artist": "Adele",
+            "track_album": "25",
+            "track_duration": 240439,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-02-19T02:44:35Z",
+            "uri": "spotify:track:4jL6WWKFDqCOPo2hC3VhSS"
         }
     ]
 }
