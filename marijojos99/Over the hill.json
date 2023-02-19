@@ -380,6 +380,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-18T23:03:55Z",
             "uri": "spotify:track:37RqEET1SYQaAcHDxDQLZY"
+        },
+        {
+            "track_id": "7daBwTiPNOVgoMUG4SICgh",
+            "track_name": "Pet Cheetah",
+            "track_artist": "Twenty One Pilots",
+            "track_album": "Trench",
+            "track_duration": 198360,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-19T20:45:47Z",
+            "uri": "spotify:track:7daBwTiPNOVgoMUG4SICgh"
         }
     ]
 }
