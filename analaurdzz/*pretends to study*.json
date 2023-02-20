@@ -1380,6 +1380,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2022-04-01T09:11:15Z",
             "uri": "spotify:track:4VpK8VSTIc6SrrLMpMI6An"
+        },
+        {
+            "track_id": "0R3wEiSEO8AM3UJBvdvvmv",
+            "track_name": "Be On Your Way",
+            "track_artist": "Daughter",
+            "track_album": "Be On Your Way",
+            "track_duration": 244772,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T16:29:26Z",
+            "uri": "spotify:track:0R3wEiSEO8AM3UJBvdvvmv"
         }
     ]
 }
