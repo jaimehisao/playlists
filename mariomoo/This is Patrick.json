@@ -870,6 +870,26 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-02-06T22:13:04Z",
             "uri": "spotify:track:2TXNzTUp1KMUMD7pYMWkCY"
+        },
+        {
+            "track_id": "3wPpMU6d8h9yxvBadDDr44",
+            "track_name": "CATALYST",
+            "track_artist": "DROELOE",
+            "track_album": "CATALYST",
+            "track_duration": 206746,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-20T14:01:16Z",
+            "uri": "spotify:track:3wPpMU6d8h9yxvBadDDr44"
+        },
+        {
+            "track_id": "6f8gNNCNSveUl4gxt7tzp0",
+            "track_name": "Light Of Day (feat. \u00d3lafur Arnalds) - Parra for Cuva Remix",
+            "track_artist": "ODESZA",
+            "track_album": "The Last Goodbye Remixes N\u00b0.2",
+            "track_duration": 273624,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-02-20T14:07:46Z",
+            "uri": "spotify:track:6f8gNNCNSveUl4gxt7tzp0"
         }
     ]
 }
