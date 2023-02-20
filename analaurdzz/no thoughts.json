@@ -1,0 +1,595 @@
+{
+    "id": "1IRBMT2MPHiPv1PGMI8xke",
+    "tracks": [
+        {
+            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
+            "track_name": "Paper Rings",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 222400,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:09:17Z",
+            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
+        },
+        {
+            "track_id": "5LYMamLv12UPbemOaTPyeV",
+            "track_name": "Music For a Sushi Restaurant",
+            "track_artist": "Harry Styles",
+            "track_album": "Harry's House",
+            "track_duration": 193813,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:09:21Z",
+            "uri": "spotify:track:5LYMamLv12UPbemOaTPyeV"
+        },
+        {
+            "track_id": "6KuHjfXHkfnIjdmcIvt9r0",
+            "track_name": "On Top Of The World",
+            "track_artist": "Imagine Dragons",
+            "track_album": "Night Visions (Deluxe)",
+            "track_duration": 189840,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:09:50Z",
+            "uri": "spotify:track:6KuHjfXHkfnIjdmcIvt9r0"
+        },
+        {
+            "track_id": "3ehrxAhYms24KLPG8FZe0W",
+            "track_name": "We Are Young (feat. Janelle Mon\u00e1e)",
+            "track_artist": "fun.",
+            "track_album": "We Are Young (feat. Janelle Mon\u00e1e)",
+            "track_duration": 250626,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:10:17Z",
+            "uri": "spotify:track:3ehrxAhYms24KLPG8FZe0W"
+        },
+        {
+            "track_id": "7LJommP4aYbHwe6zPzpLyi",
+            "track_name": "Who Says",
+            "track_artist": "Selena Gomez & The Scene",
+            "track_album": "Who Says",
+            "track_duration": 195200,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:10:28Z",
+            "uri": "spotify:track:7LJommP4aYbHwe6zPzpLyi"
+        },
+        {
+            "track_id": "7nL9oKCVFyNz0jET06hICC",
+            "track_name": "One Less Lonely Girl - Acoustic",
+            "track_artist": "Justin Bieber",
+            "track_album": "My Worlds - The Collection (International Package)",
+            "track_duration": 237720,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:10:44Z",
+            "uri": "spotify:track:7nL9oKCVFyNz0jET06hICC"
+        },
+        {
+            "track_id": "4ldKgFZkDEz7MCQ6caAdTc",
+            "track_name": "Fashionista",
+            "track_artist": "Jimmy James",
+            "track_album": "Jamestown",
+            "track_duration": 199146,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:10:47Z",
+            "uri": "spotify:track:4ldKgFZkDEz7MCQ6caAdTc"
+        },
+        {
+            "track_id": "7s0lDK7y3XLmI7tcsRAbW0",
+            "track_name": "My Songs Know What You Did In The Dark (Light Em Up)",
+            "track_artist": "Fall Out Boy",
+            "track_album": "Save Rock And Roll",
+            "track_duration": 186826,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:11:00Z",
+            "uri": "spotify:track:7s0lDK7y3XLmI7tcsRAbW0"
+        },
+        {
+            "track_id": "3AszgPDZd9q0DpDFt4HFBy",
+            "track_name": "Hey Ya!",
+            "track_artist": "Outkast",
+            "track_album": "The Way You Move / Hey Ya!",
+            "track_duration": 239240,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:11:05Z",
+            "uri": "spotify:track:3AszgPDZd9q0DpDFt4HFBy"
+        },
+        {
+            "track_id": "3nSiB5WCF2pmRQrYSsteHv",
+            "track_name": "Young Volcanoes",
+            "track_artist": "Fall Out Boy",
+            "track_album": "Save Rock And Roll",
+            "track_duration": 204506,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:11:19Z",
+            "uri": "spotify:track:3nSiB5WCF2pmRQrYSsteHv"
+        },
+        {
+            "track_id": "6ukMqDxnOPOgoHdak7Kyp3",
+            "track_name": "Marvin Gaye (feat. Meghan Trainor)",
+            "track_artist": "Charlie Puth",
+            "track_album": "Some Type of Love",
+            "track_duration": 190453,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:11:33Z",
+            "uri": "spotify:track:6ukMqDxnOPOgoHdak7Kyp3"
+        },
+        {
+            "track_id": "6kOrmPz9pkGzL4umBBRmWy",
+            "track_name": "Chivalry Is Dead",
+            "track_artist": "Trevor Wesley",
+            "track_album": "Chivalry Is Dead - Single",
+            "track_duration": 209445,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:11:39Z",
+            "uri": "spotify:track:6kOrmPz9pkGzL4umBBRmWy"
+        },
+        {
+            "track_id": "5MsZIaCYY6Tsdph0LiB0hE",
+            "track_name": "Alone Together",
+            "track_artist": "Fall Out Boy",
+            "track_album": "Save Rock And Roll",
+            "track_duration": 203413,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:11:52Z",
+            "uri": "spotify:track:5MsZIaCYY6Tsdph0LiB0hE"
+        },
+        {
+            "track_id": "09CtPGIpYB4BrO8qb1RGsF",
+            "track_name": "Sorry",
+            "track_artist": "Justin Bieber",
+            "track_album": "Purpose (Deluxe)",
+            "track_duration": 200786,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:11:57Z",
+            "uri": "spotify:track:09CtPGIpYB4BrO8qb1RGsF"
+        },
+        {
+            "track_id": "4kbj5MwxO1bq9wjT5g9HaA",
+            "track_name": "Shut Up and Dance",
+            "track_artist": "WALK THE MOON",
+            "track_album": "TALKING IS HARD",
+            "track_duration": 199080,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:12:02Z",
+            "uri": "spotify:track:4kbj5MwxO1bq9wjT5g9HaA"
+        },
+        {
+            "track_id": "42ftjU4cTN5UTRksyqBKZJ",
+            "track_name": "Cake By The Ocean",
+            "track_artist": "DNCE",
+            "track_album": "SWAAY",
+            "track_duration": 218440,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:12:14Z",
+            "uri": "spotify:track:42ftjU4cTN5UTRksyqBKZJ"
+        },
+        {
+            "track_id": "1xqeQPkl58vLRTZrCWqt8h",
+            "track_name": "Dancing in September",
+            "track_artist": "Overwings",
+            "track_album": "Best Songs of 70's Disco Music. Greatest Hits of Seventies Disco Fashion",
+            "track_duration": 234375,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:12:47Z",
+            "uri": "spotify:track:1xqeQPkl58vLRTZrCWqt8h"
+        },
+        {
+            "track_id": "4VRP8DfxO2qQOZrnbaj324",
+            "track_name": "Enamorate",
+            "track_artist": "Dvicio",
+            "track_album": "Justo Ahora",
+            "track_duration": 194893,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:12:55Z",
+            "uri": "spotify:track:4VRP8DfxO2qQOZrnbaj324"
+        },
+        {
+            "track_id": "3VeKeODaz7TABGpl1LGUBu",
+            "track_name": "A Labio Dulce",
+            "track_artist": "Iskander",
+            "track_album": "Fresas Con Vodka",
+            "track_duration": 228013,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:13:01Z",
+            "uri": "spotify:track:3VeKeODaz7TABGpl1LGUBu"
+        },
+        {
+            "track_id": "661CJWXysgwKXI1dreYNBU",
+            "track_name": "Holy Ground (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 202960,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:18Z",
+            "uri": "spotify:track:661CJWXysgwKXI1dreYNBU"
+        },
+        {
+            "track_id": "3yII7UwgLF6K5zW3xad3MP",
+            "track_name": "22 (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 230960,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:23Z",
+            "uri": "spotify:track:3yII7UwgLF6K5zW3xad3MP"
+        },
+        {
+            "track_id": "0cqRj7pUJDkTCEsJkx8snD",
+            "track_name": "Shake It Off",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 219200,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:28Z",
+            "uri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
+        },
+        {
+            "track_id": "0ug5NqcwcFR2xrfTkc7k8e",
+            "track_name": "Style",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 231000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:31Z",
+            "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+        },
+        {
+            "track_id": "0qt5f5EL92o8Snzopsv0en",
+            "track_name": "Geronimo",
+            "track_artist": "Sheppard",
+            "track_album": "Bombs Away",
+            "track_duration": 218227,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:36Z",
+            "uri": "spotify:track:0qt5f5EL92o8Snzopsv0en"
+        },
+        {
+            "track_id": "6FE2iI43OZnszFLuLtvvmg",
+            "track_name": "Classic",
+            "track_artist": "MKTO",
+            "track_album": "MKTO",
+            "track_duration": 175426,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:37Z",
+            "uri": "spotify:track:6FE2iI43OZnszFLuLtvvmg"
+        },
+        {
+            "track_id": "3E7dfMvvCLUddWissuqMwr",
+            "track_name": "Party In The U.S.A.",
+            "track_artist": "Miley Cyrus",
+            "track_album": "The Time Of Our Lives (International Version)",
+            "track_duration": 202066,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:39Z",
+            "uri": "spotify:track:3E7dfMvvCLUddWissuqMwr"
+        },
+        {
+            "track_id": "6Vh03bkEfXqekWp7Y1UBRb",
+            "track_name": "Live While We're Young",
+            "track_artist": "One Direction",
+            "track_album": "Take Me Home (Expanded Edition)",
+            "track_duration": 200213,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:41Z",
+            "uri": "spotify:track:6Vh03bkEfXqekWp7Y1UBRb"
+        },
+        {
+            "track_id": "4cluDES4hQEUhmXj6TXkSo",
+            "track_name": "What Makes You Beautiful",
+            "track_artist": "One Direction",
+            "track_album": "Up All Night",
+            "track_duration": 199986,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:45Z",
+            "uri": "spotify:track:4cluDES4hQEUhmXj6TXkSo"
+        },
+        {
+            "track_id": "3cU2wBxuV6nFiuf6PJZNlC",
+            "track_name": "Dear Future Husband",
+            "track_artist": "Meghan Trainor",
+            "track_album": "Title (Deluxe)",
+            "track_duration": 184226,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:18:51Z",
+            "uri": "spotify:track:3cU2wBxuV6nFiuf6PJZNlC"
+        },
+        {
+            "track_id": "4lCv7b86sLynZbXhfScfm2",
+            "track_name": "Firework",
+            "track_artist": "Katy Perry",
+            "track_album": "Teenage Dream: The Complete Confection",
+            "track_duration": 227880,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:19:06Z",
+            "uri": "spotify:track:4lCv7b86sLynZbXhfScfm2"
+        },
+        {
+            "track_id": "6tS3XVuOyu10897O3ae7bi",
+            "track_name": "California Gurls",
+            "track_artist": "Katy Perry",
+            "track_album": "Teenage Dream: The Complete Confection",
+            "track_duration": 234653,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:19:10Z",
+            "uri": "spotify:track:6tS3XVuOyu10897O3ae7bi"
+        },
+        {
+            "track_id": "3avYqdwHKEq8beXbeWCKqJ",
+            "track_name": "Last Friday Night (T.G.I.F.)",
+            "track_artist": "Katy Perry",
+            "track_album": "Teenage Dream",
+            "track_duration": 230733,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:19:14Z",
+            "uri": "spotify:track:3avYqdwHKEq8beXbeWCKqJ"
+        },
+        {
+            "track_id": "2jNCofCae2Txs2zaegNLOt",
+            "track_name": "Don't Stop Me Now",
+            "track_artist": "Queen",
+            "track_album": "Jazz",
+            "track_duration": 209160,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:19:32Z",
+            "uri": "spotify:track:2jNCofCae2Txs2zaegNLOt"
+        },
+        {
+            "track_id": "1LoriJC05IrHIDwj3q0KC1",
+            "track_name": "Hands To Myself",
+            "track_artist": "Selena Gomez",
+            "track_album": "Revival (Deluxe)",
+            "track_duration": 200680,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:19:44Z",
+            "uri": "spotify:track:1LoriJC05IrHIDwj3q0KC1"
+        },
+        {
+            "track_id": "2AqILWwJtY2rwSTQDkN496",
+            "track_name": "Una Vez",
+            "track_artist": "Santiago Canizales",
+            "track_album": "Una Vez",
+            "track_duration": 190353,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:20:03Z",
+            "uri": "spotify:track:2AqILWwJtY2rwSTQDkN496"
+        },
+        {
+            "track_id": "77hjM9bMmgfTGJXv14UFmi",
+            "track_name": "Play That Song",
+            "track_artist": "Train",
+            "track_album": "a girl a bottle a boat",
+            "track_duration": 243253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:20:05Z",
+            "uri": "spotify:track:77hjM9bMmgfTGJXv14UFmi"
+        },
+        {
+            "track_id": "4aWmUDTfIPGksMNLV2rQP2",
+            "track_name": "Despacito (Featuring Daddy Yankee)",
+            "track_artist": "Luis Fonsi",
+            "track_album": "Despacito (Featuring Daddy Yankee)",
+            "track_duration": 228200,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:20:14Z",
+            "uri": "spotify:track:4aWmUDTfIPGksMNLV2rQP2"
+        },
+        {
+            "track_id": "2z0EshEO4XptiepEb9j3Og",
+            "track_name": "C\u00f3mo Te Atreves",
+            "track_artist": "Morat",
+            "track_album": "Sobre El Amor Y Sus Efectos Secundarios",
+            "track_duration": 240560,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:20:20Z",
+            "uri": "spotify:track:2z0EshEO4XptiepEb9j3Og"
+        },
+        {
+            "track_id": "6jizk5lOUnfpaZXYMdfeC6",
+            "track_name": "Trumpets",
+            "track_artist": "Jason Derulo",
+            "track_album": "Tattoos",
+            "track_duration": 217306,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:20:23Z",
+            "uri": "spotify:track:6jizk5lOUnfpaZXYMdfeC6"
+        },
+        {
+            "track_id": "3ug4KguxOFtVOpq2zDY6uh",
+            "track_name": "El Pr\u00f3ximo Viernes - Live Version",
+            "track_artist": "Thalia",
+            "track_album": "Thalia En Primera Fila",
+            "track_duration": 249360,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:20:27Z",
+            "uri": "spotify:track:3ug4KguxOFtVOpq2zDY6uh"
+        },
+        {
+            "track_id": "1CQ2cMfrmFM1YdfmjENKVE",
+            "track_name": "She Looks So Perfect",
+            "track_artist": "5 Seconds of Summer",
+            "track_album": "5 Seconds Of Summer",
+            "track_duration": 202496,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:10Z",
+            "uri": "spotify:track:1CQ2cMfrmFM1YdfmjENKVE"
+        },
+        {
+            "track_id": "2YMyVYNLmFDD0KGtNkkgFa",
+            "track_name": "Kissing Strangers",
+            "track_artist": "DNCE",
+            "track_album": "Kissing Strangers",
+            "track_duration": 202480,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:13Z",
+            "uri": "spotify:track:2YMyVYNLmFDD0KGtNkkgFa"
+        },
+        {
+            "track_id": "7hDc8b7IXETo14hHIHdnhd",
+            "track_name": "Passionfruit",
+            "track_artist": "Drake",
+            "track_album": "More Life",
+            "track_duration": 298940,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:14Z",
+            "uri": "spotify:track:7hDc8b7IXETo14hHIHdnhd"
+        },
+        {
+            "track_id": "0KKkJNfGyhkQ5aFogxQAPU",
+            "track_name": "That's What I Like",
+            "track_artist": "Bruno Mars",
+            "track_album": "24K Magic",
+            "track_duration": 206693,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:18Z",
+            "uri": "spotify:track:0KKkJNfGyhkQ5aFogxQAPU"
+        },
+        {
+            "track_id": "55h7vJchibLdUkxdlX3fK7",
+            "track_name": "Treasure",
+            "track_artist": "Bruno Mars",
+            "track_album": "Unorthodox Jukebox",
+            "track_duration": 178560,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:21Z",
+            "uri": "spotify:track:55h7vJchibLdUkxdlX3fK7"
+        },
+        {
+            "track_id": "37FXw5QGFN7uwwsLy8uAc0",
+            "track_name": "We Don't Talk Anymore (feat. Selena Gomez)",
+            "track_artist": "Charlie Puth",
+            "track_album": "Nine Track Mind",
+            "track_duration": 217706,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:28Z",
+            "uri": "spotify:track:37FXw5QGFN7uwwsLy8uAc0"
+        },
+        {
+            "track_id": "7zMUCLm1TN9o9JlLISztxO",
+            "track_name": "Burning Love",
+            "track_artist": "Elvis Presley",
+            "track_album": "Elvis (Fool)",
+            "track_duration": 170293,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:37Z",
+            "uri": "spotify:track:7zMUCLm1TN9o9JlLISztxO"
+        },
+        {
+            "track_id": "7FESgYLcOufHqKlwrvJN60",
+            "track_name": "Feel It Still",
+            "track_artist": "Portugal. The Man",
+            "track_album": "Feel It Still",
+            "track_duration": 163250,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:39Z",
+            "uri": "spotify:track:7FESgYLcOufHqKlwrvJN60"
+        },
+        {
+            "track_id": "0kN8xEmgMW9mh7UmDYHlJP",
+            "track_name": "Versace on the Floor",
+            "track_artist": "Bruno Mars",
+            "track_album": "24K Magic",
+            "track_duration": 261240,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:47Z",
+            "uri": "spotify:track:0kN8xEmgMW9mh7UmDYHlJP"
+        },
+        {
+            "track_id": "1WIfWj5skn5UUZTs4cEFBe",
+            "track_name": "Location",
+            "track_artist": "Khalid",
+            "track_album": "Location",
+            "track_duration": 217566,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:21:57Z",
+            "uri": "spotify:track:1WIfWj5skn5UUZTs4cEFBe"
+        },
+        {
+            "track_id": "7FQSD5JjWqGtS1BaQQiT6V",
+            "track_name": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
+            "track_artist": "Counting Crows",
+            "track_album": "Films About Ghosts: The Best Of...",
+            "track_duration": 188386,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:00Z",
+            "uri": "spotify:track:7FQSD5JjWqGtS1BaQQiT6V"
+        },
+        {
+            "track_id": "167NczpNbRF7oWakJaY3Hh",
+            "track_name": "Slow Hands",
+            "track_artist": "Niall Horan",
+            "track_album": "Slow Hands",
+            "track_duration": 188174,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:11Z",
+            "uri": "spotify:track:167NczpNbRF7oWakJaY3Hh"
+        },
+        {
+            "track_id": "4R55IUi2x7S5ek2SpebOiE",
+            "track_name": "Bella",
+            "track_artist": "Wolfine",
+            "track_album": "Bella",
+            "track_duration": 197120,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:17Z",
+            "uri": "spotify:track:4R55IUi2x7S5ek2SpebOiE"
+        },
+        {
+            "track_id": "4BdGO1CaObRD4La9l5Zanz",
+            "track_name": "Sit Next to Me",
+            "track_artist": "Foster The People",
+            "track_album": "Sacred Hearts Club",
+            "track_duration": 243146,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:22Z",
+            "uri": "spotify:track:4BdGO1CaObRD4La9l5Zanz"
+        },
+        {
+            "track_id": "4NtUY5IGzHCaqfZemmAu56",
+            "track_name": "Dancing Queen",
+            "track_artist": "ABBA",
+            "track_album": "Arrival",
+            "track_duration": 230693,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:27Z",
+            "uri": "spotify:track:4NtUY5IGzHCaqfZemmAu56"
+        },
+        {
+            "track_id": "5Ivxmj6V1w0LHTC9AWgIUq",
+            "track_name": "Mamma Mia",
+            "track_artist": "ABBA",
+            "track_album": "Thank You For The Music",
+            "track_duration": 212866,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:27Z",
+            "uri": "spotify:track:5Ivxmj6V1w0LHTC9AWgIUq"
+        },
+        {
+            "track_id": "6wDviYDtmSDZ0S6TVMM9Vc",
+            "track_name": "ABC",
+            "track_artist": "The Jackson 5",
+            "track_album": "ABC",
+            "track_duration": 177733,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:37Z",
+            "uri": "spotify:track:6wDviYDtmSDZ0S6TVMM9Vc"
+        },
+        {
+            "track_id": "5xvUgoVED1F4mBu8FL0HaW",
+            "track_name": "Ready or Not",
+            "track_artist": "Bridgit Mendler",
+            "track_album": "Hello My Name Is...",
+            "track_duration": 200946,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:40Z",
+            "uri": "spotify:track:5xvUgoVED1F4mBu8FL0HaW"
+        },
+        {
+            "track_id": "1uigwk5hNV84zRd5YQQRTk",
+            "track_name": "Pocketful of Sunshine",
+            "track_artist": "Natasha Bedingfield",
+            "track_album": "Pocketful Of Sunshine",
+            "track_duration": 202906,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-02-20T17:22:52Z",
+            "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk"
+        }
+    ]
+}
