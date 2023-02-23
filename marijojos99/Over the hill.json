@@ -410,6 +410,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-23T06:24:44Z",
             "uri": "spotify:track:6IxYprDtyAtMAwXvu9GoeY"
+        },
+        {
+            "track_id": "5tcz08acmFO5SfXwhBMHCt",
+            "track_name": "Fuck My Money",
+            "track_artist": "BROODS",
+            "track_album": "Fuck My Money",
+            "track_duration": 161646,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-23T14:42:06Z",
+            "uri": "spotify:track:5tcz08acmFO5SfXwhBMHCt"
         }
     ]
 }
