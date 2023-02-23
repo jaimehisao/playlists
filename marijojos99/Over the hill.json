@@ -400,6 +400,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-20T00:09:02Z",
             "uri": "spotify:track:6FerCd5LaYFxG9djcbLGOQ"
+        },
+        {
+            "track_id": "6IxYprDtyAtMAwXvu9GoeY",
+            "track_name": "Funny (feat. Teddy Meanface)",
+            "track_artist": "Ben\u00e9t",
+            "track_album": "Funny",
+            "track_duration": 165250,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-23T06:24:44Z",
+            "uri": "spotify:track:6IxYprDtyAtMAwXvu9GoeY"
         }
     ]
 }
