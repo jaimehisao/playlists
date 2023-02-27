@@ -190,6 +190,26 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-04-07T20:04:24Z",
             "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+        },
+        {
+            "track_id": "5jQI2r1RdgtuT8S3iG8zFC",
+            "track_name": "Lavender Haze",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 202395,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-02-27T22:48:51Z",
+            "uri": "spotify:track:5jQI2r1RdgtuT8S3iG8zFC"
+        },
+        {
+            "track_id": "1wtOxkiel43cVs0Yux5Q4h",
+            "track_name": "Snow On The Beach (feat. Lana Del Rey)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 256124,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-02-27T22:49:12Z",
+            "uri": "spotify:track:1wtOxkiel43cVs0Yux5Q4h"
         }
     ]
 }
