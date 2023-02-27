@@ -430,6 +430,26 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-25T17:38:47Z",
             "uri": "spotify:track:5PZN71yON3rzA8OaEidrIo"
+        },
+        {
+            "track_id": "2Al2n6ziP5XjIMZEL4laQj",
+            "track_name": "Dumb Love",
+            "track_artist": "NEIL FRANCES",
+            "track_album": "Dumb Love",
+            "track_duration": 282728,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-27T00:10:18Z",
+            "uri": "spotify:track:2Al2n6ziP5XjIMZEL4laQj"
+        },
+        {
+            "track_id": "5KytIKWqQJXb2T3RNOyi9G",
+            "track_name": "3 Days",
+            "track_artist": "Rhye",
+            "track_album": "Woman",
+            "track_duration": 255720,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-27T00:50:05Z",
+            "uri": "spotify:track:5KytIKWqQJXb2T3RNOyi9G"
         }
     ]
 }
