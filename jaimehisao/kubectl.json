@@ -550,6 +550,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-02-19T02:44:35Z",
             "uri": "spotify:track:4jL6WWKFDqCOPo2hC3VhSS"
+        },
+        {
+            "track_id": "7hR5toSPEgwFZ78jfHdANM",
+            "track_name": "Half of My Heart",
+            "track_artist": "John Mayer",
+            "track_album": "Battle Studies",
+            "track_duration": 250373,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-02-27T23:56:47Z",
+            "uri": "spotify:track:7hR5toSPEgwFZ78jfHdANM"
         }
     ]
 }
