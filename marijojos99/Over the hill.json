@@ -432,6 +432,16 @@
             "uri": "spotify:track:5PZN71yON3rzA8OaEidrIo"
         },
         {
+            "track_id": "5qbHBepTowbMldhK8RVhTl",
+            "track_name": "Go Home",
+            "track_artist": "Angel Olsen",
+            "track_album": "Big Time",
+            "track_duration": 325066,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-28T04:55:01Z",
+            "uri": "spotify:track:5qbHBepTowbMldhK8RVhTl"
+        },
+        {
             "track_id": "2Al2n6ziP5XjIMZEL4laQj",
             "track_name": "Dumb Love",
             "track_artist": "NEIL FRANCES",
@@ -460,6 +470,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-27T00:54:04Z",
             "uri": "spotify:track:0Zg4tjgfqw9qzq7lXX2sUM"
+        },
+        {
+            "track_id": "6SRa5GYTgHmNcBsZsTbEHN",
+            "track_name": "Magic",
+            "track_artist": "Julia Jacklin",
+            "track_album": "PRE PLEASURE",
+            "track_duration": 178004,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-02-28T05:13:31Z",
+            "uri": "spotify:track:6SRa5GYTgHmNcBsZsTbEHN"
         }
     ]
 }
