@@ -480,6 +480,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-02-28T05:13:31Z",
             "uri": "spotify:track:6SRa5GYTgHmNcBsZsTbEHN"
+        },
+        {
+            "track_id": "3BmGfswCrv2p1It4oCdtU6",
+            "track_name": "Controllah (feat. MC Bin Laden)",
+            "track_artist": "Gorillaz",
+            "track_album": "Cracker Island (Deluxe)",
+            "track_duration": 150316,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-01T13:56:24Z",
+            "uri": "spotify:track:3BmGfswCrv2p1It4oCdtU6"
         }
     ]
 }
