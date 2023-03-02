@@ -2,6 +2,206 @@
     "id": "6Ryu3Wig3apXimYMaSf46r",
     "tracks": [
         {
+            "track_id": "2L2mM3rEO3arNIMQnb3dou",
+            "track_name": "Biutyful",
+            "track_artist": "Coldplay",
+            "track_album": "Music Of The Spheres",
+            "track_duration": 192394,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:45:25Z",
+            "uri": "spotify:track:2L2mM3rEO3arNIMQnb3dou"
+        },
+        {
+            "track_id": "23BO6YozrAXUta1buxFZ80",
+            "track_name": "Humankind",
+            "track_artist": "Coldplay",
+            "track_album": "Music Of The Spheres",
+            "track_duration": 266704,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:45:28Z",
+            "uri": "spotify:track:23BO6YozrAXUta1buxFZ80"
+        },
+        {
+            "track_id": "46HNZY1i7O6jwTA7Slo2PI",
+            "track_name": "My Universe",
+            "track_artist": "Coldplay",
+            "track_album": "Music Of The Spheres",
+            "track_duration": 226198,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:45:38Z",
+            "uri": "spotify:track:46HNZY1i7O6jwTA7Slo2PI"
+        },
+        {
+            "track_id": "65OR4ywy8Cgs3FDHK82Idl",
+            "track_name": "Higher Power",
+            "track_artist": "Coldplay",
+            "track_album": "Music Of The Spheres",
+            "track_duration": 206681,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:45:39Z",
+            "uri": "spotify:track:65OR4ywy8Cgs3FDHK82Idl"
+        },
+        {
+            "track_id": "16J6wH4Evm97ta1hDQIYQC",
+            "track_name": "Ni T\u00fa Ni Nadie",
+            "track_artist": "M\u0153nia",
+            "track_album": "Stereo Hits",
+            "track_duration": 219533,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:02Z",
+            "uri": "spotify:track:16J6wH4Evm97ta1hDQIYQC"
+        },
+        {
+            "track_id": "1Wrzhfa5bNlqvsnCztz190",
+            "track_name": "Devu\u00e9lveme a mi chica",
+            "track_artist": "Hombres G",
+            "track_album": "Hombres G (Edici\u00f3n 30 Aniversario)",
+            "track_duration": 194866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:06Z",
+            "uri": "spotify:track:1Wrzhfa5bNlqvsnCztz190"
+        },
+        {
+            "track_id": "58HfaJinOwdtvIusPS04Im",
+            "track_name": "Manto Estelar",
+            "track_artist": "M\u0153nia",
+            "track_album": "Adicion",
+            "track_duration": 253000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:08Z",
+            "uri": "spotify:track:58HfaJinOwdtvIusPS04Im"
+        },
+        {
+            "track_id": "6vPAmoERUMRoTZaCCSWQ12",
+            "track_name": "Hasta Que Me Olvides",
+            "track_artist": "Luis Miguel",
+            "track_album": "Aries",
+            "track_duration": 281000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:13Z",
+            "uri": "spotify:track:6vPAmoERUMRoTZaCCSWQ12"
+        },
+        {
+            "track_id": "0HmQkmfYXRPweIg1ycw1R8",
+            "track_name": "Morena m\u00eda",
+            "track_artist": "Miguel Bos\u00e9",
+            "track_album": "Sereno",
+            "track_duration": 291440,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:14Z",
+            "uri": "spotify:track:0HmQkmfYXRPweIg1ycw1R8"
+        },
+        {
+            "track_id": "2hConpLOB6gmyM8vDkVOof",
+            "track_name": "Lobo-hombre en Par\u00eds",
+            "track_artist": "La Uni\u00f3n",
+            "track_album": "Mil Siluetas",
+            "track_duration": 232160,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:26Z",
+            "uri": "spotify:track:2hConpLOB6gmyM8vDkVOof"
+        },
+        {
+            "track_id": "0ll8uFnc0nANY35E0Lfxvg",
+            "track_name": "Somewhere Only We Know",
+            "track_artist": "Keane",
+            "track_album": "Hopes And Fears",
+            "track_duration": 236160,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:40Z",
+            "uri": "spotify:track:0ll8uFnc0nANY35E0Lfxvg"
+        },
+        {
+            "track_id": "2oSpQ7QtIKTNFfA08Cy0ku",
+            "track_name": "It's The End Of The World As We Know It (And I Feel Fine)",
+            "track_artist": "R.E.M.",
+            "track_album": "Document (R.E.M. No. 5)",
+            "track_duration": 246933,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:46:44Z",
+            "uri": "spotify:track:2oSpQ7QtIKTNFfA08Cy0ku"
+        },
+        {
+            "track_id": "1UdzJEpgJxtuXAlCOvD4S0",
+            "track_name": "Fuera del mercado",
+            "track_artist": "Danny Ocean",
+            "track_album": "@dannocean",
+            "track_duration": 159849,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:01Z",
+            "uri": "spotify:track:1UdzJEpgJxtuXAlCOvD4S0"
+        },
+        {
+            "track_id": "1yqMgZNrevsWMLWfO2PRp5",
+            "track_name": "Charlie Brown",
+            "track_artist": "Coldplay",
+            "track_album": "Mylo Xyloto",
+            "track_duration": 285159,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:02Z",
+            "uri": "spotify:track:1yqMgZNrevsWMLWfO2PRp5"
+        },
+        {
+            "track_id": "4HXOBjwv2RnLpGG4xWOO6N",
+            "track_name": "Princess of China",
+            "track_artist": "Coldplay",
+            "track_album": "Mylo Xyloto",
+            "track_duration": 239215,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:04Z",
+            "uri": "spotify:track:4HXOBjwv2RnLpGG4xWOO6N"
+        },
+        {
+            "track_id": "1cKfbgfOojLCCBTYvH6J57",
+            "track_name": "Way To Go",
+            "track_artist": "Empire of the Sun",
+            "track_album": "Two Vines",
+            "track_duration": 192146,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:05Z",
+            "uri": "spotify:track:1cKfbgfOojLCCBTYvH6J57"
+        },
+        {
+            "track_id": "4NnWuGQujzWUEg0uZokO5M",
+            "track_name": "Just Like Heaven",
+            "track_artist": "The Cure",
+            "track_album": "Kiss Me, Kiss Me, Kiss Me",
+            "track_duration": 212013,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:06Z",
+            "uri": "spotify:track:4NnWuGQujzWUEg0uZokO5M"
+        },
+        {
+            "track_id": "2Y0iGXY6m6immVb2ktbseM",
+            "track_name": "Little Dark Age",
+            "track_artist": "MGMT",
+            "track_album": "Little Dark Age",
+            "track_duration": 299960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:11Z",
+            "uri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+        },
+        {
+            "track_id": "6zSpb8dQRaw0M1dK8PBwQz",
+            "track_name": "Cold Heart - PNAU Remix",
+            "track_artist": "Elton John",
+            "track_album": "Cold Heart (PNAU Remix)",
+            "track_duration": 202735,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:14Z",
+            "uri": "spotify:track:6zSpb8dQRaw0M1dK8PBwQz"
+        },
+        {
+            "track_id": "7sOfmPd18RWp3FoCzpa7Kw",
+            "track_name": "Soli\u00e1",
+            "track_artist": "Bad Bunny",
+            "track_album": "YHLQMDLG",
+            "track_duration": 159282,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-01T07:47:15Z",
+            "uri": "spotify:track:7sOfmPd18RWp3FoCzpa7Kw"
+        },
+        {
             "track_id": "4r9jkMEnArtWGH2rL2FZl0",
             "track_name": "A Tu Merced",
             "track_artist": "Bad Bunny",
