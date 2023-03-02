@@ -490,6 +490,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-03-01T13:56:24Z",
             "uri": "spotify:track:3BmGfswCrv2p1It4oCdtU6"
+        },
+        {
+            "track_id": "6Oxvmvd1R15OPi86rcj7l5",
+            "track_name": "Girls",
+            "track_artist": "The Dare",
+            "track_album": "Girls",
+            "track_duration": 119558,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-02T05:24:43Z",
+            "uri": "spotify:track:6Oxvmvd1R15OPi86rcj7l5"
         }
     ]
 }
