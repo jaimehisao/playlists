@@ -1090,6 +1090,26 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-01-11T16:02:29Z",
             "uri": "spotify:track:476V2d6iA2tWXgQboKmTtA"
+        },
+        {
+            "track_id": "6vQ2e6wFGceHdm4f3W5XR6",
+            "track_name": "Can't You See",
+            "track_artist": "The Marshall Tucker Band",
+            "track_album": "Love Songs",
+            "track_duration": 200826,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-02T21:05:08Z",
+            "uri": "spotify:track:6vQ2e6wFGceHdm4f3W5XR6"
+        },
+        {
+            "track_id": "19Ym5Sg0YyOCa6ao21bdoG",
+            "track_name": "Gypsy",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Greatest Hits",
+            "track_duration": 264906,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-02T21:05:21Z",
+            "uri": "spotify:track:19Ym5Sg0YyOCa6ao21bdoG"
         }
     ]
 }
