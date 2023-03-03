@@ -350,6 +350,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-01-16T18:25:39Z",
             "uri": "spotify:track:5hL9k0swNY5XOSYpF4uMVJ"
+        },
+        {
+            "track_id": "0OLXwSgtmrH663aFHNrMkX",
+            "track_name": "Fantasia",
+            "track_artist": "Lucid Keys",
+            "track_album": "Fantasia",
+            "track_duration": 148714,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-03T16:31:47Z",
+            "uri": "spotify:track:0OLXwSgtmrH663aFHNrMkX"
         }
     ]
 }
