@@ -570,6 +570,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-03-01T22:25:19Z",
             "uri": "spotify:track:1ZqeykOaDmjkldzs7XGR4b"
+        },
+        {
+            "track_id": "5ww2BF9slyYgNOk37BlC4u",
+            "track_name": "La Bachata",
+            "track_artist": "Manuel Turizo",
+            "track_album": "La Bachata",
+            "track_duration": 162637,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-03-04T05:38:03Z",
+            "uri": "spotify:track:5ww2BF9slyYgNOk37BlC4u"
         }
     ]
 }
