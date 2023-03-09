@@ -610,6 +610,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-03-09T07:02:46Z",
             "uri": "spotify:track:0kN8xEmgMW9mh7UmDYHlJP"
+        },
+        {
+            "track_id": "3ovjw5HZZv43SxTwApooCM",
+            "track_name": "Wind Of Change",
+            "track_artist": "Scorpions",
+            "track_album": "Crazy World",
+            "track_duration": 312360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-03-09T17:15:43Z",
+            "uri": "spotify:track:3ovjw5HZZv43SxTwApooCM"
         }
     ]
 }
