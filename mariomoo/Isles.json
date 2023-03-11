@@ -1120,6 +1120,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-03-03T00:50:03Z",
             "uri": "spotify:track:603KXhZ58l2fqgiyuIsEj8"
+        },
+        {
+            "track_id": "6xdLJrVj4vIXwhuG8TMopk",
+            "track_name": "Crazy Little Thing Called Love - Remastered 2011",
+            "track_artist": "Queen",
+            "track_album": "The Game (2011 Remaster)",
+            "track_duration": 163373,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-11T05:39:22Z",
+            "uri": "spotify:track:6xdLJrVj4vIXwhuG8TMopk"
         }
     ]
 }
