@@ -2,14 +2,54 @@
     "id": "2fQUjWwDjnntrb0Lj36oCq",
     "tracks": [
         {
-            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
-            "track_name": "Paper Rings",
+            "track_id": "1j6gmK6u4WNI33lMZ8dC1s",
+            "track_name": "Our Song",
             "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 222400,
+            "track_album": "Taylor Swift",
+            "track_duration": 201106,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-03-12T17:48:50Z",
-            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
+            "track_added_at": "2023-03-12T17:56:26Z",
+            "uri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+        },
+        {
+            "track_id": "22bPsP2jCgbLUvh82U0Z3M",
+            "track_name": "The Way I Loved You (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 243136,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:53:58Z",
+            "uri": "spotify:track:22bPsP2jCgbLUvh82U0Z3M"
+        },
+        {
+            "track_id": "3sqrvkNC6IPTIXvvbx9Arw",
+            "track_name": "Enchanted",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Deluxe Package)",
+            "track_duration": 352200,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:54:42Z",
+            "uri": "spotify:track:3sqrvkNC6IPTIXvvbx9Arw"
+        },
+        {
+            "track_id": "4CkgMiMqZ5JzW9iYXSTMTL",
+            "track_name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 285106,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:55:14Z",
+            "uri": "spotify:track:4CkgMiMqZ5JzW9iYXSTMTL"
+        },
+        {
+            "track_id": "4A4A6dwl5DqdqrZaEtKGPR",
+            "track_name": "Wildest Dreams",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 220440,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:55:52Z",
+            "uri": "spotify:track:4A4A6dwl5DqdqrZaEtKGPR"
         },
         {
             "track_id": "0VE4kBnHJUgtMf0dy6DRmW",
@@ -22,16 +62,6 @@
             "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
         },
         {
-            "track_id": "199E1RRrVmVTQqBXih5qRC",
-            "track_name": "Maroon",
-            "track_artist": "Taylor Swift",
-            "track_album": "Midnights (3am Edition)",
-            "track_duration": 218270,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-03-12T17:51:45Z",
-            "uri": "spotify:track:199E1RRrVmVTQqBXih5qRC"
-        },
-        {
             "track_id": "4R2kfaDFhslZEMJqAFNpdd",
             "track_name": "cardigan",
             "track_artist": "Taylor Swift",
@@ -40,6 +70,36 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-03-12T17:53:48Z",
             "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+        },
+        {
+            "track_id": "2o2sgVJIgFXk8GQjWTgI6U",
+            "track_name": "long story short",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 215920,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:54:28Z",
+            "uri": "spotify:track:2o2sgVJIgFXk8GQjWTgI6U"
+        },
+        {
+            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
+            "track_name": "Paper Rings",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 222400,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:48:50Z",
+            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
+        },
+        {
+            "track_id": "199E1RRrVmVTQqBXih5qRC",
+            "track_name": "Maroon",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (3am Edition)",
+            "track_duration": 218270,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:51:45Z",
+            "uri": "spotify:track:199E1RRrVmVTQqBXih5qRC"
         }
     ]
 }
