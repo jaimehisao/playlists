@@ -1,0 +1,45 @@
+{
+    "id": "2fQUjWwDjnntrb0Lj36oCq",
+    "tracks": [
+        {
+            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
+            "track_name": "Paper Rings",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 222400,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:48:50Z",
+            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
+        },
+        {
+            "track_id": "0VE4kBnHJUgtMf0dy6DRmW",
+            "track_name": "Getaway Car",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 233626,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:50:19Z",
+            "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+        },
+        {
+            "track_id": "199E1RRrVmVTQqBXih5qRC",
+            "track_name": "Maroon",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (3am Edition)",
+            "track_duration": 218270,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:51:45Z",
+            "uri": "spotify:track:199E1RRrVmVTQqBXih5qRC"
+        },
+        {
+            "track_id": "4R2kfaDFhslZEMJqAFNpdd",
+            "track_name": "cardigan",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 239560,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:53:48Z",
+            "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+        }
+    ]
+}
