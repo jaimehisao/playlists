@@ -2,6 +2,206 @@
     "id": "6qCOVz2FFYDRg77qxbFtda",
     "tracks": [
         {
+            "track_id": "3JfkNCiXjHEVkbFfCQ417E",
+            "track_name": "Erase / Rewind",
+            "track_artist": "The Cardigans",
+            "track_album": "Gran Turismo (Remastered)",
+            "track_duration": 218504,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:50:20Z",
+            "uri": "spotify:track:3JfkNCiXjHEVkbFfCQ417E"
+        },
+        {
+            "track_id": "7aQjPecQdIuNd1sz3KCDhD",
+            "track_name": "Lovefool",
+            "track_artist": "The Cardigans",
+            "track_album": "First Band On The Moon (Remastered)",
+            "track_duration": 193953,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:50:34Z",
+            "uri": "spotify:track:7aQjPecQdIuNd1sz3KCDhD"
+        },
+        {
+            "track_id": "5X0zqWSaSnulsbf74CrljV",
+            "track_name": "Someday We'll Know",
+            "track_artist": "New Radicals",
+            "track_album": "Maybe You've Been Brainwashed Too",
+            "track_duration": 217466,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:51:11Z",
+            "uri": "spotify:track:5X0zqWSaSnulsbf74CrljV"
+        },
+        {
+            "track_id": "1Cwsd5xI8CajJz795oy4XF",
+            "track_name": "You Get What You Give",
+            "track_artist": "New Radicals",
+            "track_album": "Maybe You've Been Brainwashed Too",
+            "track_duration": 300773,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:51:13Z",
+            "uri": "spotify:track:1Cwsd5xI8CajJz795oy4XF"
+        },
+        {
+            "track_id": "754kgU5rWscRTfvlsuEwFp",
+            "track_name": "Kiss Me",
+            "track_artist": "Sixpence None The Richer",
+            "track_album": "Sixpence None the Richer",
+            "track_duration": 208680,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:51:15Z",
+            "uri": "spotify:track:754kgU5rWscRTfvlsuEwFp"
+        },
+        {
+            "track_id": "4QlzkaRHtU8gAdwqjWmO8n",
+            "track_name": "Friday I'm In Love",
+            "track_artist": "The Cure",
+            "track_album": "Wish",
+            "track_duration": 215160,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:51:24Z",
+            "uri": "spotify:track:4QlzkaRHtU8gAdwqjWmO8n"
+        },
+        {
+            "track_id": "4e80zUwo7YuhNHs9OokSG0",
+            "track_name": "Can't Stop This Thing We Started",
+            "track_artist": "Bryan Adams",
+            "track_album": "Waking Up The Neighbours",
+            "track_duration": 269093,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:51:58Z",
+            "uri": "spotify:track:4e80zUwo7YuhNHs9OokSG0"
+        },
+        {
+            "track_id": "6lbme14HiDWYmGiw1I2Dv6",
+            "track_name": "You",
+            "track_artist": "Ten Sharp",
+            "track_album": "You",
+            "track_duration": 272983,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:52:10Z",
+            "uri": "spotify:track:6lbme14HiDWYmGiw1I2Dv6"
+        },
+        {
+            "track_id": "5IvhE3L0nR3dxrrmRLHdpp",
+            "track_name": "Strong",
+            "track_artist": "Robbie Williams",
+            "track_album": "I've Been Expecting You",
+            "track_duration": 279293,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:52:12Z",
+            "uri": "spotify:track:5IvhE3L0nR3dxrrmRLHdpp"
+        },
+        {
+            "track_id": "57iDDD9N9tTWe75x6qhStw",
+            "track_name": "Bitter Sweet Symphony",
+            "track_artist": "The Verve",
+            "track_album": "Urban Hymns (Remastered 2016)",
+            "track_duration": 357266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:52:20Z",
+            "uri": "spotify:track:57iDDD9N9tTWe75x6qhStw"
+        },
+        {
+            "track_id": "3UNAMgNHKl0fWzbZaU0fDM",
+            "track_name": "Wonderwall",
+            "track_artist": "Oasis",
+            "track_album": "(What's the Story) Morning Glory?",
+            "track_duration": 258906,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:52:58Z",
+            "uri": "spotify:track:3UNAMgNHKl0fWzbZaU0fDM"
+        },
+        {
+            "track_id": "0DJnqFhVWoTDs58JPem5Zh",
+            "track_name": "Something Got Me Started - 2008 Remaster",
+            "track_artist": "Simply Red",
+            "track_album": "Stars (Collector's Edition)",
+            "track_duration": 240706,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:53:28Z",
+            "uri": "spotify:track:0DJnqFhVWoTDs58JPem5Zh"
+        },
+        {
+            "track_id": "0jWgAnTrNZmOGmqgvHhZEm",
+            "track_name": "What's Up?",
+            "track_artist": "4 Non Blondes",
+            "track_album": "Bigger, Better, Faster, More !",
+            "track_duration": 295533,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:54:27Z",
+            "uri": "spotify:track:0jWgAnTrNZmOGmqgvHhZEm"
+        },
+        {
+            "track_id": "5BqGMUyu0zALViFPQ460CK",
+            "track_name": "Strangers Like Me",
+            "track_artist": "Phil Collins",
+            "track_album": "Tarzan Original Soundtrack (German Version)",
+            "track_duration": 180586,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:54:42Z",
+            "uri": "spotify:track:5BqGMUyu0zALViFPQ460CK"
+        },
+        {
+            "track_id": "6sbXGUn9V9ZaLwLdOfpKRE",
+            "track_name": "Larger Than Life",
+            "track_artist": "Backstreet Boys",
+            "track_album": "Millennium",
+            "track_duration": 232826,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:54:48Z",
+            "uri": "spotify:track:6sbXGUn9V9ZaLwLdOfpKRE"
+        },
+        {
+            "track_id": "4jLv3tDBu8ww2R07DvL12s",
+            "track_name": "Man On The Moon",
+            "track_artist": "R.E.M.",
+            "track_album": "Automatic For The People",
+            "track_duration": 314173,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:55:13Z",
+            "uri": "spotify:track:4jLv3tDBu8ww2R07DvL12s"
+        },
+        {
+            "track_id": "4LJhJ6DQS7NwE7UKtvcM52",
+            "track_name": "What's My Age Again?",
+            "track_artist": "blink-182",
+            "track_album": "Enema Of The State",
+            "track_duration": 148360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:55:21Z",
+            "uri": "spotify:track:4LJhJ6DQS7NwE7UKtvcM52"
+        },
+        {
+            "track_id": "4JiEyzf0Md7KEFFGWDDdCr",
+            "track_name": "Knockin' On Heaven's Door",
+            "track_artist": "Guns N' Roses",
+            "track_album": "Use Your Illusion II",
+            "track_duration": 336000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:55:32Z",
+            "uri": "spotify:track:4JiEyzf0Md7KEFFGWDDdCr"
+        },
+        {
+            "track_id": "3GpdNg7Krt9vjc6tgDoKe1",
+            "track_name": "Breakfast At Tiffany's",
+            "track_artist": "Deep Blue Something",
+            "track_album": "Home",
+            "track_duration": 257186,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:55:37Z",
+            "uri": "spotify:track:3GpdNg7Krt9vjc6tgDoKe1"
+        },
+        {
+            "track_id": "3XorCFmcupSm5QS6hA9g4N",
+            "track_name": "I Want You",
+            "track_artist": "Savage Garden",
+            "track_album": "Savage Garden",
+            "track_duration": 232066,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-04-07T20:56:51Z",
+            "uri": "spotify:track:3XorCFmcupSm5QS6hA9g4N"
+        },
+        {
             "track_id": "7jIFGkTBIK1UwWaEXMW2Nh",
             "track_name": "Life Is A Highway",
             "track_artist": "Tom Cochrane",
