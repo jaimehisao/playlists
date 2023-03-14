@@ -1000,6 +1000,136 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2022-10-01T03:13:27Z",
             "uri": "spotify:track:2grjqo0Frpf2okIBiifQKs"
+        },
+        {
+            "track_id": "3koCCeSaVUyrRo3N2gHrd8",
+            "track_name": "Let's Groove",
+            "track_artist": "Earth, Wind & Fire",
+            "track_album": "Raise!",
+            "track_duration": 339320,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-10-01T03:13:27Z",
+            "uri": "spotify:track:3koCCeSaVUyrRo3N2gHrd8"
+        },
+        {
+            "track_id": "6ztstiyZL6FXzh4aG46ZPD",
+            "track_name": "Boogie Wonderland",
+            "track_artist": "Earth, Wind & Fire",
+            "track_album": "I Am",
+            "track_duration": 288293,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-10-01T03:13:27Z",
+            "uri": "spotify:track:6ztstiyZL6FXzh4aG46ZPD"
+        },
+        {
+            "track_id": "3qrEG6rQ9Qm72MNWeUKKiU",
+            "track_name": "Wham Bam Shang-A-Lang",
+            "track_artist": "Silver",
+            "track_album": "Silver",
+            "track_duration": 212840,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-08T07:13:08Z",
+            "uri": "spotify:track:3qrEG6rQ9Qm72MNWeUKKiU"
+        },
+        {
+            "track_id": "5TGSGO90t7pVhLGbcbVdOJ",
+            "track_name": "Dancing In The Moonlight",
+            "track_artist": "King Harvest",
+            "track_album": "The Hitman's Bodyguard (Original Soundtrack Album)",
+            "track_duration": 178045,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2022-12-09T20:20:45Z",
+            "uri": "spotify:track:5TGSGO90t7pVhLGbcbVdOJ"
+        },
+        {
+            "track_id": "5HQ639Z3ms3hnZx0KfWnkp",
+            "track_name": "Private Eyes",
+            "track_artist": "Daryl Hall & John Oates",
+            "track_album": "Private Eyes (Expanded Edition)",
+            "track_duration": 217200,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-03T22:00:52Z",
+            "uri": "spotify:track:5HQ639Z3ms3hnZx0KfWnkp"
+        },
+        {
+            "track_id": "0MHXrqn909p0LRTPsNsGEi",
+            "track_name": "Move on Up - Single Edit",
+            "track_artist": "Curtis Mayfield",
+            "track_album": "Move on Up",
+            "track_duration": 165789,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:01:37Z",
+            "uri": "spotify:track:0MHXrqn909p0LRTPsNsGEi"
+        },
+        {
+            "track_id": "1I7zHEdDx8Ny5RxzYPqsU2",
+            "track_name": "Reelin' In The Years",
+            "track_artist": "Steely Dan",
+            "track_album": "Can't Buy A Thrill",
+            "track_duration": 275466,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:02:17Z",
+            "uri": "spotify:track:1I7zHEdDx8Ny5RxzYPqsU2"
+        },
+        {
+            "track_id": "2BstRQGodshjGpeDGQiNgo",
+            "track_name": "Do It Again",
+            "track_artist": "Steely Dan",
+            "track_album": "Can't Buy A Thrill",
+            "track_duration": 356733,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:02:23Z",
+            "uri": "spotify:track:2BstRQGodshjGpeDGQiNgo"
+        },
+        {
+            "track_id": "476V2d6iA2tWXgQboKmTtA",
+            "track_name": "Father And Son",
+            "track_artist": "Yusuf / Cat Stevens",
+            "track_album": "Tea For The Tillerman (Remastered 2020)",
+            "track_duration": 221120,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-01-11T16:02:29Z",
+            "uri": "spotify:track:476V2d6iA2tWXgQboKmTtA"
+        },
+        {
+            "track_id": "6vQ2e6wFGceHdm4f3W5XR6",
+            "track_name": "Can't You See",
+            "track_artist": "The Marshall Tucker Band",
+            "track_album": "Love Songs",
+            "track_duration": 200826,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-02T21:05:08Z",
+            "uri": "spotify:track:6vQ2e6wFGceHdm4f3W5XR6"
+        },
+        {
+            "track_id": "19Ym5Sg0YyOCa6ao21bdoG",
+            "track_name": "Gypsy",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Greatest Hits",
+            "track_duration": 264906,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-02T21:05:21Z",
+            "uri": "spotify:track:19Ym5Sg0YyOCa6ao21bdoG"
+        },
+        {
+            "track_id": "603KXhZ58l2fqgiyuIsEj8",
+            "track_name": "One of These Nights - Single Version; 2018 Remaster",
+            "track_artist": "Eagles",
+            "track_album": "Legacy",
+            "track_duration": 213773,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-03T00:50:03Z",
+            "uri": "spotify:track:603KXhZ58l2fqgiyuIsEj8"
+        },
+        {
+            "track_id": "6xdLJrVj4vIXwhuG8TMopk",
+            "track_name": "Crazy Little Thing Called Love - Remastered 2011",
+            "track_artist": "Queen",
+            "track_album": "The Game (2011 Remaster)",
+            "track_duration": 163373,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-03-11T05:39:22Z",
+            "uri": "spotify:track:6xdLJrVj4vIXwhuG8TMopk"
         }
     ]
 }
