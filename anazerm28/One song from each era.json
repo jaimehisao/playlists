@@ -1,0 +1,105 @@
+{
+    "id": "1jIGHu2NCIQ3YSqr01hmNr",
+    "tracks": [
+        {
+            "track_id": "6CdaXOq1MWe2JHDalTG01d",
+            "track_name": "Should've Said No",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 242200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:16:00Z",
+            "uri": "spotify:track:6CdaXOq1MWe2JHDalTG01d"
+        },
+        {
+            "track_id": "04S1pkp1VaIqjg8zZqknR5",
+            "track_name": "Enchanted",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 352200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:16:11Z",
+            "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+        },
+        {
+            "track_id": "22bPsP2jCgbLUvh82U0Z3M",
+            "track_name": "The Way I Loved You (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 243136,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:16:27Z",
+            "uri": "spotify:track:22bPsP2jCgbLUvh82U0Z3M"
+        },
+        {
+            "track_id": "0qAIiGFKLdV1xpNlEhjpq8",
+            "track_name": "New Romantics",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 230466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:16:37Z",
+            "uri": "spotify:track:0qAIiGFKLdV1xpNlEhjpq8"
+        },
+        {
+            "track_id": "7J4b3LVCIGO4CMBDFLPoP6",
+            "track_name": "Holy Ground (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 202960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:17:02Z",
+            "uri": "spotify:track:7J4b3LVCIGO4CMBDFLPoP6"
+        },
+        {
+            "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
+            "track_name": "Delicate",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 232253,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:17:28Z",
+            "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+        },
+        {
+            "track_id": "1fzAuUVbzlhZ1lJAx9PtY6",
+            "track_name": "Daylight",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 293453,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:18:15Z",
+            "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
+        },
+        {
+            "track_id": "0ZNU020wNYvgW84iljPkPP",
+            "track_name": "mirrorball",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 208977,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:18:33Z",
+            "uri": "spotify:track:0ZNU020wNYvgW84iljPkPP"
+        },
+        {
+            "track_id": "2o2sgVJIgFXk8GQjWTgI6U",
+            "track_name": "long story short",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 215920,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:18:44Z",
+            "uri": "spotify:track:2o2sgVJIgFXk8GQjWTgI6U"
+        },
+        {
+            "track_id": "02Zkkf2zMkwRGQjZ7T4p8f",
+            "track_name": "Anti-Hero",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (3am Edition)",
+            "track_duration": 200690,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:18:59Z",
+            "uri": "spotify:track:02Zkkf2zMkwRGQjZ7T4p8f"
+        }
+    ]
+}
