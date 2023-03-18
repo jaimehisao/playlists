@@ -1370,6 +1370,36 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-11-12T22:04:21Z",
             "uri": "spotify:track:2yceD2hx5HhOLgkm1CITCi"
+        },
+        {
+            "track_id": "4P9Q0GojKVXpRTJCaL3kyy",
+            "track_name": "All Of The Girls You Loved Before",
+            "track_artist": "Taylor Swift",
+            "track_album": "All Of The Girls You Loved Before",
+            "track_duration": 221407,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T04:45:38Z",
+            "uri": "spotify:track:4P9Q0GojKVXpRTJCaL3kyy"
+        },
+        {
+            "track_id": "2NIBaWXdjaTDmytjjwbEfP",
+            "track_name": "Eyes Open (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Eyes Open (Taylor's Version)",
+            "track_duration": 243264,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T04:45:46Z",
+            "uri": "spotify:track:2NIBaWXdjaTDmytjjwbEfP"
+        },
+        {
+            "track_id": "2RJnNdu4pb3MypbBroHU0T",
+            "track_name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Safe & Sound (Taylor's Version)",
+            "track_duration": 239668,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T04:45:51Z",
+            "uri": "spotify:track:2RJnNdu4pb3MypbBroHU0T"
         }
     ]
 }
