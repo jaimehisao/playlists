@@ -640,6 +640,36 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-03-12T23:00:27Z",
             "uri": "spotify:track:44XjoNvtwevktFKjvVe1vH"
+        },
+        {
+            "track_id": "6FZDfxM3a3UCqtzo5pxSLZ",
+            "track_name": "Without Me",
+            "track_artist": "Halsey",
+            "track_album": "Manic",
+            "track_duration": 201660,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-03-17T04:09:57Z",
+            "uri": "spotify:track:6FZDfxM3a3UCqtzo5pxSLZ"
+        },
+        {
+            "track_id": "0d2iYfpKoM0QCKvcLCkBao",
+            "track_name": "Eastside (with Halsey & Khalid)",
+            "track_artist": "benny blanco",
+            "track_album": "Eastside (with Halsey & Khalid)",
+            "track_duration": 173799,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-03-17T06:26:12Z",
+            "uri": "spotify:track:0d2iYfpKoM0QCKvcLCkBao"
+        },
+        {
+            "track_id": "2ufmtcIFdFpuUYBPXK5f67",
+            "track_name": "Graveyard",
+            "track_artist": "Halsey",
+            "track_album": "Manic",
+            "track_duration": 181805,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-03-17T06:26:19Z",
+            "uri": "spotify:track:2ufmtcIFdFpuUYBPXK5f67"
         }
     ]
 }
