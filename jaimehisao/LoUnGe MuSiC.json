@@ -600,6 +600,76 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-10-16T05:55:55Z",
             "uri": "spotify:track:4rHhkKyZ0DV97uAmIwQdVU"
+        },
+        {
+            "track_id": "3Y4kVmZNmxDPQPa9kXm3eD",
+            "track_name": "Wonderful",
+            "track_artist": "Maxwell Young",
+            "track_album": "Spark",
+            "track_duration": 99545,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T05:56:05Z",
+            "uri": "spotify:track:3Y4kVmZNmxDPQPa9kXm3eD"
+        },
+        {
+            "track_id": "1XJRKuLhRu6ukSZir9ZZmC",
+            "track_name": "Almost Like This",
+            "track_artist": "Andrew Applepie",
+            "track_album": "Andrew Applepie",
+            "track_duration": 188372,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T05:56:58Z",
+            "uri": "spotify:track:1XJRKuLhRu6ukSZir9ZZmC"
+        },
+        {
+            "track_id": "7qiZk89OOE3sWElQeuiIaH",
+            "track_name": "Lemon Tea",
+            "track_artist": "Gyvus",
+            "track_album": "Chillhop Essentials Summer 2017",
+            "track_duration": 149332,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T05:57:09Z",
+            "uri": "spotify:track:7qiZk89OOE3sWElQeuiIaH"
+        },
+        {
+            "track_id": "12CsvOE6ssStQoNooXzYkY",
+            "track_name": "Who Babe",
+            "track_artist": "Mtbrd",
+            "track_album": "Beatape",
+            "track_duration": 122723,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T05:57:19Z",
+            "uri": "spotify:track:12CsvOE6ssStQoNooXzYkY"
+        },
+        {
+            "track_id": "6aBFjYfhZrgJtxiKaip1BH",
+            "track_name": "Skylight",
+            "track_artist": "Gramatik",
+            "track_album": "Beatz & Pieces, Vol. 1",
+            "track_duration": 226333,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-10-16T05:57:31Z",
+            "uri": "spotify:track:6aBFjYfhZrgJtxiKaip1BH"
+        },
+        {
+            "track_id": "26UAZowV5f9UVjBFWVvazB",
+            "track_name": "Sombre, Green",
+            "track_artist": "Birocratic",
+            "track_album": "Beets 3",
+            "track_duration": 143567,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-02T06:47:00Z",
+            "uri": "spotify:track:26UAZowV5f9UVjBFWVvazB"
+        },
+        {
+            "track_id": "4UvGBQU3zPO5IcagzHDIxS",
+            "track_name": "Love Is Real",
+            "track_artist": "Moods",
+            "track_album": "Sincere - Single",
+            "track_duration": 202213,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2019-12-02T06:47:02Z",
+            "uri": "spotify:track:4UvGBQU3zPO5IcagzHDIxS"
         }
     ]
 }
