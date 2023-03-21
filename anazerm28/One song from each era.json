@@ -32,16 +32,6 @@
             "uri": "spotify:track:22bPsP2jCgbLUvh82U0Z3M"
         },
         {
-            "track_id": "0qAIiGFKLdV1xpNlEhjpq8",
-            "track_name": "New Romantics",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 230466,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-03-17T01:16:37Z",
-            "uri": "spotify:track:0qAIiGFKLdV1xpNlEhjpq8"
-        },
-        {
             "track_id": "7J4b3LVCIGO4CMBDFLPoP6",
             "track_name": "Holy Ground (Taylor's Version)",
             "track_artist": "Taylor Swift",
@@ -50,6 +40,16 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-03-17T01:17:02Z",
             "uri": "spotify:track:7J4b3LVCIGO4CMBDFLPoP6"
+        },
+        {
+            "track_id": "0qAIiGFKLdV1xpNlEhjpq8",
+            "track_name": "New Romantics",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 230466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T01:16:37Z",
+            "uri": "spotify:track:0qAIiGFKLdV1xpNlEhjpq8"
         },
         {
             "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
