@@ -2,6 +2,206 @@
     "id": "1KHdLeauojW51Hgdp4lj5i",
     "tracks": [
         {
+            "track_id": "4pvb0WLRcMtbPGmtejJJ6y",
+            "track_name": "exile (feat. Bon Iver)",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 285634,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:29:14Z",
+            "uri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+        },
+        {
+            "track_id": "7kt9e9LFSpN1zQtYEl19o1",
+            "track_name": "this is me trying",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 195097,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:29:22Z",
+            "uri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+        },
+        {
+            "track_id": "0Jlcvv8IykzHaSmj49uNW8",
+            "track_name": "the 1",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 210251,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-04-02T00:09:53Z",
+            "uri": "spotify:track:0Jlcvv8IykzHaSmj49uNW8"
+        },
+        {
+            "track_id": "0sY6ZUTh4yoctD8VIXz339",
+            "track_name": "champagne problems",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 244000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:29:33Z",
+            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+        },
+        {
+            "track_id": "0PurA4JVJ8YQgSVopY8fn6",
+            "track_name": "tolerate it",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 245440,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:29:37Z",
+            "uri": "spotify:track:0PurA4JVJ8YQgSVopY8fn6"
+        },
+        {
+            "track_id": "3zwMVvkBe2qIKDObWgXw4N",
+            "track_name": "right where you left me - bonus track",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore (deluxe version)",
+            "track_duration": 245026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:36:39Z",
+            "uri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N"
+        },
+        {
+            "track_id": "6iiAfo4wTA2CVC3Uwx9uh8",
+            "track_name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 261842,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:30:00Z",
+            "uri": "spotify:track:6iiAfo4wTA2CVC3Uwx9uh8"
+        },
+        {
+            "track_id": "1msEuwSBneBKpVCZQcFTsU",
+            "track_name": "Forever & Always (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 225328,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:48:33Z",
+            "uri": "spotify:track:1msEuwSBneBKpVCZQcFTsU"
+        },
+        {
+            "track_id": "6AtZLIzUINvExIUy4QhdjP",
+            "track_name": "I Knew You Were Trouble (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 219760,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:33:08Z",
+            "uri": "spotify:track:6AtZLIzUINvExIUy4QhdjP"
+        },
+        {
+            "track_id": "0y6kdSRCVQhSsHSpWvTUm7",
+            "track_name": "The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 299080,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:33:26Z",
+            "uri": "spotify:track:0y6kdSRCVQhSsHSpWvTUm7"
+        },
+        {
+            "track_id": "2r9CbjYgFhtAmcFv1cSquB",
+            "track_name": "I Almost Do (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 244586,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:35:43Z",
+            "uri": "spotify:track:2r9CbjYgFhtAmcFv1cSquB"
+        },
+        {
+            "track_id": "4OmFmE0fzcMG6g0Y8p4eSD",
+            "track_name": "Better Man (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 297013,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:35:56Z",
+            "uri": "spotify:track:4OmFmE0fzcMG6g0Y8p4eSD"
+        },
+        {
+            "track_id": "5enxwA8aAbwZbf5qCHORXi",
+            "track_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 613026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:36:06Z",
+            "uri": "spotify:track:5enxwA8aAbwZbf5qCHORXi"
+        },
+        {
+            "track_id": "01K4zKU104LyJ8gMb7227B",
+            "track_name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 258812,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:36:58Z",
+            "uri": "spotify:track:01K4zKU104LyJ8gMb7227B"
+        },
+        {
+            "track_id": "73qMN9bXy7MSPwwGfH3wQr",
+            "track_name": "Sad Beautiful Tragic (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 284773,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:36:44Z",
+            "uri": "spotify:track:73qMN9bXy7MSPwwGfH3wQr"
+        },
+        {
+            "track_id": "4AYtqFyFbX0Xkc2wtcygTr",
+            "track_name": "Soon You\u2019ll Get Better (feat. The Chicks)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 201586,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:36:31Z",
+            "uri": "spotify:track:4AYtqFyFbX0Xkc2wtcygTr"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:36:26Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "214nt20w5wOxJnY462klLw",
+            "track_name": "Miss Americana & The Heartbreak Prince",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 234146,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:51:00Z",
+            "uri": "spotify:track:214nt20w5wOxJnY462klLw"
+        },
+        {
+            "track_id": "6CdaXOq1MWe2JHDalTG01d",
+            "track_name": "Should've Said No",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 242200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:37:37Z",
+            "uri": "spotify:track:6CdaXOq1MWe2JHDalTG01d"
+        },
+        {
+            "track_id": "4NNolUeL5m2ju7kf8pdg6H",
+            "track_name": "All You Had To Do Was Stay",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 193293,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-03-31T20:38:02Z",
+            "uri": "spotify:track:4NNolUeL5m2ju7kf8pdg6H"
+        },
+        {
             "track_id": "5RVJ6VKfwtosA5Q1qeHdjF",
             "track_name": "I Wish You Would",
             "track_artist": "Taylor Swift",
