@@ -1,0 +1,25 @@
+{
+    "id": "6BNgQPT0OujqFwAEGCTrWi",
+    "tracks": [
+        {
+            "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "track_name": "Cruel Summer",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 178426,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-25T02:18:10Z",
+            "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+        },
+        {
+            "track_id": "0BiqmkasE5FdrChwKfVp8X",
+            "track_name": "Bigger Than The Whole Sky",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (3am Edition)",
+            "track_duration": 218502,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-25T02:18:47Z",
+            "uri": "spotify:track:0BiqmkasE5FdrChwKfVp8X"
+        }
+    ]
+}
