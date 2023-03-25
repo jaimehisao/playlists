@@ -540,6 +540,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-03-14T12:27:46Z",
             "uri": "spotify:track:1ej1LOEjEmvEtXg6IbWlWN"
+        },
+        {
+            "track_id": "6ji5AQtHWnxX20wGfDMLXm",
+            "track_name": "Everywhere I Go I Bring the Rain",
+            "track_artist": "Caroline Rose",
+            "track_album": "The Art of Forgetting",
+            "track_duration": 304960,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-25T06:35:35Z",
+            "uri": "spotify:track:6ji5AQtHWnxX20wGfDMLXm"
         }
     ]
 }
