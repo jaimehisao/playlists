@@ -690,6 +690,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-03-26T07:58:31Z",
             "uri": "spotify:track:2VhY69P0Q15rHfEKaMlR5x"
+        },
+        {
+            "track_id": "2ST72jD2KVe7f3fbcGyX1b",
+            "track_name": "Nobody's Love",
+            "track_artist": "Maroon 5",
+            "track_album": "JORDI (Deluxe)",
+            "track_duration": 211253,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-03-27T22:52:16Z",
+            "uri": "spotify:track:2ST72jD2KVe7f3fbcGyX1b"
         }
     ]
 }
