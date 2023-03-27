@@ -550,6 +550,26 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-03-25T06:35:35Z",
             "uri": "spotify:track:6ji5AQtHWnxX20wGfDMLXm"
+        },
+        {
+            "track_id": "4deGKv9FPq1G0JDsXhqQPe",
+            "track_name": "Can't Help Myself",
+            "track_artist": "Alexandra Savior",
+            "track_album": "The Archer",
+            "track_duration": 162944,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-27T05:12:15Z",
+            "uri": "spotify:track:4deGKv9FPq1G0JDsXhqQPe"
+        },
+        {
+            "track_id": "6JuEshIRliNXRU1LXctRjZ",
+            "track_name": "Halah",
+            "track_artist": "Mazzy Star",
+            "track_album": "She Hangs Brightly",
+            "track_duration": 196226,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-27T05:38:28Z",
+            "uri": "spotify:track:6JuEshIRliNXRU1LXctRjZ"
         }
     ]
 }
