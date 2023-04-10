@@ -710,6 +710,46 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-03-28T00:01:56Z",
             "uri": "spotify:track:6qMf3eqbmToDXj7LixyK1w"
+        },
+        {
+            "track_id": "7ASFZh1D0DPZro7UXUKGmd",
+            "track_name": "Loving Is Easy",
+            "track_artist": "Rex Orange County",
+            "track_album": "Loving is Easy",
+            "track_duration": 155720,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-03-29T07:14:51Z",
+            "uri": "spotify:track:7ASFZh1D0DPZro7UXUKGmd"
+        },
+        {
+            "track_id": "6UN73IYd0hZxLi8wFPMQij",
+            "track_name": "Players",
+            "track_artist": "Coi Leray",
+            "track_album": "Players",
+            "track_duration": 139560,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-09T02:58:34Z",
+            "uri": "spotify:track:6UN73IYd0hZxLi8wFPMQij"
+        },
+        {
+            "track_id": "1KixkQVDUHggZMU9dUobgm",
+            "track_name": "My Head & My Heart",
+            "track_artist": "Ava Max",
+            "track_album": "Heaven & Hell",
+            "track_duration": 174760,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-09T23:47:12Z",
+            "uri": "spotify:track:1KixkQVDUHggZMU9dUobgm"
+        },
+        {
+            "track_id": "3WTWh2WDk4j8GUCGj4xfOd",
+            "track_name": "Skate",
+            "track_artist": "Bruno Mars",
+            "track_album": "An Evening With Silk Sonic",
+            "track_duration": 203122,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-09T23:51:33Z",
+            "uri": "spotify:track:3WTWh2WDk4j8GUCGj4xfOd"
         }
     ]
 }
