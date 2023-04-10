@@ -2270,6 +2270,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2022-08-08T18:46:58Z",
             "uri": "spotify:track:48svUiwMMYQRPyesVEnof1"
+        },
+        {
+            "track_id": "4kLBNF8TemKftRMLV93sOJ",
+            "track_name": "Contacto",
+            "track_artist": "Camilo S\u00e9ptimo",
+            "track_album": "Navegantes",
+            "track_duration": 265500,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-05T17:20:27Z",
+            "uri": "spotify:track:4kLBNF8TemKftRMLV93sOJ"
         }
     ]
 }
