@@ -750,6 +750,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-04-09T23:51:33Z",
             "uri": "spotify:track:3WTWh2WDk4j8GUCGj4xfOd"
+        },
+        {
+            "track_id": "3AVXwaOGCEL8cmBecfcsFJ",
+            "track_name": "Light Switch",
+            "track_artist": "Charlie Puth",
+            "track_album": "Light Switch (Instrumental)",
+            "track_duration": 187703,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-10T21:55:12Z",
+            "uri": "spotify:track:3AVXwaOGCEL8cmBecfcsFJ"
         }
     ]
 }
