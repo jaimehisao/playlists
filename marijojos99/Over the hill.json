@@ -570,6 +570,36 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-03-27T05:38:28Z",
             "uri": "spotify:track:6JuEshIRliNXRU1LXctRjZ"
+        },
+        {
+            "track_id": "5RF6Z68ugujGPK69CGxXhj",
+            "track_name": "La Danza de los Mirlos",
+            "track_artist": "Los Mirlos",
+            "track_album": "Grandes \u00c9xitos",
+            "track_duration": 189573,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-29T19:21:25Z",
+            "uri": "spotify:track:5RF6Z68ugujGPK69CGxXhj"
+        },
+        {
+            "track_id": "28IEbk5a7twNTbUEvWslUb",
+            "track_name": "Paralyzer",
+            "track_artist": "Finger Eleven",
+            "track_album": "Them Vs. You Vs. Me (Deluxe Edition)",
+            "track_duration": 208106,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-31T11:53:35Z",
+            "uri": "spotify:track:28IEbk5a7twNTbUEvWslUb"
+        },
+        {
+            "track_id": "5cZqsjVs6MevCnAkasbEOX",
+            "track_name": "Break Stuff",
+            "track_artist": "Limp Bizkit",
+            "track_album": "Significant Other",
+            "track_duration": 166706,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-03-31T12:54:30Z",
+            "uri": "spotify:track:5cZqsjVs6MevCnAkasbEOX"
         }
     ]
 }
