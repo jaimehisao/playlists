@@ -260,6 +260,76 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2021-08-11T16:55:02Z",
             "uri": "spotify:track:5iGleL7HpEThuuYQ3us2jh"
+        },
+        {
+            "track_id": "4OiYyeJ4pxrcufdqLLxnAV",
+            "track_name": "Adventure Of A Lifetime",
+            "track_artist": "Marcell",
+            "track_album": "This Is Not Jazz",
+            "track_duration": 299106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-04-06T14:43:04Z",
+            "uri": "spotify:track:4OiYyeJ4pxrcufdqLLxnAV"
+        },
+        {
+            "track_id": "6BGu9IJlUza0h7YrTWElnD",
+            "track_name": "La Vie En Rose - Single Version",
+            "track_artist": "Louis Armstrong",
+            "track_album": "All Time Greatest Hits",
+            "track_duration": 205973,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-04-06T14:43:08Z",
+            "uri": "spotify:track:6BGu9IJlUza0h7YrTWElnD"
+        },
+        {
+            "track_id": "34oMi39G5RYgaCPwRNJ7OU",
+            "track_name": "They Didn't Believe Me",
+            "track_artist": "Beegie Adair",
+            "track_album": "The Way You Look Tonight",
+            "track_duration": 209333,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-04-06T14:43:13Z",
+            "uri": "spotify:track:34oMi39G5RYgaCPwRNJ7OU"
+        },
+        {
+            "track_id": "7GwGAzzPjj2adFxY2XcDgN",
+            "track_name": "Why Don't You Do Right?",
+            "track_artist": "Casey Abrams",
+            "track_album": "Jazz",
+            "track_duration": 180020,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-04-06T14:43:18Z",
+            "uri": "spotify:track:7GwGAzzPjj2adFxY2XcDgN"
+        },
+        {
+            "track_id": "7JrgVgkA0n4AnAPvC2y6wV",
+            "track_name": "When It's Sleepytime Down South",
+            "track_artist": "Wynton Marsalis",
+            "track_album": "Standards & Ballads",
+            "track_duration": 309640,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-04-06T14:43:21Z",
+            "uri": "spotify:track:7JrgVgkA0n4AnAPvC2y6wV"
+        },
+        {
+            "track_id": "1mPjL8k3EG9hK3CvZcMZBK",
+            "track_name": "My One And Only Love",
+            "track_artist": "Chick Corea",
+            "track_album": "Umbria Jazz 2012",
+            "track_duration": 216386,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-04-06T14:43:25Z",
+            "uri": "spotify:track:1mPjL8k3EG9hK3CvZcMZBK"
+        },
+        {
+            "track_id": "2Lz03NspvyxfiCjgdtpEVR",
+            "track_name": "Azalea",
+            "track_artist": "Avishai Cohen",
+            "track_album": "Playing The Room",
+            "track_duration": 221000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-04-06T14:43:28Z",
+            "uri": "spotify:track:2Lz03NspvyxfiCjgdtpEVR"
         }
     ]
 }
