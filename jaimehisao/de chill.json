@@ -10,6 +10,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-04-10T18:55:12Z",
             "uri": "spotify:track:16frIpnyUb9poRwQxQTmaC"
+        },
+        {
+            "track_id": "5euumi7eqEgmxvCIJw2pSp",
+            "track_name": "Hot Rod",
+            "track_artist": "Dayglow",
+            "track_album": "Fuzzybrain",
+            "track_duration": 204014,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-10T21:24:12Z",
+            "uri": "spotify:track:5euumi7eqEgmxvCIJw2pSp"
+        },
+        {
+            "track_id": "61OJxhoY3Ix50rYVKo8zRK",
+            "track_name": "Can I Call You Tonight?",
+            "track_artist": "Dayglow",
+            "track_album": "Fuzzybrain",
+            "track_duration": 278769,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-10T21:24:47Z",
+            "uri": "spotify:track:61OJxhoY3Ix50rYVKo8zRK"
         }
     ]
 }
