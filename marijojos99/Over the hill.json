@@ -610,6 +610,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-04-10T15:34:15Z",
             "uri": "spotify:track:4jv496BJYJpMijIavxxTqJ"
+        },
+        {
+            "track_id": "3hxIUxnT27p5WcmjGUXNwx",
+            "track_name": "Shut up My Moms Calling",
+            "track_artist": "Hotel Ugly",
+            "track_album": "Shut up My Moms Calling",
+            "track_duration": 164571,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-04-11T21:48:59Z",
+            "uri": "spotify:track:3hxIUxnT27p5WcmjGUXNwx"
         }
     ]
 }
