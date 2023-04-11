@@ -620,6 +620,16 @@
             "track_added_by": "marijojos99",
             "track_added_at": "2023-04-11T21:48:59Z",
             "uri": "spotify:track:3hxIUxnT27p5WcmjGUXNwx"
+        },
+        {
+            "track_id": "60SvhHtwefT0e2G7i7kOH3",
+            "track_name": "New Gold (feat. Tame Impala and Bootie Brown)",
+            "track_artist": "Gorillaz",
+            "track_album": "Cracker Island",
+            "track_duration": 215149,
+            "track_added_by": "marijojos99",
+            "track_added_at": "2023-04-11T21:57:37Z",
+            "uri": "spotify:track:60SvhHtwefT0e2G7i7kOH3"
         }
     ]
 }
