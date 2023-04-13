@@ -760,6 +760,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-04-10T21:55:12Z",
             "uri": "spotify:track:3AVXwaOGCEL8cmBecfcsFJ"
+        },
+        {
+            "track_id": "7a53HqqArd4b9NF4XAmlbI",
+            "track_name": "Kings & Queens",
+            "track_artist": "Ava Max",
+            "track_album": "Heaven & Hell",
+            "track_duration": 162398,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-13T18:57:12Z",
+            "uri": "spotify:track:7a53HqqArd4b9NF4XAmlbI"
+        },
+        {
+            "track_id": "7DnAm9FOTWE3cUvso43HhI",
+            "track_name": "Sweet but Psycho",
+            "track_artist": "Ava Max",
+            "track_album": "Heaven & Hell",
+            "track_duration": 187436,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-13T18:57:20Z",
+            "uri": "spotify:track:7DnAm9FOTWE3cUvso43HhI"
         }
     ]
 }
