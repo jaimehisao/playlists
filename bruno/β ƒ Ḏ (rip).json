@@ -802,6 +802,206 @@
             "uri": "spotify:track:7dkzqJnqaLDEH8MsP1Rxx7"
         },
         {
+            "track_id": "41dDygR3r7e926oGUXfrLt",
+            "track_name": "I Can't Go for That (No Can Do)",
+            "track_artist": "Daryl Hall & John Oates",
+            "track_album": "Private Eyes (Expanded Edition)",
+            "track_duration": 307306,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:03:23Z",
+            "uri": "spotify:track:41dDygR3r7e926oGUXfrLt"
+        },
+        {
+            "track_id": "73V1mhbDb7K0lqlHB82iN5",
+            "track_name": "Love You Inside Out",
+            "track_artist": "Bee Gees",
+            "track_album": "Spirits Having Flown",
+            "track_duration": 251333,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:12:57Z",
+            "uri": "spotify:track:73V1mhbDb7K0lqlHB82iN5"
+        },
+        {
+            "track_id": "6T5GTy1l6dRmagqpNPjdoc",
+            "track_name": "Too Much Heaven",
+            "track_artist": "Bee Gees",
+            "track_album": "Spirits Having Flown",
+            "track_duration": 296000,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:16:11Z",
+            "uri": "spotify:track:6T5GTy1l6dRmagqpNPjdoc"
+        },
+        {
+            "track_id": "7GqIDx2QVGOpd4r1fZaUUW",
+            "track_name": "25 or 6 to 4 - 2002 Remaster",
+            "track_artist": "Chicago",
+            "track_album": "Chicago II",
+            "track_duration": 289800,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:18:24Z",
+            "uri": "spotify:track:7GqIDx2QVGOpd4r1fZaUUW"
+        },
+        {
+            "track_id": "2374M0fQpWi3dLnB54qaLX",
+            "track_name": "Africa",
+            "track_artist": "TOTO",
+            "track_album": "Toto IV",
+            "track_duration": 295893,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:18:47Z",
+            "uri": "spotify:track:2374M0fQpWi3dLnB54qaLX"
+        },
+        {
+            "track_id": "3EYOJ48Et32uATr9ZmLnAo",
+            "track_name": "Roxanne",
+            "track_artist": "The Police",
+            "track_album": "Outlandos D'Amour (Remastered 2003)",
+            "track_duration": 191946,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:19:28Z",
+            "uri": "spotify:track:3EYOJ48Et32uATr9ZmLnAo"
+        },
+        {
+            "track_id": "2eF8pWbiivYsYRpbntYsnc",
+            "track_name": "Signed, Sealed, Delivered (I'm Yours)",
+            "track_artist": "Stevie Wonder",
+            "track_album": "Signed, Sealed And Delivered",
+            "track_duration": 161160,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:20:34Z",
+            "uri": "spotify:track:2eF8pWbiivYsYRpbntYsnc"
+        },
+        {
+            "track_id": "5ChkMS8OtdzJeqyybCc9R5",
+            "track_name": "Billie Jean",
+            "track_artist": "Michael Jackson",
+            "track_album": "Thriller 25 Super Deluxe Edition",
+            "track_duration": 293826,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:21:35Z",
+            "uri": "spotify:track:5ChkMS8OtdzJeqyybCc9R5"
+        },
+        {
+            "track_id": "753KutoAy00apPsplMRetG",
+            "track_name": "Let There Be Rock",
+            "track_artist": "AC/DC",
+            "track_album": "Let There Be Rock",
+            "track_duration": 366346,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-04T07:23:54Z",
+            "uri": "spotify:track:753KutoAy00apPsplMRetG"
+        },
+        {
+            "track_id": "62p6fF2r4NY6pwZbxxvmr8",
+            "track_name": "Fool in the Rain - 1990 Remaster",
+            "track_artist": "Led Zeppelin",
+            "track_album": "In Through the out Door (1994 Remaster)",
+            "track_duration": 372893,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-06T07:13:23Z",
+            "uri": "spotify:track:62p6fF2r4NY6pwZbxxvmr8"
+        },
+        {
+            "track_id": "6q6PeTloTbL2vb1Gt9sQQc",
+            "track_name": "Ready For The Floor",
+            "track_artist": "Hot Chip",
+            "track_album": "Made In The Dark",
+            "track_duration": 234240,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-06T07:55:49Z",
+            "uri": "spotify:track:6q6PeTloTbL2vb1Gt9sQQc"
+        },
+        {
+            "track_id": "2C0KFbb4v9CNWR5c9jWcKC",
+            "track_name": "Andromeda (feat. DRAM)",
+            "track_artist": "Gorillaz",
+            "track_album": "Humanz (Deluxe)",
+            "track_duration": 197546,
+            "track_added_by": "1283325282",
+            "track_added_at": "2021-03-06T18:29:47Z",
+            "uri": "spotify:track:2C0KFbb4v9CNWR5c9jWcKC"
+        },
+        {
+            "track_id": "1pKYYY0dkg23sQQXi0Q5zN",
+            "track_name": "Around the World",
+            "track_artist": "Daft Punk",
+            "track_album": "Homework",
+            "track_duration": 429533,
+            "track_added_by": "1283325282",
+            "track_added_at": "2021-03-07T00:08:33Z",
+            "uri": "spotify:track:1pKYYY0dkg23sQQXi0Q5zN"
+        },
+        {
+            "track_id": "15DPAU8ctfItZtyUxrWAxU",
+            "track_name": "Space for Rent",
+            "track_artist": "WhoMadeWho",
+            "track_album": "WhoMadeWho",
+            "track_duration": 305280,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-07T02:48:56Z",
+            "uri": "spotify:track:15DPAU8ctfItZtyUxrWAxU"
+        },
+        {
+            "track_id": "3glPZuhbsNSsbqve0CTHE7",
+            "track_name": "Company",
+            "track_artist": "Lucid State",
+            "track_album": "Company",
+            "track_duration": 214168,
+            "track_added_by": "1283325282",
+            "track_added_at": "2021-03-08T17:29:20Z",
+            "uri": "spotify:track:3glPZuhbsNSsbqve0CTHE7"
+        },
+        {
+            "track_id": "0suLngfo7rJoetk7Ub6N8l",
+            "track_name": "Octopus's Garden - Remastered 2009",
+            "track_artist": "The Beatles",
+            "track_album": "Abbey Road (Remastered)",
+            "track_duration": 170720,
+            "track_added_by": "1283325282",
+            "track_added_at": "2021-03-15T22:43:57Z",
+            "uri": "spotify:track:0suLngfo7rJoetk7Ub6N8l"
+        },
+        {
+            "track_id": "3ZCTVFBt2Brf31RLEnCkWJ",
+            "track_name": "everything i wanted",
+            "track_artist": "Billie Eilish",
+            "track_album": "everything i wanted",
+            "track_duration": 245425,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-15T06:02:40Z",
+            "uri": "spotify:track:3ZCTVFBt2Brf31RLEnCkWJ"
+        },
+        {
+            "track_id": "2RnPATK99oGOZygnD2GTO6",
+            "track_name": "With A Little Help From My Friends - Remastered 2009",
+            "track_artist": "The Beatles",
+            "track_album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+            "track_duration": 164106,
+            "track_added_by": "1283325282",
+            "track_added_at": "2021-03-15T22:44:41Z",
+            "uri": "spotify:track:2RnPATK99oGOZygnD2GTO6"
+        },
+        {
+            "track_id": "7MAibcTli4IisCtbHKrGMh",
+            "track_name": "Leave The Door Open",
+            "track_artist": "Bruno Mars",
+            "track_album": "Leave The Door Open",
+            "track_duration": 242096,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-15T23:52:42Z",
+            "uri": "spotify:track:7MAibcTli4IisCtbHKrGMh"
+        },
+        {
+            "track_id": "44ZKnfWEkp7wPs035j4Tua",
+            "track_name": "Casio",
+            "track_artist": "Jungle",
+            "track_album": "For Ever",
+            "track_duration": 234369,
+            "track_added_by": "felip\u00e2\u00f6",
+            "track_added_at": "2021-03-18T06:52:16Z",
+            "uri": "spotify:track:44ZKnfWEkp7wPs035j4Tua"
+        },
+        {
             "track_id": "2h0HkReHGCQPOEDZXEMcTO",
             "track_name": "Special Needs",
             "track_artist": "Placebo",
