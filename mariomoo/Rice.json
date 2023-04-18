@@ -1880,6 +1880,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-04-17T19:29:13Z",
             "uri": "spotify:track:1u3SkEgGroT2Kcfnd4v4ON"
+        },
+        {
+            "track_id": "1SldN7GTd0ADTjspv96wCl",
+            "track_name": "Loved By U",
+            "track_artist": "TOKiMONSTA",
+            "track_album": "Loved By U",
+            "track_duration": 207813,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-04-18T02:52:10Z",
+            "uri": "spotify:track:1SldN7GTd0ADTjspv96wCl"
         }
     ]
 }
