@@ -202,6 +202,206 @@
             "uri": "spotify:track:00JRUvdwqCvf2sWeKbYdS9"
         },
         {
+            "track_id": "4wfIzRpAivfs7QiErSZAnI",
+            "track_name": "Deadline",
+            "track_artist": "Flavien Berger",
+            "track_album": "Contre-Temps",
+            "track_duration": 225400,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-15T19:40:55Z",
+            "uri": "spotify:track:4wfIzRpAivfs7QiErSZAnI"
+        },
+        {
+            "track_id": "6OGpURRDL26WAeouxgnfX9",
+            "track_name": "L'amour, l'amour, l'amour",
+            "track_artist": "Bon Entendeur",
+            "track_album": "Aller-retour",
+            "track_duration": 187360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-02-25T06:55:07Z",
+            "uri": "spotify:track:6OGpURRDL26WAeouxgnfX9"
+        },
+        {
+            "track_id": "6fGmNs09PPcQ3NGIFLeXAB",
+            "track_name": "Dreaming of You",
+            "track_artist": "L'Imp\u00e9ratrice",
+            "track_album": "Matahari (French Version)",
+            "track_duration": 263506,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-07T22:08:56Z",
+            "uri": "spotify:track:6fGmNs09PPcQ3NGIFLeXAB"
+        },
+        {
+            "track_id": "4Xxm7QcK7J6D4T0573LleL",
+            "track_name": "Arc-en-ciel",
+            "track_artist": "Polo & Pan",
+            "track_album": "Caravelle (Deluxe)",
+            "track_duration": 231306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-07T22:09:01Z",
+            "uri": "spotify:track:4Xxm7QcK7J6D4T0573LleL"
+        },
+        {
+            "track_id": "3lRilcJvKDmv2JxxIixMy5",
+            "track_name": "Anomalie bleue",
+            "track_artist": "L'Imp\u00e9ratrice",
+            "track_album": "Anomalie bleue",
+            "track_duration": 233417,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-10T23:38:13Z",
+            "uri": "spotify:track:3lRilcJvKDmv2JxxIixMy5"
+        },
+        {
+            "track_id": "2jX5c5RFp0A9E1GDsvGxIa",
+            "track_name": "Balance ton quoi",
+            "track_artist": "Ang\u00e8le",
+            "track_album": "Brol",
+            "track_duration": 189480,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-10T23:38:21Z",
+            "uri": "spotify:track:2jX5c5RFp0A9E1GDsvGxIa"
+        },
+        {
+            "track_id": "1VOy9W3gdla9P0fDjP9Lhm",
+            "track_name": "Elle a les yeux revolver",
+            "track_artist": "Claire Faravarjoo",
+            "track_album": "Elle a les yeux revolver",
+            "track_duration": 190612,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-10T23:50:37Z",
+            "uri": "spotify:track:1VOy9W3gdla9P0fDjP9Lhm"
+        },
+        {
+            "track_id": "3Gx5voWRrNnLb6M6Ch9mtl",
+            "track_name": "Je t'aimais, je t'aime, je t'aimerai",
+            "track_artist": "Claire Faravarjoo",
+            "track_album": "Je t'aimais, je t'aime, je t'aimerai",
+            "track_duration": 240000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-10T23:57:33Z",
+            "uri": "spotify:track:3Gx5voWRrNnLb6M6Ch9mtl"
+        },
+        {
+            "track_id": "1Aj2mWCbFQSEZxFyPSUvjU",
+            "track_name": "Sur Une Chanson En Fran\u00e7ais",
+            "track_artist": "Paradis",
+            "track_album": "Couleurs Primaires",
+            "track_duration": 314635,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-11T00:03:20Z",
+            "uri": "spotify:track:1Aj2mWCbFQSEZxFyPSUvjU"
+        },
+        {
+            "track_id": "7frr9mAonq0gcMqQHFCzFB",
+            "track_name": "La Fever - Uslef Remix",
+            "track_artist": "Julien Dor\u00e9",
+            "track_album": "La fi\u00e8vre",
+            "track_duration": 263293,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-11T07:25:15Z",
+            "uri": "spotify:track:7frr9mAonq0gcMqQHFCzFB"
+        },
+        {
+            "track_id": "1VzsS5tPCG6reQ9LoTMUpn",
+            "track_name": "La Vie est Belle",
+            "track_artist": "La Belle Vie",
+            "track_album": "La vie est belle",
+            "track_duration": 278256,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-11T07:52:09Z",
+            "uri": "spotify:track:1VzsS5tPCG6reQ9LoTMUpn"
+        },
+        {
+            "track_id": "1gWnuGAiTk3Q4yrIbwymUK",
+            "track_name": "Zoom Zoom",
+            "track_artist": "Polo & Pan",
+            "track_album": "Caravelle",
+            "track_duration": 209800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-15T16:46:34Z",
+            "uri": "spotify:track:1gWnuGAiTk3Q4yrIbwymUK"
+        },
+        {
+            "track_id": "0Psz3az3RIYfJpnsajBT8N",
+            "track_name": "Nan\u00e3",
+            "track_artist": "Polo & Pan",
+            "track_album": "Caravelle",
+            "track_duration": 190826,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-03-15T16:46:42Z",
+            "uri": "spotify:track:0Psz3az3RIYfJpnsajBT8N"
+        },
+        {
+            "track_id": "0HgmckC0RYVb9SektOX48P",
+            "track_name": "Le syndrome du banlieusard",
+            "track_artist": "LABOTANIQUE",
+            "track_album": "Le syndrome du banlieusard",
+            "track_duration": 217303,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-04-11T23:34:10Z",
+            "uri": "spotify:track:0HgmckC0RYVb9SektOX48P"
+        },
+        {
+            "track_id": "2bBrRe20ZB7pJMQaNJ4nwk",
+            "track_name": "Only One Man (with Melody's Echo Chamber)",
+            "track_artist": "Moodo\u00efd",
+            "track_album": "Only One Man (with Melody's Echo Chamber)",
+            "track_duration": 190840,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2021-04-11T23:34:18Z",
+            "uri": "spotify:track:2bBrRe20ZB7pJMQaNJ4nwk"
+        },
+        {
+            "track_id": "1xlBBF8plcM6vHQfOM9Fs7",
+            "track_name": "Erreur 404",
+            "track_artist": "L'Imp\u00e9ratrice",
+            "track_album": "Matahari (French Version)",
+            "track_duration": 220506,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-01-31T04:51:12Z",
+            "uri": "spotify:track:1xlBBF8plcM6vHQfOM9Fs7"
+        },
+        {
+            "track_id": "2I4AhSWdVku2SQsJXiIci6",
+            "track_name": "Hano\u00ef caf\u00e9",
+            "track_artist": "Bleu Toucan",
+            "track_album": "Origami",
+            "track_duration": 194082,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-01-31T04:54:31Z",
+            "uri": "spotify:track:2I4AhSWdVku2SQsJXiIci6"
+        },
+        {
+            "track_id": "6iOJoSoSl5GF0Fzbc9Pt89",
+            "track_name": "Gare du Nord",
+            "track_artist": "Claire Laffut",
+            "track_album": "Mojo - EP",
+            "track_duration": 238067,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-01-31T07:10:08Z",
+            "uri": "spotify:track:6iOJoSoSl5GF0Fzbc9Pt89"
+        },
+        {
+            "track_id": "5exiWZkZho6AvCGkabEMeA",
+            "track_name": "Pourquoi pas",
+            "track_artist": "Miel De Montagne",
+            "track_album": "Miel de Montagne",
+            "track_duration": 192743,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-01-31T07:10:13Z",
+            "uri": "spotify:track:5exiWZkZho6AvCGkabEMeA"
+        },
+        {
+            "track_id": "6DOcTrOpqFSxQcyqdHQgk3",
+            "track_name": "Tes yeux",
+            "track_artist": "Lewis OfMan",
+            "track_album": "Je pense \u00e0 toi",
+            "track_duration": 204775,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2022-01-31T07:10:24Z",
+            "uri": "spotify:track:6DOcTrOpqFSxQcyqdHQgk3"
+        },
+        {
             "track_id": "7B2DS5uAjGp3QB1gSz1XmP",
             "track_name": "Recto Verso",
             "track_artist": "Paradis",
