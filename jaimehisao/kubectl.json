@@ -860,6 +860,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-04-21T00:45:51Z",
             "uri": "spotify:track:5GkQIP5mWPi4KZLLXeuFTT"
+        },
+        {
+            "track_id": "0eNfURq0r0oNSwFyw1VuVT",
+            "track_name": "Looking For Somebody (To Love)",
+            "track_artist": "The 1975",
+            "track_album": "Being Funny In A Foreign Language",
+            "track_duration": 178617,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-22T07:33:29Z",
+            "uri": "spotify:track:0eNfURq0r0oNSwFyw1VuVT"
         }
     ]
 }
