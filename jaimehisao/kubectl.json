@@ -870,6 +870,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-04-22T07:33:29Z",
             "uri": "spotify:track:0eNfURq0r0oNSwFyw1VuVT"
+        },
+        {
+            "track_id": "54eZmuggBFJbV7k248bTTt",
+            "track_name": "A Horse with No Name",
+            "track_artist": "America",
+            "track_album": "America",
+            "track_duration": 252239,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-23T01:43:52Z",
+            "uri": "spotify:track:54eZmuggBFJbV7k248bTTt"
         }
     ]
 }
