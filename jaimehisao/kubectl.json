@@ -880,6 +880,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-04-23T01:43:52Z",
             "uri": "spotify:track:54eZmuggBFJbV7k248bTTt"
+        },
+        {
+            "track_id": "0Ag6Du3bXVgBTG4rpbFxKG",
+            "track_name": "She Way Out",
+            "track_artist": "The 1975",
+            "track_album": "The 1975 (Deluxe Version)",
+            "track_duration": 239252,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-04-24T17:09:55Z",
+            "uri": "spotify:track:0Ag6Du3bXVgBTG4rpbFxKG"
         }
     ]
 }
