@@ -620,6 +620,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-05-04T01:53:14Z",
             "uri": "spotify:track:569sXXQ7t0jSdqHooi2yqs"
+        },
+        {
+            "track_id": "3fGnrtrtL1IHSX9t4DKOYf",
+            "track_name": "Cornelia Street - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Cornelia Street (Live From Paris)",
+            "track_duration": 296013,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-05-04T02:26:50Z",
+            "uri": "spotify:track:3fGnrtrtL1IHSX9t4DKOYf"
         }
     ]
 }
