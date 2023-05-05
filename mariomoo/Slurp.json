@@ -1,0 +1,25 @@
+{
+    "id": "1bpyAVdL24qLvJQFXVtkck",
+    "tracks": [
+        {
+            "track_id": "70rZ4P4F32a0AXzSY93e0l",
+            "track_name": "Green Leaves",
+            "track_artist": "Kupla",
+            "track_album": "Green Leaves",
+            "track_duration": 119525,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-05T19:48:06Z",
+            "uri": "spotify:track:70rZ4P4F32a0AXzSY93e0l"
+        },
+        {
+            "track_id": "6pR0LSU0EAwvfEa9ocQ1aV",
+            "track_name": "Pueblo",
+            "track_artist": "Hugo",
+            "track_album": "Pueblo",
+            "track_duration": 103220,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-05T19:49:42Z",
+            "uri": "spotify:track:6pR0LSU0EAwvfEa9ocQ1aV"
+        }
+    ]
+}
