@@ -40,6 +40,26 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-05-06T14:51:58Z",
             "uri": "spotify:track:2blNIRZz1KKV4fAC5OgI1o"
+        },
+        {
+            "track_id": "2quj0lAmQxytVLVR1LYQYV",
+            "track_name": "TECHNOVA",
+            "track_artist": "TOWA TEI",
+            "track_album": "FUTURE LISTENING!",
+            "track_duration": 341973,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-06T15:02:54Z",
+            "uri": "spotify:track:2quj0lAmQxytVLVR1LYQYV"
+        },
+        {
+            "track_id": "3ZIE8flTJ6WWn8wF0YzaaQ",
+            "track_name": "Pl\u00e1stico",
+            "track_artist": "Willie Col\u00f3n",
+            "track_album": "Siembra",
+            "track_duration": 401880,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-06T15:45:00Z",
+            "uri": "spotify:track:3ZIE8flTJ6WWn8wF0YzaaQ"
         }
     ]
 }
