@@ -60,6 +60,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-05-06T15:45:00Z",
             "uri": "spotify:track:3ZIE8flTJ6WWn8wF0YzaaQ"
+        },
+        {
+            "track_id": "5aPVQqYEEZKREbFRxLiAp5",
+            "track_name": "Free",
+            "track_artist": "Deniece Williams",
+            "track_album": "Love Songs",
+            "track_duration": 356560,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-06T16:02:10Z",
+            "uri": "spotify:track:5aPVQqYEEZKREbFRxLiAp5"
         }
     ]
 }
