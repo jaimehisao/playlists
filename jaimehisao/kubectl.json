@@ -970,6 +970,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-05-09T23:27:47Z",
             "uri": "spotify:track:4nK5YrxbMGZstTLbvj6Gxw"
+        },
+        {
+            "track_id": "5dPz35akJjPqb17yeqNwqH",
+            "track_name": "Ghost",
+            "track_artist": "Justin Bieber",
+            "track_album": "Justice",
+            "track_duration": 153190,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-10T00:15:55Z",
+            "uri": "spotify:track:5dPz35akJjPqb17yeqNwqH"
+        },
+        {
+            "track_id": "6LsAAHotRLMOHfCsSfYCsz",
+            "track_name": "If I Can't Have You",
+            "track_artist": "Shawn Mendes",
+            "track_album": "If I Can't Have You",
+            "track_duration": 190800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-10T00:30:54Z",
+            "uri": "spotify:track:6LsAAHotRLMOHfCsSfYCsz"
         }
     ]
 }
