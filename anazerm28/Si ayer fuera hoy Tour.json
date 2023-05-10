@@ -150,6 +150,136 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-03-18T17:30:36Z",
             "uri": "spotify:track:1pDgS6HDNrrIawdhYEvI0s"
+        },
+        {
+            "track_id": "6vJSBlhgcGFTnHn3UsHgpt",
+            "track_name": "Acu\u00e9rdate De M\u00ed",
+            "track_artist": "Morat",
+            "track_album": "Balas Perdidas",
+            "track_duration": 221063,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:10Z",
+            "uri": "spotify:track:6vJSBlhgcGFTnHn3UsHgpt"
+        },
+        {
+            "track_id": "4khWEpnaijN0G1x019Uzdr",
+            "track_name": "No Se Va",
+            "track_artist": "Morat",
+            "track_album": "Balas Perdidas",
+            "track_duration": 216752,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:16Z",
+            "uri": "spotify:track:4khWEpnaijN0G1x019Uzdr"
+        },
+        {
+            "track_id": "1LrAiGrz1IVPZu7tQ8Xj59",
+            "track_name": "Nunca Te Olvid\u00e9",
+            "track_artist": "Morat",
+            "track_album": "\u00bfA D\u00f3nde Vamos?",
+            "track_duration": 212146,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:20Z",
+            "uri": "spotify:track:1LrAiGrz1IVPZu7tQ8Xj59"
+        },
+        {
+            "track_id": "5H7E0UH2F8drwjoz9ufPQm",
+            "track_name": "Mi Nuevo Vicio",
+            "track_artist": "Morat",
+            "track_album": "Sobre El Amor Y Sus Efectos Secundarios",
+            "track_duration": 237360,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:23Z",
+            "uri": "spotify:track:5H7E0UH2F8drwjoz9ufPQm"
+        },
+        {
+            "track_id": "2kVtMvrlcK5SRxZvdHgTzn",
+            "track_name": "Mi Suerte",
+            "track_artist": "Morat",
+            "track_album": "Balas Perdidas (Edici\u00f3n Especial)",
+            "track_duration": 213271,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:31Z",
+            "uri": "spotify:track:2kVtMvrlcK5SRxZvdHgTzn"
+        },
+        {
+            "track_id": "105pLwtYErO64sPyXsPPAP",
+            "track_name": "Amor Con Hielo",
+            "track_artist": "Morat",
+            "track_album": "Sobre El Amor Y Sus Efectos Secundarios",
+            "track_duration": 203960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:32Z",
+            "uri": "spotify:track:105pLwtYErO64sPyXsPPAP"
+        },
+        {
+            "track_id": "5Yh0xm8WeoxgPneHEJSgXl",
+            "track_name": "Par\u00eds",
+            "track_artist": "Morat",
+            "track_album": "SI AYER FUERA HOY",
+            "track_duration": 182187,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:34Z",
+            "uri": "spotify:track:5Yh0xm8WeoxgPneHEJSgXl"
+        },
+        {
+            "track_id": "0lihJzr6y9ntlWPcExsHk9",
+            "track_name": "De Cero",
+            "track_artist": "Morat",
+            "track_album": "\u00bfA D\u00f3nde Vamos?",
+            "track_duration": 187373,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:45Z",
+            "uri": "spotify:track:0lihJzr6y9ntlWPcExsHk9"
+        },
+        {
+            "track_id": "03I0v50PLHMxgP5CjzCwt3",
+            "track_name": "23",
+            "track_artist": "Morat",
+            "track_album": "23",
+            "track_duration": 187605,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:48Z",
+            "uri": "spotify:track:03I0v50PLHMxgP5CjzCwt3"
+        },
+        {
+            "track_id": "3SvbcJH2seu1zs0PMjPS6F",
+            "track_name": "Otras Se Pierden",
+            "track_artist": "Morat",
+            "track_album": "Balas Perdidas",
+            "track_duration": 234656,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:51Z",
+            "uri": "spotify:track:3SvbcJH2seu1zs0PMjPS6F"
+        },
+        {
+            "track_id": "0z5ORPHUxBvTb6ff1Ivi3m",
+            "track_name": "Causa Perdida",
+            "track_artist": "Morat",
+            "track_album": "Balas Perdidas (Edici\u00f3n Especial)",
+            "track_duration": 220887,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:53Z",
+            "uri": "spotify:track:0z5ORPHUxBvTb6ff1Ivi3m"
+        },
+        {
+            "track_id": "2V4hc5gplg7EXlrRUvD4rp",
+            "track_name": "Presiento",
+            "track_artist": "Morat",
+            "track_album": "Balas Perdidas (Edici\u00f3n Especial)",
+            "track_duration": 174379,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:00:58Z",
+            "uri": "spotify:track:2V4hc5gplg7EXlrRUvD4rp"
+        },
+        {
+            "track_id": "1pHZf30WYm6CQukt7TvNPM",
+            "track_name": "Segundos Platos",
+            "track_artist": "Morat",
+            "track_album": "SI AYER FUERA HOY",
+            "track_duration": 184666,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T17:01:01Z",
+            "uri": "spotify:track:1pHZf30WYm6CQukt7TvNPM"
         }
     ]
 }
