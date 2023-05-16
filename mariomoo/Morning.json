@@ -1,0 +1,65 @@
+{
+    "id": "4jb6Jdy1wgmxdc3anh0dxp",
+    "tracks": [
+        {
+            "track_id": "1McBKZGpnWwXtWHTm70U4t",
+            "track_name": "Split Decision",
+            "track_artist": "Brock Berrigan",
+            "track_album": "Point Pleasant",
+            "track_duration": 162000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-16T16:12:04Z",
+            "uri": "spotify:track:1McBKZGpnWwXtWHTm70U4t"
+        },
+        {
+            "track_id": "6omiGrMcVR8aTLwkbtisTf",
+            "track_name": "In All the Wrong Places",
+            "track_artist": "Kero One",
+            "track_album": "Windmills of the Soul",
+            "track_duration": 467151,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-16T16:12:14Z",
+            "uri": "spotify:track:6omiGrMcVR8aTLwkbtisTf"
+        },
+        {
+            "track_id": "0IjCJNyvBcbC2XV2mwehuO",
+            "track_name": "Learn to Fly",
+            "track_artist": "FKJ",
+            "track_album": "Take Off",
+            "track_duration": 268170,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-16T16:20:09Z",
+            "uri": "spotify:track:0IjCJNyvBcbC2XV2mwehuO"
+        },
+        {
+            "track_id": "5eNVkeohKnUzVrSpdquIqX",
+            "track_name": "Dreamin'",
+            "track_artist": "The 49ers",
+            "track_album": "Musaic",
+            "track_duration": 149020,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-16T16:23:20Z",
+            "uri": "spotify:track:5eNVkeohKnUzVrSpdquIqX"
+        },
+        {
+            "track_id": "0mP794DC011KhYyhqwy8rQ",
+            "track_name": "Distant Graphite",
+            "track_artist": "Blazo",
+            "track_album": "Colors of Jazz",
+            "track_duration": 131306,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-16T16:44:16Z",
+            "uri": "spotify:track:0mP794DC011KhYyhqwy8rQ"
+        },
+        {
+            "track_id": "1FU9OPRckNuqv0CVxXCjkm",
+            "track_name": "In the Zone",
+            "track_artist": "The 49ers",
+            "track_album": "Musaic",
+            "track_duration": 229150,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-05-16T16:51:23Z",
+            "uri": "spotify:track:1FU9OPRckNuqv0CVxXCjkm"
+        }
+    ]
+}
