@@ -240,6 +240,16 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-05-21T19:10:34Z",
             "uri": "spotify:track:5C2mUkFTs51bizl4LAaqRy"
+        },
+        {
+            "track_id": "6Au9UDzjeGFen7qMEDKju7",
+            "track_name": "Shut Off The Lights",
+            "track_artist": "Bastille",
+            "track_album": "Shut Off The Lights",
+            "track_duration": 187363,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-22T18:02:49Z",
+            "uri": "spotify:track:6Au9UDzjeGFen7qMEDKju7"
         }
     ]
 }
