@@ -1010,6 +1010,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-05-17T20:22:22Z",
             "uri": "spotify:track:62tGzw9OJOwDcjPBnMPCuj"
+        },
+        {
+            "track_id": "3mC64Smtz0xXvsa52ZM3Q9",
+            "track_name": "Stars",
+            "track_artist": "PNAU",
+            "track_album": "Stars",
+            "track_duration": 171233,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-25T18:06:01Z",
+            "uri": "spotify:track:3mC64Smtz0xXvsa52ZM3Q9"
         }
     ]
 }
