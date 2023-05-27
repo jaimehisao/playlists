@@ -1020,6 +1020,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-05-25T18:06:01Z",
             "uri": "spotify:track:3mC64Smtz0xXvsa52ZM3Q9"
+        },
+        {
+            "track_id": "1otG6j1WHNvl9WgXLWkHTo",
+            "track_name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+            "track_artist": "Kali Uchis",
+            "track_album": "Isolation",
+            "track_duration": 207454,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-27T01:39:17Z",
+            "uri": "spotify:track:1otG6j1WHNvl9WgXLWkHTo"
         }
     ]
 }
