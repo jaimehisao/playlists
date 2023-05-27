@@ -1030,6 +1030,36 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-05-27T01:39:17Z",
             "uri": "spotify:track:1otG6j1WHNvl9WgXLWkHTo"
+        },
+        {
+            "track_id": "4XWaUb7mKRcJR5RPp4IIDr",
+            "track_name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
+            "track_artist": "Troye Sivan",
+            "track_album": "Easy (with Kacey Musgraves feat. Mark Ronson)",
+            "track_duration": 213571,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-27T07:06:44Z",
+            "uri": "spotify:track:4XWaUb7mKRcJR5RPp4IIDr"
+        },
+        {
+            "track_id": "1diS6nkxMQc3wwC4G1j0bh",
+            "track_name": "We're Good",
+            "track_artist": "Dua Lipa",
+            "track_album": "Future Nostalgia (The Moonlight Edition)",
+            "track_duration": 165506,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-27T07:06:52Z",
+            "uri": "spotify:track:1diS6nkxMQc3wwC4G1j0bh"
+        },
+        {
+            "track_id": "26ZCR1Zd74fvBJvH1o1rbx",
+            "track_name": "Daydream",
+            "track_artist": "The Aces",
+            "track_album": "Under My Influence",
+            "track_duration": 150792,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-27T07:07:00Z",
+            "uri": "spotify:track:26ZCR1Zd74fvBJvH1o1rbx"
         }
     ]
 }
