@@ -1060,6 +1060,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-05-27T07:07:00Z",
             "uri": "spotify:track:26ZCR1Zd74fvBJvH1o1rbx"
+        },
+        {
+            "track_id": "12tUCBq7V9qCF8qGOLpcnu",
+            "track_name": "Love Somebody",
+            "track_artist": "Maroon 5",
+            "track_album": "Overexposed (Deluxe)",
+            "track_duration": 229826,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-28T07:35:07Z",
+            "uri": "spotify:track:12tUCBq7V9qCF8qGOLpcnu"
+        },
+        {
+            "track_id": "7gUpO6td4OOnu0Lf9vhcIV",
+            "track_name": "Lights - Single Version",
+            "track_artist": "Ellie Goulding",
+            "track_album": "Lights",
+            "track_duration": 211800,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-05-28T07:40:13Z",
+            "uri": "spotify:track:7gUpO6td4OOnu0Lf9vhcIV"
         }
     ]
 }
