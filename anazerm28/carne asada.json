@@ -1,0 +1,325 @@
+{
+    "id": "4NJZRDKoAK5UQwEAdI2X6D",
+    "tracks": [
+        {
+            "track_id": "2hgzokI1dOZAxs5PUG0gBT",
+            "track_name": "Tengo Tu Love",
+            "track_artist": "Sie7e",
+            "track_album": "Mucha Cosa Buena",
+            "track_duration": 231573,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:2hgzokI1dOZAxs5PUG0gBT"
+        },
+        {
+            "track_id": "4waqcUQWdj0yH26STWl2Rq",
+            "track_name": "Rosas",
+            "track_artist": "La Oreja de Van Gogh",
+            "track_album": "Lo Que Te Conte Mientras Te Hacias La Dormida",
+            "track_duration": 236506,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:4waqcUQWdj0yH26STWl2Rq"
+        },
+        {
+            "track_id": "5EV6nZv4dgNblda2zDxd1m",
+            "track_name": "Pa' Mover el Esqueleto (feat. Jay De la Cueva) - En Vivo Entre Amigos",
+            "track_artist": "Sasha, Benny y Erik",
+            "track_album": "Entre Amigos (En Vivo Entre Amigos)",
+            "track_duration": 505893,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:5EV6nZv4dgNblda2zDxd1m"
+        },
+        {
+            "track_id": "7tQ24skemknA6PPh6gwFi1",
+            "track_name": "Mejores Amigos",
+            "track_artist": "Yera",
+            "track_album": "Mejores Amigos",
+            "track_duration": 205369,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:7tQ24skemknA6PPh6gwFi1"
+        },
+        {
+            "track_id": "2Ga1FnYssxRlMukIDI0f0y",
+            "track_name": "Ojos Marrones",
+            "track_artist": "Lasso",
+            "track_album": "Eva",
+            "track_duration": 198106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:2Ga1FnYssxRlMukIDI0f0y"
+        },
+        {
+            "track_id": "4ZplewvZRLFcfBa5uyBbhd",
+            "track_name": "Belleza De Cantina",
+            "track_artist": "Cardenales De Nuevo Le\u00f3n",
+            "track_album": "Por Las Damas",
+            "track_duration": 183946,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:4ZplewvZRLFcfBa5uyBbhd"
+        },
+        {
+            "track_id": "33XISWpHJRbAvFSMW1y44A",
+            "track_name": "Me Sobrabas T\u00fa",
+            "track_artist": "Banda Los Recoditos",
+            "track_album": "Sue\u00f1o XXX",
+            "track_duration": 181986,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:33XISWpHJRbAvFSMW1y44A"
+        },
+        {
+            "track_id": "4prmUBle7TtAeeUgCnsc3Z",
+            "track_name": "Probablemente",
+            "track_artist": "Christian Nodal",
+            "track_album": "Me Dej\u00e9 Llevar",
+            "track_duration": 233546,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:4prmUBle7TtAeeUgCnsc3Z"
+        },
+        {
+            "track_id": "3lR4O0vtkhCAvVEUEWUL0S",
+            "track_name": "Pa' Olvidarme De Ella",
+            "track_artist": "Piso 21",
+            "track_album": "El Amor En Los Tiempos Del Perreo",
+            "track_duration": 227233,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:3lR4O0vtkhCAvVEUEWUL0S"
+        },
+        {
+            "track_id": "3VK8copXwqvAueMPhnBe6K",
+            "track_name": "Siempre Te Voy A Querer",
+            "track_artist": "Calibre 50",
+            "track_album": "Desde El Rancho",
+            "track_duration": 234360,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:3VK8copXwqvAueMPhnBe6K"
+        },
+        {
+            "track_id": "4fYNJdS986IYQWxVoZjY3A",
+            "track_name": "Borracho de Amor",
+            "track_artist": "Edwin Luna y La Trakalosa de Monterrey",
+            "track_album": "De Monterrey a Sinaloa",
+            "track_duration": 204200,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:4fYNJdS986IYQWxVoZjY3A"
+        },
+        {
+            "track_id": "1t0P9nBKpnrh5MntGd3qw6",
+            "track_name": "El Chivo (feat. T3r Elemento)",
+            "track_artist": "Berner",
+            "track_album": "El Chivo",
+            "track_duration": 275400,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:1t0P9nBKpnrh5MntGd3qw6"
+        },
+        {
+            "track_id": "58J23cD4zeeidroDepVhX7",
+            "track_name": "Ayer y Hoy",
+            "track_artist": "Julio Jaramillo",
+            "track_album": "15 \u00c9xitos de Siempre Vol. 5",
+            "track_duration": 141800,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:58J23cD4zeeidroDepVhX7"
+        },
+        {
+            "track_id": "7dbOcZwBpDCUqR7sIz3djU",
+            "track_name": "El Mech\u00f3n",
+            "track_artist": "Banda MS de Sergio Liz\u00e1rraga",
+            "track_album": "Escuela De Rancho",
+            "track_duration": 139186,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:7dbOcZwBpDCUqR7sIz3djU"
+        },
+        {
+            "track_id": "6btlotyCLtZUlZogXYSLCy",
+            "track_name": "La Quebradora",
+            "track_artist": "Banda El Recodo",
+            "track_album": "De Mexico para el Mundo",
+            "track_duration": 187022,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:6btlotyCLtZUlZogXYSLCy"
+        },
+        {
+            "track_id": "7j9iuJvGg8Ve2O20CO8Oho",
+            "track_name": "Due\u00f1o de Ti",
+            "track_artist": "Sergio Vega \"El Shaka\"",
+            "track_album": "Me Gusta Estar Contigo",
+            "track_duration": 220586,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:7j9iuJvGg8Ve2O20CO8Oho"
+        },
+        {
+            "track_id": "5k4oS18NesIeSpnZEDnh6p",
+            "track_name": "Yo...El Aventurero",
+            "track_artist": "Pedro Fern\u00e1ndez",
+            "track_album": "La M\u00e1s Completa Colecci\u00f3n",
+            "track_duration": 179266,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:5k4oS18NesIeSpnZEDnh6p"
+        },
+        {
+            "track_id": "3VHtIuKm8MvOTo81Usu2f5",
+            "track_name": "A Lo Lejos Me Veran",
+            "track_artist": "El de La Guitarra",
+            "track_album": "Lo Prometido Es Deuda Vol.1",
+            "track_duration": 148561,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:3VHtIuKm8MvOTo81Usu2f5"
+        },
+        {
+            "track_id": "6TrR94UaLsxnCMbdUXIVwI",
+            "track_name": "Todav\u00eda",
+            "track_artist": "DJ Pablito",
+            "track_album": "Dj Pablito Presenta- La Factor\u00eda",
+            "track_duration": 203360,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:6TrR94UaLsxnCMbdUXIVwI"
+        },
+        {
+            "track_id": "1Wrzhfa5bNlqvsnCztz190",
+            "track_name": "Devu\u00e9lveme a mi chica",
+            "track_artist": "Hombres G",
+            "track_album": "Hombres G (Edici\u00f3n 30 Aniversario)",
+            "track_duration": 194866,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:1Wrzhfa5bNlqvsnCztz190"
+        },
+        {
+            "track_id": "2VBGG7IiTHvfE3JfYlUyQk",
+            "track_name": "Mundo De Caramelo",
+            "track_artist": "Danna Paola",
+            "track_album": "Atrevete A So\u00f1ar",
+            "track_duration": 230440,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:2VBGG7IiTHvfE3JfYlUyQk"
+        },
+        {
+            "track_id": "28Ct4qwkQXY2W5yyNCLuVI",
+            "track_name": "Coleccionista de Canciones",
+            "track_artist": "Camila",
+            "track_album": "Todo Cambio",
+            "track_duration": 306986,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:28Ct4qwkQXY2W5yyNCLuVI"
+        },
+        {
+            "track_id": "2DNyZP4Py6f4zMASLBnIu6",
+            "track_name": "La Playa",
+            "track_artist": "La Oreja de Van Gogh",
+            "track_album": "El Viaje de Copperpot",
+            "track_duration": 247693,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:2DNyZP4Py6f4zMASLBnIu6"
+        },
+        {
+            "track_id": "1SVm64B4Ry7dqFSxHY8e65",
+            "track_name": "La Calle De Las Sirenas",
+            "track_artist": "Kabah",
+            "track_album": "La Calle De Las Sirenas",
+            "track_duration": 236160,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:1SVm64B4Ry7dqFSxHY8e65"
+        },
+        {
+            "track_id": "7HW5tUjaKxBUamSi7nnzPt",
+            "track_name": "Eso Y M\u00e1s",
+            "track_artist": "Joan Sebastian",
+            "track_album": "M\u00e1s All\u00e1 Del Sol",
+            "track_duration": 159172,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:7HW5tUjaKxBUamSi7nnzPt"
+        },
+        {
+            "track_id": "51R40lGpjmBctPsOnu0mBe",
+            "track_name": "No Me Digas Que No ( Boy Like You )",
+            "track_artist": "Nikki Clan",
+            "track_album": "Nikki Clan (Re-Edicion)",
+            "track_duration": 176946,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:51R40lGpjmBctPsOnu0mBe"
+        },
+        {
+            "track_id": "2vCHDrXVN0k1GPTjSIZ69E",
+            "track_name": "Noviembre Sin Ti",
+            "track_artist": "Reik",
+            "track_album": "Reik",
+            "track_duration": 203226,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:2vCHDrXVN0k1GPTjSIZ69E"
+        },
+        {
+            "track_id": "6PRqxCVfcSaFzRl97xQm9q",
+            "track_name": "A Labio Dulce",
+            "track_artist": "Iskander",
+            "track_album": "Fresas Con Vodka",
+            "track_duration": 230626,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:6PRqxCVfcSaFzRl97xQm9q"
+        },
+        {
+            "track_id": "6TyYAymzYTixbqXFKNzd30",
+            "track_name": "Punto de Partida",
+            "track_artist": "Sasha, Benny y Erik",
+            "track_album": "Vuelta al Sol",
+            "track_duration": 219453,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:6TyYAymzYTixbqXFKNzd30"
+        },
+        {
+            "track_id": "7LSPHfVcaebR9Oo20ZyRDd",
+            "track_name": "Me Gusta Tu Vieja",
+            "track_artist": "Banda MS de Sergio Liz\u00e1rraga",
+            "track_album": "No Me Pidas Perd\u00f3n",
+            "track_duration": 187880,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:7LSPHfVcaebR9Oo20ZyRDd"
+        },
+        {
+            "track_id": "6YNTL320OEMAg4ORqGYt1v",
+            "track_name": "Como Lo Hice Yo",
+            "track_artist": "Matisse",
+            "track_album": "As\u00ed de Enamorados",
+            "track_duration": 177062,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:6YNTL320OEMAg4ORqGYt1v"
+        },
+        {
+            "track_id": "74WROFXsox6wkeUrEK2DS6",
+            "track_name": "Chale",
+            "track_artist": "Eden Mu\u00f1oz",
+            "track_album": "Chale",
+            "track_duration": 170744,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-30T18:40:36Z",
+            "uri": "spotify:track:74WROFXsox6wkeUrEK2DS6"
+        }
+    ]
+}
