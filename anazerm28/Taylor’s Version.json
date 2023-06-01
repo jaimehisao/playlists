@@ -2,6 +2,276 @@
     "id": "1JDyBMQMoxvlfo6askaWEk",
     "tracks": [
         {
+            "track_id": "43rA71bccXFGD4C8GOpIlN",
+            "track_name": "I Forgot That You Existed",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 170640,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:43rA71bccXFGD4C8GOpIlN"
+        },
+        {
+            "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "track_name": "Cruel Summer",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 178426,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+        },
+        {
+            "track_id": "1dGr1c8CrMLDpV6mPbImSI",
+            "track_name": "Lover",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 221306,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+        },
+        {
+            "track_id": "3RauEVgRgj1IuWdJ9fDs70",
+            "track_name": "The Man",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 190360,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:3RauEVgRgj1IuWdJ9fDs70"
+        },
+        {
+            "track_id": "3pHkh7d0lzM2AldUtz2x37",
+            "track_name": "The Archer",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 211240,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:3pHkh7d0lzM2AldUtz2x37"
+        },
+        {
+            "track_id": "2YWtcWi3a83pdEg3Gif4Pd",
+            "track_name": "I Think He Knows",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 173386,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd"
+        },
+        {
+            "track_id": "214nt20w5wOxJnY462klLw",
+            "track_name": "Miss Americana & The Heartbreak Prince",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 234146,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:214nt20w5wOxJnY462klLw"
+        },
+        {
+            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
+            "track_name": "Paper Rings",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 222400,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
+        },
+        {
+            "track_id": "12M5uqx0ZuwkpLp5rJim1a",
+            "track_name": "Cornelia Street",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 287266,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "1LLXZFeAHK9R4xUramtUKw",
+            "track_name": "London Boy",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 190240,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:1LLXZFeAHK9R4xUramtUKw"
+        },
+        {
+            "track_id": "4AYtqFyFbX0Xkc2wtcygTr",
+            "track_name": "Soon You\u2019ll Get Better (feat. The Chicks)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 201586,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:4AYtqFyFbX0Xkc2wtcygTr"
+        },
+        {
+            "track_id": "5hQSXkFgbxjZo9uCwd11so",
+            "track_name": "False God",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 200306,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:5hQSXkFgbxjZo9uCwd11so"
+        },
+        {
+            "track_id": "6RRNNciQGZEXnqk8SQ9yv5",
+            "track_name": "You Need To Calm Down",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 171360,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:6RRNNciQGZEXnqk8SQ9yv5"
+        },
+        {
+            "track_id": "1SymEzIT3H8UZfibCs3TYi",
+            "track_name": "Afterglow",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 223293,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:1SymEzIT3H8UZfibCs3TYi"
+        },
+        {
+            "track_id": "2Rk4JlNc2TPmZe2af99d45",
+            "track_name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 193000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
+        },
+        {
+            "track_id": "1SmiQ65iSAbPto6gPFlBYm",
+            "track_name": "It\u2019s Nice To Have A Friend",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 150440,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:1SmiQ65iSAbPto6gPFlBYm"
+        },
+        {
+            "track_id": "1fzAuUVbzlhZ1lJAx9PtY6",
+            "track_name": "Daylight",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 293453,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-11-12T06:11:55Z",
+            "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
+        },
+        {
+            "track_id": "4P9Q0GojKVXpRTJCaL3kyy",
+            "track_name": "All Of The Girls You Loved Before",
+            "track_artist": "Taylor Swift",
+            "track_album": "All Of The Girls You Loved Before",
+            "track_duration": 221407,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-03-17T04:45:38Z",
+            "uri": "spotify:track:4P9Q0GojKVXpRTJCaL3kyy"
+        },
+        {
+            "track_id": "3oF7Or7T35yhQbGxbCGvRX",
+            "track_name": "Death By A Thousand Cuts - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Death By A Thousand Cuts (Live From Paris)",
+            "track_duration": 199066,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:15Z",
+            "uri": "spotify:track:3oF7Or7T35yhQbGxbCGvRX"
+        },
+        {
+            "track_id": "3fGnrtrtL1IHSX9t4DKOYf",
+            "track_name": "Cornelia Street - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Cornelia Street (Live From Paris)",
+            "track_duration": 296013,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:16Z",
+            "uri": "spotify:track:3fGnrtrtL1IHSX9t4DKOYf"
+        },
+        {
+            "track_id": "7ryS0xBZNYjQqql34GCkDp",
+            "track_name": "Daylight - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Daylight (Live From Paris)",
+            "track_duration": 262320,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:17Z",
+            "uri": "spotify:track:7ryS0xBZNYjQqql34GCkDp"
+        },
+        {
+            "track_id": "5fOV54t6mMYv3H9CsnvU81",
+            "track_name": "ME! - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "ME! (Live From Paris)",
+            "track_duration": 213026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-06-01T16:04:37Z",
+            "uri": "spotify:track:5fOV54t6mMYv3H9CsnvU81"
+        },
+        {
+            "track_id": "2fgiBCtbWo8pijF6M7pN1i",
+            "track_name": "The Archer - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "The Archer (Live From Paris)",
+            "track_duration": 210960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-06-01T16:04:37Z",
+            "uri": "spotify:track:2fgiBCtbWo8pijF6M7pN1i"
+        },
+        {
+            "track_id": "7FKbTRXXIWVFQmPH8zGfU0",
+            "track_name": "The Man - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "The Man (Live From Paris)",
+            "track_duration": 219385,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-06-01T16:04:37Z",
+            "uri": "spotify:track:7FKbTRXXIWVFQmPH8zGfU0"
+        },
+        {
+            "track_id": "36a08nLG1xazGaaVKK0vv7",
+            "track_name": "You Need To Calm Down - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "You Need To Calm Down (Live From Paris)",
+            "track_duration": 203960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-06-01T16:04:37Z",
+            "uri": "spotify:track:36a08nLG1xazGaaVKK0vv7"
+        },
+        {
+            "track_id": "4lD3RXyvHpJsM3BhIEC4aA",
+            "track_name": "Lover - Live From Paris",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover (Live From Paris)",
+            "track_duration": 229733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-06-01T16:04:37Z",
+            "uri": "spotify:track:4lD3RXyvHpJsM3BhIEC4aA"
+        },
+        {
             "track_id": "0Jlcvv8IykzHaSmj49uNW8",
             "track_name": "the 1",
             "track_artist": "Taylor Swift",
@@ -162,6 +432,186 @@
             "uri": "spotify:track:6MWoRt97mnSTXZhu3ggi9C"
         },
         {
+            "track_id": "4MGexoZc12lqE0hYkq9YYx",
+            "track_name": "august - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 260000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:01Z",
+            "uri": "spotify:track:4MGexoZc12lqE0hYkq9YYx"
+        },
+        {
+            "track_id": "2yceD2hx5HhOLgkm1CITCi",
+            "track_name": "mirrorball - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 237373,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:21Z",
+            "uri": "spotify:track:2yceD2hx5HhOLgkm1CITCi"
+        },
+        {
+            "track_id": "08J4bMHbILkwSIhbtrcvjN",
+            "track_name": "the 1 - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 219893,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:08J4bMHbILkwSIhbtrcvjN"
+        },
+        {
+            "track_id": "3EPgWM1zfTSzEc0z4AwWTM",
+            "track_name": "cardigan - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 230680,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:3EPgWM1zfTSzEc0z4AwWTM"
+        },
+        {
+            "track_id": "28tIMaewZuGR8urkvFhQyA",
+            "track_name": "the last great american dynasty - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 232346,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:28tIMaewZuGR8urkvFhQyA"
+        },
+        {
+            "track_id": "7N015NTIWGjQDddHUdHPoO",
+            "track_name": "exile (feat. Bon Iver) - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 279893,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:7N015NTIWGjQDddHUdHPoO"
+        },
+        {
+            "track_id": "5mdNyCS7ttVcAyVYOIFEjs",
+            "track_name": "my tears ricochet - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 295173,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:5mdNyCS7ttVcAyVYOIFEjs"
+        },
+        {
+            "track_id": "4cOWq0cVsKjxaQpRMbDoH1",
+            "track_name": "seven - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 208986,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:4cOWq0cVsKjxaQpRMbDoH1"
+        },
+        {
+            "track_id": "1gaLZjPrDnHQWJds2Jg4KT",
+            "track_name": "this is me trying - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 209293,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:1gaLZjPrDnHQWJds2Jg4KT"
+        },
+        {
+            "track_id": "560uQyz3p5G9WdnMX39xc6",
+            "track_name": "illicit affairs - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 183720,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:560uQyz3p5G9WdnMX39xc6"
+        },
+        {
+            "track_id": "5KByGq0JijSSDcy0qzuINs",
+            "track_name": "invisible string - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 257359,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:5KByGq0JijSSDcy0qzuINs"
+        },
+        {
+            "track_id": "04xrhDrQ2WOW8GLwu7kbc0",
+            "track_name": "mad woman - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 238333,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:04xrhDrQ2WOW8GLwu7kbc0"
+        },
+        {
+            "track_id": "4yyKppX85ZkmlGOC2toBZA",
+            "track_name": "epiphany - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 274880,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:4yyKppX85ZkmlGOC2toBZA"
+        },
+        {
+            "track_id": "1mh5dObNoOvCfHmXnhvDEK",
+            "track_name": "betty - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 290040,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:1mh5dObNoOvCfHmXnhvDEK"
+        },
+        {
+            "track_id": "4YHHz3VIXgNDGdoL9xC1tx",
+            "track_name": "peace - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 214373,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:4YHHz3VIXgNDGdoL9xC1tx"
+        },
+        {
+            "track_id": "0QTBsdoJhamY3Aid3fOsOd",
+            "track_name": "hoax - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 221800,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:0QTBsdoJhamY3Aid3fOsOd"
+        },
+        {
+            "track_id": "6mqyTq948oap5AkyTsd6XF",
+            "track_name": "the lakes - the long pond studio sessions",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 199733,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-15T23:04:38Z",
+            "uri": "spotify:track:6mqyTq948oap5AkyTsd6XF"
+        },
+        {
+            "track_id": "0UAdDYrkCvVQftaKpL6q5f",
+            "track_name": "the lakes - original version",
+            "track_artist": "Taylor Swift",
+            "track_album": "the lakes (original version)",
+            "track_duration": 227203,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-02-01T11:18:31Z",
+            "uri": "spotify:track:0UAdDYrkCvVQftaKpL6q5f"
+        },
+        {
             "track_id": "0lx2cLdOt3piJbcaXIV74f",
             "track_name": "willow",
             "track_artist": "Taylor Swift",
@@ -310,6 +760,26 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2021-09-20T15:45:34Z",
             "uri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+        },
+        {
+            "track_id": "3zwMVvkBe2qIKDObWgXw4N",
+            "track_name": "right where you left me - bonus track",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore (deluxe version)",
+            "track_duration": 245026,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2021-12-16T13:39:48Z",
+            "uri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N"
+        },
+        {
+            "track_id": "1kdWw77ZpYOkhxeuhzU1j6",
+            "track_name": "it\u2019s time to go - bonus track",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore (deluxe version)",
+            "track_duration": 254640,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2022-11-12T22:04:12Z",
+            "uri": "spotify:track:1kdWw77ZpYOkhxeuhzU1j6"
         },
         {
             "track_id": "77sMIMlNaSURUAXq5coCxE",
@@ -882,184 +1352,24 @@
             "uri": "spotify:track:5enxwA8aAbwZbf5qCHORXi"
         },
         {
-            "track_id": "43rA71bccXFGD4C8GOpIlN",
-            "track_name": "I Forgot That You Existed",
+            "track_id": "2NIBaWXdjaTDmytjjwbEfP",
+            "track_name": "Eyes Open (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 170640,
+            "track_album": "Eyes Open (Taylor's Version)",
+            "track_duration": 243264,
             "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:43rA71bccXFGD4C8GOpIlN"
+            "track_added_at": "2023-03-17T04:45:46Z",
+            "uri": "spotify:track:2NIBaWXdjaTDmytjjwbEfP"
         },
         {
-            "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
-            "track_name": "Cruel Summer",
+            "track_id": "2RJnNdu4pb3MypbBroHU0T",
+            "track_name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor\u2019s Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 178426,
+            "track_album": "Safe & Sound (Taylor's Version)",
+            "track_duration": 239668,
             "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
-        },
-        {
-            "track_id": "1dGr1c8CrMLDpV6mPbImSI",
-            "track_name": "Lover",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 221306,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
-        },
-        {
-            "track_id": "3RauEVgRgj1IuWdJ9fDs70",
-            "track_name": "The Man",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 190360,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:3RauEVgRgj1IuWdJ9fDs70"
-        },
-        {
-            "track_id": "3pHkh7d0lzM2AldUtz2x37",
-            "track_name": "The Archer",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 211240,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:3pHkh7d0lzM2AldUtz2x37"
-        },
-        {
-            "track_id": "2YWtcWi3a83pdEg3Gif4Pd",
-            "track_name": "I Think He Knows",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 173386,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd"
-        },
-        {
-            "track_id": "214nt20w5wOxJnY462klLw",
-            "track_name": "Miss Americana & The Heartbreak Prince",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 234146,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:214nt20w5wOxJnY462klLw"
-        },
-        {
-            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
-            "track_name": "Paper Rings",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 222400,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
-        },
-        {
-            "track_id": "12M5uqx0ZuwkpLp5rJim1a",
-            "track_name": "Cornelia Street",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 287266,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
-        },
-        {
-            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
-            "track_name": "Death By A Thousand Cuts",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 198533,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
-        },
-        {
-            "track_id": "1LLXZFeAHK9R4xUramtUKw",
-            "track_name": "London Boy",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 190240,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:1LLXZFeAHK9R4xUramtUKw"
-        },
-        {
-            "track_id": "4AYtqFyFbX0Xkc2wtcygTr",
-            "track_name": "Soon You\u2019ll Get Better (feat. The Chicks)",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 201586,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:4AYtqFyFbX0Xkc2wtcygTr"
-        },
-        {
-            "track_id": "5hQSXkFgbxjZo9uCwd11so",
-            "track_name": "False God",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 200306,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:5hQSXkFgbxjZo9uCwd11so"
-        },
-        {
-            "track_id": "6RRNNciQGZEXnqk8SQ9yv5",
-            "track_name": "You Need To Calm Down",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 171360,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:6RRNNciQGZEXnqk8SQ9yv5"
-        },
-        {
-            "track_id": "1SymEzIT3H8UZfibCs3TYi",
-            "track_name": "Afterglow",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 223293,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:1SymEzIT3H8UZfibCs3TYi"
-        },
-        {
-            "track_id": "2Rk4JlNc2TPmZe2af99d45",
-            "track_name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 193000,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
-        },
-        {
-            "track_id": "1SmiQ65iSAbPto6gPFlBYm",
-            "track_name": "It\u2019s Nice To Have A Friend",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 150440,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:1SmiQ65iSAbPto6gPFlBYm"
-        },
-        {
-            "track_id": "1fzAuUVbzlhZ1lJAx9PtY6",
-            "track_name": "Daylight",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 293453,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-11-12T06:11:55Z",
-            "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
+            "track_added_at": "2023-03-17T04:45:51Z",
+            "uri": "spotify:track:2RJnNdu4pb3MypbBroHU0T"
         },
         {
             "track_id": "1n3b9Eekoy3S9ZSZ5DmTW1",
@@ -1070,26 +1380,6 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2021-11-18T03:36:19Z",
             "uri": "spotify:track:1n3b9Eekoy3S9ZSZ5DmTW1"
-        },
-        {
-            "track_id": "3zwMVvkBe2qIKDObWgXw4N",
-            "track_name": "right where you left me - bonus track",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore (deluxe version)",
-            "track_duration": 245026,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2021-12-16T13:39:48Z",
-            "uri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N"
-        },
-        {
-            "track_id": "0UAdDYrkCvVQftaKpL6q5f",
-            "track_name": "the lakes - original version",
-            "track_artist": "Taylor Swift",
-            "track_album": "the lakes (original version)",
-            "track_duration": 227203,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-02-01T11:18:31Z",
-            "uri": "spotify:track:0UAdDYrkCvVQftaKpL6q5f"
         },
         {
             "track_id": "4d1CG5ei1E2vGbvmgf5KKv",
@@ -1310,246 +1600,6 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2022-11-09T01:40:58Z",
             "uri": "spotify:track:0j0gJqxitjhmmkrW56dtQH"
-        },
-        {
-            "track_id": "1kdWw77ZpYOkhxeuhzU1j6",
-            "track_name": "it\u2019s time to go - bonus track",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore (deluxe version)",
-            "track_duration": 254640,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-11-12T22:04:12Z",
-            "uri": "spotify:track:1kdWw77ZpYOkhxeuhzU1j6"
-        },
-        {
-            "track_id": "3oF7Or7T35yhQbGxbCGvRX",
-            "track_name": "Death By A Thousand Cuts - Live From Paris",
-            "track_artist": "Taylor Swift",
-            "track_album": "Death By A Thousand Cuts (Live From Paris)",
-            "track_duration": 199066,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-11-12T22:04:15Z",
-            "uri": "spotify:track:3oF7Or7T35yhQbGxbCGvRX"
-        },
-        {
-            "track_id": "3fGnrtrtL1IHSX9t4DKOYf",
-            "track_name": "Cornelia Street - Live From Paris",
-            "track_artist": "Taylor Swift",
-            "track_album": "Cornelia Street (Live From Paris)",
-            "track_duration": 296013,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-11-12T22:04:16Z",
-            "uri": "spotify:track:3fGnrtrtL1IHSX9t4DKOYf"
-        },
-        {
-            "track_id": "7ryS0xBZNYjQqql34GCkDp",
-            "track_name": "Daylight - Live From Paris",
-            "track_artist": "Taylor Swift",
-            "track_album": "Daylight (Live From Paris)",
-            "track_duration": 262320,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-11-12T22:04:17Z",
-            "uri": "spotify:track:7ryS0xBZNYjQqql34GCkDp"
-        },
-        {
-            "track_id": "4P9Q0GojKVXpRTJCaL3kyy",
-            "track_name": "All Of The Girls You Loved Before",
-            "track_artist": "Taylor Swift",
-            "track_album": "All Of The Girls You Loved Before",
-            "track_duration": 221407,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-03-17T04:45:38Z",
-            "uri": "spotify:track:4P9Q0GojKVXpRTJCaL3kyy"
-        },
-        {
-            "track_id": "2NIBaWXdjaTDmytjjwbEfP",
-            "track_name": "Eyes Open (Taylor's Version)",
-            "track_artist": "Taylor Swift",
-            "track_album": "Eyes Open (Taylor's Version)",
-            "track_duration": 243264,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-03-17T04:45:46Z",
-            "uri": "spotify:track:2NIBaWXdjaTDmytjjwbEfP"
-        },
-        {
-            "track_id": "2RJnNdu4pb3MypbBroHU0T",
-            "track_name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor\u2019s Version)",
-            "track_artist": "Taylor Swift",
-            "track_album": "Safe & Sound (Taylor's Version)",
-            "track_duration": 239668,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-03-17T04:45:51Z",
-            "uri": "spotify:track:2RJnNdu4pb3MypbBroHU0T"
-        },
-        {
-            "track_id": "4MGexoZc12lqE0hYkq9YYx",
-            "track_name": "august - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 260000,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-11-12T22:04:01Z",
-            "uri": "spotify:track:4MGexoZc12lqE0hYkq9YYx"
-        },
-        {
-            "track_id": "2yceD2hx5HhOLgkm1CITCi",
-            "track_name": "mirrorball - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 237373,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2022-11-12T22:04:21Z",
-            "uri": "spotify:track:2yceD2hx5HhOLgkm1CITCi"
-        },
-        {
-            "track_id": "08J4bMHbILkwSIhbtrcvjN",
-            "track_name": "the 1 - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 219893,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:08J4bMHbILkwSIhbtrcvjN"
-        },
-        {
-            "track_id": "3EPgWM1zfTSzEc0z4AwWTM",
-            "track_name": "cardigan - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 230680,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:3EPgWM1zfTSzEc0z4AwWTM"
-        },
-        {
-            "track_id": "28tIMaewZuGR8urkvFhQyA",
-            "track_name": "the last great american dynasty - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 232346,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:28tIMaewZuGR8urkvFhQyA"
-        },
-        {
-            "track_id": "7N015NTIWGjQDddHUdHPoO",
-            "track_name": "exile (feat. Bon Iver) - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 279893,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:7N015NTIWGjQDddHUdHPoO"
-        },
-        {
-            "track_id": "5mdNyCS7ttVcAyVYOIFEjs",
-            "track_name": "my tears ricochet - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 295173,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:5mdNyCS7ttVcAyVYOIFEjs"
-        },
-        {
-            "track_id": "4cOWq0cVsKjxaQpRMbDoH1",
-            "track_name": "seven - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 208986,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:4cOWq0cVsKjxaQpRMbDoH1"
-        },
-        {
-            "track_id": "1gaLZjPrDnHQWJds2Jg4KT",
-            "track_name": "this is me trying - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 209293,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:1gaLZjPrDnHQWJds2Jg4KT"
-        },
-        {
-            "track_id": "560uQyz3p5G9WdnMX39xc6",
-            "track_name": "illicit affairs - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 183720,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:560uQyz3p5G9WdnMX39xc6"
-        },
-        {
-            "track_id": "5KByGq0JijSSDcy0qzuINs",
-            "track_name": "invisible string - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 257359,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:5KByGq0JijSSDcy0qzuINs"
-        },
-        {
-            "track_id": "04xrhDrQ2WOW8GLwu7kbc0",
-            "track_name": "mad woman - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 238333,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:04xrhDrQ2WOW8GLwu7kbc0"
-        },
-        {
-            "track_id": "4yyKppX85ZkmlGOC2toBZA",
-            "track_name": "epiphany - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 274880,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:4yyKppX85ZkmlGOC2toBZA"
-        },
-        {
-            "track_id": "1mh5dObNoOvCfHmXnhvDEK",
-            "track_name": "betty - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 290040,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:1mh5dObNoOvCfHmXnhvDEK"
-        },
-        {
-            "track_id": "4YHHz3VIXgNDGdoL9xC1tx",
-            "track_name": "peace - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 214373,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:4YHHz3VIXgNDGdoL9xC1tx"
-        },
-        {
-            "track_id": "0QTBsdoJhamY3Aid3fOsOd",
-            "track_name": "hoax - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 221800,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:0QTBsdoJhamY3Aid3fOsOd"
-        },
-        {
-            "track_id": "6mqyTq948oap5AkyTsd6XF",
-            "track_name": "the lakes - the long pond studio sessions",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-            "track_duration": 199733,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-15T23:04:38Z",
-            "uri": "spotify:track:6mqyTq948oap5AkyTsd6XF"
         },
         {
             "track_id": "3xYJScVfxByb61dYHTwiby",
