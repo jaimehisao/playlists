@@ -2190,6 +2190,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-06-01T18:16:17Z",
             "uri": "spotify:track:3URS9FbHLDKOAFRgKk9pwv"
+        },
+        {
+            "track_id": "575i9kr1iypkCZyfJuoAlZ",
+            "track_name": "BRING BACK THE COLOR (feat. AURORA)",
+            "track_artist": "San Holo",
+            "track_album": "BRING BACK THE COLOR (feat. AURORA)",
+            "track_duration": 168545,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-03T22:37:55Z",
+            "uri": "spotify:track:575i9kr1iypkCZyfJuoAlZ"
         }
     ]
 }
