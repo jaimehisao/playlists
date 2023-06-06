@@ -1,0 +1,1535 @@
+{
+    "id": "1fNUVxKEqWzbZF04X8OZIP",
+    "tracks": [
+        {
+            "track_id": "2GdXTZFNyKu4YaV5PJfRaJ",
+            "track_name": "Idilio - En Vivo",
+            "track_artist": "Rub\u00e9n Blades",
+            "track_album": "El Poliedro de Caracas Tembl\u00f3",
+            "track_duration": 394788,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-05T13:18:24Z",
+            "uri": "spotify:track:2GdXTZFNyKu4YaV5PJfRaJ"
+        },
+        {
+            "track_id": "45TDOa94nRwB9497gd0ojN",
+            "track_name": "Poema para Pablo Neruda - Live",
+            "track_artist": "Atahualpa Yupanqui",
+            "track_album": "Concierto Instrumental (Live)",
+            "track_duration": 183890,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T16:13:10Z",
+            "uri": "spotify:track:45TDOa94nRwB9497gd0ojN"
+        },
+        {
+            "track_id": "370ZjUxcQUL9CTLXWcpiyZ",
+            "track_name": "Y en eso llego Fidel",
+            "track_artist": "Pablo Neruda",
+            "track_album": "Semifinal",
+            "track_duration": 146240,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-17T20:36:33Z",
+            "uri": "spotify:track:370ZjUxcQUL9CTLXWcpiyZ"
+        },
+        {
+            "track_id": "4Z11A0QodtaSLTA0ME2oEP",
+            "track_name": "Imaginaci\u00f3n",
+            "track_artist": "D\u00fao Irma y Oswaldo",
+            "track_album": "Colecci\u00f3n de Oro del Criollismo, Vol. 3",
+            "track_duration": 180106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-24T20:27:33Z",
+            "uri": "spotify:track:4Z11A0QodtaSLTA0ME2oEP"
+        },
+        {
+            "track_id": "6wpFkzwc4nmUCuJmCV2tCp",
+            "track_name": "Madrigal",
+            "track_artist": "Tr\u00edo de Ponce",
+            "track_album": "15 \u00c9xitos, Vol. 2",
+            "track_duration": 218586,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-06-16T12:17:59Z",
+            "uri": "spotify:track:6wpFkzwc4nmUCuJmCV2tCp"
+        },
+        {
+            "track_id": "1ePEMCiWv4XZDakbUS04Yp",
+            "track_name": "Si me veis mirando lejos - Live",
+            "track_artist": "Atahualpa Yupanqui",
+            "track_album": "Concierto Instrumental (Live)",
+            "track_duration": 128092,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T04:41:46Z",
+            "uri": "spotify:track:1ePEMCiWv4XZDakbUS04Yp"
+        },
+        {
+            "track_id": "7a4YByBsW9NOj7BM9P64gq",
+            "track_name": "Cinco Centavitos",
+            "track_artist": "Julio Jaramillo",
+            "track_album": "Sus 50 Mejores Boleros, Valses, Canciones...",
+            "track_duration": 151719,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T21:18:24Z",
+            "uri": "spotify:track:7a4YByBsW9NOj7BM9P64gq"
+        },
+        {
+            "track_id": "4PWZHrzR0oSRULq6zcPjXF",
+            "track_name": "Bravo",
+            "track_artist": "Celia Cruz",
+            "track_album": "Bravo",
+            "track_duration": 156533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-17T20:22:19Z",
+            "uri": "spotify:track:4PWZHrzR0oSRULq6zcPjXF"
+        },
+        {
+            "track_id": "7KO3n68SPMyh9MFAQDWU9j",
+            "track_name": "El Vino Triste",
+            "track_artist": "Los Aut\u00e9nticos Decadentes",
+            "track_album": "El Vino Triste (feat. Ra\u00fal Lavi\u00e9)",
+            "track_duration": 173888,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T20:44:36Z",
+            "uri": "spotify:track:7KO3n68SPMyh9MFAQDWU9j"
+        },
+        {
+            "track_id": "5djSnju9dXjgBWcSiiF9Jn",
+            "track_name": "Cataclismo",
+            "track_artist": "Olimpo Cardenas",
+            "track_album": "16 Grandes Exitos",
+            "track_duration": 168385,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-24T21:20:53Z",
+            "uri": "spotify:track:5djSnju9dXjgBWcSiiF9Jn"
+        },
+        {
+            "track_id": "4hcS1eJzODgZyKnVJlmtj4",
+            "track_name": "Di Que No Es Verdad",
+            "track_artist": "Eydie Gorm\u00e9",
+            "track_album": "Canta En Espa\u00f1ol Con Los Panchos",
+            "track_duration": 170733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T20:42:33Z",
+            "uri": "spotify:track:4hcS1eJzODgZyKnVJlmtj4"
+        },
+        {
+            "track_id": "52aiCLllwTesdLdzaX7lEE",
+            "track_name": "No Trates de Mentir",
+            "track_artist": "Los Tres Reyes",
+            "track_album": "Los Tres Reyes",
+            "track_duration": 173373,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T21:17:28Z",
+            "uri": "spotify:track:52aiCLllwTesdLdzaX7lEE"
+        },
+        {
+            "track_id": "2R85ZXoflj01lCJPWyDQZC",
+            "track_name": "Luna Tucumana - Remastered 2003",
+            "track_artist": "Los Chalchaleros",
+            "track_album": "Recordando Zambas Con Los Chalchaleros",
+            "track_duration": 214493,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T20:54:43Z",
+            "uri": "spotify:track:2R85ZXoflj01lCJPWyDQZC"
+        },
+        {
+            "track_id": "3SutPPyD0uGNBjGuRlkcKq",
+            "track_name": "Luna Cautiva",
+            "track_artist": "Los Chalchaleros",
+            "track_album": "\u00c9xitos Sin Fronteras",
+            "track_duration": 230226,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T20:56:28Z",
+            "uri": "spotify:track:3SutPPyD0uGNBjGuRlkcKq"
+        },
+        {
+            "track_id": "6esEhdzABVyF2RqXJIyJOO",
+            "track_name": "Alma Llanera",
+            "track_artist": "Los Chalchaleros",
+            "track_album": "Serie Platino",
+            "track_duration": 158066,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T21:11:14Z",
+            "uri": "spotify:track:6esEhdzABVyF2RqXJIyJOO"
+        },
+        {
+            "track_id": "1j57d1cxwbLZhnHyBFUpJE",
+            "track_name": "Puerto De Santa Cruz",
+            "track_artist": "Horacio Guarany",
+            "track_album": "El Potro",
+            "track_duration": 138786,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T21:12:12Z",
+            "uri": "spotify:track:1j57d1cxwbLZhnHyBFUpJE"
+        },
+        {
+            "track_id": "3YNEIiZzLh5M6Cw6KueteE",
+            "track_name": "Te Me Olvidas",
+            "track_artist": "Los Tres Caballeros",
+            "track_album": "Los Tres Caballeros",
+            "track_duration": 172466,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-23T22:40:06Z",
+            "uri": "spotify:track:3YNEIiZzLh5M6Cw6KueteE"
+        },
+        {
+            "track_id": "3kI9rUMRD4F9JN19200zJ9",
+            "track_name": "Nuestro Juramento",
+            "track_artist": "Julio Jaramillo",
+            "track_album": "Cien Veces",
+            "track_duration": 188081,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-16T21:23:13Z",
+            "uri": "spotify:track:3kI9rUMRD4F9JN19200zJ9"
+        },
+        {
+            "track_id": "3sv91THSw8oIQsuug0jm31",
+            "track_name": "Esperare",
+            "track_artist": "Celia Cruz",
+            "track_album": "Viva Mexico",
+            "track_duration": 151373,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-17T20:19:49Z",
+            "uri": "spotify:track:3sv91THSw8oIQsuug0jm31"
+        },
+        {
+            "track_id": "00t8BP7RdsG7eprMzeWrXi",
+            "track_name": "Un Siglo de Ausencia",
+            "track_artist": "Los Tres Reyes",
+            "track_album": "100 Boleros a Mis Padres",
+            "track_duration": 172837,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-17T20:26:48Z",
+            "uri": "spotify:track:00t8BP7RdsG7eprMzeWrXi"
+        },
+        {
+            "track_id": "06tMSo6WYXwqrBZD8w2q1O",
+            "track_name": "Cositas del Pasado",
+            "track_artist": "Lucho Barrios",
+            "track_album": "Los Exitos de Lucho Barrios",
+            "track_duration": 173087,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-17T20:34:36Z",
+            "uri": "spotify:track:06tMSo6WYXwqrBZD8w2q1O"
+        },
+        {
+            "track_id": "6IEEa5BYxm1BGNPaAsnl0O",
+            "track_name": "Odiame Alma M\u00eda",
+            "track_artist": "Los Visconti",
+            "track_album": "16 Grandes \u00c9xitos",
+            "track_duration": 234840,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-17T20:42:45Z",
+            "uri": "spotify:track:6IEEa5BYxm1BGNPaAsnl0O"
+        },
+        {
+            "track_id": "3edYxz5UEbW7P7csOrJSsW",
+            "track_name": "Cinco Centavitos",
+            "track_artist": "Pedro Otiniano",
+            "track_album": "Selecciones de",
+            "track_duration": 157333,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-22T19:52:42Z",
+            "uri": "spotify:track:3edYxz5UEbW7P7csOrJSsW"
+        },
+        {
+            "track_id": "1NaLxDm29Sw7ecSYVt29Ii",
+            "track_name": "Isora Club (Danzon)",
+            "track_artist": "Enrique Chia",
+            "track_album": "Sones y Tradiciones (feat. Cachao)",
+            "track_duration": 251866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-12-23T22:39:31Z",
+            "uri": "spotify:track:1NaLxDm29Sw7ecSYVt29Ii"
+        },
+        {
+            "track_id": "08B2aVRIBL0Lm9Jck5BAVz",
+            "track_name": "Ofensa",
+            "track_artist": "Los Pamperos",
+            "track_album": "De Ayer de Hoy y de Siempre",
+            "track_duration": 152066,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-24T19:43:40Z",
+            "uri": "spotify:track:08B2aVRIBL0Lm9Jck5BAVz"
+        },
+        {
+            "track_id": "58ZMhQBcfUV5j4oVPIL5Kt",
+            "track_name": "Junto al Jag\u00fcey",
+            "track_artist": "Los Olimare\u00f1os",
+            "track_album": "\u00bfNo Lo Conoce a Juan?",
+            "track_duration": 228893,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-24T20:13:22Z",
+            "uri": "spotify:track:58ZMhQBcfUV5j4oVPIL5Kt"
+        },
+        {
+            "track_id": "4FrYvqaQT0UYhJQYuln2QG",
+            "track_name": "A Unos Ojos",
+            "track_artist": "Los Embajadores",
+            "track_album": "Mano a Mano Musical",
+            "track_duration": 190133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-24T20:22:54Z",
+            "uri": "spotify:track:4FrYvqaQT0UYhJQYuln2QG"
+        },
+        {
+            "track_id": "1niok1qp8NDCF8VNfeenKQ",
+            "track_name": "Canciones del Alma M\u00eda: Alma, Coraz\u00f3n y Vida, Merceditas! Odiame, Alma M\u00eda (Valses)",
+            "track_artist": "Trio Colonial (Ecuador)",
+            "track_album": "M\u00fasica de Ecuador: Canciones del Alma M\u00eda",
+            "track_duration": 413600,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-24T20:44:03Z",
+            "uri": "spotify:track:1niok1qp8NDCF8VNfeenKQ"
+        },
+        {
+            "track_id": "6SYxHjSEy1hCeLxIwBKyK3",
+            "track_name": "Nereidas",
+            "track_artist": "Acerina",
+            "track_album": "Perlas Cubanas: Acerina, Danzones Cl\u00e1sicos",
+            "track_duration": 183713,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-26T03:16:41Z",
+            "uri": "spotify:track:6SYxHjSEy1hCeLxIwBKyK3"
+        },
+        {
+            "track_id": "52b7R5G5LLaxCHC2MhAK1E",
+            "track_name": "Ju\u00e1rez No Debio Morir",
+            "track_artist": "Acerina",
+            "track_album": "Perlas Cubanas: Acerina, Danzones Cl\u00e1sicos",
+            "track_duration": 115856,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-26T03:18:54Z",
+            "uri": "spotify:track:52b7R5G5LLaxCHC2MhAK1E"
+        },
+        {
+            "track_id": "2mkhpwb9lD7l26HdvluhkK",
+            "track_name": "Dos gardenias (Piano version)",
+            "track_artist": "Pedro \"Periquin\" Castro",
+            "track_album": "Piano Bolero",
+            "track_duration": 195372,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-26T21:33:51Z",
+            "uri": "spotify:track:2mkhpwb9lD7l26HdvluhkK"
+        },
+        {
+            "track_id": "1r6Lnl1YF1g19xrAnXsZiC",
+            "track_name": "A Trav\u00e9s de los A\u00f1os",
+            "track_artist": "Ronald Valentino",
+            "track_album": "El Caballero del Piano, Vol. 2",
+            "track_duration": 173800,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-26T21:33:51Z",
+            "uri": "spotify:track:1r6Lnl1YF1g19xrAnXsZiC"
+        },
+        {
+            "track_id": "3ygHAK1w3qP4wp83KXUiiu",
+            "track_name": "Maria Elena",
+            "track_artist": "Los Indios Tabajaras",
+            "track_album": "Maria Elena",
+            "track_duration": 187866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-26T21:46:39Z",
+            "uri": "spotify:track:3ygHAK1w3qP4wp83KXUiiu"
+        },
+        {
+            "track_id": "0zekpihLakysLvh8vImO4Y",
+            "track_name": "P\u00e9rfida - Instrumental",
+            "track_artist": "Chamin Correa",
+            "track_album": "Boleros Instrumental",
+            "track_duration": 153400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-26T22:00:02Z",
+            "uri": "spotify:track:0zekpihLakysLvh8vImO4Y"
+        },
+        {
+            "track_id": "5JYtRix701f3ENVnIXuSza",
+            "track_name": "Sacrificio",
+            "track_artist": "Julio Jaramillo",
+            "track_album": "Cien Veces",
+            "track_duration": 185887,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-27T00:30:41Z",
+            "uri": "spotify:track:5JYtRix701f3ENVnIXuSza"
+        },
+        {
+            "track_id": "7HOb8G8Wa5n2bv56R2bsYQ",
+            "track_name": "Libertango",
+            "track_artist": "Astor Piazzolla",
+            "track_album": "LUCHA POR LA VIDA",
+            "track_duration": 241866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-27T00:38:49Z",
+            "uri": "spotify:track:7HOb8G8Wa5n2bv56R2bsYQ"
+        },
+        {
+            "track_id": "7xqxRNSEGMhdsVMmxLq36e",
+            "track_name": "Romance de barrio",
+            "track_artist": "Lidia Borda",
+            "track_album": "Manzi, caminos de barro y pampa",
+            "track_duration": 216465,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-27T00:57:29Z",
+            "uri": "spotify:track:7xqxRNSEGMhdsVMmxLq36e"
+        },
+        {
+            "track_id": "0ZhFBzgDmn0CmHtxOvkNQU",
+            "track_name": "Son para T\u00ed",
+            "track_artist": "Sierra Maestra",
+            "track_album": "Tibiri Tabara",
+            "track_duration": 318333,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T16:00:05Z",
+            "uri": "spotify:track:0ZhFBzgDmn0CmHtxOvkNQU"
+        },
+        {
+            "track_id": "2g1cMBdkkoNvKItpYl1ITN",
+            "track_name": "Dos Almas",
+            "track_artist": "Ricardito y el Monarca del Son",
+            "track_album": "Que Llueva",
+            "track_duration": 172266,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T16:05:21Z",
+            "uri": "spotify:track:2g1cMBdkkoNvKItpYl1ITN"
+        },
+        {
+            "track_id": "5CRZKIoHAypVUYadhr5TC2",
+            "track_name": "La Joya Del Pac\u00edfico",
+            "track_artist": "Lucho Barrios",
+            "track_album": "Antolog\u00eda 1960 - 1990 (Remastered)",
+            "track_duration": 181786,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T16:10:20Z",
+            "uri": "spotify:track:5CRZKIoHAypVUYadhr5TC2"
+        },
+        {
+            "track_id": "7AdqGds5g5v7Tt1IrG0ap7",
+            "track_name": "Quemame Los Ojos",
+            "track_artist": "Orquesta Huambaly",
+            "track_album": "20 Grandes Exitos",
+            "track_duration": 201866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T19:48:04Z",
+            "uri": "spotify:track:7AdqGds5g5v7Tt1IrG0ap7"
+        },
+        {
+            "track_id": "61qqzl9jyx2BRp7sGUHwrG",
+            "track_name": "La Nave del Olvido",
+            "track_artist": "Los Panchos",
+            "track_album": "Todo Panchos",
+            "track_duration": 165240,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T19:48:24Z",
+            "uri": "spotify:track:61qqzl9jyx2BRp7sGUHwrG"
+        },
+        {
+            "track_id": "78xUaq39InQ265xoYAkdEd",
+            "track_name": "Historia de un Amor",
+            "track_artist": "Los Panchos",
+            "track_album": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
+            "track_duration": 142640,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T19:51:20Z",
+            "uri": "spotify:track:78xUaq39InQ265xoYAkdEd"
+        },
+        {
+            "track_id": "3UaNW024JDTzmHYraCwn6r",
+            "track_name": "Sin Ti",
+            "track_artist": "Jos\u00e9 Gu\u00edzar",
+            "track_album": "Boleros para Enamorarse - Vol 2",
+            "track_duration": 145453,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T19:53:41Z",
+            "uri": "spotify:track:3UaNW024JDTzmHYraCwn6r"
+        },
+        {
+            "track_id": "0wwypdWtm38qaWQ3RXmme6",
+            "track_name": "Motivo y Raz\u00f3n",
+            "track_artist": "Los Astros",
+            "track_album": "15 \u00c9xitos del Tr\u00edo los Astros",
+            "track_duration": 182026,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-28T19:58:34Z",
+            "uri": "spotify:track:0wwypdWtm38qaWQ3RXmme6"
+        },
+        {
+            "track_id": "2joB3G4b527szRVC6L5VYL",
+            "track_name": "La cumparsita",
+            "track_artist": "Juan D'Arienzo",
+            "track_album": "Orquesta Juan D' Arienzo - La cumparsita",
+            "track_duration": 222640,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-31T16:06:48Z",
+            "uri": "spotify:track:2joB3G4b527szRVC6L5VYL"
+        },
+        {
+            "track_id": "1SOnLPIQnYySpYPEpYRDwp",
+            "track_name": "Amar y Vivir (with Maria Dolores Pradera)",
+            "track_artist": "Rafael Basurto",
+            "track_album": "La Ultima Voz de los Panchos",
+            "track_duration": 190186,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-31T21:49:10Z",
+            "uri": "spotify:track:1SOnLPIQnYySpYPEpYRDwp"
+        },
+        {
+            "track_id": "5DAW6iTrAsTpRqeHuGkCDc",
+            "track_name": "Estrellita del Sur",
+            "track_artist": "Los Morochucos",
+            "track_album": "Los Morochucos",
+            "track_duration": 175000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-31T21:52:30Z",
+            "uri": "spotify:track:5DAW6iTrAsTpRqeHuGkCDc"
+        },
+        {
+            "track_id": "1lQWRMxlvahpRLzrwSIXNH",
+            "track_name": "Tu Voz",
+            "track_artist": "Celia Cruz",
+            "track_album": "Boleros",
+            "track_duration": 190440,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-01-31T21:52:45Z",
+            "uri": "spotify:track:1lQWRMxlvahpRLzrwSIXNH"
+        },
+        {
+            "track_id": "5j4GglOzxwADwxeEwCrSq9",
+            "track_name": "Entonces Para Qu\u00e9",
+            "track_artist": "Nelson Pinedo",
+            "track_album": "Por Una Cara Bonita",
+            "track_duration": 189498,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-01T00:42:42Z",
+            "uri": "spotify:track:5j4GglOzxwADwxeEwCrSq9"
+        },
+        {
+            "track_id": "59fak68RqVVzQYAbH9VOym",
+            "track_name": "Piensa en Mi",
+            "track_artist": "To\u00f1a La Negra",
+            "track_album": "Inmortales de To\u00f1a la Negra",
+            "track_duration": 147733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-01T00:50:08Z",
+            "uri": "spotify:track:59fak68RqVVzQYAbH9VOym"
+        },
+        {
+            "track_id": "4c1RWfQ7IX8RqPOl95WtQu",
+            "track_name": "Sombras (Vals Peruano)",
+            "track_artist": "Los Tres Ases",
+            "track_album": "Recuerdos de Ipacarai",
+            "track_duration": 173688,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-01T01:01:14Z",
+            "uri": "spotify:track:4c1RWfQ7IX8RqPOl95WtQu"
+        },
+        {
+            "track_id": "3sGJyRRbqohCRk8hodHvm0",
+            "track_name": "Entrega total (Bolero)",
+            "track_artist": "Los Tres Ases",
+            "track_album": "Recuerdos de Ipacarai",
+            "track_duration": 152006,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-01T01:04:59Z",
+            "uri": "spotify:track:3sGJyRRbqohCRk8hodHvm0"
+        },
+        {
+            "track_id": "3Jifgl1CGNY25f7R0bvASv",
+            "track_name": "Azul",
+            "track_artist": "To\u00f1a La Negra",
+            "track_album": "Inmortales de To\u00f1a la Negra",
+            "track_duration": 199840,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-01T01:09:08Z",
+            "uri": "spotify:track:3Jifgl1CGNY25f7R0bvASv"
+        },
+        {
+            "track_id": "43v19JSrdCqwna683c7oLJ",
+            "track_name": "Cancion del Alma",
+            "track_artist": "To\u00f1a La Negra",
+            "track_album": "Inmortales de To\u00f1a la Negra",
+            "track_duration": 150760,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-01T01:13:10Z",
+            "uri": "spotify:track:43v19JSrdCqwna683c7oLJ"
+        },
+        {
+            "track_id": "3mIV4zCUkPPbqZyEUbGoSU",
+            "track_name": "Desvelo de Amor",
+            "track_artist": "To\u00f1a La Negra",
+            "track_album": "Inmortales de To\u00f1a la Negra",
+            "track_duration": 178840,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-01T01:14:58Z",
+            "uri": "spotify:track:3mIV4zCUkPPbqZyEUbGoSU"
+        },
+        {
+            "track_id": "5Rrnal88uTTgJyL0T8DGrn",
+            "track_name": "Somos Diferentes",
+            "track_artist": "La Internacional Sonora Maracaibo",
+            "track_album": "No Dejes de Quererme",
+            "track_duration": 148960,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-03T16:30:48Z",
+            "uri": "spotify:track:5Rrnal88uTTgJyL0T8DGrn"
+        },
+        {
+            "track_id": "46DawcIeV5FqCxZ3oFlLtj",
+            "track_name": "Contigo a la Distancia",
+            "track_artist": "Sonora Cubanissima",
+            "track_album": "El Encanto de Cuba",
+            "track_duration": 203000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-03T16:36:28Z",
+            "uri": "spotify:track:46DawcIeV5FqCxZ3oFlLtj"
+        },
+        {
+            "track_id": "0Vt36Jy0oEsinGV1NKEwcv",
+            "track_name": "Todo me gusta de ti",
+            "track_artist": "Alberto Beltran",
+            "track_album": "Los Originales",
+            "track_duration": 159800,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T17:34:41Z",
+            "uri": "spotify:track:0Vt36Jy0oEsinGV1NKEwcv"
+        },
+        {
+            "track_id": "4dhBInr1Eu4t6vPs10OU7v",
+            "track_name": "La Despedida",
+            "track_artist": "Los Panchos",
+            "track_album": "Cantando al Amor",
+            "track_duration": 195680,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T17:41:36Z",
+            "uri": "spotify:track:4dhBInr1Eu4t6vPs10OU7v"
+        },
+        {
+            "track_id": "3xmKbIZZM7GulJm4sAamng",
+            "track_name": "Obsesi\u00f3n - Versi\u00f3n Tr\u00edo",
+            "track_artist": "Javier Sol\u00eds",
+            "track_album": "Exitos Con Trio",
+            "track_duration": 176253,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T17:42:55Z",
+            "uri": "spotify:track:3xmKbIZZM7GulJm4sAamng"
+        },
+        {
+            "track_id": "4CsR6bNPBQl2RfwMVbCVjE",
+            "track_name": "La Hiedra - Remastered",
+            "track_artist": "Los Panchos",
+            "track_album": "B\u00e9same Mucho (Remastered)",
+            "track_duration": 170240,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T17:45:10Z",
+            "uri": "spotify:track:4CsR6bNPBQl2RfwMVbCVjE"
+        },
+        {
+            "track_id": "6OiXCH3oY3Ps0Dao1Hznhz",
+            "track_name": "Perdon - Bolero",
+            "track_artist": "Los Panchos",
+            "track_album": "25 Grandes \u00c9xitos",
+            "track_duration": 204786,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T17:54:43Z",
+            "uri": "spotify:track:6OiXCH3oY3Ps0Dao1Hznhz"
+        },
+        {
+            "track_id": "2zWt9MbmHilKOiEevUuOgU",
+            "track_name": "Es mejor vivir as\u00ed (feat. Martirio) - Live Olympia Par\u00eds; 2016 Remastered Version",
+            "track_artist": "Compay Segundo",
+            "track_album": "Live Olympia Par\u00eds 1998",
+            "track_duration": 208044,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T18:00:53Z",
+            "uri": "spotify:track:2zWt9MbmHilKOiEevUuOgU"
+        },
+        {
+            "track_id": "6tP7NYWzO6Ywak4XMPISXB",
+            "track_name": "Negrura",
+            "track_artist": "Rolando Laserie",
+            "track_album": "El Guapo De La Cancion",
+            "track_duration": 153866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T18:06:57Z",
+            "uri": "spotify:track:6tP7NYWzO6Ywak4XMPISXB"
+        },
+        {
+            "track_id": "6dKv1RguDp08PeLcghw7Sz",
+            "track_name": "Pien canela (me importas tu y tu y tu) - Digitally Remastered",
+            "track_artist": "Pedro Vargas",
+            "track_album": "Pedro Vargas, Vol. 1",
+            "track_duration": 79304,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-07T18:08:28Z",
+            "uri": "spotify:track:6dKv1RguDp08PeLcghw7Sz"
+        },
+        {
+            "track_id": "0hIZpsGeGuGNQAFgTeqoBs",
+            "track_name": "La Mentira (Se Te Olvida)",
+            "track_artist": "Los Tres Ases",
+            "track_album": "Grandes Exitos",
+            "track_duration": 169440,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-12T16:14:44Z",
+            "uri": "spotify:track:0hIZpsGeGuGNQAFgTeqoBs"
+        },
+        {
+            "track_id": "6SZj2Sujd74ask0X9TkCd0",
+            "track_name": "Cantinero de Cuba",
+            "track_artist": "Sonora Cubanissima",
+            "track_album": "El Encanto de Cuba",
+            "track_duration": 318000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-15T05:06:42Z",
+            "uri": "spotify:track:6SZj2Sujd74ask0X9TkCd0"
+        },
+        {
+            "track_id": "3dQnCTwbdF5WhlAEVH48bT",
+            "track_name": "Idilio - Radio Version",
+            "track_artist": "Laito y Su Sonora",
+            "track_album": "Sonaron Los Ca\u00f1onazos",
+            "track_duration": 212413,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-17T01:24:03Z",
+            "uri": "spotify:track:3dQnCTwbdF5WhlAEVH48bT"
+        },
+        {
+            "track_id": "4jM0v4ReOQh5RntXfiG3NN",
+            "track_name": "Moliendo caf\u00e9",
+            "track_artist": "Vieja Trova Santiaguera",
+            "track_album": "El Balcon Del Adios",
+            "track_duration": 295400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-17T03:53:40Z",
+            "uri": "spotify:track:4jM0v4ReOQh5RntXfiG3NN"
+        },
+        {
+            "track_id": "1iNgLC9bxYKO66hOLd5gKI",
+            "track_name": "Caminemos",
+            "track_artist": "Los Panchos",
+            "track_album": "15 Exitos Inmortales",
+            "track_duration": 171678,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-21T02:20:54Z",
+            "uri": "spotify:track:1iNgLC9bxYKO66hOLd5gKI"
+        },
+        {
+            "track_id": "6tbKhPN0LODEEJolBVTHi5",
+            "track_name": "L'Estaca",
+            "track_artist": "Motiv\u00e9s",
+            "track_album": "Motiv\u00e9s! - Chants de lutte",
+            "track_duration": 380133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-28T16:09:08Z",
+            "uri": "spotify:track:6tbKhPN0LODEEJolBVTHi5"
+        },
+        {
+            "track_id": "6msSEuYNxJSe4k1MNpLVeH",
+            "track_name": "Naela",
+            "track_artist": "La Internacional Sonora Maracaibo",
+            "track_album": "No Dejes de Quererme",
+            "track_duration": 169626,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-02-28T19:35:34Z",
+            "uri": "spotify:track:6msSEuYNxJSe4k1MNpLVeH"
+        },
+        {
+            "track_id": "7HgL9f483F93JhxurfSIZf",
+            "track_name": "Mucho coraz\u00f3n",
+            "track_artist": "Beny Mor\u00e9",
+            "track_album": "Cubano!",
+            "track_duration": 210733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-07T16:03:18Z",
+            "uri": "spotify:track:7HgL9f483F93JhxurfSIZf"
+        },
+        {
+            "track_id": "1wCseyHi5XdKD4K5upw0hP",
+            "track_name": "Alma Coraz\u00f3n y Vida",
+            "track_artist": "Los Panchos",
+            "track_album": "Trio los Panchos",
+            "track_duration": 192493,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-07T16:07:28Z",
+            "uri": "spotify:track:1wCseyHi5XdKD4K5upw0hP"
+        },
+        {
+            "track_id": "6zyuoGGD010ff2BPfyO6xZ",
+            "track_name": "Envidia",
+            "track_artist": "Vicentico Vald\u00e9s",
+            "track_album": "Mi Diario Musical",
+            "track_duration": 189000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-07T16:09:16Z",
+            "uri": "spotify:track:6zyuoGGD010ff2BPfyO6xZ"
+        },
+        {
+            "track_id": "10xehnPI1rhzwbUm7qvNdX",
+            "track_name": "Algo Contigo",
+            "track_artist": "Los Panchos + Maria Marta Serra Lima",
+            "track_album": "Esencia Romantica",
+            "track_duration": 211705,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-07T16:11:56Z",
+            "uri": "spotify:track:10xehnPI1rhzwbUm7qvNdX"
+        },
+        {
+            "track_id": "52OAfxe0rnKvypcv37Y1Yt",
+            "track_name": "Y Sin Embargo Te Quiero",
+            "track_artist": "To\u00f1a La Negra",
+            "track_album": "Lo Mejor De Lo Mejor",
+            "track_duration": 185533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-07T16:16:23Z",
+            "uri": "spotify:track:52OAfxe0rnKvypcv37Y1Yt"
+        },
+        {
+            "track_id": "4gtaaC1EGM5pR3LS3a8Hct",
+            "track_name": "Amar y Vivir",
+            "track_artist": "Consuelo Vel\u00e1zquez",
+            "track_album": "Romance Tropical",
+            "track_duration": 216688,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-07T16:28:51Z",
+            "uri": "spotify:track:4gtaaC1EGM5pR3LS3a8Hct"
+        },
+        {
+            "track_id": "7a3vJq82y9tWekBssuRIwc",
+            "track_name": "Nosotros / Historia de un Amor",
+            "track_artist": "Pedro Junco Jr / Carlos Almaran",
+            "track_album": "Boleros Anos Dourados Vol. 7",
+            "track_duration": 345520,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T01:40:12Z",
+            "uri": "spotify:track:7a3vJq82y9tWekBssuRIwc"
+        },
+        {
+            "track_id": "09yzpl46EYb2C4wNGv9eKC",
+            "track_name": "El Plebeyo",
+            "track_artist": "Fernando Fernandez",
+            "track_album": "Las Estrellas de la \u00c9poca Azul",
+            "track_duration": 200573,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T01:55:44Z",
+            "uri": "spotify:track:09yzpl46EYb2C4wNGv9eKC"
+        },
+        {
+            "track_id": "2r8h4sI14yTfjs8CVGNDP4",
+            "track_name": "Cien Mil Cosas",
+            "track_artist": "La Sonora Matancera",
+            "track_album": "Los \u00daltimos De Celio Gonz\u00e1lez",
+            "track_duration": 165080,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T02:00:35Z",
+            "uri": "spotify:track:2r8h4sI14yTfjs8CVGNDP4"
+        },
+        {
+            "track_id": "2CQNyqv8RkPeMH8wqscdyL",
+            "track_name": "El Almanaque",
+            "track_artist": "Los Tres Reyes",
+            "track_album": "Lo Mejor de Lo Mejor de RCA Victor",
+            "track_duration": 157880,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T02:05:53Z",
+            "uri": "spotify:track:2CQNyqv8RkPeMH8wqscdyL"
+        },
+        {
+            "track_id": "01OCG8cqpCCV2PVrP6Xuvg",
+            "track_name": "Cuando Estemos Viejo",
+            "track_artist": "Billo's",
+            "track_album": "Esta Noche...Billo",
+            "track_duration": 147017,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T02:08:38Z",
+            "uri": "spotify:track:01OCG8cqpCCV2PVrP6Xuvg"
+        },
+        {
+            "track_id": "5z46fEEorQBtY64lIyyBfo",
+            "track_name": "Desvelo De Amor",
+            "track_artist": "Celia Cruz",
+            "track_album": "La Tierna, Conmovedora, Bamboleadora",
+            "track_duration": 174626,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T02:11:17Z",
+            "uri": "spotify:track:5z46fEEorQBtY64lIyyBfo"
+        },
+        {
+            "track_id": "2deMkVpxCSScaBLBhgytuS",
+            "track_name": "Nosotros",
+            "track_artist": "Pedro Junco Jr",
+            "track_album": "Boleros para Enamorarse, Vol. 3",
+            "track_duration": 164413,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T02:17:11Z",
+            "uri": "spotify:track:2deMkVpxCSScaBLBhgytuS"
+        },
+        {
+            "track_id": "142eFOvbAcNDY772lhSGtS",
+            "track_name": "Texto: Poema te quiero",
+            "track_artist": "Facundo Cabral",
+            "track_album": "Lo Cortez No Quita Lo Cabral Volumen. 2",
+            "track_duration": 120333,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-11T02:41:52Z",
+            "uri": "spotify:track:142eFOvbAcNDY772lhSGtS"
+        },
+        {
+            "track_id": "3agHxWiFTSPZzTgW4mgGwL",
+            "track_name": "Nuestro Gran Amor",
+            "track_artist": "Cuco S\u00e1nchez",
+            "track_album": "Serie De Coleccion 15 Autenticos",
+            "track_duration": 171506,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-15T17:01:42Z",
+            "uri": "spotify:track:3agHxWiFTSPZzTgW4mgGwL"
+        },
+        {
+            "track_id": "5vDEpIkGRbnOrcUnCCxnzs",
+            "track_name": "Poquita Fe (Sin Fe)",
+            "track_artist": "Los Tres Reyes",
+            "track_album": "Lo Mejor de Lo Mejor de RCA Victor",
+            "track_duration": 181640,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-25T17:59:49Z",
+            "uri": "spotify:track:5vDEpIkGRbnOrcUnCCxnzs"
+        },
+        {
+            "track_id": "2JTZrB6z0OVhhcnAWqJplI",
+            "track_name": "Si Dios Me Quita la Vida - Versi\u00f3n Tr\u00edo",
+            "track_artist": "Javier Sol\u00eds",
+            "track_album": "Exitos Con Trio",
+            "track_duration": 228746,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-28T16:33:52Z",
+            "uri": "spotify:track:2JTZrB6z0OVhhcnAWqJplI"
+        },
+        {
+            "track_id": "0qZpK7jDhokkZugzz7KfmA",
+            "track_name": "POR QU\u00c9 NEGAR",
+            "track_artist": "Javier Sol\u00eds",
+            "track_album": "50 Boleros y Rancheras",
+            "track_duration": 197343,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-03-28T16:42:57Z",
+            "uri": "spotify:track:0qZpK7jDhokkZugzz7KfmA"
+        },
+        {
+            "track_id": "1JG27QjSUOvSnwkjqhTXMi",
+            "track_name": "Toda una Vida",
+            "track_artist": "Antonio Mach\u00edn",
+            "track_album": "Todos Sus Exitos",
+            "track_duration": 182773,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-04-15T16:11:08Z",
+            "uri": "spotify:track:1JG27QjSUOvSnwkjqhTXMi"
+        },
+        {
+            "track_id": "4bctNy4NQDBheODvK56ab8",
+            "track_name": "Ilusi\u00f3n De Mi Vida - Instrumental",
+            "track_artist": "Horacio Salg\u00e1n",
+            "track_album": "Tangos, Valses y Milongas",
+            "track_duration": 175186,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-04-20T15:50:07Z",
+            "uri": "spotify:track:4bctNy4NQDBheODvK56ab8"
+        },
+        {
+            "track_id": "6BigVQt0dYzoEjHLTLk83W",
+            "track_name": "Suspiros de Espa\u00f1a (Pasodoble)",
+            "track_artist": "Real Orquesta Sinf\u00f3nica de Sevilla, Spanish Folklore",
+            "track_album": "Suspiros de Espa\u00f1a - Pasodobles of Spain",
+            "track_duration": 246760,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-04-20T15:53:37Z",
+            "uri": "spotify:track:6BigVQt0dYzoEjHLTLk83W"
+        },
+        {
+            "track_id": "57Iuo3c6XuJg20JC18LJGF",
+            "track_name": "No Quiero Verte Llorar",
+            "track_artist": "Felipe Rodriguez",
+            "track_album": "Alegre",
+            "track_duration": 167531,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-04-25T14:23:27Z",
+            "uri": "spotify:track:57Iuo3c6XuJg20JC18LJGF"
+        },
+        {
+            "track_id": "1H6mGZDzXFG7yj0G8KeUfX",
+            "track_name": "Cuando Llora Mi Guitarra",
+            "track_artist": "Los Morochucos",
+            "track_album": "Los Morochucos",
+            "track_duration": 164866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-05-02T04:05:05Z",
+            "uri": "spotify:track:1H6mGZDzXFG7yj0G8KeUfX"
+        },
+        {
+            "track_id": "1LKrrUCwbuOhMEr7sUcpn1",
+            "track_name": "El Plebeyo",
+            "track_artist": "Los Morochucos",
+            "track_album": "Los Morochucos",
+            "track_duration": 186080,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-05-02T04:13:04Z",
+            "uri": "spotify:track:1LKrrUCwbuOhMEr7sUcpn1"
+        },
+        {
+            "track_id": "5pEcuZuYEubz59nrlUOf1c",
+            "track_name": "La Flor de la Canela",
+            "track_artist": "Los Morochucos",
+            "track_album": "Los Morochucos",
+            "track_duration": 182626,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-05-02T04:17:48Z",
+            "uri": "spotify:track:5pEcuZuYEubz59nrlUOf1c"
+        },
+        {
+            "track_id": "3B7tK7nDjs8wpAdnjxymFP",
+            "track_name": "El Tiempo Que Te Quede Libre",
+            "track_artist": "Arturo \"Zambo\" Cavero",
+            "track_album": "Arturo \"Zambo\" Cavero y Oscar Aviles",
+            "track_duration": 131039,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-05-22T01:32:35Z",
+            "uri": "spotify:track:3B7tK7nDjs8wpAdnjxymFP"
+        },
+        {
+            "track_id": "0yR6g8tt0IzisAPcizD4xz",
+            "track_name": "Tabaco y Ron",
+            "track_artist": "Rodolfo Aicardi",
+            "track_album": "Muy Tropical y Bailable",
+            "track_duration": 242918,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-06-08T15:25:24Z",
+            "uri": "spotify:track:0yR6g8tt0IzisAPcizD4xz"
+        },
+        {
+            "track_id": "66Rcb9KAMg7bG8eL0aNadZ",
+            "track_name": "Hola Soledad",
+            "track_artist": "Rolando Laserie",
+            "track_album": "Todo el Tiempo...",
+            "track_duration": 171351,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-06-08T15:49:56Z",
+            "uri": "spotify:track:66Rcb9KAMg7bG8eL0aNadZ"
+        },
+        {
+            "track_id": "07QXxAdJbZNZYLkIt8QZSd",
+            "track_name": "Tol\u00fa",
+            "track_artist": "Lucho Berm\u00fadez",
+            "track_album": "Serie Inmortales: Los Ritmos Coste\u00f1os Favoritos del Maestro",
+            "track_duration": 165600,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-06-09T17:57:00Z",
+            "uri": "spotify:track:07QXxAdJbZNZYLkIt8QZSd"
+        },
+        {
+            "track_id": "1sn6fQOhQtD4ssL621D2ZO",
+            "track_name": "\u00bfQui\u00e9n Ser\u00e1?",
+            "track_artist": "La Sonora Matancera",
+            "track_album": "\u00bfQui\u00e9n Ser\u00e1?",
+            "track_duration": 160933,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-07-10T16:26:08Z",
+            "uri": "spotify:track:1sn6fQOhQtD4ssL621D2ZO"
+        },
+        {
+            "track_id": "6V1NPzZ4MUUcYwacZYczhR",
+            "track_name": "Los Agaristas",
+            "track_artist": "Mariachi San Jos\u00e9",
+            "track_album": "\u00a1Viva C\u00e1rdenas, Muchachos!",
+            "track_duration": 155946,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-10-17T21:33:04Z",
+            "uri": "spotify:track:6V1NPzZ4MUUcYwacZYczhR"
+        },
+        {
+            "track_id": "7K06vIsdXwCeNOpzgn8bPW",
+            "track_name": "Sabor de Enga\u00f1o - Remastered",
+            "track_artist": "Olimpo Cardenas",
+            "track_album": "Lo Mejor (Remastered)",
+            "track_duration": 168946,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-10T21:29:58Z",
+            "uri": "spotify:track:7K06vIsdXwCeNOpzgn8bPW"
+        },
+        {
+            "track_id": "5v6UgRxUOyqzefsUVg8sEd",
+            "track_name": "Para que fingir - Remastered",
+            "track_artist": "Orlando Contreras",
+            "track_album": "La voz rom\u00e1ntica de Cuba, Vol. 3 (Remastered)",
+            "track_duration": 159947,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-10T21:36:00Z",
+            "uri": "spotify:track:5v6UgRxUOyqzefsUVg8sEd"
+        },
+        {
+            "track_id": "0tomm4Cl8iQcx2SIXkkkvV",
+            "track_name": "Por seguir tu huella - Remastered",
+            "track_artist": "Orlando Contreras",
+            "track_album": "La voz rom\u00e1ntica de Cuba, Vol. 3 (Remastered)",
+            "track_duration": 124969,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-10T21:40:49Z",
+            "uri": "spotify:track:0tomm4Cl8iQcx2SIXkkkvV"
+        },
+        {
+            "track_id": "5O1qLn6D0EJTba2s1ZSb2T",
+            "track_name": "Los Aretes De La Luna",
+            "track_artist": "La Sonora Matancera",
+            "track_album": "M\u00e1s Ternura De La Sonora Matancera",
+            "track_duration": 143373,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-21T17:41:27Z",
+            "uri": "spotify:track:5O1qLn6D0EJTba2s1ZSb2T"
+        },
+        {
+            "track_id": "7rPu9t1d0wxnCWGXZUrVgY",
+            "track_name": "Anita",
+            "track_artist": "Los Morochucos",
+            "track_album": "Los Morochucos",
+            "track_duration": 140733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-21T17:44:27Z",
+            "uri": "spotify:track:7rPu9t1d0wxnCWGXZUrVgY"
+        },
+        {
+            "track_id": "38PCazVboSmxW97WBQnH3G",
+            "track_name": "Flores Negras-Fichas Negras",
+            "track_artist": "Victor Pineiro",
+            "track_album": "25 Super Exitos",
+            "track_duration": 210000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-24T20:55:58Z",
+            "uri": "spotify:track:38PCazVboSmxW97WBQnH3G"
+        },
+        {
+            "track_id": "5dGoEJGetlWalW0WUa1XlF",
+            "track_name": "No Dejes de Quererme",
+            "track_artist": "La Internacional Sonora Maracaibo",
+            "track_album": "No Dejes de Quererme",
+            "track_duration": 140733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-27T16:35:12Z",
+            "uri": "spotify:track:5dGoEJGetlWalW0WUa1XlF"
+        },
+        {
+            "track_id": "1TaxiG73RM71PM9LuEG7Fk",
+            "track_name": "Canci\u00f3n Mixteca",
+            "track_artist": "La Internacional Sonora Maracaibo",
+            "track_album": "No Dejes de Quererme",
+            "track_duration": 156826,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-27T16:36:43Z",
+            "uri": "spotify:track:1TaxiG73RM71PM9LuEG7Fk"
+        },
+        {
+            "track_id": "2OfMwC1XKRNEoH0h2fDbmh",
+            "track_name": "Idilio",
+            "track_artist": "Arteson De Cuba",
+            "track_album": "Antolog\u00eda de la M\u00fasica Cubana",
+            "track_duration": 308666,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-27T16:48:35Z",
+            "uri": "spotify:track:2OfMwC1XKRNEoH0h2fDbmh"
+        },
+        {
+            "track_id": "6R3NS6xNE6Ypzh8s9vyGSm",
+            "track_name": "Esta Noche Coraz\u00f3n",
+            "track_artist": "Ricardito y el Monarca del Son",
+            "track_album": "Cuban Hot Club Music: La Mejor Musica Latina Tradicional de Cuba. Canciones de Salsa Cubana, Rumba, Boleros y Son Cubano",
+            "track_duration": 186573,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-27T16:50:16Z",
+            "uri": "spotify:track:6R3NS6xNE6Ypzh8s9vyGSm"
+        },
+        {
+            "track_id": "5p5dwtRcY7LzpuI7goNKuO",
+            "track_name": "Cuatro Palabras",
+            "track_artist": "Afro-Cuban All Stars",
+            "track_album": "Afro Cuban All Stars, Vol. 1",
+            "track_duration": 179200,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-27T16:51:07Z",
+            "uri": "spotify:track:5p5dwtRcY7LzpuI7goNKuO"
+        },
+        {
+            "track_id": "3DKW0zDLeUv7Jn4IyV8CwD",
+            "track_name": "Desvelo de Amor",
+            "track_artist": "Cuarteto Machin",
+            "track_album": "Antolog\u00eda de la M\u00fasica Cubana",
+            "track_duration": 175786,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-27T17:03:14Z",
+            "uri": "spotify:track:3DKW0zDLeUv7Jn4IyV8CwD"
+        },
+        {
+            "track_id": "0iLTnKO68AxNl5uT1KMC0h",
+            "track_name": "Me Voy a Pinar del Rio",
+            "track_artist": "Celia Cruz",
+            "track_album": "Antolog\u00eda de la M\u00fasica Cubana",
+            "track_duration": 167146,
+            "track_added_by": "1291740798",
+            "track_added_at": "2021-12-27T17:06:28Z",
+            "uri": "spotify:track:0iLTnKO68AxNl5uT1KMC0h"
+        },
+        {
+            "track_id": "6KRV9EsahZ4rClCLnHEKYJ",
+            "track_name": "Mi Rumba Echando",
+            "track_artist": "Celeste Mendoza",
+            "track_album": "Don't Be Scared To Dance!",
+            "track_duration": 208773,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-01-03T19:28:47Z",
+            "uri": "spotify:track:6KRV9EsahZ4rClCLnHEKYJ"
+        },
+        {
+            "track_id": "2VcX1Y1jsmtNtyjdyN7eMS",
+            "track_name": "Pas\u00e9 La Noche Fumando",
+            "track_artist": "H\u00e9ctor Lavoe",
+            "track_album": "Vigilante",
+            "track_duration": 704466,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-02-06T15:29:29Z",
+            "uri": "spotify:track:2VcX1Y1jsmtNtyjdyN7eMS"
+        },
+        {
+            "track_id": "2ZNYFHhkBoS4KHr5eXnQth",
+            "track_name": "Funeral",
+            "track_artist": "Mon Laferte",
+            "track_album": "Norma",
+            "track_duration": 268306,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-03-30T12:51:44Z",
+            "uri": "spotify:track:2ZNYFHhkBoS4KHr5eXnQth"
+        },
+        {
+            "track_id": "3bswWV2f1jClxzOCud2Jb5",
+            "track_name": "Rumbas Cubanas",
+            "track_artist": "Lecuona Cuban Boys",
+            "track_album": "Antolog\u00eda de la M\u00fasica Cubana",
+            "track_duration": 175186,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-05-19T14:18:15Z",
+            "uri": "spotify:track:3bswWV2f1jClxzOCud2Jb5"
+        },
+        {
+            "track_id": "1ib007yU04BbbwTV1fkPTi",
+            "track_name": "Marchita",
+            "track_artist": "Silvana Estrada",
+            "track_album": "Marchita",
+            "track_duration": 226746,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-06-12T23:15:37Z",
+            "uri": "spotify:track:1ib007yU04BbbwTV1fkPTi"
+        },
+        {
+            "track_id": "0bYkU27BwhhKsTxmvqWUDo",
+            "track_name": "Habana del Este",
+            "track_artist": "Afro-Cuban All Stars",
+            "track_album": "A Toda Cuba Le Gusta",
+            "track_duration": 397760,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-03T15:33:28Z",
+            "uri": "spotify:track:0bYkU27BwhhKsTxmvqWUDo"
+        },
+        {
+            "track_id": "24k9C5HpD23ZWTGpLijIKW",
+            "track_name": "Puerto Rico",
+            "track_artist": "Los Panchos",
+            "track_album": "H\u00e1blame Sin Palabras",
+            "track_duration": 157048,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-23T05:10:17Z",
+            "uri": "spotify:track:24k9C5HpD23ZWTGpLijIKW"
+        },
+        {
+            "track_id": "40CwB1HdCE1gt7sqI9NjL0",
+            "track_name": "Todos Vuelven",
+            "track_artist": "Los Morochucos",
+            "track_album": "Los Morochucos",
+            "track_duration": 186586,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:27:23Z",
+            "uri": "spotify:track:40CwB1HdCE1gt7sqI9NjL0"
+        },
+        {
+            "track_id": "44RRIuioxHdtujpJ3PDkxA",
+            "track_name": "Lucia (with Silvio Rodr\u00edguez)",
+            "track_artist": "Joan Manuel Serrat",
+            "track_album": "Antolog\u00eda Desordenada",
+            "track_duration": 192840,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:31:37Z",
+            "uri": "spotify:track:44RRIuioxHdtujpJ3PDkxA"
+        },
+        {
+            "track_id": "4RqNfoUk2bVrwqvduNpNVR",
+            "track_name": "Te Doy una Canci\u00f3n",
+            "track_artist": "Pablo Milan\u00e9s",
+            "track_album": "En Vivo en Argentina, Vol. 1",
+            "track_duration": 200986,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:35:05Z",
+            "uri": "spotify:track:4RqNfoUk2bVrwqvduNpNVR"
+        },
+        {
+            "track_id": "52MgeqCWKmqCrgMqLYCNVz",
+            "track_name": "\u00c9rase Que Se Era",
+            "track_artist": "Silvio Rodr\u00edguez",
+            "track_album": "\u00c9rase Que Se Era (Vol. 2)",
+            "track_duration": 226889,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:42:28Z",
+            "uri": "spotify:track:52MgeqCWKmqCrgMqLYCNVz"
+        },
+        {
+            "track_id": "1zlZm8cE35mkf2XbSNGOje",
+            "track_name": "La Guitarra Del Joven Soldado",
+            "track_artist": "Silvio Rodr\u00edguez",
+            "track_album": "Silvio",
+            "track_duration": 178818,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:46:22Z",
+            "uri": "spotify:track:1zlZm8cE35mkf2XbSNGOje"
+        },
+        {
+            "track_id": "5mLuPM0CpoXyrBncooRJZa",
+            "track_name": "Qui\u00e9n Fuera",
+            "track_artist": "Silvio Rodr\u00edguez",
+            "track_album": "Silvio",
+            "track_duration": 336400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:47:05Z",
+            "uri": "spotify:track:5mLuPM0CpoXyrBncooRJZa"
+        },
+        {
+            "track_id": "4aIkf6Oh7VKXqZE7pPB6hG",
+            "track_name": "Todav\u00eda Cantamos",
+            "track_artist": "Victor Heredia",
+            "track_album": "En Vivo en Argentina, Vol. 1",
+            "track_duration": 255106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:48:36Z",
+            "uri": "spotify:track:4aIkf6Oh7VKXqZE7pPB6hG"
+        },
+        {
+            "track_id": "0lxu1Pmegx2SELobpAXzz4",
+            "track_name": "Unicornio",
+            "track_artist": "Silvio Rodr\u00edguez",
+            "track_album": "Unicornio",
+            "track_duration": 308510,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-26T04:51:27Z",
+            "uri": "spotify:track:0lxu1Pmegx2SELobpAXzz4"
+        },
+        {
+            "track_id": "3t0WdkqETzUtNKDhwWvY3Q",
+            "track_name": "Mil Violines",
+            "track_artist": "Tr\u00edo Divina Ilusi\u00f3n",
+            "track_album": "50 Exitos del Fon\u00f3grafo y Sus Recuerdos",
+            "track_duration": 196546,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-07-30T00:44:07Z",
+            "uri": "spotify:track:3t0WdkqETzUtNKDhwWvY3Q"
+        },
+        {
+            "track_id": "1rwrlXpk1XqdzHfCHKnJa1",
+            "track_name": "T\u00fa Me Acostumbraste (feat. Omara Portuondo & Los Macorinos)",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+            "track_duration": 188400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-08-18T13:47:54Z",
+            "uri": "spotify:track:1rwrlXpk1XqdzHfCHKnJa1"
+        },
+        {
+            "track_id": "2WNijH1zehmc9u6cc3cGhv",
+            "track_name": "L\u00e1grimas Negras",
+            "track_artist": "Septeto Santiaguero",
+            "track_album": "L\u00e1grimas Negras",
+            "track_duration": 328653,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-11-26T16:59:34Z",
+            "uri": "spotify:track:2WNijH1zehmc9u6cc3cGhv"
+        },
+        {
+            "track_id": "5wn2H6CuSwOzNwhH8uVtzF",
+            "track_name": "Donde Estabas Anoche",
+            "track_artist": "Sierra Maestra",
+            "track_album": "Donde Estabas Anoche",
+            "track_duration": 165558,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-11-26T17:02:57Z",
+            "uri": "spotify:track:5wn2H6CuSwOzNwhH8uVtzF"
+        },
+        {
+            "track_id": "6K4iVISawI285iTxyvBIEB",
+            "track_name": "A Buena Vista",
+            "track_artist": "Soneros De Verdad",
+            "track_album": "A Buena Vista: Barrio De La Habana",
+            "track_duration": 193693,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-11-26T17:06:15Z",
+            "uri": "spotify:track:6K4iVISawI285iTxyvBIEB"
+        },
+        {
+            "track_id": "4xc4eaTI2gTaR17L2MiutK",
+            "track_name": "Hoy La Lluvia",
+            "track_artist": "Soneros De Verdad",
+            "track_album": "A Buena Vista: Barrio De La Habana",
+            "track_duration": 301933,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-11-26T17:11:21Z",
+            "uri": "spotify:track:4xc4eaTI2gTaR17L2MiutK"
+        },
+        {
+            "track_id": "33AAoOl6DIWwO2ll2bxpBq",
+            "track_name": "Cuando Estoy Contigo",
+            "track_artist": "Celia Cruz",
+            "track_album": "A Todos Mis Amigos",
+            "track_duration": 146893,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-12-16T21:40:47Z",
+            "uri": "spotify:track:33AAoOl6DIWwO2ll2bxpBq"
+        },
+        {
+            "track_id": "5sbw5zIz9ck2pOEDXUR0QU",
+            "track_name": "Chan Chan",
+            "track_artist": "Buena Vista Social Club",
+            "track_album": "Buena Vista Social Club",
+            "track_duration": 256653,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-12-27T05:22:44Z",
+            "uri": "spotify:track:5sbw5zIz9ck2pOEDXUR0QU"
+        },
+        {
+            "track_id": "6GsbCsAtPgBhUG3BuU6ViV",
+            "track_name": "Como Fue (feat. Ibrahim Ferrer) - Live",
+            "track_artist": "Buena Vista Social Club",
+            "track_album": "Lost and Found",
+            "track_duration": 240703,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-12-27T05:23:49Z",
+            "uri": "spotify:track:6GsbCsAtPgBhUG3BuU6ViV"
+        },
+        {
+            "track_id": "7dRfobhDNnsEgB2ZArxA1f",
+            "track_name": "El Cuarto de Tula",
+            "track_artist": "Buena Vista Social Club",
+            "track_album": "Buena Vista Social Club",
+            "track_duration": 444533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-12-27T05:27:32Z",
+            "uri": "spotify:track:7dRfobhDNnsEgB2ZArxA1f"
+        },
+        {
+            "track_id": "1nFFFMgrtKN4Tq8WL28qlm",
+            "track_name": "Vals Po\u00e9tico (feat. Los Macorinos) - Instrumental",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+            "track_duration": 197986,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-03-13T02:28:35Z",
+            "uri": "spotify:track:1nFFFMgrtKN4Tq8WL28qlm"
+        },
+        {
+            "track_id": "22hoEbYLW89hUGsaQMQOqg",
+            "track_name": "Verg\u00fcenza Ajena",
+            "track_artist": "Los Jaivas",
+            "track_album": "Palomita Blanca",
+            "track_duration": 170160,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-03-13T03:18:45Z",
+            "uri": "spotify:track:22hoEbYLW89hUGsaQMQOqg"
+        },
+        {
+            "track_id": "2yfiaN5lzgrkosB5QXxBvm",
+            "track_name": "Llorando Estoy Por Ti",
+            "track_artist": "Las Tres Abejas",
+            "track_album": "Llorando Estoy Por Ti",
+            "track_duration": 164500,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-03-22T08:13:35Z",
+            "uri": "spotify:track:2yfiaN5lzgrkosB5QXxBvm"
+        },
+        {
+            "track_id": "36gjuOicU4G4yDFaorSoBF",
+            "track_name": "Moliendo Cafe",
+            "track_artist": "Trio Azteca",
+            "track_album": "Trio Azteca: Folk Songs and Ballads",
+            "track_duration": 174693,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-04-10T03:17:32Z",
+            "uri": "spotify:track:36gjuOicU4G4yDFaorSoBF"
+        },
+        {
+            "track_id": "7m1nHC5ozMbb377QU2RTtG",
+            "track_name": "Yolanda",
+            "track_artist": "La Integracion",
+            "track_album": "Dinamitazos Tropicales de Siempre",
+            "track_duration": 163626,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-04-12T17:53:52Z",
+            "uri": "spotify:track:7m1nHC5ozMbb377QU2RTtG"
+        },
+        {
+            "track_id": "23t6UKYO5OOLq5Z3TP0SZ9",
+            "track_name": "Inolvidable",
+            "track_artist": "Las Tres Abejas",
+            "track_album": "Inolvidable",
+            "track_duration": 172250,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-04-17T05:49:06Z",
+            "uri": "spotify:track:23t6UKYO5OOLq5Z3TP0SZ9"
+        },
+        {
+            "track_id": "1KyFD8LoEzlZhqn6tvUo4J",
+            "track_name": "El Andariego",
+            "track_artist": "Cuarteto Almanaque",
+            "track_album": "La \u00c9poca de Oro de los Tr\u00edos Vol. 3",
+            "track_duration": 204706,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-04-17T07:52:45Z",
+            "uri": "spotify:track:1KyFD8LoEzlZhqn6tvUo4J"
+        },
+        {
+            "track_id": "1eHGsCdAWh1Ffowzacpfoi",
+            "track_name": "Candela",
+            "track_artist": "Buena Vista Social Club",
+            "track_album": "Buena Vista Social Club",
+            "track_duration": 327866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-23T17:23:53Z",
+            "uri": "spotify:track:1eHGsCdAWh1Ffowzacpfoi"
+        },
+        {
+            "track_id": "7yMwkwxNCcsck1SOMgBFlm",
+            "track_name": "Mis Dos Peque\u00f1as (feat. Ang\u00e1 D\u00edaz, Amadito Vald\u00e9s, Carlos Gonz\u00e1lez & Manuel Galb\u00e1n)",
+            "track_artist": "Orlando \"Cacha\u00edto\" L\u00f3pez",
+            "track_album": "Cachaito",
+            "track_duration": 246760,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:17:51Z",
+            "uri": "spotify:track:7yMwkwxNCcsck1SOMgBFlm"
+        },
+        {
+            "track_id": "6hGfBBs2yvBcMbfTMsARGx",
+            "track_name": "Patria Querida",
+            "track_artist": "Los Guaracheros De Oriente",
+            "track_album": "Linda Guajira",
+            "track_duration": 189962,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:24:53Z",
+            "uri": "spotify:track:6hGfBBs2yvBcMbfTMsARGx"
+        },
+        {
+            "track_id": "6DOArmLfD3NmxhY5bV88fU",
+            "track_name": "El Carretero",
+            "track_artist": "Guillermo Portabales",
+            "track_album": "Presentando a Guillermo Portabales",
+            "track_duration": 258466,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:38:14Z",
+            "uri": "spotify:track:6DOArmLfD3NmxhY5bV88fU"
+        }
+    ]
+}
