@@ -1,0 +1,375 @@
+{
+    "id": "20PfoaSyWnwjP3X2XgRvv6",
+    "tracks": [
+        {
+            "track_id": "1eHGsCdAWh1Ffowzacpfoi",
+            "track_name": "Candela",
+            "track_artist": "Buena Vista Social Club",
+            "track_album": "Buena Vista Social Club",
+            "track_duration": 327866,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-21T08:20:21Z",
+            "uri": "spotify:track:1eHGsCdAWh1Ffowzacpfoi"
+        },
+        {
+            "track_id": "4jM0v4ReOQh5RntXfiG3NN",
+            "track_name": "Moliendo caf\u00e9",
+            "track_artist": "Vieja Trova Santiaguera",
+            "track_album": "El Balcon Del Adios",
+            "track_duration": 295400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-21T08:21:07Z",
+            "uri": "spotify:track:4jM0v4ReOQh5RntXfiG3NN"
+        },
+        {
+            "track_id": "6K4iVISawI285iTxyvBIEB",
+            "track_name": "A Buena Vista",
+            "track_artist": "Soneros De Verdad",
+            "track_album": "A Buena Vista: Barrio De La Habana",
+            "track_duration": 193693,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-21T08:30:13Z",
+            "uri": "spotify:track:6K4iVISawI285iTxyvBIEB"
+        },
+        {
+            "track_id": "6zyuoGGD010ff2BPfyO6xZ",
+            "track_name": "Envidia",
+            "track_artist": "Vicentico Vald\u00e9s",
+            "track_album": "Mi Diario Musical",
+            "track_duration": 189000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-21T08:39:20Z",
+            "uri": "spotify:track:6zyuoGGD010ff2BPfyO6xZ"
+        },
+        {
+            "track_id": "07QXxAdJbZNZYLkIt8QZSd",
+            "track_name": "Tol\u00fa",
+            "track_artist": "Lucho Berm\u00fadez",
+            "track_album": "Serie Inmortales: Los Ritmos Coste\u00f1os Favoritos del Maestro",
+            "track_duration": 165600,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-23T17:30:44Z",
+            "uri": "spotify:track:07QXxAdJbZNZYLkIt8QZSd"
+        },
+        {
+            "track_id": "0Tc47jnXSVg6dsxt3eEMkV",
+            "track_name": "Vida Parrandera",
+            "track_artist": "Familia Valera Miranda",
+            "track_album": "Vida Parrandera",
+            "track_duration": 230280,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-30T17:28:03Z",
+            "uri": "spotify:track:0Tc47jnXSVg6dsxt3eEMkV"
+        },
+        {
+            "track_id": "0yBwwPwrEC7Z0rIssqNsED",
+            "track_name": "Con dolor en el alma",
+            "track_artist": "Eliades Ochoa",
+            "track_album": "Estoy Como Nunca",
+            "track_duration": 196026,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-06-05T17:32:25Z",
+            "uri": "spotify:track:0yBwwPwrEC7Z0rIssqNsED"
+        },
+        {
+            "track_id": "1lITPQ2pOmgdwu778IaCqA",
+            "track_name": "Corazon",
+            "track_artist": "Asere",
+            "track_album": "Cuban Soul",
+            "track_duration": 424466,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-06-05T17:34:46Z",
+            "uri": "spotify:track:1lITPQ2pOmgdwu778IaCqA"
+        },
+        {
+            "track_id": "10pzXTCC5FDvAwHzlE2Dbk",
+            "track_name": "Ella si va",
+            "track_artist": "Eliades Ochoa",
+            "track_album": "Estoy Como Nunca",
+            "track_duration": 349240,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-06-05T17:08:11Z",
+            "uri": "spotify:track:10pzXTCC5FDvAwHzlE2Dbk"
+        },
+        {
+            "track_id": "3fEiuqIz6JZB9y9MrydunX",
+            "track_name": "Cumbiamba",
+            "track_artist": "Guillermo Portabales",
+            "track_album": "El Carretero",
+            "track_duration": 151493,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:03:37Z",
+            "uri": "spotify:track:3fEiuqIz6JZB9y9MrydunX"
+        },
+        {
+            "track_id": "2gIeStpi0SclaktrnvncdO",
+            "track_name": "No me llores m\u00e1s",
+            "track_artist": "Omara Portuondo",
+            "track_album": "Omara Portuondo (Buena Vista Social Club Presents)",
+            "track_duration": 296333,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:07:29Z",
+            "uri": "spotify:track:2gIeStpi0SclaktrnvncdO"
+        },
+        {
+            "track_id": "73eru5GrzWOgmjjdcI8WGg",
+            "track_name": "Cumbia Espacial",
+            "track_artist": "Ondatr\u00f3pica",
+            "track_album": "Ondatr\u00f3pica",
+            "track_duration": 245280,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-30T18:32:29Z",
+            "uri": "spotify:track:73eru5GrzWOgmjjdcI8WGg"
+        },
+        {
+            "track_id": "2z4UdFhJPFIRxv7toicES1",
+            "track_name": "Viene de Mi",
+            "track_artist": "La Yegros",
+            "track_album": "Viene de Mi",
+            "track_duration": 230400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-30T18:37:25Z",
+            "uri": "spotify:track:2z4UdFhJPFIRxv7toicES1"
+        },
+        {
+            "track_id": "3OItIAWkXXMi3wXkKwmhsj",
+            "track_name": "Lazalypso",
+            "track_artist": "Ondatr\u00f3pica",
+            "track_album": "Baile Bucanero",
+            "track_duration": 213333,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:18:39Z",
+            "uri": "spotify:track:3OItIAWkXXMi3wXkKwmhsj"
+        },
+        {
+            "track_id": "4YYRXdsQBKKHtqGw1jiVdJ",
+            "track_name": "Cumbia Comejen",
+            "track_artist": "Los Miticos Del Ritmo",
+            "track_album": "Los Miticos del Ritmo",
+            "track_duration": 190026,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:22:56Z",
+            "uri": "spotify:track:4YYRXdsQBKKHtqGw1jiVdJ"
+        },
+        {
+            "track_id": "7h6jglJXxtDhjmCW2ANwBL",
+            "track_name": "Arroz con coco",
+            "track_artist": "Lucho Bermudez Y Su Orquesta",
+            "track_album": "Lucho Berm\u00fadez y Su Orquesta",
+            "track_duration": 148506,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:24:38Z",
+            "uri": "spotify:track:7h6jglJXxtDhjmCW2ANwBL"
+        },
+        {
+            "track_id": "6DyOUxZTufO1KAmbDZ241K",
+            "track_name": "Cumbia Sabrosa",
+            "track_artist": "Climaco Sarmiento",
+            "track_album": "Cl\u00edmaco Sarmiento",
+            "track_duration": 143733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:25:46Z",
+            "uri": "spotify:track:6DyOUxZTufO1KAmbDZ241K"
+        },
+        {
+            "track_id": "2dFWfbpnGCPZ5TBFPq8MtL",
+            "track_name": "Cumbia en Do Menor - Instrumental",
+            "track_artist": "Lito Barrientos y su Orquesta",
+            "track_album": "Very Very Well",
+            "track_duration": 165954,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:34:19Z",
+            "uri": "spotify:track:2dFWfbpnGCPZ5TBFPq8MtL"
+        },
+        {
+            "track_id": "6Bs7irsYQDAfT5EyxpBsKB",
+            "track_name": "La Cumbia del Pescador",
+            "track_artist": "Puerto Rico Y Su Combo",
+            "track_album": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
+            "track_duration": 261173,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:39:03Z",
+            "uri": "spotify:track:6Bs7irsYQDAfT5EyxpBsKB"
+        },
+        {
+            "track_id": "7rMjNb0DgouClxwdKcUVM5",
+            "track_name": "Plinio Guzman",
+            "track_artist": "Lucho Bermudez Y Su Orquesta",
+            "track_album": "Lucho Berm\u00fadez y Su Orquesta",
+            "track_duration": 168826,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:34:12Z",
+            "uri": "spotify:track:7rMjNb0DgouClxwdKcUVM5"
+        },
+        {
+            "track_id": "1vpzAl0qrtKVlbVcWvuwI7",
+            "track_name": "Mi morena",
+            "track_artist": "La Sonora Cordobesa",
+            "track_album": "Colombia 45s",
+            "track_duration": 164133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:55:56Z",
+            "uri": "spotify:track:1vpzAl0qrtKVlbVcWvuwI7"
+        },
+        {
+            "track_id": "3iAFGCS19CR1tgElb8cmik",
+            "track_name": "La Boquillera",
+            "track_artist": "Pedro Laza",
+            "track_album": "Viva la Vida",
+            "track_duration": 163213,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T17:04:05Z",
+            "uri": "spotify:track:3iAFGCS19CR1tgElb8cmik"
+        },
+        {
+            "track_id": "0MDNsfGIkaXDmF4Fwiogyk",
+            "track_name": "San Marcos",
+            "track_artist": "Climaco Sarmiento",
+            "track_album": "Cl\u00edmaco Sarmiento",
+            "track_duration": 180212,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T17:07:04Z",
+            "uri": "spotify:track:0MDNsfGIkaXDmF4Fwiogyk"
+        },
+        {
+            "track_id": "07QfaaRsmw0wtzcPzeT24m",
+            "track_name": "Alegr\u00eda Coste\u00f1a",
+            "track_artist": "Los Alegres Diablos",
+            "track_album": "Bailables Coste\u00f1os",
+            "track_duration": 160469,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T17:13:04Z",
+            "uri": "spotify:track:07QfaaRsmw0wtzcPzeT24m"
+        },
+        {
+            "track_id": "59N3uue0R6K6LcsMgx0UN2",
+            "track_name": "El Funeral del Labrador (Instrumental)",
+            "track_artist": "Pacho Galan",
+            "track_album": "\u00c9xitos Pacho Gal\u00e1n",
+            "track_duration": 150175,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T17:15:46Z",
+            "uri": "spotify:track:59N3uue0R6K6LcsMgx0UN2"
+        },
+        {
+            "track_id": "1TyrNL2qXnXwlGpHhCWqCs",
+            "track_name": "Siempre Estas",
+            "track_artist": "Chinese Man",
+            "track_album": "The Groove Sessions, Vol. 3",
+            "track_duration": 243240,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-30T18:42:32Z",
+            "uri": "spotify:track:1TyrNL2qXnXwlGpHhCWqCs"
+        },
+        {
+            "track_id": "5VOMJBi8KMutN8DUB1ZYro",
+            "track_name": "Sueno en Paraguay",
+            "track_artist": "Chancha Via Circuito",
+            "track_album": "Amansara",
+            "track_duration": 233012,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-30T19:07:56Z",
+            "uri": "spotify:track:5VOMJBi8KMutN8DUB1ZYro"
+        },
+        {
+            "track_id": "7yMwkwxNCcsck1SOMgBFlm",
+            "track_name": "Mis Dos Peque\u00f1as (feat. Ang\u00e1 D\u00edaz, Amadito Vald\u00e9s, Carlos Gonz\u00e1lez & Manuel Galb\u00e1n)",
+            "track_artist": "Orlando \"Cacha\u00edto\" L\u00f3pez",
+            "track_album": "Cachaito",
+            "track_duration": 246760,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:17:45Z",
+            "uri": "spotify:track:7yMwkwxNCcsck1SOMgBFlm"
+        },
+        {
+            "track_id": "6hGfBBs2yvBcMbfTMsARGx",
+            "track_name": "Patria Querida",
+            "track_artist": "Los Guaracheros De Oriente",
+            "track_album": "Linda Guajira",
+            "track_duration": 189962,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:24:04Z",
+            "uri": "spotify:track:6hGfBBs2yvBcMbfTMsARGx"
+        },
+        {
+            "track_id": "6DOArmLfD3NmxhY5bV88fU",
+            "track_name": "El Carretero",
+            "track_artist": "Guillermo Portabales",
+            "track_album": "Presentando a Guillermo Portabales",
+            "track_duration": 258466,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:38:00Z",
+            "uri": "spotify:track:6DOArmLfD3NmxhY5bV88fU"
+        },
+        {
+            "track_id": "5XrkQKknk9K4vqbRnTCyQi",
+            "track_name": "Bodas de Oro (feat. Rub\u00e9n Gonz\u00e1lez & Jes\u00fas Ramos)",
+            "track_artist": "Buena Vista Social Club",
+            "track_album": "Lost and Found",
+            "track_duration": 279949,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:45:11Z",
+            "uri": "spotify:track:5XrkQKknk9K4vqbRnTCyQi"
+        },
+        {
+            "track_id": "0FpBO0Pyoh4MZVmNO3zwnc",
+            "track_name": "Sofrito",
+            "track_artist": "Mongo Santamaria",
+            "track_album": "Sofrito",
+            "track_duration": 366200,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T15:55:48Z",
+            "uri": "spotify:track:0FpBO0Pyoh4MZVmNO3zwnc"
+        },
+        {
+            "track_id": "3VHDcEGlFuiFGBRsdhWtA9",
+            "track_name": "Total",
+            "track_artist": "Celio Gonzalez",
+            "track_album": "Las Estrellas De La Matancera",
+            "track_duration": 174213,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-05-31T16:01:22Z",
+            "uri": "spotify:track:3VHDcEGlFuiFGBRsdhWtA9"
+        },
+        {
+            "track_id": "6SYxHjSEy1hCeLxIwBKyK3",
+            "track_name": "Nereidas",
+            "track_artist": "Acerina",
+            "track_album": "Perlas Cubanas: Acerina, Danzones Cl\u00e1sicos",
+            "track_duration": 183713,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-06-01T01:21:36Z",
+            "uri": "spotify:track:6SYxHjSEy1hCeLxIwBKyK3"
+        },
+        {
+            "track_id": "7KBvlBOCGbJb45wLTStG0i",
+            "track_name": "Tiro al Blanco - Instrumental",
+            "track_artist": "Afrosound",
+            "track_album": "Afrosound",
+            "track_duration": 172544,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-06-01T01:59:43Z",
+            "uri": "spotify:track:7KBvlBOCGbJb45wLTStG0i"
+        },
+        {
+            "track_id": "4ok44lUrhQgJEoyQq5Ot3N",
+            "track_name": "En la orilla del mar (Bolero version)",
+            "track_artist": "Bienvenido Granda",
+            "track_album": "Cuba: Bienvenido Granda",
+            "track_duration": 170811,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-06-04T05:34:19Z",
+            "uri": "spotify:track:4ok44lUrhQgJEoyQq5Ot3N"
+        },
+        {
+            "track_id": "3GLSlNVBQFltlTE7rGKIPc",
+            "track_name": "L\u00e1grimas Negras",
+            "track_artist": "Ignacio Carrillo \"Mazacote\"",
+            "track_album": "De Profesi\u00f3n... Sonero",
+            "track_duration": 305320,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-06-05T18:03:06Z",
+            "uri": "spotify:track:3GLSlNVBQFltlTE7rGKIPc"
+        }
+    ]
+}
