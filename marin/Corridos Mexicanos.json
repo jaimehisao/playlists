@@ -1,0 +1,515 @@
+{
+    "id": "7kTxU90gsGEwJ3UDmvXGW9",
+    "tracks": [
+        {
+            "track_id": "0mQr9LjQpfNmcyZ8z2c9sQ",
+            "track_name": "M\u00e1quina 501",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "Historias de Mi Tierra",
+            "track_duration": 182795,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T18:27:42Z",
+            "uri": "spotify:track:0mQr9LjQpfNmcyZ8z2c9sQ"
+        },
+        {
+            "track_id": "6xAgCnjNtlLHZgqzOH4b95",
+            "track_name": "El Federal de Caminos",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "Historias de Mi Tierra",
+            "track_duration": 165066,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T18:30:22Z",
+            "uri": "spotify:track:6xAgCnjNtlLHZgqzOH4b95"
+        },
+        {
+            "track_id": "0PscRzvKmT0GuSiG4oWTWY",
+            "track_name": "Corrido de Manuel Ju\u00e1rez",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "Historias de Mi Tierra",
+            "track_duration": 277494,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T18:31:55Z",
+            "uri": "spotify:track:0PscRzvKmT0GuSiG4oWTWY"
+        },
+        {
+            "track_id": "5pkN8OaHJ5v31Cugxr8hJk",
+            "track_name": "Corrido De Mauricio Rosales- El Rayo -",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "15 Exitos Corridos Famosos - Antonio Aguilar",
+            "track_duration": 191309,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T18:34:32Z",
+            "uri": "spotify:track:5pkN8OaHJ5v31Cugxr8hJk"
+        },
+        {
+            "track_id": "2G0Q7o2A8v25NvOije3cC5",
+            "track_name": "Gabino Barrera",
+            "track_artist": "Los Cadetes De Linares",
+            "track_album": "Corridos De La Revolucion Mexicana",
+            "track_duration": 194493,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T19:09:07Z",
+            "uri": "spotify:track:2G0Q7o2A8v25NvOije3cC5"
+        },
+        {
+            "track_id": "6fxK0KMCdjxCoV2N32dEvj",
+            "track_name": "Corrido De La Expropiacion",
+            "track_artist": "Amparo Ochoa",
+            "track_album": "Corridos Y Canciones De La Revolucion Mexicana",
+            "track_duration": 278706,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T19:01:36Z",
+            "uri": "spotify:track:6fxK0KMCdjxCoV2N32dEvj"
+        },
+        {
+            "track_id": "5ACD0QBG2Dqv5CgGweXikJ",
+            "track_name": "Heraclio Bernal",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "15 Exitos Corridos Famosos - Antonio Aguilar",
+            "track_duration": 178271,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T19:08:15Z",
+            "uri": "spotify:track:5ACD0QBG2Dqv5CgGweXikJ"
+        },
+        {
+            "track_id": "2aGmSjdVoX2g22b9xbKzdq",
+            "track_name": "El Corrido De Pancho Villa",
+            "track_artist": "Los Cadetes De Linares",
+            "track_album": "Corridos De La Revolucion Mexicana",
+            "track_duration": 191013,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T19:14:42Z",
+            "uri": "spotify:track:2aGmSjdVoX2g22b9xbKzdq"
+        },
+        {
+            "track_id": "20CxXb1t8gfpUtvkUdonFK",
+            "track_name": "Corrido De Pancho Villa",
+            "track_artist": "Amparo Ochoa",
+            "track_album": "Corridos Y Canciones De La Revolucion Mexicana",
+            "track_duration": 141066,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T19:52:41Z",
+            "uri": "spotify:track:20CxXb1t8gfpUtvkUdonFK"
+        },
+        {
+            "track_id": "5pMlZTI4OEDW2NqA52Wg0H",
+            "track_name": "La Tumba Abandonada",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "15 Exitos Corridos Famosos - Antonio Aguilar",
+            "track_duration": 201932,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T20:02:28Z",
+            "uri": "spotify:track:5pMlZTI4OEDW2NqA52Wg0H"
+        },
+        {
+            "track_id": "19UmA0qjVtNDdlrWi9oQLr",
+            "track_name": "El Federal De Caminos",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "15 Corridos Norte\u00f1os",
+            "track_duration": 169656,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T20:23:05Z",
+            "uri": "spotify:track:19UmA0qjVtNDdlrWi9oQLr"
+        },
+        {
+            "track_id": "19rXfInZ2aF9npWMvmpTLd",
+            "track_name": "El Siete Leguas",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "15 Exitos Corridos - Antonio Aguilar",
+            "track_duration": 186792,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T20:42:08Z",
+            "uri": "spotify:track:19rXfInZ2aF9npWMvmpTLd"
+        },
+        {
+            "track_id": "7i1qfU3QQu1ls53CA8Lrvc",
+            "track_name": "Juan Charrasqueado",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "Corridos Antonio Aguilar",
+            "track_duration": 222737,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T22:29:50Z",
+            "uri": "spotify:track:7i1qfU3QQu1ls53CA8Lrvc"
+        },
+        {
+            "track_id": "0Oje4tdUEad0FA8tPCPw0R",
+            "track_name": "Corrido Del General Zapata",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "Corridos De La Revolucion",
+            "track_duration": 188244,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T22:29:53Z",
+            "uri": "spotify:track:0Oje4tdUEad0FA8tPCPw0R"
+        },
+        {
+            "track_id": "1TiMOlIOtEVoOIFZXeCpfm",
+            "track_name": "Gabino Barrera (En Vivo)",
+            "track_artist": "Antonio Aguilar",
+            "track_album": "En Vivo! - Antonio Aguilar",
+            "track_duration": 296120,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T22:33:44Z",
+            "uri": "spotify:track:1TiMOlIOtEVoOIFZXeCpfm"
+        },
+        {
+            "track_id": "3b75xxHLZanSPMTA1hm8Ea",
+            "track_name": "Las Tres Tumbas",
+            "track_artist": "Banda El Recodo",
+            "track_album": "13 Exitos",
+            "track_duration": 154173,
+            "track_added_by": "1291740798",
+            "track_added_at": "2018-12-31T23:40:35Z",
+            "uri": "spotify:track:3b75xxHLZanSPMTA1hm8Ea"
+        },
+        {
+            "track_id": "1g9Mc2RTt209pqal8qJ8EI",
+            "track_name": "El Ojo De Vidrio",
+            "track_artist": "Eliseo Robles",
+            "track_album": "Corridos Famosos",
+            "track_duration": 264986,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-01T03:21:15Z",
+            "uri": "spotify:track:1g9Mc2RTt209pqal8qJ8EI"
+        },
+        {
+            "track_id": "30rtwkBmAVPYaN1zkvwKJ0",
+            "track_name": "El Caballo Blanco",
+            "track_artist": "Jos\u00e9 Alfredo Jimenez",
+            "track_album": "15 Autenticos Exitos De",
+            "track_duration": 158960,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-01T20:13:40Z",
+            "uri": "spotify:track:30rtwkBmAVPYaN1zkvwKJ0"
+        },
+        {
+            "track_id": "2nvOcGpGzh7fOL49NY62ft",
+            "track_name": "Laurita Garza",
+            "track_artist": "Los Cadetes de Linares de Alfredo Guerrero de la Cerda",
+            "track_album": "12 Kilates Musicales",
+            "track_duration": 218080,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-01T22:33:31Z",
+            "uri": "spotify:track:2nvOcGpGzh7fOL49NY62ft"
+        },
+        {
+            "track_id": "3dljlkQlh9XFMWFVmH2gVz",
+            "track_name": "Subteniente De Linares",
+            "track_artist": "Los Cadetes de Linares de Alfredo Guerrero de la Cerda",
+            "track_album": "16 Corridos",
+            "track_duration": 213106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-01T22:33:41Z",
+            "uri": "spotify:track:3dljlkQlh9XFMWFVmH2gVz"
+        },
+        {
+            "track_id": "7MxJY6IxKUuAtIwVTpyBqK",
+            "track_name": "La Venganza De Maria",
+            "track_artist": "Los Cadetes de Linares de Alfredo Guerrero de la Cerda",
+            "track_album": "16 Corridos",
+            "track_duration": 202106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-01T22:33:47Z",
+            "uri": "spotify:track:7MxJY6IxKUuAtIwVTpyBqK"
+        },
+        {
+            "track_id": "54WSBfu085lG9nzASSzqBX",
+            "track_name": "Los Tres Judiciales",
+            "track_artist": "Los Cadetes de Linares de Alfredo Guerrero de la Cerda",
+            "track_album": "16 Corridos",
+            "track_duration": 210000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-01T22:33:50Z",
+            "uri": "spotify:track:54WSBfu085lG9nzASSzqBX"
+        },
+        {
+            "track_id": "5t38iiwV9fpGRKtj77s4JT",
+            "track_name": "El Corrido De Durango",
+            "track_artist": "Los Huracanes del Norte",
+            "track_album": "Alma Bohemia",
+            "track_duration": 176597,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-04T19:23:00Z",
+            "uri": "spotify:track:5t38iiwV9fpGRKtj77s4JT"
+        },
+        {
+            "track_id": "2Ufus5CvqQ5PMM8uyyAYib",
+            "track_name": "Adelita",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "BICENTENARIO",
+            "track_duration": 168674,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-07T11:34:32Z",
+            "uri": "spotify:track:2Ufus5CvqQ5PMM8uyyAYib"
+        },
+        {
+            "track_id": "60E7lE8WonZeaVqtK1AEmA",
+            "track_name": "Laurita Garza - En Vivo",
+            "track_artist": "Pesado",
+            "track_album": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+            "track_duration": 208653,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-07T11:40:29Z",
+            "uri": "spotify:track:60E7lE8WonZeaVqtK1AEmA"
+        },
+        {
+            "track_id": "0E88BFY5CeJOHkLvanLXDD",
+            "track_name": "Paso del Norte",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "Con Orgullo por Herencia",
+            "track_duration": 160908,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:23:26Z",
+            "uri": "spotify:track:0E88BFY5CeJOHkLvanLXDD"
+        },
+        {
+            "track_id": "6CFGvis6eOvoNzCsjQ8uVK",
+            "track_name": "Dos Amigos",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "Historias de Mi Tierra",
+            "track_duration": 195877,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:25:18Z",
+            "uri": "spotify:track:6CFGvis6eOvoNzCsjQ8uVK"
+        },
+        {
+            "track_id": "4T60a50CfYj4Nmbi5da0b7",
+            "track_name": "El Corrido de Monterrey",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "Historias de Mi Tierra",
+            "track_duration": 201165,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:26:07Z",
+            "uri": "spotify:track:4T60a50CfYj4Nmbi5da0b7"
+        },
+        {
+            "track_id": "3W5c1xWgzh3jE5AO1mWgwe",
+            "track_name": "Defendiendo el honor",
+            "track_artist": "Pesado",
+            "track_album": "Corridos bien Pesados para la Bohemia",
+            "track_duration": 231906,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:36:47Z",
+            "uri": "spotify:track:3W5c1xWgzh3jE5AO1mWgwe"
+        },
+        {
+            "track_id": "6cNcTcnOHTnWO5DR0R0FWc",
+            "track_name": "Las tres tumbas",
+            "track_artist": "Pesado",
+            "track_album": "Corridos bien Pesados para la Bohemia",
+            "track_duration": 196013,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:36:57Z",
+            "uri": "spotify:track:6cNcTcnOHTnWO5DR0R0FWc"
+        },
+        {
+            "track_id": "41HyOkcpfGEY2dbMaQxGUv",
+            "track_name": "Chito Cano",
+            "track_artist": "Pesado",
+            "track_album": "Corridos bien Pesados para la Bohemia",
+            "track_duration": 214786,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:37:21Z",
+            "uri": "spotify:track:41HyOkcpfGEY2dbMaQxGUv"
+        },
+        {
+            "track_id": "0awqFmkrwlWVwmeU6iPrel",
+            "track_name": "El bayo cara blanca",
+            "track_artist": "Pesado",
+            "track_album": "Corridos bien Pesados para la Bohemia",
+            "track_duration": 200373,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:37:25Z",
+            "uri": "spotify:track:0awqFmkrwlWVwmeU6iPrel"
+        },
+        {
+            "track_id": "5b9UFbSbztGtrRumEuG4ca",
+            "track_name": "Las cruces",
+            "track_artist": "Pesado",
+            "track_album": "Corridos bien Pesados para la Bohemia",
+            "track_duration": 218786,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:37:29Z",
+            "uri": "spotify:track:5b9UFbSbztGtrRumEuG4ca"
+        },
+        {
+            "track_id": "2LVWqv9zSzFXRU3dhaJW4Q",
+            "track_name": "Catarino y los rurales",
+            "track_artist": "Pesado",
+            "track_album": "Corridos bien Pesados para la Bohemia",
+            "track_duration": 161120,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:37:36Z",
+            "uri": "spotify:track:2LVWqv9zSzFXRU3dhaJW4Q"
+        },
+        {
+            "track_id": "1qTfAGIyoxM2Yl5KIGLoP7",
+            "track_name": "Las Tres Mujeres - En Vivo",
+            "track_artist": "Pesado",
+            "track_album": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+            "track_duration": 208666,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T21:43:17Z",
+            "uri": "spotify:track:1qTfAGIyoxM2Yl5KIGLoP7"
+        },
+        {
+            "track_id": "0nlTJImVzyGqfr5AU1A60A",
+            "track_name": "La entalladita",
+            "track_artist": "Pesado",
+            "track_album": "Discografia Completa",
+            "track_duration": 165120,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T22:03:11Z",
+            "uri": "spotify:track:0nlTJImVzyGqfr5AU1A60A"
+        },
+        {
+            "track_id": "7AeabubeCRt6uJRzmrPERE",
+            "track_name": "Tres criminales",
+            "track_artist": "Pesado",
+            "track_album": "Discografia Completa",
+            "track_duration": 177453,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T22:03:18Z",
+            "uri": "spotify:track:7AeabubeCRt6uJRzmrPERE"
+        },
+        {
+            "track_id": "3RLEGtVNc1Fw8FboMaj2JZ",
+            "track_name": "La Rafaelita",
+            "track_artist": "Pesado",
+            "track_album": "Discografia Completa",
+            "track_duration": 184613,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-10T22:04:24Z",
+            "uri": "spotify:track:3RLEGtVNc1Fw8FboMaj2JZ"
+        },
+        {
+            "track_id": "2ACuGjDb6i9T8K1tLZFcww",
+            "track_name": "Juan Guerrero",
+            "track_artist": "Los Tigres Del Norte",
+            "track_album": "Padre Nuestro Exitos Para Siempre..",
+            "track_duration": 175226,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-01-30T22:47:41Z",
+            "uri": "spotify:track:2ACuGjDb6i9T8K1tLZFcww"
+        },
+        {
+            "track_id": "17N5xjkhmh0dLXVP4sXfO4",
+            "track_name": "La Tumba Abandonada",
+            "track_artist": "Los Montaneses Del Alamo",
+            "track_album": "Paquetazo De Coleccion, Polkas Y Valses",
+            "track_duration": 142133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-02-12T21:28:30Z",
+            "uri": "spotify:track:17N5xjkhmh0dLXVP4sXfO4"
+        },
+        {
+            "track_id": "3fqDhDS2UZOb8Xk9aA3djY",
+            "track_name": "El Muchacho Alegre",
+            "track_artist": "Pepe Aguilar",
+            "track_album": "BICENTENARIO",
+            "track_duration": 177373,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-05-15T15:52:43Z",
+            "uri": "spotify:track:3fqDhDS2UZOb8Xk9aA3djY"
+        },
+        {
+            "track_id": "2uVtBHP06DqCZDIQoyxObE",
+            "track_name": "El Coyote",
+            "track_artist": "Jos\u00e9 Alfredo Jimenez",
+            "track_album": "Canta Sus Exitos Con La Banda Sinaloense El Recodo De Cruz Lizarraga (with Banda El Recodo De Don Cruz Lizarraga)",
+            "track_duration": 162240,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-06-15T00:26:22Z",
+            "uri": "spotify:track:2uVtBHP06DqCZDIQoyxObE"
+        },
+        {
+            "track_id": "66hofBO6IhEGj1nTdgX6F3",
+            "track_name": "El Azabache Del Diablo",
+            "track_artist": "Los Huracanes del Norte",
+            "track_album": "Los Huracanes del Norte - 40 Aniversario",
+            "track_duration": 189746,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-06-15T00:37:08Z",
+            "uri": "spotify:track:66hofBO6IhEGj1nTdgX6F3"
+        },
+        {
+            "track_id": "0R4cEaPkmOrIeCMQbSUdEE",
+            "track_name": "Gabino Barrera",
+            "track_artist": "Lola Beltr\u00e1n",
+            "track_album": "20 Aniversario",
+            "track_duration": 168306,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-06-30T18:19:51Z",
+            "uri": "spotify:track:0R4cEaPkmOrIeCMQbSUdEE"
+        },
+        {
+            "track_id": "2H7CDB0cHKwInh7jnpYAZd",
+            "track_name": "Huapango torero (con Mar\u00eda Elena Leal)",
+            "track_artist": "Lola Beltr\u00e1n",
+            "track_album": "20 Aniversario",
+            "track_duration": 243653,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-06-30T18:24:27Z",
+            "uri": "spotify:track:2H7CDB0cHKwInh7jnpYAZd"
+        },
+        {
+            "track_id": "5KtMlfYIZa3Z5pMUbL0vPI",
+            "track_name": "Lucio Caba\u00f1as",
+            "track_artist": "Los Valente",
+            "track_album": "El Gavilan Del Norte",
+            "track_duration": 182909,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-07-10T14:37:31Z",
+            "uri": "spotify:track:5KtMlfYIZa3Z5pMUbL0vPI"
+        },
+        {
+            "track_id": "63hKjraouLEtOB1lSlb9fq",
+            "track_name": "Genaro Vazquez",
+            "track_artist": "Dueto Castillo",
+            "track_album": "15 \u00c9xitos Originales",
+            "track_duration": 150675,
+            "track_added_by": "1291740798",
+            "track_added_at": "2019-07-10T14:40:54Z",
+            "uri": "spotify:track:63hKjraouLEtOB1lSlb9fq"
+        },
+        {
+            "track_id": "733Dc4x9n8ukb9fsIWuYcz",
+            "track_name": "Jacinto Cenobio",
+            "track_artist": "Amparo Ochoa",
+            "track_album": "\"Por Siempre\"",
+            "track_duration": 255186,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-10-25T03:18:57Z",
+            "uri": "spotify:track:733Dc4x9n8ukb9fsIWuYcz"
+        },
+        {
+            "track_id": "5rZYkP1Tl6qj9FzKyUXyio",
+            "track_name": "La Tumba De Zapata",
+            "track_artist": "Los Cadetes De Linares",
+            "track_album": "Corridos De La Revolucion Mexicana",
+            "track_duration": 129400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-10-29T17:09:26Z",
+            "uri": "spotify:track:5rZYkP1Tl6qj9FzKyUXyio"
+        },
+        {
+            "track_id": "0N6zrvXSF6bQXuBaeBBxFV",
+            "track_name": "Tres Judiciales",
+            "track_artist": "Los Cadetes De Linares",
+            "track_album": "Coleccion De Oro, Vol. 1",
+            "track_duration": 218600,
+            "track_added_by": "1291740798",
+            "track_added_at": "2020-10-30T01:22:44Z",
+            "uri": "spotify:track:0N6zrvXSF6bQXuBaeBBxFV"
+        },
+        {
+            "track_id": "3KXnVMFgHKnJFkoot8yJBU",
+            "track_name": "Catarino y los Rurales",
+            "track_artist": "El Fantasma",
+            "track_album": "Pa' los Recuerdos, Vol. 2",
+            "track_duration": 152762,
+            "track_added_by": "1291740798",
+            "track_added_at": "2022-05-13T10:04:48Z",
+            "uri": "spotify:track:3KXnVMFgHKnJFkoot8yJBU"
+        }
+    ]
+}
