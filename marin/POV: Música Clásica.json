@@ -1,0 +1,85 @@
+{
+    "id": "2CDcvLdMBGSOJvKgO6rrko",
+    "tracks": [
+        {
+            "track_id": "1KeJxSvW6pLU1ieRfQOMca",
+            "track_name": "Polovetsian Dances from Prince Igor: Introduzione",
+            "track_artist": "Alexander Borodin",
+            "track_album": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
+            "track_duration": 136960,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-02T19:55:06Z",
+            "uri": "spotify:track:1KeJxSvW6pLU1ieRfQOMca"
+        },
+        {
+            "track_id": "5JUZN3APQOGsw7LJZYEjmU",
+            "track_name": "Capriol Suite: 5. Pied-en- l'air",
+            "track_artist": "Peter Warlock",
+            "track_album": "Fantasia on Greensleeves",
+            "track_duration": 144266,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-03T18:17:24Z",
+            "uri": "spotify:track:5JUZN3APQOGsw7LJZYEjmU"
+        },
+        {
+            "track_id": "01Kz88KWZfblKpsu2HSDdK",
+            "track_name": "Suite bergamasque, L. 75: III. Clair de lune (Arr. for Flute & Piano)",
+            "track_artist": "Claude Debussy",
+            "track_album": "My Paris",
+            "track_duration": 273133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-03T19:44:26Z",
+            "uri": "spotify:track:01Kz88KWZfblKpsu2HSDdK"
+        },
+        {
+            "track_id": "4HUg8B66S2hzlrI2dNn7PU",
+            "track_name": "String Quartet No. 1 in A Minor, Op. 41 No. 1: III. Adagio",
+            "track_artist": "Robert Schumann",
+            "track_album": "R. Schumann: String Quartets Nos. 1-3, Op. 41",
+            "track_duration": 334292,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-03T19:52:45Z",
+            "uri": "spotify:track:4HUg8B66S2hzlrI2dNn7PU"
+        },
+        {
+            "track_id": "51bCy8xzAbIv2T0CKn0VNc",
+            "track_name": "Resting in the Fairy Forest",
+            "track_artist": "Derek Fiechter",
+            "track_album": "Faery Harp",
+            "track_duration": 366388,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-11T19:05:52Z",
+            "uri": "spotify:track:51bCy8xzAbIv2T0CKn0VNc"
+        },
+        {
+            "track_id": "1cmigB9I6IRpFqjIbzvSQB",
+            "track_name": "Suite bergamasque, L. 75: III. Clair de lune",
+            "track_artist": "Claude Debussy",
+            "track_album": "Debussy: Suite bergamasque, L. 75, 3. Clair de lune",
+            "track_duration": 294960,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-14T06:50:17Z",
+            "uri": "spotify:track:1cmigB9I6IRpFqjIbzvSQB"
+        },
+        {
+            "track_id": "4U2v1vLfpfNjOEXVuY1aHd",
+            "track_name": "Sadness and Sorrow (Naruto)",
+            "track_artist": "Taylor Davis",
+            "track_album": "Gaming Fantasy",
+            "track_duration": 165042,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-19T16:55:09Z",
+            "uri": "spotify:track:4U2v1vLfpfNjOEXVuY1aHd"
+        },
+        {
+            "track_id": "7hxg8eTHwsa9FS4vCf6G38",
+            "track_name": "\u05d1\u05e7\u05e8\u05d5\u05d1 (\u05d9\u05ea\u05d2\u05d3\u05dc)",
+            "track_artist": "Simche Friedman",
+            "track_album": "\u05dc\u05d1\u05d3\u05da",
+            "track_duration": 242858,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-04-27T19:23:49Z",
+            "uri": "spotify:track:7hxg8eTHwsa9FS4vCf6G38"
+        }
+    ]
+}
