@@ -1,0 +1,3005 @@
+{
+    "id": "7nvxzFy8enVAMLfHvzrOBE",
+    "tracks": [
+        {
+            "track_id": "0iTpQYzJnYgh7kIxyq8A2O",
+            "track_name": "Two Weeks",
+            "track_artist": "Grizzly Bear",
+            "track_album": "Veckatimest",
+            "track_duration": 243160,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T14:19:14Z",
+            "uri": "spotify:track:0iTpQYzJnYgh7kIxyq8A2O"
+        },
+        {
+            "track_id": "6jrP7fWRWBhaE7eLKg7mzz",
+            "track_name": "Suffragette Suffragette",
+            "track_artist": "Everything Everything",
+            "track_album": "Man Alive",
+            "track_duration": 243786,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T14:25:31Z",
+            "uri": "spotify:track:6jrP7fWRWBhaE7eLKg7mzz"
+        },
+        {
+            "track_id": "2n3JZ0r4oIQaDQDW4yjVpq",
+            "track_name": "Mountain at My Gates",
+            "track_artist": "Foals",
+            "track_album": "Mountain at My Gates",
+            "track_duration": 244293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T14:25:44Z",
+            "uri": "spotify:track:2n3JZ0r4oIQaDQDW4yjVpq"
+        },
+        {
+            "track_id": "7zkOj5tmXFxqxxAbOzvkgu",
+            "track_name": "Radiant",
+            "track_artist": "Everything Everything",
+            "track_album": "Arc (Deluxe)",
+            "track_duration": 230120,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T15:21:56Z",
+            "uri": "spotify:track:7zkOj5tmXFxqxxAbOzvkgu"
+        },
+        {
+            "track_id": "1gk3FhAV07q9Jg77UxnVjX",
+            "track_name": "Gooey",
+            "track_artist": "Glass Animals",
+            "track_album": "ZABA",
+            "track_duration": 289306,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T15:51:35Z",
+            "uri": "spotify:track:1gk3FhAV07q9Jg77UxnVjX"
+        },
+        {
+            "track_id": "3n69hLUdIsSa1WlRmjMZlW",
+            "track_name": "Breezeblocks",
+            "track_artist": "alt-J",
+            "track_album": "An Awesome Wave",
+            "track_duration": 227080,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T15:53:21Z",
+            "uri": "spotify:track:3n69hLUdIsSa1WlRmjMZlW"
+        },
+        {
+            "track_id": "08a6PhXyXeN3lv1DCKW9qY",
+            "track_name": "Do You",
+            "track_artist": "Spoon",
+            "track_album": "They Want My Soul",
+            "track_duration": 212653,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T15:59:33Z",
+            "uri": "spotify:track:08a6PhXyXeN3lv1DCKW9qY"
+        },
+        {
+            "track_id": "7b9h63I7EafcW2pVS9pcUr",
+            "track_name": "Retro [ROUGH]",
+            "track_artist": "Childish Gambino",
+            "track_album": "Kauai",
+            "track_duration": 202666,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T16:07:21Z",
+            "uri": "spotify:track:7b9h63I7EafcW2pVS9pcUr"
+        },
+        {
+            "track_id": "6BVBkKpZK09NmifUMZqj1z",
+            "track_name": "Every Other Freckle",
+            "track_artist": "alt-J",
+            "track_album": "This Is All Yours",
+            "track_duration": 216004,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T16:49:10Z",
+            "uri": "spotify:track:6BVBkKpZK09NmifUMZqj1z"
+        },
+        {
+            "track_id": "177pePxmKgtYylD5OOMYei",
+            "track_name": "Feeding Line",
+            "track_artist": "Boy & Bear",
+            "track_album": "Moonfire",
+            "track_duration": 269866,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-19T22:07:55Z",
+            "uri": "spotify:track:177pePxmKgtYylD5OOMYei"
+        },
+        {
+            "track_id": "63OC8cNa4ZnFB3bbvbWCOc",
+            "track_name": "Black Mambo",
+            "track_artist": "Glass Animals",
+            "track_album": "ZABA",
+            "track_duration": 248920,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-20T23:47:47Z",
+            "uri": "spotify:track:63OC8cNa4ZnFB3bbvbWCOc"
+        },
+        {
+            "track_id": "58Qol5xzalwqF912GE9vQv",
+            "track_name": "Barcelona",
+            "track_artist": "George Ezra",
+            "track_album": "Wanted on Voyage",
+            "track_duration": 188960,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T01:13:36Z",
+            "uri": "spotify:track:58Qol5xzalwqF912GE9vQv"
+        },
+        {
+            "track_id": "5ha5pLTqxH941JvejzDqLZ",
+            "track_name": "Someone New",
+            "track_artist": "Hozier",
+            "track_album": "Hozier (Deluxe)",
+            "track_duration": 222813,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T01:21:52Z",
+            "uri": "spotify:track:5ha5pLTqxH941JvejzDqLZ"
+        },
+        {
+            "track_id": "0Cng3O0fIHllQx3S78RvmL",
+            "track_name": "From Eden",
+            "track_artist": "Hozier",
+            "track_album": "Hozier (Deluxe)",
+            "track_duration": 283466,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T01:21:57Z",
+            "uri": "spotify:track:0Cng3O0fIHllQx3S78RvmL"
+        },
+        {
+            "track_id": "3fAs1GvVMjMeMCTdjyQgyC",
+            "track_name": "Brainchild",
+            "track_artist": "Everything Everything",
+            "track_album": "Get To Heaven (Deluxe)",
+            "track_duration": 231506,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T11:50:52Z",
+            "uri": "spotify:track:3fAs1GvVMjMeMCTdjyQgyC"
+        },
+        {
+            "track_id": "0EPEDf5JaggGlchpfXNWVI",
+            "track_name": "Esperaba",
+            "track_artist": "Julieta Venegas",
+            "track_album": "Algo Sucede",
+            "track_duration": 195653,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T22:15:01Z",
+            "uri": "spotify:track:0EPEDf5JaggGlchpfXNWVI"
+        },
+        {
+            "track_id": "5gR1hNKjMjJwXNONX38FK8",
+            "track_name": "Ese Camino",
+            "track_artist": "Julieta Venegas",
+            "track_album": "Algo Sucede",
+            "track_duration": 189786,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T22:15:08Z",
+            "uri": "spotify:track:5gR1hNKjMjJwXNONX38FK8"
+        },
+        {
+            "track_id": "66pfshEawC32IjFl0h8dzr",
+            "track_name": "Schoolin\u2019",
+            "track_artist": "Everything Everything",
+            "track_album": "Man Alive",
+            "track_duration": 278853,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T22:35:02Z",
+            "uri": "spotify:track:66pfshEawC32IjFl0h8dzr"
+        },
+        {
+            "track_id": "2MISJ8EIpcM8nN2V2CK2wY",
+            "track_name": "Tu Calor",
+            "track_artist": "Julieta Venegas",
+            "track_album": "Algo Sucede",
+            "track_duration": 200706,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T23:41:06Z",
+            "uri": "spotify:track:2MISJ8EIpcM8nN2V2CK2wY"
+        },
+        {
+            "track_id": "6I5cQVYvoc5dqpyYvYHpSw",
+            "track_name": "Cough Cough",
+            "track_artist": "Everything Everything",
+            "track_album": "Arc (Deluxe)",
+            "track_duration": 222386,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-21T23:54:40Z",
+            "uri": "spotify:track:6I5cQVYvoc5dqpyYvYHpSw"
+        },
+        {
+            "track_id": "0Ou9ZGEhuxJwu5SbEp2XQp",
+            "track_name": "Spring / Sun / Winter / Dread",
+            "track_artist": "Everything Everything",
+            "track_album": "Get To Heaven (Deluxe)",
+            "track_duration": 198213,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-22T00:54:38Z",
+            "uri": "spotify:track:0Ou9ZGEhuxJwu5SbEp2XQp"
+        },
+        {
+            "track_id": "0SlCGqseokg8qXSBJRQwII",
+            "track_name": "Don't Try",
+            "track_artist": "Everything Everything",
+            "track_album": "Arc (Deluxe)",
+            "track_duration": 253600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-22T01:18:38Z",
+            "uri": "spotify:track:0SlCGqseokg8qXSBJRQwII"
+        },
+        {
+            "track_id": "54oFXvBXWRGYRN88zjFKkH",
+            "track_name": "Tompkins Square Park",
+            "track_artist": "Mumford & Sons",
+            "track_album": "Wilder Mind",
+            "track_duration": 312626,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-08-25T17:52:34Z",
+            "uri": "spotify:track:54oFXvBXWRGYRN88zjFKkH"
+        },
+        {
+            "track_id": "7vsZgwQJxI8kVCN15OyWQl",
+            "track_name": "Naked Trees",
+            "track_artist": "Me Like Bees",
+            "track_album": "The Ides",
+            "track_duration": 272319,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-09-04T00:45:23Z",
+            "uri": "spotify:track:7vsZgwQJxI8kVCN15OyWQl"
+        },
+        {
+            "track_id": "6uE4CankW8KhGCWIgPKJVC",
+            "track_name": "Give Me Something",
+            "track_artist": "Jarryd James",
+            "track_album": "Give Me Something",
+            "track_duration": 191119,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-09-04T11:46:46Z",
+            "uri": "spotify:track:6uE4CankW8KhGCWIgPKJVC"
+        },
+        {
+            "track_id": "14Rcq31SafFBHNEwXrtR2B",
+            "track_name": "Hold On, We're Going Home",
+            "track_artist": "Drake",
+            "track_album": "Nothing Was The Same (Deluxe)",
+            "track_duration": 227880,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-09-14T22:15:42Z",
+            "uri": "spotify:track:14Rcq31SafFBHNEwXrtR2B"
+        },
+        {
+            "track_id": "5c9YHjSjEZxaCxsF1Gy5Jt",
+            "track_name": "From Nowhere",
+            "track_artist": "Dan Croll",
+            "track_album": "Sweet Disarray",
+            "track_duration": 196848,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-09-21T15:33:13Z",
+            "uri": "spotify:track:5c9YHjSjEZxaCxsF1Gy5Jt"
+        },
+        {
+            "track_id": "6sarUARDOnVNNDlo1wC58p",
+            "track_name": "Dissolve",
+            "track_artist": "Absofacto",
+            "track_album": "Dissolve",
+            "track_duration": 224660,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-09-23T03:44:54Z",
+            "uri": "spotify:track:6sarUARDOnVNNDlo1wC58p"
+        },
+        {
+            "track_id": "1kcojpTEC3bnNjcYTSeah0",
+            "track_name": "Emily",
+            "track_artist": "San Fermin",
+            "track_album": "Jackrabbit",
+            "track_duration": 224866,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-10-07T11:38:52Z",
+            "uri": "spotify:track:1kcojpTEC3bnNjcYTSeah0"
+        },
+        {
+            "track_id": "1fWwxmWor6QbvBeLSV428F",
+            "track_name": "Seventeen",
+            "track_artist": "Sjowgren",
+            "track_album": "Seventeen",
+            "track_duration": 226952,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-10-07T16:14:39Z",
+            "uri": "spotify:track:1fWwxmWor6QbvBeLSV428F"
+        },
+        {
+            "track_id": "390zQV72aph1h6DC34P0j0",
+            "track_name": "Fin De Semana",
+            "track_artist": "Zo\u00e9",
+            "track_album": "Programaton",
+            "track_duration": 191293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-10-09T03:51:44Z",
+            "uri": "spotify:track:390zQV72aph1h6DC34P0j0"
+        },
+        {
+            "track_id": "7zFTcMAZVXm5p0AK4Xkabf",
+            "track_name": "Solace",
+            "track_artist": "Fyfe",
+            "track_album": "Control",
+            "track_duration": 239885,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-10-13T03:41:29Z",
+            "uri": "spotify:track:7zFTcMAZVXm5p0AK4Xkabf"
+        },
+        {
+            "track_id": "5dLF41mBaC8ELD3YtXgXEP",
+            "track_name": "Born Too Late",
+            "track_artist": "Dent May",
+            "track_album": "Warm Blanket",
+            "track_duration": 281186,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2015-10-13T03:09:59Z",
+            "uri": "spotify:track:5dLF41mBaC8ELD3YtXgXEP"
+        },
+        {
+            "track_id": "5GcIkwCHkmxtaqlQ94dnhb",
+            "track_name": "Needle",
+            "track_artist": "Born Ruffians",
+            "track_album": "Birthmarks",
+            "track_duration": 213870,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-17T05:55:21Z",
+            "uri": "spotify:track:5GcIkwCHkmxtaqlQ94dnhb"
+        },
+        {
+            "track_id": "5Az8KU81g2aLBbJN67F2CI",
+            "track_name": "Mind Over Matter",
+            "track_artist": "Young the Giant",
+            "track_album": "Mind Over Matter",
+            "track_duration": 244693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-17T19:53:06Z",
+            "uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI"
+        },
+        {
+            "track_id": "6ccQnHcV1y8Q9GHbB0ggmP",
+            "track_name": "Punks and Poets",
+            "track_artist": "Elliot Root",
+            "track_album": "2",
+            "track_duration": 243646,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-25T01:54:56Z",
+            "uri": "spotify:track:6ccQnHcV1y8Q9GHbB0ggmP"
+        },
+        {
+            "track_id": "4EIOYz4LKS56LXEPC8YeAs",
+            "track_name": "Big Sis",
+            "track_artist": "SALES",
+            "track_album": "Big Sis",
+            "track_duration": 166400,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-02-09T04:51:39Z",
+            "uri": "spotify:track:4EIOYz4LKS56LXEPC8YeAs"
+        },
+        {
+            "track_id": "78rsjbLfL9aL5s7lXYzNa7",
+            "track_name": "Test Pilot",
+            "track_artist": "TV On The Radio",
+            "track_album": "Seeds",
+            "track_duration": 281957,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-02-13T21:27:14Z",
+            "uri": "spotify:track:78rsjbLfL9aL5s7lXYzNa7"
+        },
+        {
+            "track_id": "05A0R3cWIF1uJIJteXy1pH",
+            "track_name": "Moscow",
+            "track_artist": "Autoheart",
+            "track_album": "Punch",
+            "track_duration": 235840,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-02-16T04:30:57Z",
+            "uri": "spotify:track:05A0R3cWIF1uJIJteXy1pH"
+        },
+        {
+            "track_id": "5ndyjqPPACB114cu4PlAw9",
+            "track_name": "Clap Your Hands",
+            "track_artist": "Whilk & Misky",
+            "track_album": "The First Sip",
+            "track_duration": 305532,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-03-02T04:46:29Z",
+            "uri": "spotify:track:5ndyjqPPACB114cu4PlAw9"
+        },
+        {
+            "track_id": "3Ig9iIYOsY1DEQhQ6Arrr6",
+            "track_name": "Dead Sea",
+            "track_artist": "The Lumineers",
+            "track_album": "The Lumineers",
+            "track_duration": 247933,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-03-14T03:15:44Z",
+            "uri": "spotify:track:3Ig9iIYOsY1DEQhQ6Arrr6"
+        },
+        {
+            "track_id": "5QZJAcP4nu3xL2NQV4AVHO",
+            "track_name": "The Gospel of John Hurt",
+            "track_artist": "alt-J",
+            "track_album": "This Is All Yours",
+            "track_duration": 315524,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:23:33Z",
+            "uri": "spotify:track:5QZJAcP4nu3xL2NQV4AVHO"
+        },
+        {
+            "track_id": "1IudVcAziTe0kOu3De3jDt",
+            "track_name": "Get To Heaven",
+            "track_artist": "Everything Everything",
+            "track_album": "Get To Heaven (Deluxe)",
+            "track_duration": 223693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:23:35Z",
+            "uri": "spotify:track:1IudVcAziTe0kOu3De3jDt"
+        },
+        {
+            "track_id": "5I7NPSa5hayTg2CE7NtJNi",
+            "track_name": "Redshift",
+            "track_artist": "Darwin Deez",
+            "track_album": "Songs For Imaginative People",
+            "track_duration": 238786,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:23:36Z",
+            "uri": "spotify:track:5I7NPSa5hayTg2CE7NtJNi"
+        },
+        {
+            "track_id": "2lrGJgwCRIpD9SzIWKiLWo",
+            "track_name": "Final Form",
+            "track_artist": "Everything Everything",
+            "track_album": "Man Alive",
+            "track_duration": 328000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:23:42Z",
+            "uri": "spotify:track:2lrGJgwCRIpD9SzIWKiLWo"
+        },
+        {
+            "track_id": "3hS2piEmOGerSDPb5n0JMn",
+            "track_name": "Harbour Lights",
+            "track_artist": "A Silent Film",
+            "track_album": "Sand & Snow",
+            "track_duration": 232986,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:23:53Z",
+            "uri": "spotify:track:3hS2piEmOGerSDPb5n0JMn"
+        },
+        {
+            "track_id": "1vQJo9Z9bvaeqdoFh4W097",
+            "track_name": "To The Blade",
+            "track_artist": "Everything Everything",
+            "track_album": "Get To Heaven (Deluxe)",
+            "track_duration": 253986,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:23:54Z",
+            "uri": "spotify:track:1vQJo9Z9bvaeqdoFh4W097"
+        },
+        {
+            "track_id": "2B03MMzTQlH4Vm6o6mEp03",
+            "track_name": "Do What You Do",
+            "track_artist": "Great Wolf",
+            "track_album": "We Can't Be Stopped",
+            "track_duration": 196833,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:23:58Z",
+            "uri": "spotify:track:2B03MMzTQlH4Vm6o6mEp03"
+        },
+        {
+            "track_id": "1rg9i5UE2qefjows4qWlOl",
+            "track_name": "Kemosabe",
+            "track_artist": "Everything Everything",
+            "track_album": "Arc (Deluxe)",
+            "track_duration": 223733,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:02Z",
+            "uri": "spotify:track:1rg9i5UE2qefjows4qWlOl"
+        },
+        {
+            "track_id": "4c9WmjVlQMr0s1IjbYO52Z",
+            "track_name": "My Number",
+            "track_artist": "Foals",
+            "track_album": "Holy Fire",
+            "track_duration": 240533,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:02Z",
+            "uri": "spotify:track:4c9WmjVlQMr0s1IjbYO52Z"
+        },
+        {
+            "track_id": "7KPLvVaccakFAxIBjntHUe",
+            "track_name": "Greek Tragedy",
+            "track_artist": "The Wombats",
+            "track_album": "Glitterbug",
+            "track_duration": 209557,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:02Z",
+            "uri": "spotify:track:7KPLvVaccakFAxIBjntHUe"
+        },
+        {
+            "track_id": "2kW59AS9OrpFsuXbi2939R",
+            "track_name": "Forest Whitaker",
+            "track_artist": "Bad Books",
+            "track_album": "II",
+            "track_duration": 220600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:04Z",
+            "uri": "spotify:track:2kW59AS9OrpFsuXbi2939R"
+        },
+        {
+            "track_id": "4L2F0LcDVtNrFc1K4lmx3m",
+            "track_name": "Distant Past",
+            "track_artist": "Everything Everything",
+            "track_album": "Get To Heaven (Deluxe)",
+            "track_duration": 221693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:08Z",
+            "uri": "spotify:track:4L2F0LcDVtNrFc1K4lmx3m"
+        },
+        {
+            "track_id": "7BHPGtpuuWWsvE7cCaMuEU",
+            "track_name": "Naive",
+            "track_artist": "The Kooks",
+            "track_album": "Inside In / Inside Out",
+            "track_duration": 203506,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:11Z",
+            "uri": "spotify:track:7BHPGtpuuWWsvE7cCaMuEU"
+        },
+        {
+            "track_id": "7ayoL7WrBQP3ccJqELQXFK",
+            "track_name": "Give Me a Try",
+            "track_artist": "The Wombats",
+            "track_album": "Glitterbug",
+            "track_duration": 228470,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:22Z",
+            "uri": "spotify:track:7ayoL7WrBQP3ccJqELQXFK"
+        },
+        {
+            "track_id": "7acHFntM5UgPUQ6jC06J9Q",
+            "track_name": "Sun",
+            "track_artist": "Two Door Cinema Club",
+            "track_album": "Beacon (Deluxe Version)",
+            "track_duration": 187720,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:22Z",
+            "uri": "spotify:track:7acHFntM5UgPUQ6jC06J9Q"
+        },
+        {
+            "track_id": "5DN1QdgodyvoM4efdXUR1c",
+            "track_name": "Regret",
+            "track_artist": "Everything Everything",
+            "track_album": "Get To Heaven (Deluxe)",
+            "track_duration": 202613,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:30Z",
+            "uri": "spotify:track:5DN1QdgodyvoM4efdXUR1c"
+        },
+        {
+            "track_id": "4Bvwg6cdVpJOHRRUKZBDAp",
+            "track_name": "Changing Of The Seasons",
+            "track_artist": "Two Door Cinema Club",
+            "track_album": "Changing Of The Seasons",
+            "track_duration": 222880,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:40Z",
+            "uri": "spotify:track:4Bvwg6cdVpJOHRRUKZBDAp"
+        },
+        {
+            "track_id": "7kzKAuUzOITUauHAhoMoxA",
+            "track_name": "Last Nite",
+            "track_artist": "The Strokes",
+            "track_album": "Is This It",
+            "track_duration": 193506,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-05-27T16:24:40Z",
+            "uri": "spotify:track:7kzKAuUzOITUauHAhoMoxA"
+        },
+        {
+            "track_id": "12REd1n8PeiHHWOh066tpr",
+            "track_name": "Never Be Like You",
+            "track_artist": "Flume",
+            "track_album": "Skin",
+            "track_duration": 233337,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-06-18T20:25:29Z",
+            "uri": "spotify:track:12REd1n8PeiHHWOh066tpr"
+        },
+        {
+            "track_id": "1ZPMK5UTafelYEQXmckRgN",
+            "track_name": "The Hunter",
+            "track_artist": "Red Hot Chili Peppers",
+            "track_album": "The Getaway",
+            "track_duration": 240360,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-07-01T18:08:57Z",
+            "uri": "spotify:track:1ZPMK5UTafelYEQXmckRgN"
+        },
+        {
+            "track_id": "5nqof30JRAkvfxcj9cgS0n",
+            "track_name": "Conqueror",
+            "track_artist": "AURORA",
+            "track_album": "All My Demons Greeting Me As A Friend (Deluxe Version)",
+            "track_duration": 207506,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-09-01T03:47:49Z",
+            "uri": "spotify:track:5nqof30JRAkvfxcj9cgS0n"
+        },
+        {
+            "track_id": "6g0o3FK5GqsjPV488bBtDj",
+            "track_name": "Dinossauros",
+            "track_artist": "Dingo Bells",
+            "track_album": "Maravilhas da Vida Moderna",
+            "track_duration": 266546,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-09-26T13:41:49Z",
+            "uri": "spotify:track:6g0o3FK5GqsjPV488bBtDj"
+        },
+        {
+            "track_id": "7tHDo6DikGmtI66DtvxvfH",
+            "track_name": "Sour Grapes",
+            "track_artist": "John the Ghost",
+            "track_album": "Sincerely, John the Ghost",
+            "track_duration": 253043,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-12-06T17:47:40Z",
+            "uri": "spotify:track:7tHDo6DikGmtI66DtvxvfH"
+        },
+        {
+            "track_id": "0pDiuLFCze5s5UWPp5K2fS",
+            "track_name": "God's Graffiti",
+            "track_artist": "Darling James",
+            "track_album": "God's Graffiti",
+            "track_duration": 216372,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-12-08T19:19:19Z",
+            "uri": "spotify:track:0pDiuLFCze5s5UWPp5K2fS"
+        },
+        {
+            "track_id": "4ulyMmII2sodFnQXeRF6DF",
+            "track_name": "Emoticons",
+            "track_artist": "The Wombats",
+            "track_album": "Glitterbug",
+            "track_duration": 259346,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-12-09T18:37:10Z",
+            "uri": "spotify:track:4ulyMmII2sodFnQXeRF6DF"
+        },
+        {
+            "track_id": "1Er5JMNcguoBMFXxwZ7BWH",
+            "track_name": "White Winter Hymnal",
+            "track_artist": "Fleet Foxes",
+            "track_album": "Fleet Foxes",
+            "track_duration": 147026,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-12-10T15:55:53Z",
+            "uri": "spotify:track:1Er5JMNcguoBMFXxwZ7BWH"
+        },
+        {
+            "track_id": "1ReBFnRG82cgGs41ChSKbn",
+            "track_name": "Morphine",
+            "track_artist": "The Ninjas",
+            "track_album": "Morphine",
+            "track_duration": 225750,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-12-19T17:54:46Z",
+            "uri": "spotify:track:1ReBFnRG82cgGs41ChSKbn"
+        },
+        {
+            "track_id": "3x8IsQzb1KhPPo6zNGzzL1",
+            "track_name": "Lay Down",
+            "track_artist": "Son Little",
+            "track_album": "Son Little (Deluxe Edition)",
+            "track_duration": 228000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-01-15T19:42:53Z",
+            "uri": "spotify:track:3x8IsQzb1KhPPo6zNGzzL1"
+        },
+        {
+            "track_id": "2kkX9IzielZhUBybezdE0m",
+            "track_name": "Parade",
+            "track_artist": "Kevin Morby",
+            "track_album": "Still Life",
+            "track_duration": 325426,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-01-17T20:24:08Z",
+            "uri": "spotify:track:2kkX9IzielZhUBybezdE0m"
+        },
+        {
+            "track_id": "43np7Vo0MSRM7xBMpoBGFe",
+            "track_name": "This Is How We Walk on the Moon",
+            "track_artist": "Geographer",
+            "track_album": "Endless Motion Vol. 1",
+            "track_duration": 238721,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-01-17T20:35:45Z",
+            "uri": "spotify:track:43np7Vo0MSRM7xBMpoBGFe"
+        },
+        {
+            "track_id": "4VJtGn42R0lLj4Vc7EUVjV",
+            "track_name": "Overflow",
+            "track_artist": "Ghost Loft",
+            "track_album": "Overflow",
+            "track_duration": 190370,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-01-18T09:33:30Z",
+            "uri": "spotify:track:4VJtGn42R0lLj4Vc7EUVjV"
+        },
+        {
+            "track_id": "6UWmNaS12bUJzFBuQB6e7j",
+            "track_name": "Grave Digger",
+            "track_artist": "Matt Maeson",
+            "track_album": "Grave Digger",
+            "track_duration": 237898,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-01-28T23:51:48Z",
+            "uri": "spotify:track:6UWmNaS12bUJzFBuQB6e7j"
+        },
+        {
+            "track_id": "3kxfsdsCpFgN412fpnW85Y",
+            "track_name": "Redbone",
+            "track_artist": "Childish Gambino",
+            "track_album": "\"Awaken, My Love!\"",
+            "track_duration": 326933,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-01-29T13:00:33Z",
+            "uri": "spotify:track:3kxfsdsCpFgN412fpnW85Y"
+        },
+        {
+            "track_id": "3RjzyVqcR488WKazcVVJTS",
+            "track_name": "Sixty Charisma Scented Blackbirds",
+            "track_artist": "Gabriel Mayers",
+            "track_album": "Sixty Charisma Scented Blackbirds",
+            "track_duration": 289962,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-06T20:19:37Z",
+            "uri": "spotify:track:3RjzyVqcR488WKazcVVJTS"
+        },
+        {
+            "track_id": "6YDf6QV7QfCEo8O2dbWalK",
+            "track_name": "Real Love Baby",
+            "track_artist": "Father John Misty",
+            "track_album": "Real Love Baby",
+            "track_duration": 189293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-08T16:10:00Z",
+            "uri": "spotify:track:6YDf6QV7QfCEo8O2dbWalK"
+        },
+        {
+            "track_id": "7dbqpLnsRyRytiKbpIItMl",
+            "track_name": "Hold On",
+            "track_artist": "Roosevelt",
+            "track_album": "Roosevelt",
+            "track_duration": 207199,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-08T16:13:06Z",
+            "uri": "spotify:track:7dbqpLnsRyRytiKbpIItMl"
+        },
+        {
+            "track_id": "1DrlLvlYd1FIjNavRm6NdX",
+            "track_name": "Back Pocket",
+            "track_artist": "Vulfpeck",
+            "track_album": "Thrill of the Arts",
+            "track_duration": 181259,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-08T16:19:10Z",
+            "uri": "spotify:track:1DrlLvlYd1FIjNavRm6NdX"
+        },
+        {
+            "track_id": "2GLcl7UDyXxv9THrmZwJa4",
+            "track_name": "Control",
+            "track_artist": "John Mark Nelson",
+            "track_album": "I'm Not Afraid",
+            "track_duration": 200170,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-10T14:05:09Z",
+            "uri": "spotify:track:2GLcl7UDyXxv9THrmZwJa4"
+        },
+        {
+            "track_id": "2j4RC1LkwV47B0BMZNyvE3",
+            "track_name": "Lucy The Tease",
+            "track_artist": "Allan Rayman",
+            "track_album": "Hotel Allan",
+            "track_duration": 182773,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-10T15:05:30Z",
+            "uri": "spotify:track:2j4RC1LkwV47B0BMZNyvE3"
+        },
+        {
+            "track_id": "5E30LdtzQTGqRvNd7l6kG5",
+            "track_name": "Daddy Issues",
+            "track_artist": "The Neighbourhood",
+            "track_album": "Wiped Out!",
+            "track_duration": 260173,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-17T20:39:14Z",
+            "uri": "spotify:track:5E30LdtzQTGqRvNd7l6kG5"
+        },
+        {
+            "track_id": "5HzEg0V4L0GKCke6xOBNwO",
+            "track_name": "Ain't Scared",
+            "track_artist": "The Tragic Thrills",
+            "track_album": "Ain't Scared",
+            "track_duration": 260333,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-22T09:41:53Z",
+            "uri": "spotify:track:5HzEg0V4L0GKCke6xOBNwO"
+        },
+        {
+            "track_id": "2kz40rIHjfGYxurLiuCBp9",
+            "track_name": "Lost on You",
+            "track_artist": "LP",
+            "track_album": "Death Valley",
+            "track_duration": 268105,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-22T20:58:44Z",
+            "uri": "spotify:track:2kz40rIHjfGYxurLiuCBp9"
+        },
+        {
+            "track_id": "7BveOHNCRW3FqnAtA2Gnb0",
+            "track_name": "All I Ever Wonder",
+            "track_artist": "St. Paul & The Broken Bones",
+            "track_album": "All I Ever Wonder",
+            "track_duration": 209440,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-22T22:05:56Z",
+            "uri": "spotify:track:7BveOHNCRW3FqnAtA2Gnb0"
+        },
+        {
+            "track_id": "7412fpVfB2PSSb1nENQczC",
+            "track_name": "Sheep",
+            "track_artist": "Mt. Joy",
+            "track_album": "Sheep",
+            "track_duration": 215180,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-24T10:51:37Z",
+            "uri": "spotify:track:7412fpVfB2PSSb1nENQczC"
+        },
+        {
+            "track_id": "0AU6pV4oIsdpKRrGnVLkLZ",
+            "track_name": "Where'd You Go",
+            "track_artist": "Boy & Bear",
+            "track_album": "Limit of Love",
+            "track_duration": 189226,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-27T15:48:23Z",
+            "uri": "spotify:track:0AU6pV4oIsdpKRrGnVLkLZ"
+        },
+        {
+            "track_id": "1Ncfo3Q2IT4oc3RG719AIz",
+            "track_name": "Smoke",
+            "track_artist": "Mosa Wild",
+            "track_album": "Smoke",
+            "track_duration": 227121,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-28T09:29:50Z",
+            "uri": "spotify:track:1Ncfo3Q2IT4oc3RG719AIz"
+        },
+        {
+            "track_id": "6PRujayXxS5UK0Y4VrB6r3",
+            "track_name": "Take It All Back 2.0",
+            "track_artist": "Judah & the Lion",
+            "track_album": "Folk Hop N' Roll (Deluxe)",
+            "track_duration": 218240,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-28T10:07:24Z",
+            "uri": "spotify:track:6PRujayXxS5UK0Y4VrB6r3"
+        },
+        {
+            "track_id": "748BGjhK0WhGJ2maK904zl",
+            "track_name": "Wilderlove",
+            "track_artist": "John Mark McMillan",
+            "track_album": "Wilderlove",
+            "track_duration": 278165,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-02-28T11:23:38Z",
+            "uri": "spotify:track:748BGjhK0WhGJ2maK904zl"
+        },
+        {
+            "track_id": "21vtyMs7mkb0ji9llNXGm4",
+            "track_name": "Game",
+            "track_artist": "Mating Ritual",
+            "track_album": "Game",
+            "track_duration": 263613,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-03-02T15:40:45Z",
+            "uri": "spotify:track:21vtyMs7mkb0ji9llNXGm4"
+        },
+        {
+            "track_id": "312WNtMs3F28cUukaPY9bo",
+            "track_name": "American Teen",
+            "track_artist": "Khalid",
+            "track_album": "American Teen",
+            "track_duration": 250746,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-03-05T21:42:03Z",
+            "uri": "spotify:track:312WNtMs3F28cUukaPY9bo"
+        },
+        {
+            "track_id": "5qfZRNjt2TkHEL12r3sDEU",
+            "track_name": "Everglow",
+            "track_artist": "Coldplay",
+            "track_album": "A Head Full of Dreams",
+            "track_duration": 282693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-03-09T19:58:04Z",
+            "uri": "spotify:track:5qfZRNjt2TkHEL12r3sDEU"
+        },
+        {
+            "track_id": "6Ytc2DpbH64dn97JfyHt0h",
+            "track_name": "Leave The Engine Room",
+            "track_artist": "Everything Everything",
+            "track_album": "Man Alive",
+            "track_duration": 187666,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-04-17T12:29:10Z",
+            "uri": "spotify:track:6Ytc2DpbH64dn97JfyHt0h"
+        },
+        {
+            "track_id": "5gH7FAegI4ahWusg7QC8Gl",
+            "track_name": "Forty-Five",
+            "track_artist": "DICKIE",
+            "track_album": "DICKIE",
+            "track_duration": 354040,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-04-28T12:23:50Z",
+            "uri": "spotify:track:5gH7FAegI4ahWusg7QC8Gl"
+        },
+        {
+            "track_id": "1MoDk4XDqdX25GXaRfXY2O",
+            "track_name": "7",
+            "track_artist": "Catfish and the Bottlemen",
+            "track_album": "The Ride",
+            "track_duration": 256306,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-05-07T07:06:23Z",
+            "uri": "spotify:track:1MoDk4XDqdX25GXaRfXY2O"
+        },
+        {
+            "track_id": "4Q6Kuze3wNMQRjamyBjHUR",
+            "track_name": "Rivers and Roads",
+            "track_artist": "The Head And The Heart",
+            "track_album": "The Head and the Heart",
+            "track_duration": 284000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-06-09T05:05:42Z",
+            "uri": "spotify:track:4Q6Kuze3wNMQRjamyBjHUR"
+        },
+        {
+            "track_id": "7pamxApUs3CE8t7tKmUJ6Z",
+            "track_name": "The Bird",
+            "track_artist": "Anderson .Paak",
+            "track_album": "Malibu",
+            "track_duration": 217773,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-06-10T01:19:40Z",
+            "uri": "spotify:track:7pamxApUs3CE8t7tKmUJ6Z"
+        },
+        {
+            "track_id": "0y60itmpH0aPKsFiGxmtnh",
+            "track_name": "Wait a Minute!",
+            "track_artist": "WILLOW",
+            "track_album": "ARDIPITHECUS",
+            "track_duration": 196520,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-06-10T02:10:04Z",
+            "uri": "spotify:track:0y60itmpH0aPKsFiGxmtnh"
+        },
+        {
+            "track_id": "2H30WL3exSctlDC9GyRbD4",
+            "track_name": "Live Well",
+            "track_artist": "Palace",
+            "track_album": "So Long Forever",
+            "track_duration": 249840,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-06-11T19:47:35Z",
+            "uri": "spotify:track:2H30WL3exSctlDC9GyRbD4"
+        },
+        {
+            "track_id": "11gfOUFtnHemJ06cUCAifs",
+            "track_name": "Deluca",
+            "track_artist": "Ruby Empress",
+            "track_album": "Deluca",
+            "track_duration": 234933,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-06-12T17:21:19Z",
+            "uri": "spotify:track:11gfOUFtnHemJ06cUCAifs"
+        },
+        {
+            "track_id": "6EThJr4Dq1Y93JspecGU2F",
+            "track_name": "Cigarette Daydreams",
+            "track_artist": "Cage The Elephant",
+            "track_album": "Melophobia",
+            "track_duration": 208765,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-06-13T22:47:35Z",
+            "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F"
+        },
+        {
+            "track_id": "0xxm1WskKZSCvbkGjkSMr2",
+            "track_name": "Open Your Eyes",
+            "track_artist": "STRFKR",
+            "track_album": "Being No One, Going Nowhere",
+            "track_duration": 232946,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-01T04:52:43Z",
+            "uri": "spotify:track:0xxm1WskKZSCvbkGjkSMr2"
+        },
+        {
+            "track_id": "4KoCqdHNqFBMo4iKiMFsfV",
+            "track_name": "30,000 Ft.",
+            "track_artist": "Blue Healer",
+            "track_album": "Blue Healer",
+            "track_duration": 221365,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-01T15:00:37Z",
+            "uri": "spotify:track:4KoCqdHNqFBMo4iKiMFsfV"
+        },
+        {
+            "track_id": "5dwFBynoPj2xF0kVOnF3aq",
+            "track_name": "Quarters",
+            "track_artist": "Lost Cousins",
+            "track_album": "Quarters",
+            "track_duration": 202524,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-03T03:23:44Z",
+            "uri": "spotify:track:5dwFBynoPj2xF0kVOnF3aq"
+        },
+        {
+            "track_id": "41oqThgUF4yiNz77TazXtl",
+            "track_name": "Now & Then",
+            "track_artist": "Sjowgren",
+            "track_album": "Now & Then",
+            "track_duration": 205893,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-03T04:56:16Z",
+            "uri": "spotify:track:41oqThgUF4yiNz77TazXtl"
+        },
+        {
+            "track_id": "4KtrE35pTuqwNc22QP58RT",
+            "track_name": "Drop the Game",
+            "track_artist": "Flume",
+            "track_album": "Lockjaw",
+            "track_duration": 221894,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-10T01:24:34Z",
+            "uri": "spotify:track:4KtrE35pTuqwNc22QP58RT"
+        },
+        {
+            "track_id": "3zSi6KJF3Kg7BmuWmzM6ae",
+            "track_name": "Cocoa Butter Kisses",
+            "track_artist": "The Stairwells",
+            "track_album": "For Your Health",
+            "track_duration": 144000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-22T23:52:48Z",
+            "uri": "spotify:track:3zSi6KJF3Kg7BmuWmzM6ae"
+        },
+        {
+            "track_id": "1u2CN23PR0T2BHfXRNHwnM",
+            "track_name": "Alcatraz",
+            "track_artist": "Oliver Riot",
+            "track_album": "Hallucinate",
+            "track_duration": 268310,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-28T23:21:35Z",
+            "uri": "spotify:track:1u2CN23PR0T2BHfXRNHwnM"
+        },
+        {
+            "track_id": "5q3lFZYp9HLaXATffQSgcj",
+            "track_name": "We Will Run",
+            "track_artist": "Hollow Coves",
+            "track_album": "Wanderlust",
+            "track_duration": 255520,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-29T02:20:47Z",
+            "uri": "spotify:track:5q3lFZYp9HLaXATffQSgcj"
+        },
+        {
+            "track_id": "3NcsWUXZQjMBn9Wl2AsJo8",
+            "track_name": "Window Seat (feat. Wafia)",
+            "track_artist": "Thomston",
+            "track_album": "Topograph",
+            "track_duration": 207186,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-29T02:23:44Z",
+            "uri": "spotify:track:3NcsWUXZQjMBn9Wl2AsJo8"
+        },
+        {
+            "track_id": "0wDdgCkkzk7ezNOJ67vm1w",
+            "track_name": "Erode",
+            "track_artist": "TENDER",
+            "track_album": "Erode",
+            "track_duration": 249920,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-29T02:35:46Z",
+            "uri": "spotify:track:0wDdgCkkzk7ezNOJ67vm1w"
+        },
+        {
+            "track_id": "1NdHN4kLTIyJFbeX2vo7l3",
+            "track_name": "Snowday",
+            "track_artist": "Yoke Lore",
+            "track_album": "Far Shore",
+            "track_duration": 273531,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-29T02:47:14Z",
+            "uri": "spotify:track:1NdHN4kLTIyJFbeX2vo7l3"
+        },
+        {
+            "track_id": "1ueeLdAauagzEJ9coJQMYt",
+            "track_name": "Straight into Your Arms - Bonus Track Version",
+            "track_artist": "Vance Joy",
+            "track_album": "Dream Your Life Away (Special Edition)",
+            "track_duration": 217156,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-29T20:20:49Z",
+            "uri": "spotify:track:1ueeLdAauagzEJ9coJQMYt"
+        },
+        {
+            "track_id": "5do7Ql6G8N03fY6G9Y08Ec",
+            "track_name": "Goodnight Chicago",
+            "track_artist": "Rainbow Kitten Surprise",
+            "track_album": "RKS",
+            "track_duration": 231906,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-30T21:51:03Z",
+            "uri": "spotify:track:5do7Ql6G8N03fY6G9Y08Ec"
+        },
+        {
+            "track_id": "25zLw9X9ioucTO8WcOxiLg",
+            "track_name": "Shame",
+            "track_artist": "The Stairwells",
+            "track_album": "On a Night Like Tonight",
+            "track_duration": 176840,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-30T21:51:18Z",
+            "uri": "spotify:track:25zLw9X9ioucTO8WcOxiLg"
+        },
+        {
+            "track_id": "6kcHg7XL6SKyPNd78daRBL",
+            "track_name": "Sweet Talk",
+            "track_artist": "Saint Motel",
+            "track_album": "saintmotelevision",
+            "track_duration": 192040,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-30T22:11:19Z",
+            "uri": "spotify:track:6kcHg7XL6SKyPNd78daRBL"
+        },
+        {
+            "track_id": "465hVdgg75kPgRdpJfEFFT",
+            "track_name": "Seven",
+            "track_artist": "Rainbow Kitten Surprise",
+            "track_album": "Seven + Mary",
+            "track_duration": 225413,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-30T22:11:30Z",
+            "uri": "spotify:track:465hVdgg75kPgRdpJfEFFT"
+        },
+        {
+            "track_id": "7qdgz117gc5StS0u2ViinE",
+            "track_name": "Born Again",
+            "track_artist": "Saint Motel",
+            "track_album": "saintmotelevision",
+            "track_duration": 207426,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-07-30T22:50:51Z",
+            "uri": "spotify:track:7qdgz117gc5StS0u2ViinE"
+        },
+        {
+            "track_id": "4kCSKIFIBo9DMtslnz3tMY",
+            "track_name": "Lost / Inside Our Minds",
+            "track_artist": "John Vincent III",
+            "track_album": "Mountain Sounds",
+            "track_duration": 228050,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-08-06T12:25:57Z",
+            "uri": "spotify:track:4kCSKIFIBo9DMtslnz3tMY"
+        },
+        {
+            "track_id": "0KJAen5CpEWnk0721d5Q4P",
+            "track_name": "Drivers",
+            "track_artist": "Nick Leng",
+            "track_album": "Drivers",
+            "track_duration": 297588,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-08-15T16:52:43Z",
+            "uri": "spotify:track:0KJAen5CpEWnk0721d5Q4P"
+        },
+        {
+            "track_id": "1mBwtTSeGlEXNV6vKhs2Ut",
+            "track_name": "Help Myself",
+            "track_artist": "Knox Fortune",
+            "track_album": "Help Myself",
+            "track_duration": 214200,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-08-16T00:52:28Z",
+            "uri": "spotify:track:1mBwtTSeGlEXNV6vKhs2Ut"
+        },
+        {
+            "track_id": "06MpzoSuHkXRaBvkTElNOn",
+            "track_name": "Idaho Springs",
+            "track_artist": "Mesita",
+            "track_album": "Selected Tracks",
+            "track_duration": 246172,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-08-25T14:48:45Z",
+            "uri": "spotify:track:06MpzoSuHkXRaBvkTElNOn"
+        },
+        {
+            "track_id": "6cwhbYyFPDe7zoBJJCkYaf",
+            "track_name": "Lost in Your Love",
+            "track_artist": "Colyer",
+            "track_album": "Lost in Your Love",
+            "track_duration": 257183,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-08-25T15:11:06Z",
+            "uri": "spotify:track:6cwhbYyFPDe7zoBJJCkYaf"
+        },
+        {
+            "track_id": "6Vn9ip0TryleiFXRs7Iw9q",
+            "track_name": "Bruce Wayne",
+            "track_artist": "Memorecks",
+            "track_album": "Follow",
+            "track_duration": 179439,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-01T11:30:30Z",
+            "uri": "spotify:track:6Vn9ip0TryleiFXRs7Iw9q"
+        },
+        {
+            "track_id": "2C0KFbb4v9CNWR5c9jWcKC",
+            "track_name": "Andromeda (feat. DRAM)",
+            "track_artist": "Gorillaz",
+            "track_album": "Humanz (Deluxe)",
+            "track_duration": 197546,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-18T11:39:38Z",
+            "uri": "spotify:track:2C0KFbb4v9CNWR5c9jWcKC"
+        },
+        {
+            "track_id": "1hxq7kWQnwdhxgpEugBMGk",
+            "track_name": "Dirty Paws",
+            "track_artist": "Of Monsters and Men",
+            "track_album": "My Head Is An Animal",
+            "track_duration": 278373,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-21T22:09:36Z",
+            "uri": "spotify:track:1hxq7kWQnwdhxgpEugBMGk"
+        },
+        {
+            "track_id": "5RVuBrXVLptAEbGJdSDzL5",
+            "track_name": "Cosmic Angel - Acoustic From Capitol Studios",
+            "track_artist": "Grizfolk",
+            "track_album": "Cosmic Angel (Acoustic From Capitol Studios)",
+            "track_duration": 257194,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-21T22:35:44Z",
+            "uri": "spotify:track:5RVuBrXVLptAEbGJdSDzL5"
+        },
+        {
+            "track_id": "6iCJCZqDJjmBxt07Oid6FI",
+            "track_name": "Buttercup",
+            "track_artist": "Hippo Campus",
+            "track_album": "Landmark",
+            "track_duration": 226610,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-22T22:20:41Z",
+            "uri": "spotify:track:6iCJCZqDJjmBxt07Oid6FI"
+        },
+        {
+            "track_id": "1spp1NXsz4rHcVaJhhndKa",
+            "track_name": "Water",
+            "track_artist": "Ra Ra Riot",
+            "track_album": "Need Your Light",
+            "track_duration": 280333,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-23T04:54:23Z",
+            "uri": "spotify:track:1spp1NXsz4rHcVaJhhndKa"
+        },
+        {
+            "track_id": "2lO2NVbbDg6zFY4PWsNY94",
+            "track_name": "Maintain",
+            "track_artist": "Vilde",
+            "track_album": "Maintain",
+            "track_duration": 248823,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-23T23:40:13Z",
+            "uri": "spotify:track:2lO2NVbbDg6zFY4PWsNY94"
+        },
+        {
+            "track_id": "7tw4oodmEI15gqLFAGar1X",
+            "track_name": "Creatures",
+            "track_artist": "Glass House Point",
+            "track_album": "Creatures",
+            "track_duration": 282857,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-27T13:29:22Z",
+            "uri": "spotify:track:7tw4oodmEI15gqLFAGar1X"
+        },
+        {
+            "track_id": "0fwoDbcRrmCOXnJWXR9BO5",
+            "track_name": "About You",
+            "track_artist": "San Cisco",
+            "track_album": "Gracetown",
+            "track_duration": 207620,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-27T15:26:09Z",
+            "uri": "spotify:track:0fwoDbcRrmCOXnJWXR9BO5"
+        },
+        {
+            "track_id": "0Mvte5SHF6t0khWwdHbOkK",
+            "track_name": "High Tops",
+            "track_artist": "Del Water Gap",
+            "track_album": "High Tops",
+            "track_duration": 238200,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-02T03:18:13Z",
+            "uri": "spotify:track:0Mvte5SHF6t0khWwdHbOkK"
+        },
+        {
+            "track_id": "43BLqP9em5cm0F8CWeDTfz",
+            "track_name": "New Biome",
+            "track_artist": "Sure Sure",
+            "track_album": "New Biome",
+            "track_duration": 180576,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-02T03:59:15Z",
+            "uri": "spotify:track:43BLqP9em5cm0F8CWeDTfz"
+        },
+        {
+            "track_id": "7fQxCHokVeZEJqYxmhTyVv",
+            "track_name": "Honeybody",
+            "track_artist": "Kishi Bashi",
+            "track_album": "Sonderlust",
+            "track_duration": 266453,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-03T13:28:11Z",
+            "uri": "spotify:track:7fQxCHokVeZEJqYxmhTyVv"
+        },
+        {
+            "track_id": "5VynbUHg71DFioQVKXl1vL",
+            "track_name": "Driftin'",
+            "track_artist": "GRiZ",
+            "track_album": "Good Will Prevail",
+            "track_duration": 193026,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-04T13:24:51Z",
+            "uri": "spotify:track:5VynbUHg71DFioQVKXl1vL"
+        },
+        {
+            "track_id": "0P1oO2gREMYUCoOkzYAyFu",
+            "track_name": "The Answer",
+            "track_artist": "Big Words",
+            "track_album": "Hollywood, a Beautiful Coincidence",
+            "track_duration": 263679,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-05T01:41:37Z",
+            "uri": "spotify:track:0P1oO2gREMYUCoOkzYAyFu"
+        },
+        {
+            "track_id": "3MtKIXNloZcpMhk2WEl9oZ",
+            "track_name": "Better Parts",
+            "track_artist": "Tiny Tiny",
+            "track_album": "Better Parts",
+            "track_duration": 237012,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-07T03:05:21Z",
+            "uri": "spotify:track:3MtKIXNloZcpMhk2WEl9oZ"
+        },
+        {
+            "track_id": "3AA8xNhDC0MpqwkGX3EP5V",
+            "track_name": "If I Ever Feel Better",
+            "track_artist": "Phoenix",
+            "track_album": "United",
+            "track_duration": 266600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-08T18:35:08Z",
+            "uri": "spotify:track:3AA8xNhDC0MpqwkGX3EP5V"
+        },
+        {
+            "track_id": "78w4lk9noj8j1l2vOpHiOq",
+            "track_name": "From Rest",
+            "track_artist": "Cold Weather Company",
+            "track_album": "A Folded Letter",
+            "track_duration": 265331,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T02:04:47Z",
+            "uri": "spotify:track:78w4lk9noj8j1l2vOpHiOq"
+        },
+        {
+            "track_id": "16G0mPoy17DP864e5XKGFz",
+            "track_name": "Empty Room",
+            "track_artist": "Chaos Emeralds",
+            "track_album": "Chaos Emeralds",
+            "track_duration": 315860,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:13:46Z",
+            "uri": "spotify:track:16G0mPoy17DP864e5XKGFz"
+        },
+        {
+            "track_id": "7sWUntzx3WtrHUxDSx6rFu",
+            "track_name": "Decide",
+            "track_artist": "Junior Empire",
+            "track_album": "Junior Empire",
+            "track_duration": 181613,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:13:46Z",
+            "uri": "spotify:track:7sWUntzx3WtrHUxDSx6rFu"
+        },
+        {
+            "track_id": "7ezHlsUtR8oo1pqHJBeC65",
+            "track_name": "You Didn't Need My Love",
+            "track_artist": "Anders",
+            "track_album": "You Didn't Need My Love",
+            "track_duration": 228777,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:13:46Z",
+            "uri": "spotify:track:7ezHlsUtR8oo1pqHJBeC65"
+        },
+        {
+            "track_id": "3LyqdJW8m4JGSeD2M5Fr1O",
+            "track_name": "Back For Me",
+            "track_artist": "Electric Guest",
+            "track_album": "Plural",
+            "track_duration": 201613,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:13:46Z",
+            "uri": "spotify:track:3LyqdJW8m4JGSeD2M5Fr1O"
+        },
+        {
+            "track_id": "5H6PYgZl57D8PJOyEJiQbw",
+            "track_name": "Bullets in the Wind",
+            "track_artist": "Mantaraybryn",
+            "track_album": "Dark Shapes in the Water",
+            "track_duration": 255626,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:13:46Z",
+            "uri": "spotify:track:5H6PYgZl57D8PJOyEJiQbw"
+        },
+        {
+            "track_id": "5kVtAfbHqayLLC02SdFiO7",
+            "track_name": "Angkor",
+            "track_artist": "Tsutro",
+            "track_album": "Tsutro",
+            "track_duration": 155333,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:13:46Z",
+            "uri": "spotify:track:5kVtAfbHqayLLC02SdFiO7"
+        },
+        {
+            "track_id": "6hT5CZTRQhqZX8aRDWsbbk",
+            "track_name": "I Can't Dance",
+            "track_artist": "Mating Ritual",
+            "track_album": "Mating Ritual",
+            "track_duration": 211428,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:13:46Z",
+            "uri": "spotify:track:6hT5CZTRQhqZX8aRDWsbbk"
+        },
+        {
+            "track_id": "6kzHdev57277EI4hniyGhK",
+            "track_name": "Washed Away",
+            "track_artist": "Eyes on the Shore",
+            "track_album": "Washed Away",
+            "track_duration": 225789,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T03:21:33Z",
+            "uri": "spotify:track:6kzHdev57277EI4hniyGhK"
+        },
+        {
+            "track_id": "6gtemzVF03I5nAi8yBZ76v",
+            "track_name": "My Omen",
+            "track_artist": "Electric Guest",
+            "track_album": "Plural",
+            "track_duration": 166200,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T04:30:47Z",
+            "uri": "spotify:track:6gtemzVF03I5nAi8yBZ76v"
+        },
+        {
+            "track_id": "4WBXTnzVmz3Thn76w3rYUR",
+            "track_name": "Live That Long",
+            "track_artist": "Lewis Del Mar",
+            "track_album": "Lewis Del Mar",
+            "track_duration": 285466,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:4WBXTnzVmz3Thn76w3rYUR"
+        },
+        {
+            "track_id": "6uq3dJDgNiB9q3hyV1u4st",
+            "track_name": "Anybody Out There",
+            "track_artist": "Young Mister",
+            "track_album": "Young Mister",
+            "track_duration": 222822,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:6uq3dJDgNiB9q3hyV1u4st"
+        },
+        {
+            "track_id": "5jQQDwJosT89Wy5vOLCafm",
+            "track_name": "Open Arms",
+            "track_artist": "RKCB",
+            "track_album": "Open Arms",
+            "track_duration": 228965,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:5jQQDwJosT89Wy5vOLCafm"
+        },
+        {
+            "track_id": "7pp7ofOZGtELMkn74jLDze",
+            "track_name": "All4you",
+            "track_artist": "The Palms",
+            "track_album": "Sway",
+            "track_duration": 220462,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:7pp7ofOZGtELMkn74jLDze"
+        },
+        {
+            "track_id": "0HsGh7cboYz6cVMIyFrQ8j",
+            "track_name": "Devil Like Me",
+            "track_artist": "Rainbow Kitten Surprise",
+            "track_album": "Seven + Mary",
+            "track_duration": 188280,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:0HsGh7cboYz6cVMIyFrQ8j"
+        },
+        {
+            "track_id": "5FPPTJDFFtLB5UfZIBgY7S",
+            "track_name": "Tropics",
+            "track_artist": "Mantaraybryn",
+            "track_album": "Dark Shapes in the Water",
+            "track_duration": 147533,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:5FPPTJDFFtLB5UfZIBgY7S"
+        },
+        {
+            "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+            "track_name": "Sweater Weather",
+            "track_artist": "The Neighbourhood",
+            "track_album": "I Love You.",
+            "track_duration": 240400,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6"
+        },
+        {
+            "track_id": "2Bmwm6NpbVOgnuqMSzPkva",
+            "track_name": "Two Fingers",
+            "track_artist": "Jake Bugg",
+            "track_album": "Jake Bugg",
+            "track_duration": 195986,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-16T05:23:10Z",
+            "uri": "spotify:track:2Bmwm6NpbVOgnuqMSzPkva"
+        },
+        {
+            "track_id": "37OANHO1XQJe3wt04CAIco",
+            "track_name": "Everybody Knows",
+            "track_artist": "Kimbra",
+            "track_album": "Everybody Knows",
+            "track_duration": 224946,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-17T13:03:55Z",
+            "uri": "spotify:track:37OANHO1XQJe3wt04CAIco"
+        },
+        {
+            "track_id": "1LPGwuFgIzbJoShfDdw7MY",
+            "track_name": "Youth",
+            "track_artist": "Glass Animals",
+            "track_album": "How To Be A Human Being",
+            "track_duration": 230693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-21T21:31:01Z",
+            "uri": "spotify:track:1LPGwuFgIzbJoShfDdw7MY"
+        },
+        {
+            "track_id": "37WNPHZnXsbsODgCsnBKti",
+            "track_name": "Girlfriend",
+            "track_artist": "Phoenix",
+            "track_album": "Wolfgang Amadeus Phoenix",
+            "track_duration": 204133,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-23T02:51:08Z",
+            "uri": "spotify:track:37WNPHZnXsbsODgCsnBKti"
+        },
+        {
+            "track_id": "7vqEcDc2C51DK890XZCwZC",
+            "track_name": "Rollin' Around",
+            "track_artist": "Nat & Alex Wolff",
+            "track_album": "Public Places",
+            "track_duration": 217120,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-23T03:19:08Z",
+            "uri": "spotify:track:7vqEcDc2C51DK890XZCwZC"
+        },
+        {
+            "track_id": "0fH78FTf1rYbkIdV5HJ8b7",
+            "track_name": "Never Had Before",
+            "track_artist": "Fever Charm",
+            "track_album": "Never Had Before",
+            "track_duration": 197945,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-10-23T03:58:20Z",
+            "uri": "spotify:track:0fH78FTf1rYbkIdV5HJ8b7"
+        },
+        {
+            "track_id": "3f3yMkeyzbcfv1ZOrgu2nK",
+            "track_name": "The Remains of Rock & Roll",
+            "track_artist": "Broken Bells",
+            "track_album": "After the Disco",
+            "track_duration": 294520,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-11-18T16:57:55Z",
+            "uri": "spotify:track:3f3yMkeyzbcfv1ZOrgu2nK"
+        },
+        {
+            "track_id": "3NYn4Y2PkyLKq6wTevar0b",
+            "track_name": "Lifetimes",
+            "track_artist": "Oh Wonder",
+            "track_album": "Ultralife",
+            "track_duration": 232493,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-11-22T05:35:16Z",
+            "uri": "spotify:track:3NYn4Y2PkyLKq6wTevar0b"
+        },
+        {
+            "track_id": "1Buh8ZFWaCoE6Yh3LhKZ4v",
+            "track_name": "Cameos",
+            "track_artist": "Swimming Tapes",
+            "track_album": "Cameos",
+            "track_duration": 191712,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-11-23T05:06:33Z",
+            "uri": "spotify:track:1Buh8ZFWaCoE6Yh3LhKZ4v"
+        },
+        {
+            "track_id": "3Q5Pc6K4UXJ0ke6YnklC1e",
+            "track_name": "Lemon to a Knife Fight",
+            "track_artist": "The Wombats",
+            "track_album": "Lemon to a Knife Fight",
+            "track_duration": 205821,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-11-30T22:01:37Z",
+            "uri": "spotify:track:3Q5Pc6K4UXJ0ke6YnklC1e"
+        },
+        {
+            "track_id": "4VTO4g2C9uTI6omVI7pjlq",
+            "track_name": "Swim",
+            "track_artist": "Mating Ritual",
+            "track_album": "How You Gonna Stop It?",
+            "track_duration": 313106,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-07T21:17:21Z",
+            "uri": "spotify:track:4VTO4g2C9uTI6omVI7pjlq"
+        },
+        {
+            "track_id": "1yka5XpwTBV951mp2OVYcn",
+            "track_name": "September Rose",
+            "track_artist": "Cailin Russo",
+            "track_album": "September Rose",
+            "track_duration": 221358,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-07T21:18:41Z",
+            "uri": "spotify:track:1yka5XpwTBV951mp2OVYcn"
+        },
+        {
+            "track_id": "6NaRzSvVxqv2DC2eg039gB",
+            "track_name": "Gold Angel",
+            "track_artist": "Minke",
+            "track_album": "Gold Angel",
+            "track_duration": 261693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-08T16:11:52Z",
+            "uri": "spotify:track:6NaRzSvVxqv2DC2eg039gB"
+        },
+        {
+            "track_id": "4V3VshJLUTCIWa77YiAkvM",
+            "track_name": "Winter",
+            "track_artist": "Khalid",
+            "track_album": "American Teen",
+            "track_duration": 241866,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-10T03:45:04Z",
+            "uri": "spotify:track:4V3VshJLUTCIWa77YiAkvM"
+        },
+        {
+            "track_id": "2b4SSorCTQ2VzmllaeWuuT",
+            "track_name": "YOU'RE THE ONE",
+            "track_artist": "KAYTRANADA",
+            "track_album": "99.9%",
+            "track_duration": 227706,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-11T21:37:23Z",
+            "uri": "spotify:track:2b4SSorCTQ2VzmllaeWuuT"
+        },
+        {
+            "track_id": "6yBewVE6bLNVLlRqx3vXkE",
+            "track_name": "Good Things",
+            "track_artist": "Oscar Scheller",
+            "track_album": "Cut and Paste",
+            "track_duration": 222200,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-13T04:20:33Z",
+            "uri": "spotify:track:6yBewVE6bLNVLlRqx3vXkE"
+        },
+        {
+            "track_id": "5iOtvdH1PgENp2i0XRWHP0",
+            "track_name": "Beautiful Words",
+            "track_artist": "Oscar Scheller",
+            "track_album": "Beautiful Words EP",
+            "track_duration": 213569,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-13T04:21:53Z",
+            "uri": "spotify:track:5iOtvdH1PgENp2i0XRWHP0"
+        },
+        {
+            "track_id": "00hh0NPClA0PJetfwn4k5R",
+            "track_name": "Know What I Want",
+            "track_artist": "Kali Uchis",
+            "track_album": "Por Vida",
+            "track_duration": 251110,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-18T18:39:08Z",
+            "uri": "spotify:track:00hh0NPClA0PJetfwn4k5R"
+        },
+        {
+            "track_id": "7jO2B8Xgfu7D9vj60XiG7Y",
+            "track_name": "Pools",
+            "track_artist": "Glass Animals",
+            "track_album": "ZABA",
+            "track_duration": 288733,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-18T18:55:27Z",
+            "uri": "spotify:track:7jO2B8Xgfu7D9vj60XiG7Y"
+        },
+        {
+            "track_id": "0Zg4tjgfqw9qzq7lXX2sUM",
+            "track_name": "Hazey",
+            "track_artist": "Glass Animals",
+            "track_album": "ZABA",
+            "track_duration": 265893,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-18T21:23:35Z",
+            "uri": "spotify:track:0Zg4tjgfqw9qzq7lXX2sUM"
+        },
+        {
+            "track_id": "0rRjGruFonCGOt0S5zAJNQ",
+            "track_name": "The Other Side Of Paradise",
+            "track_artist": "Glass Animals",
+            "track_album": "How To Be A Human Being",
+            "track_duration": 320654,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-18T23:09:01Z",
+            "uri": "spotify:track:0rRjGruFonCGOt0S5zAJNQ"
+        },
+        {
+            "track_id": "4aai1PoVGPcspMhmzOzpZN",
+            "track_name": "Surround Me",
+            "track_artist": "L\u00c9ON",
+            "track_album": "Surround Me - EP",
+            "track_duration": 232120,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-22T21:12:20Z",
+            "uri": "spotify:track:4aai1PoVGPcspMhmzOzpZN"
+        },
+        {
+            "track_id": "3H9CQYRjYS2bixQXoawh98",
+            "track_name": "Atic",
+            "track_artist": "Astrid S",
+            "track_album": "Astrid S",
+            "track_duration": 214226,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-22T21:12:55Z",
+            "uri": "spotify:track:3H9CQYRjYS2bixQXoawh98"
+        },
+        {
+            "track_id": "1tQMfLb3AdK6BBdhUh2M0y",
+            "track_name": "L\u00c9ON's Lullaby",
+            "track_artist": "L\u00c9ON",
+            "track_album": "Treasure - EP",
+            "track_duration": 185760,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-22T21:34:56Z",
+            "uri": "spotify:track:1tQMfLb3AdK6BBdhUh2M0y"
+        },
+        {
+            "track_id": "1gXBi2I04CLJkTQnhNfEJT",
+            "track_name": "Weight in Gold",
+            "track_artist": "Gallant",
+            "track_album": "Ology",
+            "track_duration": 203813,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-23T00:40:10Z",
+            "uri": "spotify:track:1gXBi2I04CLJkTQnhNfEJT"
+        },
+        {
+            "track_id": "50bmpfgcV29ouRVDfr5wOc",
+            "track_name": "Lady Lie",
+            "track_artist": "Rainbow Kitten Surprise",
+            "track_album": "RKS",
+            "track_duration": 215426,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-26T03:39:24Z",
+            "uri": "spotify:track:50bmpfgcV29ouRVDfr5wOc"
+        },
+        {
+            "track_id": "00HIh9mVUQQAycsQiciWsh",
+            "track_name": "Limestone",
+            "track_artist": "Magic City Hippies",
+            "track_album": "Hippie Castle EP",
+            "track_duration": 209164,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-26T05:48:28Z",
+            "uri": "spotify:track:00HIh9mVUQQAycsQiciWsh"
+        },
+        {
+            "track_id": "5HxfLkSX2Nl7BErO1q15sa",
+            "track_name": "Daisy Chains",
+            "track_artist": "Will Joseph Cook",
+            "track_album": "You Jump I Run EP",
+            "track_duration": 231267,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-12-26T07:09:17Z",
+            "uri": "spotify:track:5HxfLkSX2Nl7BErO1q15sa"
+        },
+        {
+            "track_id": "18ycL9Q5zLDeY9M2Lr3Ozw",
+            "track_name": "Mykonos",
+            "track_artist": "Fleet Foxes",
+            "track_album": "Sun Giant",
+            "track_duration": 275306,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-06T05:56:25Z",
+            "uri": "spotify:track:18ycL9Q5zLDeY9M2Lr3Ozw"
+        },
+        {
+            "track_id": "6mORGLOz79w6VsCRLWYYuK",
+            "track_name": "The Night We Met",
+            "track_artist": "Lord Huron",
+            "track_album": "Strange Trails",
+            "track_duration": 208211,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-06T06:34:47Z",
+            "uri": "spotify:track:6mORGLOz79w6VsCRLWYYuK"
+        },
+        {
+            "track_id": "5m77d1ztVTdZN9FevK9TE1",
+            "track_name": "I Want You",
+            "track_artist": "Marian Hill",
+            "track_album": "ACT ONE (The Complete Collection)",
+            "track_duration": 212773,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-07T19:25:06Z",
+            "uri": "spotify:track:5m77d1ztVTdZN9FevK9TE1"
+        },
+        {
+            "track_id": "4yiUkwGqJWlPN1BntZFKZ2",
+            "track_name": "Blame",
+            "track_artist": "One11Twenty",
+            "track_album": "Blame",
+            "track_duration": 213600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-07T19:51:14Z",
+            "uri": "spotify:track:4yiUkwGqJWlPN1BntZFKZ2"
+        },
+        {
+            "track_id": "5YulwF5SUayjpMSSXcHTJB",
+            "track_name": "Sweet to the Rind",
+            "track_artist": "Outer Vibe",
+            "track_album": "Sweet to the Rind",
+            "track_duration": 246764,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-07T23:40:32Z",
+            "uri": "spotify:track:5YulwF5SUayjpMSSXcHTJB"
+        },
+        {
+            "track_id": "7DfFc7a6Rwfi3YQMRbDMau",
+            "track_name": "Thinkin Bout You",
+            "track_artist": "Frank Ocean",
+            "track_album": "channel ORANGE",
+            "track_duration": 200746,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-08T05:14:49Z",
+            "uri": "spotify:track:7DfFc7a6Rwfi3YQMRbDMau"
+        },
+        {
+            "track_id": "6PGoSes0D9eUDeeAafB2As",
+            "track_name": "LOVE. FEAT. ZACARI.",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "DAMN.",
+            "track_duration": 213400,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-08T05:21:47Z",
+            "uri": "spotify:track:6PGoSes0D9eUDeeAafB2As"
+        },
+        {
+            "track_id": "6nG15lgUKuNgsLRJrk9oL8",
+            "track_name": "Out of Mind",
+            "track_artist": "Souldrop",
+            "track_album": "Out of Mind",
+            "track_duration": 208942,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-10T13:05:17Z",
+            "uri": "spotify:track:6nG15lgUKuNgsLRJrk9oL8"
+        },
+        {
+            "track_id": "6lOHJvk1ss3cH42PlxyLvo",
+            "track_name": "Come on Mess Me Up",
+            "track_artist": "Cub Sport",
+            "track_album": "This Is Our Vice",
+            "track_duration": 203640,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-15T02:48:54Z",
+            "uri": "spotify:track:6lOHJvk1ss3cH42PlxyLvo"
+        },
+        {
+            "track_id": "3FEBsU1XGqjwkDfMn8utnw",
+            "track_name": "Ubu",
+            "track_artist": "Methyl Ethel",
+            "track_album": "Everything Is Forgotten",
+            "track_duration": 302786,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-15T04:30:03Z",
+            "uri": "spotify:track:3FEBsU1XGqjwkDfMn8utnw"
+        },
+        {
+            "track_id": "6acDlNeA06MCVCzsTVGr9V",
+            "track_name": "Cocoon",
+            "track_artist": "Milky Chance",
+            "track_album": "Blossom (Deluxe)",
+            "track_duration": 255160,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-15T04:34:18Z",
+            "uri": "spotify:track:6acDlNeA06MCVCzsTVGr9V"
+        },
+        {
+            "track_id": "20TYNq9o5sdBAbkCWE9ih7",
+            "track_name": "Electric (feat. Khalid)",
+            "track_artist": "Alina Baraz",
+            "track_album": "Electric (feat. Khalid)",
+            "track_duration": 246327,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-15T04:53:20Z",
+            "uri": "spotify:track:20TYNq9o5sdBAbkCWE9ih7"
+        },
+        {
+            "track_id": "6roBK59UIWUDEbaJniWxjb",
+            "track_name": "Calypso Beach",
+            "track_artist": "Northeast Party House",
+            "track_album": "Dare",
+            "track_duration": 233169,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-15T04:57:47Z",
+            "uri": "spotify:track:6roBK59UIWUDEbaJniWxjb"
+        },
+        {
+            "track_id": "37h0EKOWMvJOq8iThp1tmO",
+            "track_name": "Blue",
+            "track_artist": "Samuel Larsen",
+            "track_album": "Blue",
+            "track_duration": 194048,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-15T06:10:15Z",
+            "uri": "spotify:track:37h0EKOWMvJOq8iThp1tmO"
+        },
+        {
+            "track_id": "47ww9AwOrtW59ayC72wMff",
+            "track_name": "Zero",
+            "track_artist": "Electric Guest",
+            "track_album": "Plural",
+            "track_duration": 228213,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-17T18:53:34Z",
+            "uri": "spotify:track:47ww9AwOrtW59ayC72wMff"
+        },
+        {
+            "track_id": "3ApAsbQP7d5GlFwwdExaTY",
+            "track_name": "Poplar St",
+            "track_artist": "Glass Animals",
+            "track_album": "How To Be A Human Being",
+            "track_duration": 262539,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-17T19:31:01Z",
+            "uri": "spotify:track:3ApAsbQP7d5GlFwwdExaTY"
+        },
+        {
+            "track_id": "06u5LrUpbosQlQ1QJFhPpG",
+            "track_name": "Drew Barrymore",
+            "track_artist": "SZA",
+            "track_album": "Ctrl",
+            "track_duration": 231400,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-17T20:06:47Z",
+            "uri": "spotify:track:06u5LrUpbosQlQ1QJFhPpG"
+        },
+        {
+            "track_id": "0DdNKXYhsBBrHsUyMOdRaa",
+            "track_name": "1998",
+            "track_artist": "Chet Faker",
+            "track_album": "1998",
+            "track_duration": 224026,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-21T05:30:22Z",
+            "uri": "spotify:track:0DdNKXYhsBBrHsUyMOdRaa"
+        },
+        {
+            "track_id": "3bsfJsMPahCu06NBbxtrOF",
+            "track_name": "Gone",
+            "track_artist": "The Lukewarm",
+            "track_album": "The Lukewarm - EP",
+            "track_duration": 260000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-21T06:13:20Z",
+            "uri": "spotify:track:3bsfJsMPahCu06NBbxtrOF"
+        },
+        {
+            "track_id": "4u9Y4Z9i9VaAbBK7rW1Rha",
+            "track_name": "Meet Me in the Hallway",
+            "track_artist": "Harry Styles",
+            "track_album": "Harry Styles",
+            "track_duration": 227200,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-21T23:31:42Z",
+            "uri": "spotify:track:4u9Y4Z9i9VaAbBK7rW1Rha"
+        },
+        {
+            "track_id": "3CY9kIRQFXfUqlBrzUgU6T",
+            "track_name": "Melt",
+            "track_artist": "JONES",
+            "track_album": "New Skin",
+            "track_duration": 214893,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-24T01:05:15Z",
+            "uri": "spotify:track:3CY9kIRQFXfUqlBrzUgU6T"
+        },
+        {
+            "track_id": "2D0Vz9FFHm6RcnUGC6Uxh2",
+            "track_name": "Hoops",
+            "track_artist": "JONES",
+            "track_album": "New Skin",
+            "track_duration": 227898,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-24T01:09:23Z",
+            "uri": "spotify:track:2D0Vz9FFHm6RcnUGC6Uxh2"
+        },
+        {
+            "track_id": "5lKj4enbmHBsdwgsJLjgTN",
+            "track_name": "Indulge",
+            "track_artist": "JONES",
+            "track_album": "New Skin",
+            "track_duration": 196439,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-24T01:12:54Z",
+            "uri": "spotify:track:5lKj4enbmHBsdwgsJLjgTN"
+        },
+        {
+            "track_id": "1yraET52i6ZkrvvrmKNyn6",
+            "track_name": "Someone That Loves You",
+            "track_artist": "HONNE",
+            "track_album": "Warm on a Cold Night (Deluxe)",
+            "track_duration": 244958,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-24T01:16:58Z",
+            "uri": "spotify:track:1yraET52i6ZkrvvrmKNyn6"
+        },
+        {
+            "track_id": "6Dg2RJihNlbkLSmtXY3p5f",
+            "track_name": "Warm on a Cold Night",
+            "track_artist": "HONNE",
+            "track_album": "Warm on a Cold Night (Deluxe)",
+            "track_duration": 261594,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-24T01:22:08Z",
+            "uri": "spotify:track:6Dg2RJihNlbkLSmtXY3p5f"
+        },
+        {
+            "track_id": "6YpSiNQN8pVzJMOX2fXGHm",
+            "track_name": "Woman",
+            "track_artist": "HONNE",
+            "track_album": "Woman",
+            "track_duration": 265478,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-24T01:29:37Z",
+            "uri": "spotify:track:6YpSiNQN8pVzJMOX2fXGHm"
+        },
+        {
+            "track_id": "1HlVrScgaI38B4PcrPJpkb",
+            "track_name": "Republic Enemy #1",
+            "track_artist": "The Palms",
+            "track_album": "Sway",
+            "track_duration": 178712,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-25T00:58:37Z",
+            "uri": "spotify:track:1HlVrScgaI38B4PcrPJpkb"
+        },
+        {
+            "track_id": "42zJqS8TW1Lpsa186of3OY",
+            "track_name": "I Feel Like I'm Drowning",
+            "track_artist": "Two Feet",
+            "track_album": "I Feel Like I'm Drowning",
+            "track_duration": 186266,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-26T19:11:52Z",
+            "uri": "spotify:track:42zJqS8TW1Lpsa186of3OY"
+        },
+        {
+            "track_id": "3ryeWcVpVuweKdOZILENPW",
+            "track_name": "Bad Things",
+            "track_artist": "Milky Chance",
+            "track_album": "Blossom (Deluxe)",
+            "track_duration": 252893,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-26T19:16:58Z",
+            "uri": "spotify:track:3ryeWcVpVuweKdOZILENPW"
+        },
+        {
+            "track_id": "5ugZhL4U97QOCBCXseE2Qw",
+            "track_name": "Turn",
+            "track_artist": "The Wombats",
+            "track_album": "Turn",
+            "track_duration": 207679,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-27T16:42:12Z",
+            "uri": "spotify:track:5ugZhL4U97QOCBCXseE2Qw"
+        },
+        {
+            "track_id": "3aQkJx2WpFWrxKEYO159Vy",
+            "track_name": "It Just Comes and Goes",
+            "track_artist": "Old Man Canyon",
+            "track_album": "Delirium B-Sides",
+            "track_duration": 214052,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-28T18:34:34Z",
+            "uri": "spotify:track:3aQkJx2WpFWrxKEYO159Vy"
+        },
+        {
+            "track_id": "6G3pNX7v8VPD6Ant6CtMq7",
+            "track_name": "Bad Dream",
+            "track_artist": "American Pets",
+            "track_album": "Bad Dream",
+            "track_duration": 183293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-29T05:30:50Z",
+            "uri": "spotify:track:6G3pNX7v8VPD6Ant6CtMq7"
+        },
+        {
+            "track_id": "3RaH9fxrZ541JcayzhcuzX",
+            "track_name": "Second Nature",
+            "track_artist": "Stalking Gia",
+            "track_album": "Second Nature",
+            "track_duration": 246609,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-01-29T05:31:45Z",
+            "uri": "spotify:track:3RaH9fxrZ541JcayzhcuzX"
+        },
+        {
+            "track_id": "5U0AcKclgf0AbG11AUFLht",
+            "track_name": "Down By The River",
+            "track_artist": "Milky Chance",
+            "track_album": "Sadnecessary (Bonus Track Version)",
+            "track_duration": 240973,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-01T18:26:33Z",
+            "uri": "spotify:track:5U0AcKclgf0AbG11AUFLht"
+        },
+        {
+            "track_id": "1PW0MH1EwqC09G0OnnjnT4",
+            "track_name": "Deadwater",
+            "track_artist": "Wet",
+            "track_album": "Don't You",
+            "track_duration": 217000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-02T03:27:58Z",
+            "uri": "spotify:track:1PW0MH1EwqC09G0OnnjnT4"
+        },
+        {
+            "track_id": "0mnoeoS9UklYuKVbkwCkAX",
+            "track_name": "dopemang (feat. Ashley All Day)",
+            "track_artist": "Kiiara",
+            "track_album": "dopemang (feat. Ashley All Day)",
+            "track_duration": 168664,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-02T23:38:55Z",
+            "uri": "spotify:track:0mnoeoS9UklYuKVbkwCkAX"
+        },
+        {
+            "track_id": "6FhQ6UH6m0mlXRLFiyehFR",
+            "track_name": "Intention",
+            "track_artist": "Kiiara",
+            "track_album": "low kii savage",
+            "track_duration": 229666,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-02T23:40:41Z",
+            "uri": "spotify:track:6FhQ6UH6m0mlXRLFiyehFR"
+        },
+        {
+            "track_id": "4zayzMR8cSem2Wo85qYyzi",
+            "track_name": "Me and Michael",
+            "track_artist": "MGMT",
+            "track_album": "Me and Michael",
+            "track_duration": 288840,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-14T21:39:30Z",
+            "uri": "spotify:track:4zayzMR8cSem2Wo85qYyzi"
+        },
+        {
+            "track_id": "0X3AfZXCqnfZUX7NmXUoG7",
+            "track_name": "American Eyes",
+            "track_artist": "Promises Ltd.",
+            "track_album": "American Eyes",
+            "track_duration": 293750,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-18T01:29:36Z",
+            "uri": "spotify:track:0X3AfZXCqnfZUX7NmXUoG7"
+        },
+        {
+            "track_id": "54oCocCSsp7lZdwqkgSaJM",
+            "track_name": "Overdose",
+            "track_artist": "The Good Fortune ",
+            "track_album": "Overdose",
+            "track_duration": 240039,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-20T13:42:37Z",
+            "uri": "spotify:track:54oCocCSsp7lZdwqkgSaJM"
+        },
+        {
+            "track_id": "0jw2IKm30sbb6kK2WgHvmn",
+            "track_name": "Lullaby",
+            "track_artist": "Atlas Bound",
+            "track_album": "Lullaby",
+            "track_duration": 220485,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-20T15:34:30Z",
+            "uri": "spotify:track:0jw2IKm30sbb6kK2WgHvmn"
+        },
+        {
+            "track_id": "2RiBogNRfulkNf7fVbPOrJ",
+            "track_name": "Saturday Sun",
+            "track_artist": "Vance Joy",
+            "track_album": "Nation of Two",
+            "track_duration": 214720,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-02-27T14:05:13Z",
+            "uri": "spotify:track:2RiBogNRfulkNf7fVbPOrJ"
+        },
+        {
+            "track_id": "3EOWUSrJdGYvTPO4z0GEPe",
+            "track_name": "Boomslang.",
+            "track_artist": "MS.",
+            "track_album": "Tracey Was Here",
+            "track_duration": 237952,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-03-12T03:20:06Z",
+            "uri": "spotify:track:3EOWUSrJdGYvTPO4z0GEPe"
+        },
+        {
+            "track_id": "0mMl6VdvsCNQ0IYisbgaCl",
+            "track_name": "Teenage Bones",
+            "track_artist": "Noirre",
+            "track_album": "Nite Tales",
+            "track_duration": 241904,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-03-12T13:35:16Z",
+            "uri": "spotify:track:0mMl6VdvsCNQ0IYisbgaCl"
+        },
+        {
+            "track_id": "1md5g5OJ1ys2rC9N5Md6VX",
+            "track_name": "Ashes",
+            "track_artist": "Camarano",
+            "track_album": "Ashes",
+            "track_duration": 231130,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-03-13T05:42:39Z",
+            "uri": "spotify:track:1md5g5OJ1ys2rC9N5Md6VX"
+        },
+        {
+            "track_id": "60DLEQisAr5jpxRCXHXbdO",
+            "track_name": "Leaning",
+            "track_artist": "LOLO",
+            "track_album": "Leaning",
+            "track_duration": 163918,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-03-14T14:15:50Z",
+            "uri": "spotify:track:60DLEQisAr5jpxRCXHXbdO"
+        },
+        {
+            "track_id": "7McZS9J6h0SKoZBR6cfcFe",
+            "track_name": "Apocalypse",
+            "track_artist": "Cigarettes After Sex",
+            "track_album": "Cigarettes After Sex",
+            "track_duration": 290616,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-03-23T05:25:41Z",
+            "uri": "spotify:track:7McZS9J6h0SKoZBR6cfcFe"
+        },
+        {
+            "track_id": "7ky0eExGMbx6yekjKTt5Qu",
+            "track_name": "Colombia",
+            "track_artist": "Local Natives",
+            "track_album": "Hummingbird",
+            "track_duration": 290333,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-04-11T17:40:42Z",
+            "uri": "spotify:track:7ky0eExGMbx6yekjKTt5Qu"
+        },
+        {
+            "track_id": "2ZssXuZfktUr4MMDzEWD2Z",
+            "track_name": "Good God Damn",
+            "track_artist": "Arcade Fire",
+            "track_album": "Everything Now",
+            "track_duration": 214426,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-04-17T12:23:33Z",
+            "uri": "spotify:track:2ZssXuZfktUr4MMDzEWD2Z"
+        },
+        {
+            "track_id": "6zyXhzPJg7dCGuC5ToIxqN",
+            "track_name": "Silicon Valley",
+            "track_artist": "Anderson .Paak",
+            "track_album": "Malibu",
+            "track_duration": 244840,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-04-19T14:55:44Z",
+            "uri": "spotify:track:6zyXhzPJg7dCGuC5ToIxqN"
+        },
+        {
+            "track_id": "68SE4UYrrrshna4naCpe0X",
+            "track_name": "&burn (with Vince Staples)",
+            "track_artist": "Billie Eilish",
+            "track_album": "&burn (with Vince Staples)",
+            "track_duration": 179015,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-05-08T05:30:22Z",
+            "uri": "spotify:track:68SE4UYrrrshna4naCpe0X"
+        },
+        {
+            "track_id": "61JDaStnXY3vbaEjliB5WA",
+            "track_name": "Ghost Ship",
+            "track_artist": "Blur",
+            "track_album": "The Magic Whip",
+            "track_duration": 299133,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-05-10T05:50:47Z",
+            "uri": "spotify:track:61JDaStnXY3vbaEjliB5WA"
+        },
+        {
+            "track_id": "290xSzR8Ee9fm82poMg4od",
+            "track_name": "Used to Be in Love",
+            "track_artist": "The Jungle Giants",
+            "track_album": "Quiet Ferocity",
+            "track_duration": 222786,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-05-10T13:58:44Z",
+            "uri": "spotify:track:290xSzR8Ee9fm82poMg4od"
+        },
+        {
+            "track_id": "3pJQY7UuX0DcE8pgLZhCjf",
+            "track_name": "Indigo Puff",
+            "track_artist": "Sundara Karma",
+            "track_album": "Indigo Puff",
+            "track_duration": 231721,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-05-10T15:26:05Z",
+            "uri": "spotify:track:3pJQY7UuX0DcE8pgLZhCjf"
+        },
+        {
+            "track_id": "2tjqgiScVM3VoZBYGPC2Dm",
+            "track_name": "OBLIVIUS",
+            "track_artist": "The Strokes",
+            "track_album": "Future Present Past",
+            "track_duration": 299157,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-05-11T19:29:46Z",
+            "uri": "spotify:track:2tjqgiScVM3VoZBYGPC2Dm"
+        },
+        {
+            "track_id": "1otG6j1WHNvl9WgXLWkHTo",
+            "track_name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+            "track_artist": "Kali Uchis",
+            "track_album": "Isolation",
+            "track_duration": 207454,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-05-21T21:07:14Z",
+            "uri": "spotify:track:1otG6j1WHNvl9WgXLWkHTo"
+        },
+        {
+            "track_id": "5QJuMhGWTUB4t9BqR7ndL3",
+            "track_name": "Make Me Your Queen",
+            "track_artist": "Declan McKenna",
+            "track_album": "What Do You Think About the Car?",
+            "track_duration": 221360,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-04T20:16:55Z",
+            "uri": "spotify:track:5QJuMhGWTUB4t9BqR7ndL3"
+        },
+        {
+            "track_id": "73uJMNmExgQut1I6O1mckM",
+            "track_name": "Sum of My Cares",
+            "track_artist": "The Long Faces",
+            "track_album": "Sum of My Cares",
+            "track_duration": 261500,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-04T22:24:55Z",
+            "uri": "spotify:track:73uJMNmExgQut1I6O1mckM"
+        },
+        {
+            "track_id": "1aRvUHgMe9ichgcHAAs12f",
+            "track_name": "Nellie",
+            "track_artist": "Dr. Dog",
+            "track_album": "B-Room (Deluxe Edition)",
+            "track_duration": 217613,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-07T19:15:25Z",
+            "uri": "spotify:track:1aRvUHgMe9ichgcHAAs12f"
+        },
+        {
+            "track_id": "3xriS8wd6Q0de39EKMPCTE",
+            "track_name": "Freeze",
+            "track_artist": "Andy Grammer",
+            "track_album": "The Good Parts",
+            "track_duration": 186556,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T03:35:37Z",
+            "uri": "spotify:track:3xriS8wd6Q0de39EKMPCTE"
+        },
+        {
+            "track_id": "3aVWHs31RqqKpuZcPvdKeq",
+            "track_name": "Epitaph",
+            "track_artist": "Hippo Campus",
+            "track_album": "Landmark",
+            "track_duration": 255735,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T04:16:49Z",
+            "uri": "spotify:track:3aVWHs31RqqKpuZcPvdKeq"
+        },
+        {
+            "track_id": "7GdwIsiVLKrsvwFsdBK9Cy",
+            "track_name": "Something About Us - Recorded at Spotify Studios NYC",
+            "track_artist": "Saint Motel",
+            "track_album": "Spotify Singles",
+            "track_duration": 243163,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T04:42:49Z",
+            "uri": "spotify:track:7GdwIsiVLKrsvwFsdBK9Cy"
+        },
+        {
+            "track_id": "1lOM29i8QvfVw87nVqY5Mm",
+            "track_name": "Humongous - Single Version",
+            "track_artist": "Declan McKenna",
+            "track_album": "Humongous",
+            "track_duration": 312671,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T05:39:43Z",
+            "uri": "spotify:track:1lOM29i8QvfVw87nVqY5Mm"
+        },
+        {
+            "track_id": "0j1BAvgZnO5LoRCsGtgYYG",
+            "track_name": "Heavy",
+            "track_artist": "Oh Wonder",
+            "track_album": "Ultralife",
+            "track_duration": 191760,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T06:28:01Z",
+            "uri": "spotify:track:0j1BAvgZnO5LoRCsGtgYYG"
+        },
+        {
+            "track_id": "7GICmSnlMzHkVysdQn3lDb",
+            "track_name": "Take You High",
+            "track_artist": "HONNE",
+            "track_album": "Warm on a Cold Night (Deluxe)",
+            "track_duration": 248865,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T06:44:43Z",
+            "uri": "spotify:track:7GICmSnlMzHkVysdQn3lDb"
+        },
+        {
+            "track_id": "0LO7f7ZJg871B8hLTRzrfB",
+            "track_name": "Julia",
+            "track_artist": "Mt. Joy",
+            "track_album": "Mt. Joy",
+            "track_duration": 190453,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T06:56:17Z",
+            "uri": "spotify:track:0LO7f7ZJg871B8hLTRzrfB"
+        },
+        {
+            "track_id": "6BRW1hLPP14wpaxJF8YTWe",
+            "track_name": "Hallucinogenics",
+            "track_artist": "Matt Maeson",
+            "track_album": "Hallucinogenics",
+            "track_duration": 185133,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T08:38:12Z",
+            "uri": "spotify:track:6BRW1hLPP14wpaxJF8YTWe"
+        },
+        {
+            "track_id": "5IJeF04dun8atDi4oq8XEj",
+            "track_name": "Shaky in the Knees",
+            "track_artist": "Grizfolk",
+            "track_album": "Shaky in the Knees",
+            "track_duration": 209488,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-12T18:26:50Z",
+            "uri": "spotify:track:5IJeF04dun8atDi4oq8XEj"
+        },
+        {
+            "track_id": "2DkZisoN9h1dLa8Sn5sx0n",
+            "track_name": "Bitter",
+            "track_artist": "Palace",
+            "track_album": "So Long Forever",
+            "track_duration": 233360,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-13T05:51:29Z",
+            "uri": "spotify:track:2DkZisoN9h1dLa8Sn5sx0n"
+        },
+        {
+            "track_id": "5jyyPsIGM2yqkZN9R3TmvN",
+            "track_name": "The Ways (with Swae Lee)",
+            "track_artist": "Khalid",
+            "track_album": "Black Panther The Album Music From And Inspired By",
+            "track_duration": 238893,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-13T07:28:29Z",
+            "uri": "spotify:track:5jyyPsIGM2yqkZN9R3TmvN"
+        },
+        {
+            "track_id": "3HBuz6MFcm3ZFsuJlbZlmv",
+            "track_name": "My City",
+            "track_artist": "Emojigold",
+            "track_album": "My City",
+            "track_duration": 201849,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-13T14:43:36Z",
+            "uri": "spotify:track:3HBuz6MFcm3ZFsuJlbZlmv"
+        },
+        {
+            "track_id": "5qkLfWFBPgswma3bJ6pDza",
+            "track_name": "Bang Bang",
+            "track_artist": "Lawrence Taylor",
+            "track_album": "Bang Bang - Single",
+            "track_duration": 184192,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-13T21:40:55Z",
+            "uri": "spotify:track:5qkLfWFBPgswma3bJ6pDza"
+        },
+        {
+            "track_id": "3ZKRAzNAsiJrBGUM2BX9av",
+            "track_name": "13 Beaches",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Lust For Life",
+            "track_duration": 295569,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-14T18:39:53Z",
+            "uri": "spotify:track:3ZKRAzNAsiJrBGUM2BX9av"
+        },
+        {
+            "track_id": "4SLHNBbZW1888CFzQgaiYI",
+            "track_name": "Number 1",
+            "track_artist": "Goldfrapp",
+            "track_album": "Supernature",
+            "track_duration": 205306,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-14T18:42:17Z",
+            "uri": "spotify:track:4SLHNBbZW1888CFzQgaiYI"
+        },
+        {
+            "track_id": "1N10MdGT4HypP8QA3kmmbQ",
+            "track_name": "dont ask dont tell",
+            "track_artist": "Tove Lo",
+            "track_album": "BLUE LIPS (lady wood phase II)",
+            "track_duration": 226161,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-15T07:11:03Z",
+            "uri": "spotify:track:1N10MdGT4HypP8QA3kmmbQ"
+        },
+        {
+            "track_id": "1irXmwdCbngOtucJNd5mSl",
+            "track_name": "Violet City",
+            "track_artist": "Mansionair",
+            "track_album": "Violet City",
+            "track_duration": 213515,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-17T00:46:00Z",
+            "uri": "spotify:track:1irXmwdCbngOtucJNd5mSl"
+        },
+        {
+            "track_id": "1W2TYUenzUdOOuATtQIWS2",
+            "track_name": "Particles",
+            "track_artist": "Nothing But Thieves",
+            "track_album": "Broken Machine (Deluxe)",
+            "track_duration": 235880,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-17T18:22:25Z",
+            "uri": "spotify:track:1W2TYUenzUdOOuATtQIWS2"
+        },
+        {
+            "track_id": "3892iPhCn6bo6T6hr661Eh",
+            "track_name": "Milk & Coffee",
+            "track_artist": "NoMBe",
+            "track_album": "They Might've Even Loved Me",
+            "track_duration": 235653,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-17T22:32:33Z",
+            "uri": "spotify:track:3892iPhCn6bo6T6hr661Eh"
+        },
+        {
+            "track_id": "2TwBgFygTuqKSb9SpHxDez",
+            "track_name": "Lying",
+            "track_artist": "Foreign Air",
+            "track_album": "Lying",
+            "track_duration": 217653,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-17T23:29:19Z",
+            "uri": "spotify:track:2TwBgFygTuqKSb9SpHxDez"
+        },
+        {
+            "track_id": "7LJDzkXrC6bKthURJ1I4pL",
+            "track_name": "All on My Mind - Single Version",
+            "track_artist": "Anderson East",
+            "track_album": "All on My Mind",
+            "track_duration": 222226,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-17T23:42:31Z",
+            "uri": "spotify:track:7LJDzkXrC6bKthURJ1I4pL"
+        },
+        {
+            "track_id": "7cJgiPDOlpnYjlBPcrT9kW",
+            "track_name": "Sorry",
+            "track_artist": "Nothing But Thieves",
+            "track_album": "Sorry",
+            "track_duration": 214709,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-18T02:43:02Z",
+            "uri": "spotify:track:7cJgiPDOlpnYjlBPcrT9kW"
+        },
+        {
+            "track_id": "27WCn2AXGHCTsZkHJsX9vX",
+            "track_name": "Electrified",
+            "track_artist": "Just Loud",
+            "track_album": "Electrified",
+            "track_duration": 211800,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-18T04:30:10Z",
+            "uri": "spotify:track:27WCn2AXGHCTsZkHJsX9vX"
+        },
+        {
+            "track_id": "4d2jmClFslZKu3lbDFKgez",
+            "track_name": "Something Here",
+            "track_artist": "Day Wave",
+            "track_album": "The Days We Had",
+            "track_duration": 245386,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T03:42:10Z",
+            "uri": "spotify:track:4d2jmClFslZKu3lbDFKgez"
+        },
+        {
+            "track_id": "1w553LQgqi5Wr1EbnPe2bB",
+            "track_name": "Scary Love",
+            "track_artist": "The Neighbourhood",
+            "track_album": "The Neighbourhood",
+            "track_duration": 224026,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T02:33:01Z",
+            "uri": "spotify:track:1w553LQgqi5Wr1EbnPe2bB"
+        },
+        {
+            "track_id": "7vr42ZYb6lBjSBnc9zfohk",
+            "track_name": "Compass",
+            "track_artist": "The Neighbourhood",
+            "track_album": "To Imagine - EP",
+            "track_duration": 169640,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T04:03:36Z",
+            "uri": "spotify:track:7vr42ZYb6lBjSBnc9zfohk"
+        },
+        {
+            "track_id": "4BDnfINTlfJPmLp1UV6CXt",
+            "track_name": "Female Robbery",
+            "track_artist": "The Neighbourhood",
+            "track_album": "I Love You.",
+            "track_duration": 209520,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T04:19:16Z",
+            "uri": "spotify:track:4BDnfINTlfJPmLp1UV6CXt"
+        },
+        {
+            "track_id": "5ezKhlg0ZwDPgOtMCoQt1S",
+            "track_name": "Lips On You",
+            "track_artist": "Maroon 5",
+            "track_album": "Red Pill Blues (Deluxe)",
+            "track_duration": 216930,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T04:27:38Z",
+            "uri": "spotify:track:5ezKhlg0ZwDPgOtMCoQt1S"
+        },
+        {
+            "track_id": "5kMAugdkH2coRHRnW5FuDb",
+            "track_name": "Born To Die",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Born To Die",
+            "track_duration": 286253,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T05:04:50Z",
+            "uri": "spotify:track:5kMAugdkH2coRHRnW5FuDb"
+        },
+        {
+            "track_id": "2wObnNMZce8ntVt8fckSuX",
+            "track_name": "Dark Paradise",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Born To Die",
+            "track_duration": 243173,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T05:33:40Z",
+            "uri": "spotify:track:2wObnNMZce8ntVt8fckSuX"
+        },
+        {
+            "track_id": "7tk7sKS35NTjOPCKsh9Y7f",
+            "track_name": "Radio",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Born To Die",
+            "track_duration": 214586,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T05:37:35Z",
+            "uri": "spotify:track:7tk7sKS35NTjOPCKsh9Y7f"
+        },
+        {
+            "track_id": "5CKtWWyUYLYOXr720B8eT2",
+            "track_name": "Million Dollar Man",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Born To Die",
+            "track_duration": 230120,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-19T05:50:25Z",
+            "uri": "spotify:track:5CKtWWyUYLYOXr720B8eT2"
+        },
+        {
+            "track_id": "2ZMsF5LXbuGkfLMr8U0IxU",
+            "track_name": "Sweet Dreams",
+            "track_artist": "B\u00d8RNS",
+            "track_album": "Sweet Dreams",
+            "track_duration": 198743,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-20T22:49:22Z",
+            "uri": "spotify:track:2ZMsF5LXbuGkfLMr8U0IxU"
+        },
+        {
+            "track_id": "1HyXjrQ5SLNQqT8NKMeusS",
+            "track_name": "For the Last Time",
+            "track_artist": "Spilt Milk Society",
+            "track_album": "For the Last Time",
+            "track_duration": 259221,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-21T03:56:54Z",
+            "uri": "spotify:track:1HyXjrQ5SLNQqT8NKMeusS"
+        },
+        {
+            "track_id": "2kJqNHHGOzLNahukdvlDWN",
+            "track_name": "Drive",
+            "track_artist": "Oh Wonder",
+            "track_album": "Oh Wonder",
+            "track_duration": 196465,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-23T17:08:30Z",
+            "uri": "spotify:track:2kJqNHHGOzLNahukdvlDWN"
+        },
+        {
+            "track_id": "0IVHlst3XMgzXUJbIyZ8oO",
+            "track_name": "Without You",
+            "track_artist": "Oh Wonder",
+            "track_album": "Oh Wonder",
+            "track_duration": 224740,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-23T17:08:56Z",
+            "uri": "spotify:track:0IVHlst3XMgzXUJbIyZ8oO"
+        },
+        {
+            "track_id": "0cqiehfcVFq3ISC3pO9zLE",
+            "track_name": "Heart Strings",
+            "track_artist": "Oh Wonder",
+            "track_album": "Ultralife",
+            "track_duration": 204493,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-23T20:17:12Z",
+            "uri": "spotify:track:0cqiehfcVFq3ISC3pO9zLE"
+        },
+        {
+            "track_id": "55tAuJBWpNjrJLUEFaxghB",
+            "track_name": "Drifting",
+            "track_artist": "Capital Cities",
+            "track_album": "Swimming Pool Summer",
+            "track_duration": 198787,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-24T07:09:02Z",
+            "uri": "spotify:track:55tAuJBWpNjrJLUEFaxghB"
+        },
+        {
+            "track_id": "21mOjagRSY1WqtPvgrAYLE",
+            "track_name": "Fantasies",
+            "track_artist": "Biyo",
+            "track_album": "Fantasies",
+            "track_duration": 203640,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-24T07:12:06Z",
+            "uri": "spotify:track:21mOjagRSY1WqtPvgrAYLE"
+        },
+        {
+            "track_id": "3kHutoJ4KawZkwqVIGAwMU",
+            "track_name": "Moonlight",
+            "track_artist": "Mating Ritual",
+            "track_album": "Moonlight",
+            "track_duration": 275652,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-06-27T04:45:09Z",
+            "uri": "spotify:track:3kHutoJ4KawZkwqVIGAwMU"
+        },
+        {
+            "track_id": "6lLFESiMaqbvhFLfVk3VlE",
+            "track_name": "Forget Me Not \u25d0",
+            "track_artist": "HONNE",
+            "track_album": "I Got You \u25d1 / Forget Me Not \u25d0",
+            "track_duration": 173129,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-07-03T04:47:02Z",
+            "uri": "spotify:track:6lLFESiMaqbvhFLfVk3VlE"
+        },
+        {
+            "track_id": "1vYB39nt7eBvuLHpmEnMPM",
+            "track_name": "Cold Fire",
+            "track_artist": "PREP",
+            "track_album": "Cold Fire",
+            "track_duration": 245693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-07-04T06:52:41Z",
+            "uri": "spotify:track:1vYB39nt7eBvuLHpmEnMPM"
+        },
+        {
+            "track_id": "7AWZvcyaSBxRzaBJcHf9XL",
+            "track_name": "Day 1 \u25d1",
+            "track_artist": "HONNE",
+            "track_album": "Day 1 \u25d1 / Sometimes \u25d0",
+            "track_duration": 233600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-07-05T03:05:31Z",
+            "uri": "spotify:track:7AWZvcyaSBxRzaBJcHf9XL"
+        },
+        {
+            "track_id": "5RypsgEbmGPU8lTvMknK8D",
+            "track_name": "Loud Places - Live from Spotify London",
+            "track_artist": "HONNE",
+            "track_album": "Spotify Session",
+            "track_duration": 268288,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-07-05T04:04:16Z",
+            "uri": "spotify:track:5RypsgEbmGPU8lTvMknK8D"
+        },
+        {
+            "track_id": "0IIdoxwlGBHhNZQkbYF3yD",
+            "track_name": "Body Gold",
+            "track_artist": "Oh Wonder",
+            "track_album": "Oh Wonder",
+            "track_duration": 184524,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-07-05T05:00:09Z",
+            "uri": "spotify:track:0IIdoxwlGBHhNZQkbYF3yD"
+        },
+        {
+            "track_id": "29o0CX6wVVouxhyCERqNfh",
+            "track_name": "Modern",
+            "track_artist": "New Mystics",
+            "track_album": "Modern",
+            "track_duration": 256866,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-07-13T10:20:10Z",
+            "uri": "spotify:track:29o0CX6wVVouxhyCERqNfh"
+        },
+        {
+            "track_id": "08NTgqroZWfpdYaOEcUP3D",
+            "track_name": "NASA Is On Your Side",
+            "track_artist": "Everything Everything",
+            "track_album": "Man Alive",
+            "track_duration": 305000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-07-24T13:59:21Z",
+            "uri": "spotify:track:08NTgqroZWfpdYaOEcUP3D"
+        },
+        {
+            "track_id": "248OFOZef6ShXv6DGgbnxU",
+            "track_name": "Saved",
+            "track_artist": "Khalid",
+            "track_album": "American Teen",
+            "track_duration": 206533,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-02T05:38:18Z",
+            "uri": "spotify:track:248OFOZef6ShXv6DGgbnxU"
+        },
+        {
+            "track_id": "6awX70B48W9JnZnkqtLsoK",
+            "track_name": "Useless",
+            "track_artist": "Fickle Friends",
+            "track_album": "You Are Someone Else",
+            "track_duration": 209866,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-09T00:55:48Z",
+            "uri": "spotify:track:6awX70B48W9JnZnkqtLsoK"
+        },
+        {
+            "track_id": "2resg3l2Jl3KUHnKmeNPjS",
+            "track_name": "Bayou",
+            "track_artist": "BamBoo",
+            "track_album": "Cheers",
+            "track_duration": 198231,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-13T11:29:05Z",
+            "uri": "spotify:track:2resg3l2Jl3KUHnKmeNPjS"
+        },
+        {
+            "track_id": "3498wF96LsgVgMkGmJzJOC",
+            "track_name": "When I'm Small",
+            "track_artist": "Phantogram",
+            "track_album": "Eyelid Movies",
+            "track_duration": 249066,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-22T13:02:48Z",
+            "uri": "spotify:track:3498wF96LsgVgMkGmJzJOC"
+        },
+        {
+            "track_id": "4A5FLaZI3Ni5eT0c9fqi8F",
+            "track_name": "Fire Flies",
+            "track_artist": "Gorillaz",
+            "track_album": "The Now Now",
+            "track_duration": 233373,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-27T02:53:13Z",
+            "uri": "spotify:track:4A5FLaZI3Ni5eT0c9fqi8F"
+        },
+        {
+            "track_id": "1J5rHMEvQFpM07iLULi48A",
+            "track_name": "back again",
+            "track_artist": "flor",
+            "track_album": "come out. you're hiding (deluxe)",
+            "track_duration": 201398,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-27T14:02:50Z",
+            "uri": "spotify:track:1J5rHMEvQFpM07iLULi48A"
+        },
+        {
+            "track_id": "2rd4FH1cSaWGc0ZiUaMbX9",
+            "track_name": "Lover Boy",
+            "track_artist": "Phum Viphurit",
+            "track_album": "Lover Boy",
+            "track_duration": 236727,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-27T14:11:42Z",
+            "uri": "spotify:track:2rd4FH1cSaWGc0ZiUaMbX9"
+        },
+        {
+            "track_id": "46q3SEXroVvqbpwD0eNDRX",
+            "track_name": "Fish",
+            "track_artist": "Will Joseph Cook",
+            "track_album": "If You Want To Make Money",
+            "track_duration": 182523,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-30T04:29:02Z",
+            "uri": "spotify:track:46q3SEXroVvqbpwD0eNDRX"
+        },
+        {
+            "track_id": "6Zjw7NdXuLiwULHgyJ0Jk8",
+            "track_name": "Outside",
+            "track_artist": "TENDER",
+            "track_album": "Outside",
+            "track_duration": 250493,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-30T13:16:30Z",
+            "uri": "spotify:track:6Zjw7NdXuLiwULHgyJ0Jk8"
+        },
+        {
+            "track_id": "2VrOrpMi5tyjs6sRYd5bPK",
+            "track_name": "Tiny Umbrella",
+            "track_artist": "Coast Modern",
+            "track_album": "Coast Modern",
+            "track_duration": 207880,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-08-30T13:37:01Z",
+            "uri": "spotify:track:2VrOrpMi5tyjs6sRYd5bPK"
+        }
+    ]
+}
