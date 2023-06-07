@@ -1,0 +1,455 @@
+{
+    "id": "5LSw269bnrbRfgfXDoOlfC",
+    "tracks": [
+        {
+            "track_id": "7IBfmCrfaR3SLVemWhsucQ",
+            "track_name": "Space Oddity - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Space Oddity (1999 Remaster)",
+            "track_duration": 316333,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:22:38Z",
+            "uri": "spotify:track:7IBfmCrfaR3SLVemWhsucQ"
+        },
+        {
+            "track_id": "3W8FGZsAODJJBRQMwccha6",
+            "track_name": "Moonage Daydream - 2012 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Five Years (1969 - 1973)",
+            "track_duration": 279693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:22:42Z",
+            "uri": "spotify:track:3W8FGZsAODJJBRQMwccha6"
+        },
+        {
+            "track_id": "5j6ZZwA9BnxZi5Bk0Ng4jB",
+            "track_name": "Heroes - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Heroes (1999 Remaster)",
+            "track_duration": 370373,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:22:53Z",
+            "uri": "spotify:track:5j6ZZwA9BnxZi5Bk0Ng4jB"
+        },
+        {
+            "track_id": "0pQskrTITgmCMyr85tb9qq",
+            "track_name": "Starman - 2012 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+            "track_duration": 254293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:22:59Z",
+            "uri": "spotify:track:0pQskrTITgmCMyr85tb9qq"
+        },
+        {
+            "track_id": "3ZE3wv8V3w2T2f7nOCjV0N",
+            "track_name": "Life on Mars? - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 235986,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:03Z",
+            "uri": "spotify:track:3ZE3wv8V3w2T2f7nOCjV0N"
+        },
+        {
+            "track_id": "33xhjEvCQa6gaKEvKWv4Qx",
+            "track_name": "I'm Not Losing Sleep",
+            "track_artist": "David Bowie",
+            "track_album": "I Dig Everything the 1966 Pye Singles",
+            "track_duration": 173266,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:08Z",
+            "uri": "spotify:track:33xhjEvCQa6gaKEvKWv4Qx"
+        },
+        {
+            "track_id": "2POvJ7cAIiaDH79ux6YfKp",
+            "track_name": "Can't Help Thinking About Me",
+            "track_artist": "David Bowie",
+            "track_album": "I Dig Everything the 1966 Pye Singles",
+            "track_duration": 163640,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:13Z",
+            "uri": "spotify:track:2POvJ7cAIiaDH79ux6YfKp"
+        },
+        {
+            "track_id": "0LrwgdLsFaWh9VXIjBRe8t",
+            "track_name": "Changes - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 217746,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:18Z",
+            "uri": "spotify:track:0LrwgdLsFaWh9VXIjBRe8t"
+        },
+        {
+            "track_id": "63PgfGFgAZUEzwGouciEC5",
+            "track_name": "Quicksand - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 306480,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:31Z",
+            "uri": "spotify:track:63PgfGFgAZUEzwGouciEC5"
+        },
+        {
+            "track_id": "1p4krvaKEJWr3ou3D5IZQy",
+            "track_name": "Fill Your Heart - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 190080,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:35Z",
+            "uri": "spotify:track:1p4krvaKEJWr3ou3D5IZQy"
+        },
+        {
+            "track_id": "0SfYZJSWk4h00yzheOgeIQ",
+            "track_name": "Andy Warhol - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 234746,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:40Z",
+            "uri": "spotify:track:0SfYZJSWk4h00yzheOgeIQ"
+        },
+        {
+            "track_id": "0sJXU4olfMR2SvULxarpoW",
+            "track_name": "The Bewlay Brothers - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 329586,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:45Z",
+            "uri": "spotify:track:0sJXU4olfMR2SvULxarpoW"
+        },
+        {
+            "track_id": "2o9VAWKD7yvnyrBRw9tzgH",
+            "track_name": "The Width of a Circle - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "The Man Who Sold the World (2015 Remaster)",
+            "track_duration": 492493,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:52Z",
+            "uri": "spotify:track:2o9VAWKD7yvnyrBRw9tzgH"
+        },
+        {
+            "track_id": "7EjT4uGrhkPtsN0drHeus1",
+            "track_name": "Valentine's Day",
+            "track_artist": "David Bowie",
+            "track_album": "The Next Day",
+            "track_duration": 182293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:23:59Z",
+            "uri": "spotify:track:7EjT4uGrhkPtsN0drHeus1"
+        },
+        {
+            "track_id": "7ueNBLqpat2xoorhpWMfr0",
+            "track_name": "Rebel, Rebel - Live",
+            "track_artist": "David Bowie",
+            "track_album": "A Reality Tour",
+            "track_duration": 210720,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:24:04Z",
+            "uri": "spotify:track:7ueNBLqpat2xoorhpWMfr0"
+        },
+        {
+            "track_id": "5rq6CQ9J6jHGHOW25m8OZn",
+            "track_name": "New Killer Star - Live",
+            "track_artist": "David Bowie",
+            "track_album": "A Reality Tour",
+            "track_duration": 299040,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T14:27:13Z",
+            "uri": "spotify:track:5rq6CQ9J6jHGHOW25m8OZn"
+        },
+        {
+            "track_id": "2fSCaW1pvYzYOliySgD0kJ",
+            "track_name": "Fame - Live",
+            "track_artist": "David Bowie",
+            "track_album": "A Reality Tour",
+            "track_duration": 252693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-15T23:20:12Z",
+            "uri": "spotify:track:2fSCaW1pvYzYOliySgD0kJ"
+        },
+        {
+            "track_id": "3Vn9oCZbdI1EMO7jxdz2Rc",
+            "track_name": "Lazarus",
+            "track_artist": "David Bowie",
+            "track_album": "Blackstar",
+            "track_duration": 382386,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-01-19T20:30:58Z",
+            "uri": "spotify:track:3Vn9oCZbdI1EMO7jxdz2Rc"
+        },
+        {
+            "track_id": "41Zwgm0tmewEoI4Mvx463I",
+            "track_name": "Fantastic Voyage - Live",
+            "track_artist": "David Bowie",
+            "track_album": "A Reality Tour",
+            "track_duration": 193706,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2016-02-18T03:53:56Z",
+            "uri": "spotify:track:41Zwgm0tmewEoI4Mvx463I"
+        },
+        {
+            "track_id": "4eSX90yfxo2rHO89v1axC9",
+            "track_name": "Absolute Beginners - Edit; 2014 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Legacy (The Very Best Of David Bowie, Deluxe)",
+            "track_duration": 287693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-01-21T20:48:45Z",
+            "uri": "spotify:track:4eSX90yfxo2rHO89v1axC9"
+        },
+        {
+            "track_id": "6GrDJu7q8VAxbKdUlYzezT",
+            "track_name": "Where Are We Now?",
+            "track_artist": "David Bowie",
+            "track_album": "The Next Day",
+            "track_duration": 249213,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T04:53:23Z",
+            "uri": "spotify:track:6GrDJu7q8VAxbKdUlYzezT"
+        },
+        {
+            "track_id": "6iG0x3h9PB2g50ZkGGIzqt",
+            "track_name": "Teenage Wildlife - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Scary Monsters",
+            "track_duration": 416106,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T05:06:51Z",
+            "uri": "spotify:track:6iG0x3h9PB2g50ZkGGIzqt"
+        },
+        {
+            "track_id": "7Js4OF5MUb2bqJe09g4uQE",
+            "track_name": "Oh! You Pretty Things - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 193986,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T16:12:59Z",
+            "uri": "spotify:track:7Js4OF5MUb2bqJe09g4uQE"
+        },
+        {
+            "track_id": "7qaMXktCFlO4PeqBLl4diX",
+            "track_name": "The Secret Life of Arabia - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Heroes (1999 Remaster)",
+            "track_duration": 225200,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T17:28:22Z",
+            "uri": "spotify:track:7qaMXktCFlO4PeqBLl4diX"
+        },
+        {
+            "track_id": "5vzaqidXgCFsPdso7BvGT5",
+            "track_name": "All the Young Dudes",
+            "track_artist": "David Bowie",
+            "track_album": "Legacy (The Very Best Of David Bowie, Deluxe)",
+            "track_duration": 188813,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T17:40:08Z",
+            "uri": "spotify:track:5vzaqidXgCFsPdso7BvGT5"
+        },
+        {
+            "track_id": "6GCNEAIZVH4lKQD30lfQ6f",
+            "track_name": "Velvet Goldmine - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Five Years (1969 - 1973)",
+            "track_duration": 190314,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T17:44:14Z",
+            "uri": "spotify:track:6GCNEAIZVH4lKQD30lfQ6f"
+        },
+        {
+            "track_id": "3MrxdpIOiuI9ahr3MfcYqA",
+            "track_name": "Diamond Dogs - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Diamond Dogs",
+            "track_duration": 365733,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T17:52:20Z",
+            "uri": "spotify:track:3MrxdpIOiuI9ahr3MfcYqA"
+        },
+        {
+            "track_id": "3GGkKcUEC4xMxbJ9HEjWNg",
+            "track_name": "The Jean Genie - 2013 Remastered Version",
+            "track_artist": "David Bowie",
+            "track_album": "Aladdin Sane (40th Anniversary)",
+            "track_duration": 247449,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T17:55:29Z",
+            "uri": "spotify:track:3GGkKcUEC4xMxbJ9HEjWNg"
+        },
+        {
+            "track_id": "4xwe9DR2DlFuG9PdA2LWHF",
+            "track_name": "Modern Love - Single Version; 1990 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "ChangesBowie (1990 Remaster)",
+            "track_duration": 237666,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-03T18:25:11Z",
+            "uri": "spotify:track:4xwe9DR2DlFuG9PdA2LWHF"
+        },
+        {
+            "track_id": "0odYOJI9hQnsBSgdf1okiS",
+            "track_name": "My Death - Live",
+            "track_artist": "David Bowie",
+            "track_album": "Live in Santa Monica '72",
+            "track_duration": 350600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T01:55:31Z",
+            "uri": "spotify:track:0odYOJI9hQnsBSgdf1okiS"
+        },
+        {
+            "track_id": "4cVHMHgmWgudD399ZdhQ3L",
+            "track_name": "Let's Dance - 2002 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Let's Dance",
+            "track_duration": 247600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T02:05:05Z",
+            "uri": "spotify:track:4cVHMHgmWgudD399ZdhQ3L"
+        },
+        {
+            "track_id": "3ZFurUI2qESabUHHyIlxa8",
+            "track_name": "Lady Grinning Soul - 2013 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Aladdin Sane (2013 Remaster)",
+            "track_duration": 235255,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T02:49:04Z",
+            "uri": "spotify:track:3ZFurUI2qESabUHHyIlxa8"
+        },
+        {
+            "track_id": "2uki1VRt9gZs2za2VUoBIC",
+            "track_name": "Cat People (Putting out Fire) - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Let's Dance (1999 Remaster)",
+            "track_duration": 309693,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T03:00:30Z",
+            "uri": "spotify:track:2uki1VRt9gZs2za2VUoBIC"
+        },
+        {
+            "track_id": "2R7ptCP8jmkHKC0TlwUgxg",
+            "track_name": "Underground",
+            "track_artist": "David Bowie",
+            "track_album": "Labyrinth (From The Original Soundtrack Of The Jim Henson Film)",
+            "track_duration": 357023,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T05:25:01Z",
+            "uri": "spotify:track:2R7ptCP8jmkHKC0TlwUgxg"
+        },
+        {
+            "track_id": "1JHUxxd77M4ViaqJZfBdl0",
+            "track_name": "Ashes to Ashes",
+            "track_artist": "David Bowie",
+            "track_album": "Scary Monsters",
+            "track_duration": 263760,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T11:33:10Z",
+            "uri": "spotify:track:1JHUxxd77M4ViaqJZfBdl0"
+        },
+        {
+            "track_id": "34Pobuh81Cvth4YZ6qdLdI",
+            "track_name": "Blue Jean - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Tonight (1999 Remaster)",
+            "track_duration": 192160,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T11:39:14Z",
+            "uri": "spotify:track:34Pobuh81Cvth4YZ6qdLdI"
+        },
+        {
+            "track_id": "06b2GMtBeNV7IODxVM34fi",
+            "track_name": "Everyone Says 'Hi'",
+            "track_artist": "David Bowie",
+            "track_album": "Heathen",
+            "track_duration": 237666,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T11:39:31Z",
+            "uri": "spotify:track:06b2GMtBeNV7IODxVM34fi"
+        },
+        {
+            "track_id": "72zIMW5suBCXo0hupWs9YB",
+            "track_name": "Young Americans - Single Version; 2002 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Best of Bowie",
+            "track_duration": 194640,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T11:39:51Z",
+            "uri": "spotify:track:72zIMW5suBCXo0hupWs9YB"
+        },
+        {
+            "track_id": "7wZXt4jyBbqvtC5wux7eZv",
+            "track_name": "Slow Burn",
+            "track_artist": "David Bowie",
+            "track_album": "Heathen",
+            "track_duration": 280933,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-04T12:12:14Z",
+            "uri": "spotify:track:7wZXt4jyBbqvtC5wux7eZv"
+        },
+        {
+            "track_id": "2cKFC8E1RAL0A8VErVsFLp",
+            "track_name": "New Killer Star",
+            "track_artist": "David Bowie",
+            "track_album": "Reality",
+            "track_duration": 280600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-05T14:59:31Z",
+            "uri": "spotify:track:2cKFC8E1RAL0A8VErVsFLp"
+        },
+        {
+            "track_id": "2Kmc85CMnbxenPR1fXiRVX",
+            "track_name": "Time Will Crawl - MM Remix",
+            "track_artist": "David Bowie",
+            "track_album": "Nothing Has Changed (The Best of David Bowie) [Deluxe Edition]",
+            "track_duration": 295080,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-05T15:08:43Z",
+            "uri": "spotify:track:2Kmc85CMnbxenPR1fXiRVX"
+        },
+        {
+            "track_id": "6YMjpgIuNsVUcEhLKxFGsJ",
+            "track_name": "Who Can I Be Now? - 2016 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Who Can I Be Now? [1974 - 1976]",
+            "track_duration": 282120,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2017-09-05T19:13:37Z",
+            "uri": "spotify:track:6YMjpgIuNsVUcEhLKxFGsJ"
+        },
+        {
+            "track_id": "2UQysLoUc6IjcSZUYrRhsA",
+            "track_name": "Cat People (Putting out Fire) - 1999 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Let's Dance",
+            "track_duration": 309733,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2020-01-23T03:20:11Z",
+            "uri": "spotify:track:2UQysLoUc6IjcSZUYrRhsA"
+        },
+        {
+            "track_id": "1k5iH4KDKi56MFvlnrALNV",
+            "track_name": "Rock 'n' Roll Suicide - 2012 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+            "track_duration": 178265,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2020-08-10T14:39:11Z",
+            "uri": "spotify:track:1k5iH4KDKi56MFvlnrALNV"
+        },
+        {
+            "track_id": "4xHp0sbeXzc8U8GKnKAaFd",
+            "track_name": "When I Live My Dream",
+            "track_artist": "David Bowie",
+            "track_album": "David Bowie",
+            "track_duration": 204640,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2021-09-21T04:14:33Z",
+            "uri": "spotify:track:4xHp0sbeXzc8U8GKnKAaFd"
+        }
+    ]
+}
