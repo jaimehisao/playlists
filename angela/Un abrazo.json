@@ -1,0 +1,65 @@
+{
+    "id": "1aosE3I9nuxuMRipPBu7zD",
+    "tracks": [
+        {
+            "track_id": "7DDcNAaRQm1cyDeJ4yLafO",
+            "track_name": "Reflecting Light",
+            "track_artist": "Sam Phillips",
+            "track_album": "A Boot and a Shoe",
+            "track_duration": 197066,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-03-08T00:49:48Z",
+            "uri": "spotify:track:7DDcNAaRQm1cyDeJ4yLafO"
+        },
+        {
+            "track_id": "5TnONsGGPD0ZO7DdEq0BsL",
+            "track_name": "Pais Nublado",
+            "track_artist": "Helado Negro",
+            "track_album": "This Is How You Smile",
+            "track_duration": 272229,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-03-08T00:49:54Z",
+            "uri": "spotify:track:5TnONsGGPD0ZO7DdEq0BsL"
+        },
+        {
+            "track_id": "4fN0dQGDaV4Hg7Gd7mBOE0",
+            "track_name": "Rivers and Roads",
+            "track_artist": "The Head And The Heart",
+            "track_album": "The Head and the Heart",
+            "track_duration": 284000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-07-11T03:50:58Z",
+            "uri": "spotify:track:4fN0dQGDaV4Hg7Gd7mBOE0"
+        },
+        {
+            "track_id": "6cx5CvFhqN19efStehJqoW",
+            "track_name": "Valentine",
+            "track_artist": "Laufey",
+            "track_album": "Everything I Know About Love",
+            "track_duration": 168906,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-12-05T08:41:00Z",
+            "uri": "spotify:track:6cx5CvFhqN19efStehJqoW"
+        },
+        {
+            "track_id": "2wwko1N7dVjpsHt5Ca9be3",
+            "track_name": "If I Be Wrong",
+            "track_artist": "Wolf Larsen",
+            "track_album": "Quiet at the Kitchen Door",
+            "track_duration": 438700,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-12-05T14:51:04Z",
+            "uri": "spotify:track:2wwko1N7dVjpsHt5Ca9be3"
+        },
+        {
+            "track_id": "5LLc5PMYsumWanLvgr7DCB",
+            "track_name": "Baby Mine - From \"Dumbo\"",
+            "track_artist": "Betty Noyes",
+            "track_album": "Julie Andrews Selects Her Favorite Disney Songs",
+            "track_duration": 127333,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-12-09T16:00:55Z",
+            "uri": "spotify:track:5LLc5PMYsumWanLvgr7DCB"
+        }
+    ]
+}
