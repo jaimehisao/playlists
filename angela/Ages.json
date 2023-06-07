@@ -1,0 +1,65 @@
+{
+    "id": "24StnfFvNexObkovhxmVPu",
+    "tracks": [
+        {
+            "track_id": "609kvweP5jCpgdALLIgKvM",
+            "track_name": "28",
+            "track_artist": "Lorene Scafaria",
+            "track_album": "Garden Party",
+            "track_duration": 177706,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2021-06-30T20:25:21Z",
+            "uri": "spotify:track:609kvweP5jCpgdALLIgKvM"
+        },
+        {
+            "track_id": "3WC5CVAahvn98hiseoIvbw",
+            "track_name": "22",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Deluxe Edition)",
+            "track_duration": 232120,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2021-06-30T20:25:32Z",
+            "uri": "spotify:track:3WC5CVAahvn98hiseoIvbw"
+        },
+        {
+            "track_id": "3YkDslZvvMixTwgDId0aYB",
+            "track_name": "Twenty-three",
+            "track_artist": "IU",
+            "track_album": "CHAT-SHIRE",
+            "track_duration": 194325,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2021-07-01T13:14:33Z",
+            "uri": "spotify:track:3YkDslZvvMixTwgDId0aYB"
+        },
+        {
+            "track_id": "7wh0sKJwjFgavoPhzjXFLp",
+            "track_name": "24",
+            "track_artist": "flor",
+            "track_album": "Future Shine",
+            "track_duration": 184318,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-05-06T11:08:12Z",
+            "uri": "spotify:track:7wh0sKJwjFgavoPhzjXFLp"
+        },
+        {
+            "track_id": "6b8Be6ljOzmkOmFslEb23P",
+            "track_name": "24K Magic",
+            "track_artist": "Bruno Mars",
+            "track_album": "24K Magic",
+            "track_duration": 225983,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-06-02T04:46:34Z",
+            "uri": "spotify:track:6b8Be6ljOzmkOmFslEb23P"
+        },
+        {
+            "track_id": "5EdGni8Sgu75BdLyv5mSUT",
+            "track_name": "24 Years Old of You",
+            "track_artist": "I Mean Us",
+            "track_album": "Into Innerverse",
+            "track_duration": 272232,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-08-16T14:55:24Z",
+            "uri": "spotify:track:5EdGni8Sgu75BdLyv5mSUT"
+        }
+    ]
+}
