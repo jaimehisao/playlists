@@ -1,0 +1,45 @@
+{
+    "id": "0JmuDg0bLJrgiUPIUr4owK",
+    "tracks": [
+        {
+            "track_id": "1VWYKR91K0WYMxyBHNaYxt",
+            "track_name": "The Whirling Ways of Stars that Pass",
+            "track_artist": "J\u00f3hann J\u00f3hannsson",
+            "track_album": "The Theory of Everything (Original Motion Picture Soundtrack)",
+            "track_duration": 112555,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-12-09T16:24:29Z",
+            "uri": "spotify:track:1VWYKR91K0WYMxyBHNaYxt"
+        },
+        {
+            "track_id": "5TEHmmf6KmPEl2M2wUNJuo",
+            "track_name": "Ultramarine (Interlude)",
+            "track_artist": "Bethel Music",
+            "track_album": "Without Words: Synesthesia",
+            "track_duration": 104480,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-12-09T16:24:34Z",
+            "uri": "spotify:track:5TEHmmf6KmPEl2M2wUNJuo"
+        },
+        {
+            "track_id": "5Pdb3kY9GKNUamj219mkwS",
+            "track_name": "Instead of Myself",
+            "track_artist": "Sleeping At Last",
+            "track_album": "The Spring (Original Score)",
+            "track_duration": 110018,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-12-09T16:24:40Z",
+            "uri": "spotify:track:5Pdb3kY9GKNUamj219mkwS"
+        },
+        {
+            "track_id": "74qn7Z1icF6rB9kUiVFUFm",
+            "track_name": "Before Dawn",
+            "track_artist": "Men I Trust",
+            "track_album": "Untourable Album",
+            "track_duration": 213294,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-03-17T05:11:45Z",
+            "uri": "spotify:track:74qn7Z1icF6rB9kUiVFUFm"
+        }
+    ]
+}
