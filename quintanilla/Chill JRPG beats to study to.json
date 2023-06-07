@@ -1,0 +1,325 @@
+{
+    "id": "7cn5Kp14uRFKlkIxNLRBZT",
+    "tracks": [
+        {
+            "track_id": "1kl6jzl9h38pjzALrPYvq3",
+            "track_name": "Corridors of Time",
+            "track_artist": "Yasunori Mitsuda",
+            "track_album": "CHRONO TRIGGER Original Soundtrack\u3010DS Edition\u3011",
+            "track_duration": 183266,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:23:09Z",
+            "uri": "spotify:track:1kl6jzl9h38pjzALrPYvq3"
+        },
+        {
+            "track_id": "6wLLZeNrVi3UFtYgp9onhd",
+            "track_name": "Character Creation",
+            "track_artist": "Masaharu Iwata",
+            "track_album": "FINAL FANTASY TACTICS Original Soundtrack",
+            "track_duration": 105960,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:24:13Z",
+            "uri": "spotify:track:6wLLZeNrVi3UFtYgp9onhd"
+        },
+        {
+            "track_id": "2zDx7re0GiD4JfsILA4Lnx",
+            "track_name": "Protagonist's Theme",
+            "track_artist": "Hitoshi Sakimoto",
+            "track_album": "FINAL FANTASY TACTICS Original Soundtrack",
+            "track_duration": 72666,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:24:45Z",
+            "uri": "spotify:track:2zDx7re0GiD4JfsILA4Lnx"
+        },
+        {
+            "track_id": "5vkzFLlswC4stmL1aKfAPD",
+            "track_name": "Terra's Theme",
+            "track_artist": "Nobuo Uematsu",
+            "track_album": "FINAL FANTASY VI Original Soundtrack",
+            "track_duration": 232733,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:27:35Z",
+            "uri": "spotify:track:5vkzFLlswC4stmL1aKfAPD"
+        },
+        {
+            "track_id": "3ay4HNmCII9soFmSqcuDCu",
+            "track_name": "Main Theme of Final Fantasy VII",
+            "track_artist": "Nobuo Uematsu",
+            "track_album": "FINAL FANTASY VII Original Soundtrack",
+            "track_duration": 389866,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:28:12Z",
+            "uri": "spotify:track:3ay4HNmCII9soFmSqcuDCu"
+        },
+        {
+            "track_id": "5xlS6jtblfgmMjPWN0acPt",
+            "track_name": "Theme of Love",
+            "track_artist": "Nobuo Uematsu",
+            "track_album": "FINAL FANTASY IV Original Soundtrack",
+            "track_duration": 109626,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:28:33Z",
+            "uri": "spotify:track:5xlS6jtblfgmMjPWN0acPt"
+        },
+        {
+            "track_id": "1GCJGhtticxBvH9PP7Qko0",
+            "track_name": "Balamb GARDEN",
+            "track_artist": "Nobuo Uematsu",
+            "track_album": "FINAL FANTASY VIII Original Soundtrack",
+            "track_duration": 209266,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:29:05Z",
+            "uri": "spotify:track:1GCJGhtticxBvH9PP7Qko0"
+        },
+        {
+            "track_id": "70llicBSPtk6EwA5zGyufO",
+            "track_name": "Memories of Green",
+            "track_artist": "Yasunori Mitsuda",
+            "track_album": "CHRONO TRIGGER Original Soundtrack\u3010DS Edition\u3011",
+            "track_duration": 228200,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:29:32Z",
+            "uri": "spotify:track:70llicBSPtk6EwA5zGyufO"
+        },
+        {
+            "track_id": "6dVxuSmdh6SDqB17FX7kEn",
+            "track_name": "Flowers Blooming in the Church",
+            "track_artist": "Nobuo Uematsu",
+            "track_album": "FINAL FANTASY VII Original Soundtrack",
+            "track_duration": 299840,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:29:42Z",
+            "uri": "spotify:track:6dVxuSmdh6SDqB17FX7kEn"
+        },
+        {
+            "track_id": "4rabvvY0IfD67SNtfXezmk",
+            "track_name": "Wailers And Waterwheels",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "A REALM REBORN: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 686980,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:30:53Z",
+            "uri": "spotify:track:4rabvvY0IfD67SNtfXezmk"
+        },
+        {
+            "track_id": "2y78tskYobUfE8XWucDQcX",
+            "track_name": "The Waking Sands",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "A REALM REBORN: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 250622,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:31:40Z",
+            "uri": "spotify:track:2y78tskYobUfE8XWucDQcX"
+        },
+        {
+            "track_id": "7wCzaCtPc3atkhRznl4fdw",
+            "track_name": "Against the Wind",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "Heavensward: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 128794,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:32:13Z",
+            "uri": "spotify:track:7wCzaCtPc3atkhRznl4fdw"
+        },
+        {
+            "track_id": "0uS79ipVsPTNrM7pXNMUUi",
+            "track_name": "Coming Home",
+            "track_artist": "Yukiko Takada",
+            "track_album": "Heavensward: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 330830,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:32:30Z",
+            "uri": "spotify:track:0uS79ipVsPTNrM7pXNMUUi"
+        },
+        {
+            "track_id": "28MF0dtHCvKJ4EQPZGoh5j",
+            "track_name": "Close to the Heavens",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "Heavensward: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 297714,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:32:50Z",
+            "uri": "spotify:track:28MF0dtHCvKJ4EQPZGoh5j"
+        },
+        {
+            "track_id": "35sb7fb28uy8r3GX4btTrb",
+            "track_name": "Roses of May",
+            "track_artist": "Nobuo Uematsu",
+            "track_album": "FINAL FANTASY IX Original Soundtrack",
+            "track_duration": 154093,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:34:28Z",
+            "uri": "spotify:track:35sb7fb28uy8r3GX4btTrb"
+        },
+        {
+            "track_id": "5jCeATLAC6lK6qJF5CqP4h",
+            "track_name": "Sands of Amber",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "SHADOWBRINGERS: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 191880,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:36:56Z",
+            "uri": "spotify:track:5jCeATLAC6lK6qJF5CqP4h"
+        },
+        {
+            "track_id": "0SyShykg5YI1xaGP2JphDm",
+            "track_name": "Knowledge Never Sleeps",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "SHADOWBRINGERS: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 517461,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:37:04Z",
+            "uri": "spotify:track:0SyShykg5YI1xaGP2JphDm"
+        },
+        {
+            "track_id": "5gSIpP0LzYXsz4bEp1UUCG",
+            "track_name": "Civilizations",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "SHADOWBRINGERS: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 179586,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:37:15Z",
+            "uri": "spotify:track:5gSIpP0LzYXsz4bEp1UUCG"
+        },
+        {
+            "track_id": "72XCIYkEtLwUYU911iGduu",
+            "track_name": "Sultana Dreaming",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "A REALM REBORN: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 425387,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:37:33Z",
+            "uri": "spotify:track:72XCIYkEtLwUYU911iGduu"
+        },
+        {
+            "track_id": "3hzQ4S6oeZCXGgnoGoeK3v",
+            "track_name": "Hymn of the Soul",
+            "track_artist": "Haruko Komiya",
+            "track_album": "PERSONA5 ORIGINAL SOUNDTRACK",
+            "track_duration": 338306,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:38:32Z",
+            "uri": "spotify:track:3hzQ4S6oeZCXGgnoGoeK3v"
+        },
+        {
+            "track_id": "6tuZRKka2B6uokT2AKrUF9",
+            "track_name": "Confession / Secret",
+            "track_artist": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
+            "track_album": "PERSONA5 ORIGINAL SOUNDTRACK",
+            "track_duration": 151680,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:38:45Z",
+            "uri": "spotify:track:6tuZRKka2B6uokT2AKrUF9"
+        },
+        {
+            "track_id": "2Il4l22OHAP17Xvts61GHq",
+            "track_name": "Beneath the Mask - instrumental version",
+            "track_artist": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
+            "track_album": "PERSONA5 ORIGINAL SOUNDTRACK",
+            "track_duration": 281813,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:39:06Z",
+            "uri": "spotify:track:2Il4l22OHAP17Xvts61GHq"
+        },
+        {
+            "track_id": "1h8ZdxSacDTM1BoZGTGJcK",
+            "track_name": "When Mother Was There",
+            "track_artist": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
+            "track_album": "PERSONA5 ORIGINAL SOUNDTRACK",
+            "track_duration": 239266,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:39:19Z",
+            "uri": "spotify:track:1h8ZdxSacDTM1BoZGTGJcK"
+        },
+        {
+            "track_id": "5h6X58YJWSm4VQIDDq5OHA",
+            "track_name": "Streets of Rabanastre - Zodiac Age Version",
+            "track_artist": "\u5d0e\u5143\u4ec1",
+            "track_album": "FINAL FANTASY XII THE ZODIAC AGE ORIGINAL SOUNDTRACK",
+            "track_duration": 356624,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:40:06Z",
+            "uri": "spotify:track:5h6X58YJWSm4VQIDDq5OHA"
+        },
+        {
+            "track_id": "5tOlRkRSlLFfMITj8Jvh5k",
+            "track_name": "Nalbina Dungeons - Zodiac Age Version",
+            "track_artist": "\u5d0e\u5143\u4ec1",
+            "track_album": "FINAL FANTASY XII THE ZODIAC AGE ORIGINAL SOUNDTRACK",
+            "track_duration": 279644,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:40:25Z",
+            "uri": "spotify:track:5tOlRkRSlLFfMITj8Jvh5k"
+        },
+        {
+            "track_id": "3mzyXdq1x6k2pxUCWDN4ia",
+            "track_name": "Lowtown - Zodiac Age Version",
+            "track_artist": "\u5d0e\u5143\u4ec1",
+            "track_album": "FINAL FANTASY XII THE ZODIAC AGE ORIGINAL SOUNDTRACK",
+            "track_duration": 175566,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:41:05Z",
+            "uri": "spotify:track:3mzyXdq1x6k2pxUCWDN4ia"
+        },
+        {
+            "track_id": "1vwVqcr8jOhsx5Sr6L1gxN",
+            "track_name": "Winds of Change - Zodiac Age Version",
+            "track_artist": "\u5d0e\u5143\u4ec1",
+            "track_album": "FINAL FANTASY XII THE ZODIAC AGE ORIGINAL SOUNDTRACK",
+            "track_duration": 180720,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:42:36Z",
+            "uri": "spotify:track:1vwVqcr8jOhsx5Sr6L1gxN"
+        },
+        {
+            "track_id": "5Gk9hFbilARSy8SRBhSqOJ",
+            "track_name": "Afterglow",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2\u30101/2\u3011",
+            "track_duration": 301866,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:43:10Z",
+            "uri": "spotify:track:5Gk9hFbilARSy8SRBhSqOJ"
+        },
+        {
+            "track_id": "3hBcfhMeW0G0iEyLbDUhcf",
+            "track_name": "Cyan's Theme",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2\u30101/2\u3011",
+            "track_duration": 256546,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:43:32Z",
+            "uri": "spotify:track:3hBcfhMeW0G0iEyLbDUhcf"
+        },
+        {
+            "track_id": "66jNGukNnniTIDcr7QxClC",
+            "track_name": "Crimson Sunset",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2\u30101/2\u3011",
+            "track_duration": 309853,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:44:15Z",
+            "uri": "spotify:track:66jNGukNnniTIDcr7QxClC"
+        },
+        {
+            "track_id": "6POmS4vFjhkaDRQ1LQXqaf",
+            "track_name": "A Father's Pride",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2\u30101/2\u3011",
+            "track_duration": 172480,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:44:33Z",
+            "uri": "spotify:track:6POmS4vFjhkaDRQ1LQXqaf"
+        },
+        {
+            "track_id": "2jQ20WnfWVj9RpHByx2PxU",
+            "track_name": "Eternal Wind",
+            "track_artist": "Nobuo Uematsu",
+            "track_album": "Before the Fall: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 159308,
+            "track_added_by": "1297451658",
+            "track_added_at": "2022-05-18T04:44:55Z",
+            "uri": "spotify:track:2jQ20WnfWVj9RpHByx2PxU"
+        }
+    ]
+}
