@@ -1,0 +1,75 @@
+{
+    "id": "3gEPRKbAFMoh5vilqGAj2e",
+    "tracks": [
+        {
+            "track_id": "12M5uqx0ZuwkpLp5rJim1a",
+            "track_name": "Cornelia Street",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 287266,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-07T18:39:48Z",
+            "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-07T18:39:55Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
+            "track_name": "Paper Rings",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 222400,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-07T18:40:01Z",
+            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
+        },
+        {
+            "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "track_name": "Cruel Summer",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 178426,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-07T18:40:20Z",
+            "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+        },
+        {
+            "track_id": "0VE4kBnHJUgtMf0dy6DRmW",
+            "track_name": "Getaway Car",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 233626,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-07T18:40:39Z",
+            "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+        },
+        {
+            "track_id": "214nt20w5wOxJnY462klLw",
+            "track_name": "Miss Americana & The Heartbreak Prince",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 234146,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-07T18:40:46Z",
+            "uri": "spotify:track:214nt20w5wOxJnY462klLw"
+        },
+        {
+            "track_id": "3xYJScVfxByb61dYHTwiby",
+            "track_name": "Hits Different",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (The Til Dawn Edition)",
+            "track_duration": 234466,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-07T18:40:54Z",
+            "uri": "spotify:track:3xYJScVfxByb61dYHTwiby"
+        }
+    ]
+}
