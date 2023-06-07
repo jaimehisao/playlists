@@ -1,0 +1,55 @@
+{
+    "id": "2QvEIwUxQ8nYAK8bmztCFo",
+    "tracks": [
+        {
+            "track_id": "1lOM29i8QvfVw87nVqY5Mm",
+            "track_name": "Humongous - Single Version",
+            "track_artist": "Declan McKenna",
+            "track_album": "Humongous",
+            "track_duration": 312671,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2019-01-10T08:48:18Z",
+            "uri": "spotify:track:1lOM29i8QvfVw87nVqY5Mm"
+        },
+        {
+            "track_id": "5I7NPSa5hayTg2CE7NtJNi",
+            "track_name": "Redshift",
+            "track_artist": "Darwin Deez",
+            "track_album": "Songs For Imaginative People",
+            "track_duration": 238786,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2019-01-10T08:48:22Z",
+            "uri": "spotify:track:5I7NPSa5hayTg2CE7NtJNi"
+        },
+        {
+            "track_id": "4nCasVeozJpceTjRmG55Uu",
+            "track_name": "Superposition",
+            "track_artist": "Young the Giant",
+            "track_album": "Heat of the Summer / Superposition / Simplify",
+            "track_duration": 230959,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2019-01-10T08:48:50Z",
+            "uri": "spotify:track:4nCasVeozJpceTjRmG55Uu"
+        },
+        {
+            "track_id": "49X1d9QKZKU2WFBtm4GUzN",
+            "track_name": "Nothing But You",
+            "track_artist": "Bob Moses",
+            "track_album": "Battle Lines",
+            "track_duration": 219960,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2019-01-10T20:59:18Z",
+            "uri": "spotify:track:49X1d9QKZKU2WFBtm4GUzN"
+        },
+        {
+            "track_id": "14KP6cmTImZmrcAC5m0Azd",
+            "track_name": "Call Me Back",
+            "track_artist": "Young the Giant",
+            "track_album": "Mirror Master",
+            "track_duration": 237746,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2019-01-10T21:34:23Z",
+            "uri": "spotify:track:14KP6cmTImZmrcAC5m0Azd"
+        }
+    ]
+}
