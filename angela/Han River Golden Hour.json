@@ -1,0 +1,55 @@
+{
+    "id": "2GLIVo4apX5qpdFiCabduw",
+    "tracks": [
+        {
+            "track_id": "7eSWgAlmLPXbGxgH3RNoWh",
+            "track_name": "We Stayed Up All Night",
+            "track_artist": "Tourist",
+            "track_album": "We Stayed Up All Night",
+            "track_duration": 265758,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-08-28T05:15:25Z",
+            "uri": "spotify:track:7eSWgAlmLPXbGxgH3RNoWh"
+        },
+        {
+            "track_id": "6GD1eomgaGT1Epto6Q5eAo",
+            "track_name": "golden hour",
+            "track_artist": "JVKE",
+            "track_album": "golden hour",
+            "track_duration": 209259,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-09-18T08:35:22Z",
+            "uri": "spotify:track:6GD1eomgaGT1Epto6Q5eAo"
+        },
+        {
+            "track_id": "0FzLmCmrha6YjLh7uLtO72",
+            "track_name": "Le soleil danse",
+            "track_artist": "Miel De Montagne",
+            "track_album": "Miel de Montagne",
+            "track_duration": 310458,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-09-24T12:45:51Z",
+            "uri": "spotify:track:0FzLmCmrha6YjLh7uLtO72"
+        },
+        {
+            "track_id": "47WZOx6Bk36kilpfCLxgRp",
+            "track_name": "Superbloom",
+            "track_artist": "Isaac Winemiller",
+            "track_album": "Levels of Removal",
+            "track_duration": 136403,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2022-11-14T12:31:16Z",
+            "uri": "spotify:track:47WZOx6Bk36kilpfCLxgRp"
+        },
+        {
+            "track_id": "0oODAuxcJ94qCEYMgsCti4",
+            "track_name": "Tin Lover",
+            "track_artist": "The Paper Kites",
+            "track_album": "States",
+            "track_duration": 199653,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-01-06T19:08:55Z",
+            "uri": "spotify:track:0oODAuxcJ94qCEYMgsCti4"
+        }
+    ]
+}
