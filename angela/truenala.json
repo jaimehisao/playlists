@@ -1,0 +1,55 @@
+{
+    "id": "7iV4rBb5lEuREvItjS5L1Q",
+    "tracks": [
+        {
+            "track_id": "5fiIg1Iqmqxs4vrspNNMnK",
+            "track_name": "Abcdefg - Remix",
+            "track_artist": "G3D3R",
+            "track_album": "Abcdefg",
+            "track_duration": 174134,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-04-10T19:58:55Z",
+            "uri": "spotify:track:5fiIg1Iqmqxs4vrspNNMnK"
+        },
+        {
+            "track_id": "2ksyzVfU0WJoBpu8otr4pz",
+            "track_name": "METAMORPHOSIS",
+            "track_artist": "INTERWORLD",
+            "track_album": "METAMORPHOSIS",
+            "track_duration": 142839,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-04-16T05:23:45Z",
+            "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz"
+        },
+        {
+            "track_id": "6eOboAF7FAWbkdeADhRG7C",
+            "track_name": "HELLBORN",
+            "track_artist": "CURSEDEVIL",
+            "track_album": "HELLBORN",
+            "track_duration": 81374,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-04-16T05:23:59Z",
+            "uri": "spotify:track:6eOboAF7FAWbkdeADhRG7C"
+        },
+        {
+            "track_id": "6qyS9qBy0mEk3qYaH8mPss",
+            "track_name": "Murder In My Mind",
+            "track_artist": "Kordhell",
+            "track_album": "Murder In My Mind",
+            "track_duration": 145000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-04-16T05:25:57Z",
+            "uri": "spotify:track:6qyS9qBy0mEk3qYaH8mPss"
+        },
+        {
+            "track_id": "4XzeThE3txvCBIrP40tj85",
+            "track_name": "Eternity",
+            "track_artist": "Anyma",
+            "track_album": "Eternity",
+            "track_duration": 186284,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-04-26T07:14:30Z",
+            "uri": "spotify:track:4XzeThE3txvCBIrP40tj85"
+        }
+    ]
+}
