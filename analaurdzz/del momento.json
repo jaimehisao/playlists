@@ -70,6 +70,26 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-06-07T18:40:54Z",
             "uri": "spotify:track:3xYJScVfxByb61dYHTwiby"
+        },
+        {
+            "track_id": "1NmVZsG18CzCAtw7rnV3yA",
+            "track_name": "Clean",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 271000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-08T15:08:36Z",
+            "uri": "spotify:track:1NmVZsG18CzCAtw7rnV3yA"
+        },
+        {
+            "track_id": "5kI4eCXXzyuIUXjQra0Cxi",
+            "track_name": "betty",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 294521,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-08T16:03:57Z",
+            "uri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
         }
     ]
 }

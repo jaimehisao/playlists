@@ -1,0 +1,45 @@
+{
+    "id": "6eRyuEmPJXWtwVMYMk506T",
+    "tracks": [
+        {
+            "track_id": "4oDZ5L8izBals6jKBJDBcX",
+            "track_name": "Your Love",
+            "track_artist": "The Outfield",
+            "track_album": "Play Deep",
+            "track_duration": 216466,
+            "track_added_by": "21dvpkvvyqhwgbrrtjz3zenyi",
+            "track_added_at": "2018-05-05T16:25:13Z",
+            "uri": "spotify:track:4oDZ5L8izBals6jKBJDBcX"
+        },
+        {
+            "track_id": "09nZ9ZDWq1rTkmM3WjvMvF",
+            "track_name": "You Really Got Me - Remastered",
+            "track_artist": "The Kinks",
+            "track_album": "The Anthology 1964 - 1971",
+            "track_duration": 134066,
+            "track_added_by": "21dvpkvvyqhwgbrrtjz3zenyi",
+            "track_added_at": "2018-05-05T16:25:30Z",
+            "uri": "spotify:track:09nZ9ZDWq1rTkmM3WjvMvF"
+        },
+        {
+            "track_id": "2fpKkOzGcJ1tnBDnu8kJmp",
+            "track_name": "Fox on the Run - Single Version",
+            "track_artist": "Sweet",
+            "track_album": "Sweet Best",
+            "track_duration": 202960,
+            "track_added_by": "21dvpkvvyqhwgbrrtjz3zenyi",
+            "track_added_at": "2018-05-05T16:25:39Z",
+            "uri": "spotify:track:2fpKkOzGcJ1tnBDnu8kJmp"
+        },
+        {
+            "track_id": "4gphxUgq0JSFv2BCLhNDiE",
+            "track_name": "Jailhouse Rock",
+            "track_artist": "Elvis Presley",
+            "track_album": "Elvis' Golden Records",
+            "track_duration": 146480,
+            "track_added_by": "21dvpkvvyqhwgbrrtjz3zenyi",
+            "track_added_at": "2018-05-05T16:25:55Z",
+            "uri": "spotify:track:4gphxUgq0JSFv2BCLhNDiE"
+        }
+    ]
+}
