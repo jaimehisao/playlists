@@ -1,0 +1,1405 @@
+{
+    "id": "6mNmfM9mK9YMjoIPSOVu1s",
+    "tracks": [
+        {
+            "track_id": "3ZhTT6yjZwpPph5MIJ53XY",
+            "track_name": "Red Roses (feat. Landon Cube)",
+            "track_artist": "Lil Skies",
+            "track_album": "Life of a Dark Rose",
+            "track_duration": 262544,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:25:20Z",
+            "uri": "spotify:track:3ZhTT6yjZwpPph5MIJ53XY"
+        },
+        {
+            "track_id": "3swc6WTsr7rl9DqQKQA55C",
+            "track_name": "Psycho (feat. Ty Dolla $ign)",
+            "track_artist": "Post Malone",
+            "track_album": "beerbongs & bentleys",
+            "track_duration": 221440,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:25:23Z",
+            "uri": "spotify:track:3swc6WTsr7rl9DqQKQA55C"
+        },
+        {
+            "track_id": "799f6Ih1Pu4AUApMyXhxUc",
+            "track_name": "Bonfire",
+            "track_artist": "Childish Gambino",
+            "track_album": "Camp",
+            "track_duration": 192946,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:25:30Z",
+            "uri": "spotify:track:799f6Ih1Pu4AUApMyXhxUc"
+        },
+        {
+            "track_id": "6HZILIRieu8S0iqY8kIKhj",
+            "track_name": "DNA.",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "DAMN.",
+            "track_duration": 185946,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:25:32Z",
+            "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj"
+        },
+        {
+            "track_id": "285pBltuF7vW8TeWk8hdRR",
+            "track_name": "Lucid Dreams",
+            "track_artist": "Juice WRLD",
+            "track_album": "Goodbye & Good Riddance",
+            "track_duration": 239835,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:25:43Z",
+            "uri": "spotify:track:285pBltuF7vW8TeWk8hdRR"
+        },
+        {
+            "track_id": "1f5cbQtDrykjarZVrShaDI",
+            "track_name": "Drowning (feat. Kodak Black)",
+            "track_artist": "A Boogie Wit da Hoodie",
+            "track_album": "The Bigger Artist",
+            "track_duration": 209269,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:26:07Z",
+            "uri": "spotify:track:1f5cbQtDrykjarZVrShaDI"
+        },
+        {
+            "track_id": "2gwkD6igEhQbDQegRCcdoB",
+            "track_name": "Suge",
+            "track_artist": "DaBaby",
+            "track_album": "Baby On Baby",
+            "track_duration": 163320,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:26:24Z",
+            "uri": "spotify:track:2gwkD6igEhQbDQegRCcdoB"
+        },
+        {
+            "track_id": "7MXVkk9YMctZqd1Srtv4MB",
+            "track_name": "Starboy",
+            "track_artist": "The Weeknd",
+            "track_album": "Starboy",
+            "track_duration": 230453,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:26:33Z",
+            "uri": "spotify:track:7MXVkk9YMctZqd1Srtv4MB"
+        },
+        {
+            "track_id": "2JvzF1RMd7lE3KmFlsyZD8",
+            "track_name": "MIDDLE CHILD",
+            "track_artist": "J. Cole",
+            "track_album": "MIDDLE CHILD",
+            "track_duration": 213593,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:27:20Z",
+            "uri": "spotify:track:2JvzF1RMd7lE3KmFlsyZD8"
+        },
+        {
+            "track_id": "2C6WXnmZ66tHhHlnvwePiK",
+            "track_name": "Die For Me (feat. Future & Halsey)",
+            "track_artist": "Post Malone",
+            "track_album": "Hollywood's Bleeding",
+            "track_duration": 245266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:28:27Z",
+            "uri": "spotify:track:2C6WXnmZ66tHhHlnvwePiK"
+        },
+        {
+            "track_id": "4sFzG7iUlyPmuyASCkre9A",
+            "track_name": "Hair Down (feat. Kendrick Lamar)",
+            "track_artist": "SiR",
+            "track_album": "Chasing Summer",
+            "track_duration": 216933,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:28:44Z",
+            "uri": "spotify:track:4sFzG7iUlyPmuyASCkre9A"
+        },
+        {
+            "track_id": "00GOPLxW4PGQuUYdPJh8K1",
+            "track_name": "IV. Sweatpants",
+            "track_artist": "Childish Gambino",
+            "track_album": "Because the Internet",
+            "track_duration": 180675,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:28:54Z",
+            "uri": "spotify:track:00GOPLxW4PGQuUYdPJh8K1"
+        },
+        {
+            "track_id": "6vBdBCoOhKHiYDDOcorfNo",
+            "track_name": "Goodbyes (Feat. Young Thug)",
+            "track_artist": "Post Malone",
+            "track_album": "Goodbyes (Feat. Young Thug)",
+            "track_duration": 174960,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:29:08Z",
+            "uri": "spotify:track:6vBdBCoOhKHiYDDOcorfNo"
+        },
+        {
+            "track_id": "7bDaswZlpaAe8rPQOWHySn",
+            "track_name": "Walk Man",
+            "track_artist": "Tiny Meat Gang",
+            "track_album": "Walk Man",
+            "track_duration": 165937,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:29:20Z",
+            "uri": "spotify:track:7bDaswZlpaAe8rPQOWHySn"
+        },
+        {
+            "track_id": "3a1lNhkSLSkpJE4MSHpDu9",
+            "track_name": "Congratulations",
+            "track_artist": "Post Malone",
+            "track_album": "Stoney (Deluxe)",
+            "track_duration": 220293,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:29:30Z",
+            "uri": "spotify:track:3a1lNhkSLSkpJE4MSHpDu9"
+        },
+        {
+            "track_id": "5274I4mUMnYczyeXkGDWZN",
+            "track_name": "Fine China",
+            "track_artist": "Future",
+            "track_album": "Future & Juice WRLD Present... WRLD ON DRUGS",
+            "track_duration": 141586,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:31:27Z",
+            "uri": "spotify:track:5274I4mUMnYczyeXkGDWZN"
+        },
+        {
+            "track_id": "6VS7wKwtvL2FvTupYSWZ9e",
+            "track_name": "Invincible",
+            "track_artist": "Amin\u00e9",
+            "track_album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+            "track_duration": 196386,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:31:37Z",
+            "uri": "spotify:track:6VS7wKwtvL2FvTupYSWZ9e"
+        },
+        {
+            "track_id": "4TwVtW8hS5LyLoDtJGpUOg",
+            "track_name": "History",
+            "track_artist": "88rising",
+            "track_album": "Head In The Clouds",
+            "track_duration": 207307,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:32:07Z",
+            "uri": "spotify:track:4TwVtW8hS5LyLoDtJGpUOg"
+        },
+        {
+            "track_id": "6MWtB6iiXyIwun0YzU6DFP",
+            "track_name": "Wow.",
+            "track_artist": "Post Malone",
+            "track_album": "Wow.",
+            "track_duration": 149520,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:32:12Z",
+            "uri": "spotify:track:6MWtB6iiXyIwun0YzU6DFP"
+        },
+        {
+            "track_id": "3vWzyGTu6Ovo1GdrcJqH6e",
+            "track_name": "Scared of the Dark (feat. XXXTENTACION)",
+            "track_artist": "Lil Wayne",
+            "track_album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+            "track_duration": 233000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:32:27Z",
+            "uri": "spotify:track:3vWzyGTu6Ovo1GdrcJqH6e"
+        },
+        {
+            "track_id": "4jvjzW7Hm0yK4LvvE0Paz9",
+            "track_name": "Falling Down - Bonus Track",
+            "track_artist": "Lil Peep",
+            "track_album": "Come Over When You're Sober, Pt. 2",
+            "track_duration": 196400,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:32:34Z",
+            "uri": "spotify:track:4jvjzW7Hm0yK4LvvE0Paz9"
+        },
+        {
+            "track_id": "7KXjTSCq5nL1LoYtL7XAwS",
+            "track_name": "HUMBLE.",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "DAMN.",
+            "track_duration": 177000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:33:44Z",
+            "uri": "spotify:track:7KXjTSCq5nL1LoYtL7XAwS"
+        },
+        {
+            "track_id": "4F7A0DXBrmUAkp32uenhZt",
+            "track_name": "Party Monster",
+            "track_artist": "The Weeknd",
+            "track_album": "Starboy",
+            "track_duration": 249213,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:33:57Z",
+            "uri": "spotify:track:4F7A0DXBrmUAkp32uenhZt"
+        },
+        {
+            "track_id": "77UjLW8j5UAGAGVGhR5oUK",
+            "track_name": "Pray For Me (with Kendrick Lamar)",
+            "track_artist": "The Weeknd",
+            "track_album": "Black Panther The Album Music From And Inspired By",
+            "track_duration": 211440,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:34:05Z",
+            "uri": "spotify:track:77UjLW8j5UAGAGVGhR5oUK"
+        },
+        {
+            "track_id": "7qGRddrzvhUiCkv7Nj5x3I",
+            "track_name": "Ballerina",
+            "track_artist": "Belly",
+            "track_album": "Another Day In Paradise",
+            "track_duration": 253066,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:34:31Z",
+            "uri": "spotify:track:7qGRddrzvhUiCkv7Nj5x3I"
+        },
+        {
+            "track_id": "5GoGjEsPvr0McJQiGGCnws",
+            "track_name": "Man Listen",
+            "track_artist": "Belly",
+            "track_album": "Man Listen",
+            "track_duration": 183920,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:34:40Z",
+            "uri": "spotify:track:5GoGjEsPvr0McJQiGGCnws"
+        },
+        {
+            "track_id": "0725YWm6Z0TpZ6wrNk64Eb",
+            "track_name": "Super Rich Kids",
+            "track_artist": "Frank Ocean",
+            "track_album": "channel ORANGE",
+            "track_duration": 304760,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:35:16Z",
+            "uri": "spotify:track:0725YWm6Z0TpZ6wrNk64Eb"
+        },
+        {
+            "track_id": "2I3dW2dCBZAJGj5X21E53k",
+            "track_name": "Kids See Ghosts",
+            "track_artist": "KIDS SEE GHOSTS",
+            "track_album": "KIDS SEE GHOSTS",
+            "track_duration": 245098,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:35:21Z",
+            "uri": "spotify:track:2I3dW2dCBZAJGj5X21E53k"
+        },
+        {
+            "track_id": "6fAyRZ0GHuuvSOEIOwi58N",
+            "track_name": "Backseat Freestyle",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "good kid, m.A.A.d city",
+            "track_duration": 212653,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:35:30Z",
+            "uri": "spotify:track:6fAyRZ0GHuuvSOEIOwi58N"
+        },
+        {
+            "track_id": "4j3GWI86JvSaF0BLdmgcfF",
+            "track_name": "Summertime Magic",
+            "track_artist": "Childish Gambino",
+            "track_album": "Summer Pack",
+            "track_duration": 213600,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:35:37Z",
+            "uri": "spotify:track:4j3GWI86JvSaF0BLdmgcfF"
+        },
+        {
+            "track_id": "7p4vHnYXkxlzvfePJVpcTr",
+            "track_name": "Feels Like Summer",
+            "track_artist": "Childish Gambino",
+            "track_album": "Summer Pack",
+            "track_duration": 297404,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:35:40Z",
+            "uri": "spotify:track:7p4vHnYXkxlzvfePJVpcTr"
+        },
+        {
+            "track_id": "2ZlF11sUKr63VjIvFNmUzQ",
+            "track_name": "Infatuated",
+            "track_artist": "Jesus Honcho",
+            "track_album": "Infatuated",
+            "track_duration": 147615,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:35:51Z",
+            "uri": "spotify:track:2ZlF11sUKr63VjIvFNmUzQ"
+        },
+        {
+            "track_id": "3IzrrsRBpu23x95jJo7d5S",
+            "track_name": "Off The Gas (feat. Lil Skies)",
+            "track_artist": "6 Dogs",
+            "track_album": "Off The Gas (feat. Lil Skies)",
+            "track_duration": 192223,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:35:55Z",
+            "uri": "spotify:track:3IzrrsRBpu23x95jJo7d5S"
+        },
+        {
+            "track_id": "1iSZPndzmY6NvL1jAtIvY1",
+            "track_name": "I'm Upset",
+            "track_artist": "Drake",
+            "track_album": "Scorpion",
+            "track_duration": 214466,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:36:06Z",
+            "uri": "spotify:track:1iSZPndzmY6NvL1jAtIvY1"
+        },
+        {
+            "track_id": "5VuxWXbt7XENQCtE9TzpTv",
+            "track_name": "Spoil My Night (feat. Swae Lee)",
+            "track_artist": "Post Malone",
+            "track_album": "beerbongs & bentleys",
+            "track_duration": 194560,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:36:34Z",
+            "uri": "spotify:track:5VuxWXbt7XENQCtE9TzpTv"
+        },
+        {
+            "track_id": "3fpVWegR6YOS1Yk5HSMYIq",
+            "track_name": "Paranoid",
+            "track_artist": "Post Malone",
+            "track_album": "beerbongs & bentleys",
+            "track_duration": 221786,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:36:43Z",
+            "uri": "spotify:track:3fpVWegR6YOS1Yk5HSMYIq"
+        },
+        {
+            "track_id": "3kxfsdsCpFgN412fpnW85Y",
+            "track_name": "Redbone",
+            "track_artist": "Childish Gambino",
+            "track_album": "\"Awaken, My Love!\"",
+            "track_duration": 326933,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:36:52Z",
+            "uri": "spotify:track:3kxfsdsCpFgN412fpnW85Y"
+        },
+        {
+            "track_id": "3X7xCWOmb7UdYJDGP4oNIx",
+            "track_name": "Baby Boy",
+            "track_artist": "Childish Gambino",
+            "track_album": "\"Awaken, My Love!\"",
+            "track_duration": 382093,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:37:01Z",
+            "uri": "spotify:track:3X7xCWOmb7UdYJDGP4oNIx"
+        },
+        {
+            "track_id": "7dt6x5M1jzdTEt8oCbisTK",
+            "track_name": "Better Now",
+            "track_artist": "Post Malone",
+            "track_album": "beerbongs & bentleys",
+            "track_duration": 231266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:37:27Z",
+            "uri": "spotify:track:7dt6x5M1jzdTEt8oCbisTK"
+        },
+        {
+            "track_id": "1OmcAT5Y8eg5bUPv9qJT4R",
+            "track_name": "rockstar",
+            "track_artist": "Post Malone",
+            "track_album": "rockstar",
+            "track_duration": 218320,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:40:21Z",
+            "uri": "spotify:track:1OmcAT5Y8eg5bUPv9qJT4R"
+        },
+        {
+            "track_id": "722tgOgdIbNe3BEyLnejw4",
+            "track_name": "Black Skinhead",
+            "track_artist": "Kanye West",
+            "track_album": "Yeezus",
+            "track_duration": 188013,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:41:43Z",
+            "uri": "spotify:track:722tgOgdIbNe3BEyLnejw4"
+        },
+        {
+            "track_id": "217jPzlbFDCAPoOARhfUdH",
+            "track_name": "Sing For The Moment",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits",
+            "track_duration": 340266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:43:46Z",
+            "uri": "spotify:track:217jPzlbFDCAPoOARhfUdH"
+        },
+        {
+            "track_id": "75ItBl3UWXmc6ehfVIillw",
+            "track_name": "Rhyme Or Reason",
+            "track_artist": "Eminem",
+            "track_album": "The Marshall Mathers LP2",
+            "track_duration": 301721,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:44:55Z",
+            "uri": "spotify:track:75ItBl3UWXmc6ehfVIillw"
+        },
+        {
+            "track_id": "0TGd9kXFDRQG9FF0netmah",
+            "track_name": "Mockingbird",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 251266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:45:58Z",
+            "uri": "spotify:track:0TGd9kXFDRQG9FF0netmah"
+        },
+        {
+            "track_id": "2sGSId790ABFzGXx9VEdwl",
+            "track_name": "The Way I Am",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 291120,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:46:02Z",
+            "uri": "spotify:track:2sGSId790ABFzGXx9VEdwl"
+        },
+        {
+            "track_id": "0fGh0trRN1xz3s41r7V5ce",
+            "track_name": "Shake That",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 274440,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:46:09Z",
+            "uri": "spotify:track:0fGh0trRN1xz3s41r7V5ce"
+        },
+        {
+            "track_id": "1FgmP7AOTcn7MGYmImj0kn",
+            "track_name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
+            "track_artist": "Macklemore",
+            "track_album": "GEMINI",
+            "track_duration": 214720,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-12T00:47:12Z",
+            "uri": "spotify:track:1FgmP7AOTcn7MGYmImj0kn"
+        },
+        {
+            "track_id": "08IrLUx06jBA1Hv8kuAIw2",
+            "track_name": "Stronger",
+            "track_artist": "Kanye West",
+            "track_album": "Graduation (Alternative Business Partners)",
+            "track_duration": 311866,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-14T06:25:53Z",
+            "uri": "spotify:track:08IrLUx06jBA1Hv8kuAIw2"
+        },
+        {
+            "track_id": "5hVghJ4KaYES3BFUATCYn0",
+            "track_name": "EARFQUAKE",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "IGOR",
+            "track_duration": 190066,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-16T02:23:03Z",
+            "uri": "spotify:track:5hVghJ4KaYES3BFUATCYn0"
+        },
+        {
+            "track_id": "5yY9lUy8nbvjM1Uyo1Uqoc",
+            "track_name": "Life Is Good (feat. Drake)",
+            "track_artist": "Future",
+            "track_album": "Life Is Good (feat. Drake)",
+            "track_duration": 237735,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-16T02:33:06Z",
+            "uri": "spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc"
+        },
+        {
+            "track_id": "7aiClxsDWFRQ0Kzk5KI5ku",
+            "track_name": "hot girl bummer",
+            "track_artist": "blackbear",
+            "track_album": "hot girl bummer",
+            "track_duration": 185093,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-16T02:35:39Z",
+            "uri": "spotify:track:7aiClxsDWFRQ0Kzk5KI5ku"
+        },
+        {
+            "track_id": "6fTt0CH2t0mdeB2N9XFG5r",
+            "track_name": "Panini",
+            "track_artist": "Lil Nas X",
+            "track_album": "7 EP",
+            "track_duration": 114893,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-16T02:40:30Z",
+            "uri": "spotify:track:6fTt0CH2t0mdeB2N9XFG5r"
+        },
+        {
+            "track_id": "7KA4W4McWYRpgf0fWsJZWB",
+            "track_name": "See You Again (feat. Kali Uchis)",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "Flower Boy",
+            "track_duration": 180386,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-16T03:13:21Z",
+            "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB"
+        },
+        {
+            "track_id": "2EEeOnHehOozLq4aS0n6SL",
+            "track_name": "iSpy (feat. Lil Yachty)",
+            "track_artist": "KYLE",
+            "track_album": "iSpy (feat. Lil Yachty)",
+            "track_duration": 253106,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-16T03:13:30Z",
+            "uri": "spotify:track:2EEeOnHehOozLq4aS0n6SL"
+        },
+        {
+            "track_id": "7BYppcUTuG5ysmaJlGSt3t",
+            "track_name": "Welcome to Chilis",
+            "track_artist": "Yung Gravy",
+            "track_album": "Welcome to Chilis",
+            "track_duration": 157500,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-23T23:05:13Z",
+            "uri": "spotify:track:7BYppcUTuG5ysmaJlGSt3t"
+        },
+        {
+            "track_id": "7FIWs0pqAYbP91WWM0vlTQ",
+            "track_name": "Godzilla (feat. Juice WRLD)",
+            "track_artist": "Eminem",
+            "track_album": "Music To Be Murdered By",
+            "track_duration": 210800,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-24T12:29:05Z",
+            "uri": "spotify:track:7FIWs0pqAYbP91WWM0vlTQ"
+        },
+        {
+            "track_id": "0aZgW8Nzg38hN00pEFyIEj",
+            "track_name": "Broke Bitch",
+            "track_artist": "Tiny Meat Gang",
+            "track_album": "Broke Bitch",
+            "track_duration": 146206,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-01-25T15:33:58Z",
+            "uri": "spotify:track:0aZgW8Nzg38hN00pEFyIEj"
+        },
+        {
+            "track_id": "7ikRId3U9AXd6tfF2fbItC",
+            "track_name": "Rodeo - feat. Nas",
+            "track_artist": "Lil Nas X",
+            "track_album": "Rodeo (feat. Nas)",
+            "track_duration": 145222,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-02-09T21:21:55Z",
+            "uri": "spotify:track:7ikRId3U9AXd6tfF2fbItC"
+        },
+        {
+            "track_id": "4S4Mfvv03M1cHgIOJcbUCL",
+            "track_name": "In My Room",
+            "track_artist": "Frank Ocean",
+            "track_album": "In My Room",
+            "track_duration": 133680,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-02-14T01:01:22Z",
+            "uri": "spotify:track:4S4Mfvv03M1cHgIOJcbUCL"
+        },
+        {
+            "track_id": "29lG0RlQXa6Fms3DXs1TIT",
+            "track_name": "Caught in the Fire",
+            "track_artist": "Bazzi",
+            "track_album": "Caught in the Fire",
+            "track_duration": 169090,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-02-19T23:52:11Z",
+            "uri": "spotify:track:29lG0RlQXa6Fms3DXs1TIT"
+        },
+        {
+            "track_id": "60SdxE8apGAxMiRrpbmLY0",
+            "track_name": "Lucky You (feat. Joyner Lucas)",
+            "track_artist": "Eminem",
+            "track_album": "Kamikaze",
+            "track_duration": 244679,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-02-20T00:31:47Z",
+            "uri": "spotify:track:60SdxE8apGAxMiRrpbmLY0"
+        },
+        {
+            "track_id": "2Yr2BzqNDpIh0YQcnFqM09",
+            "track_name": "VOICES (feat. XXXTENTACION)",
+            "track_artist": "Skye",
+            "track_album": "VOICES (feat. XXXTENTACION)",
+            "track_duration": 155992,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-02-21T23:20:47Z",
+            "uri": "spotify:track:2Yr2BzqNDpIh0YQcnFqM09"
+        },
+        {
+            "track_id": "2hwOoMtWPtTSSn6WHV7Vp5",
+            "track_name": "Blue World",
+            "track_artist": "Mac Miller",
+            "track_album": "Circles",
+            "track_duration": 209440,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-02-27T21:47:44Z",
+            "uri": "spotify:track:2hwOoMtWPtTSSn6WHV7Vp5"
+        },
+        {
+            "track_id": "6piAUJJQFD8oHDUr0b7l7q",
+            "track_name": "VALENTINO",
+            "track_artist": "24kGoldn",
+            "track_album": "DROPPED OUTTA COLLEGE",
+            "track_duration": 179133,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-03-05T21:00:13Z",
+            "uri": "spotify:track:6piAUJJQFD8oHDUr0b7l7q"
+        },
+        {
+            "track_id": "6PGoSes0D9eUDeeAafB2As",
+            "track_name": "LOVE. FEAT. ZACARI.",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "DAMN.",
+            "track_duration": 213400,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-03-20T21:57:18Z",
+            "uri": "spotify:track:6PGoSes0D9eUDeeAafB2As"
+        },
+        {
+            "track_id": "5hTpBe8h35rJ67eAWHQsJx",
+            "track_name": "Caroline",
+            "track_artist": "Amin\u00e9",
+            "track_album": "Good For You",
+            "track_duration": 209640,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-03-21T17:55:44Z",
+            "uri": "spotify:track:5hTpBe8h35rJ67eAWHQsJx"
+        },
+        {
+            "track_id": "489AYiTB0ylShgV29tihMo",
+            "track_name": "They Call Me Tiago (Her Name Is Margo)",
+            "track_artist": "Tiagz",
+            "track_album": "They Call Me Tiago (Her Name Is Margo)",
+            "track_duration": 154455,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-04-05T19:43:37Z",
+            "uri": "spotify:track:489AYiTB0ylShgV29tihMo"
+        },
+        {
+            "track_id": "6bnF93Rx87YqUBLSgjiMU8",
+            "track_name": "Heartless",
+            "track_artist": "The Weeknd",
+            "track_album": "After Hours",
+            "track_duration": 198266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-04-09T18:29:54Z",
+            "uri": "spotify:track:6bnF93Rx87YqUBLSgjiMU8"
+        },
+        {
+            "track_id": "2ZltjIqztEpZtafc8w0I9t",
+            "track_name": "3005",
+            "track_artist": "Childish Gambino",
+            "track_album": "Because the Internet",
+            "track_duration": 234215,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-04-19T21:25:51Z",
+            "uri": "spotify:track:2ZltjIqztEpZtafc8w0I9t"
+        },
+        {
+            "track_id": "4vS4FB3HXgOSmICeqEY0Gh",
+            "track_name": "35.31",
+            "track_artist": "Childish Gambino",
+            "track_album": "3.15.20",
+            "track_duration": 236506,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-04-20T00:38:42Z",
+            "uri": "spotify:track:4vS4FB3HXgOSmICeqEY0Gh"
+        },
+        {
+            "track_id": "4xkOaSrkexMciUUogZKVTS",
+            "track_name": "Till I Collapse",
+            "track_artist": "Eminem",
+            "track_album": "The Eminem Show",
+            "track_duration": 297786,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-05-01T20:17:31Z",
+            "uri": "spotify:track:4xkOaSrkexMciUUogZKVTS"
+        },
+        {
+            "track_id": "7BMO7O7ImjV8HNTH74Tshv",
+            "track_name": "Cleanin' Out My Closet",
+            "track_artist": "Eminem",
+            "track_album": "The Eminem Show",
+            "track_duration": 297840,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-05-01T20:17:37Z",
+            "uri": "spotify:track:7BMO7O7ImjV8HNTH74Tshv"
+        },
+        {
+            "track_id": "5Z01UMMf7V1o0MzF86s6WJ",
+            "track_name": "Lose Yourself",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 326466,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-05-01T20:17:42Z",
+            "uri": "spotify:track:5Z01UMMf7V1o0MzF86s6WJ"
+        },
+        {
+            "track_id": "5dZqnPqFR45xCZGWmxScqM",
+            "track_name": "Guilty Conscience",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 200213,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-05-01T20:17:50Z",
+            "uri": "spotify:track:5dZqnPqFR45xCZGWmxScqM"
+        },
+        {
+            "track_id": "2RsTjad1nVUGrQmSoL1m8Y",
+            "track_name": "Without Me",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 291213,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-05-01T20:17:56Z",
+            "uri": "spotify:track:2RsTjad1nVUGrQmSoL1m8Y"
+        },
+        {
+            "track_id": "4S06iZrLlGsSqKlK6paOv8",
+            "track_name": "Just Lose It",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 248600,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-05-01T20:18:02Z",
+            "uri": "spotify:track:4S06iZrLlGsSqKlK6paOv8"
+        },
+        {
+            "track_id": "1dWimOlV5KUHDerWZVDv5l",
+            "track_name": "My Name Is",
+            "track_artist": "Eminem",
+            "track_album": "Curtain Call: The Hits (Deluxe Edition)",
+            "track_duration": 268853,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-05-01T20:18:09Z",
+            "uri": "spotify:track:1dWimOlV5KUHDerWZVDv5l"
+        },
+        {
+            "track_id": "7IxHyB6UoZW8EARDonolT2",
+            "track_name": "Get Silly",
+            "track_artist": "V.I.C.",
+            "track_album": "Beast",
+            "track_duration": 227120,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-06-07T20:26:43Z",
+            "uri": "spotify:track:7IxHyB6UoZW8EARDonolT2"
+        },
+        {
+            "track_id": "0EKbMWOt2ZwdEcqgRpLHaC",
+            "track_name": "Asshole",
+            "track_artist": "hooligan chase",
+            "track_album": "Asshole",
+            "track_duration": 156078,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-07-25T19:15:21Z",
+            "uri": "spotify:track:0EKbMWOt2ZwdEcqgRpLHaC"
+        },
+        {
+            "track_id": "7vgTNTaEz3CsBZ1N4YQalM",
+            "track_name": "Ghost Town",
+            "track_artist": "Kanye West",
+            "track_album": "ye",
+            "track_duration": 271386,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-07-29T16:44:46Z",
+            "uri": "spotify:track:7vgTNTaEz3CsBZ1N4YQalM"
+        },
+        {
+            "track_id": "09Mxpg8wkI1ynsc3sVDiUU",
+            "track_name": "Bad Boy (with Wiz Khalifa, bbno$, MAX)",
+            "track_artist": "Yung Bae",
+            "track_album": "Bad Boy (with Wiz Khalifa, bbno$, MAX)",
+            "track_duration": 140208,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-07-30T17:28:41Z",
+            "uri": "spotify:track:09Mxpg8wkI1ynsc3sVDiUU"
+        },
+        {
+            "track_id": "2HbKqm4o0w5wEeEFXm2sD4",
+            "track_name": "Money Trees",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "good kid, m.A.A.d city",
+            "track_duration": 386906,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-08-08T07:31:21Z",
+            "uri": "spotify:track:2HbKqm4o0w5wEeEFXm2sD4"
+        },
+        {
+            "track_id": "6gBFPUFcJLzWGx4lenP6h2",
+            "track_name": "goosebumps",
+            "track_artist": "Travis Scott",
+            "track_album": "Birds In The Trap Sing McKnight",
+            "track_duration": 243836,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-09-25T18:20:49Z",
+            "uri": "spotify:track:6gBFPUFcJLzWGx4lenP6h2"
+        },
+        {
+            "track_id": "3s7MCdXyWmwjdcWh7GWXas",
+            "track_name": "Violent Crimes",
+            "track_artist": "Kanye West",
+            "track_album": "ye",
+            "track_duration": 215320,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-10-09T17:22:13Z",
+            "uri": "spotify:track:3s7MCdXyWmwjdcWh7GWXas"
+        },
+        {
+            "track_id": "4Oun2ylbjFKMPTiaSbbCih",
+            "track_name": "WAP (feat. Megan Thee Stallion)",
+            "track_artist": "Cardi B",
+            "track_album": "WAP (feat. Megan Thee Stallion)",
+            "track_duration": 187541,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-10-17T22:49:32Z",
+            "uri": "spotify:track:4Oun2ylbjFKMPTiaSbbCih"
+        },
+        {
+            "track_id": "0PvFJmanyNQMseIFrU708S",
+            "track_name": "For The Night (feat. Lil Baby & DaBaby)",
+            "track_artist": "Pop Smoke",
+            "track_album": "Shoot For The Stars Aim For The Moon",
+            "track_duration": 190476,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-10-18T20:40:19Z",
+            "uri": "spotify:track:0PvFJmanyNQMseIFrU708S"
+        },
+        {
+            "track_id": "3iVcZ5G6tvkXZkZKlMpIUs",
+            "track_name": "Alright",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "To Pimp A Butterfly",
+            "track_duration": 219333,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-10-18T20:42:28Z",
+            "uri": "spotify:track:3iVcZ5G6tvkXZkZKlMpIUs"
+        },
+        {
+            "track_id": "4VXIryQMWpIdGgYR4TrjT1",
+            "track_name": "All Girls Are The Same",
+            "track_artist": "Juice WRLD",
+            "track_album": "Goodbye & Good Riddance",
+            "track_duration": 165819,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-10-19T07:17:01Z",
+            "uri": "spotify:track:4VXIryQMWpIdGgYR4TrjT1"
+        },
+        {
+            "track_id": "5Zxag6MRK1YCumP1XP3lZg",
+            "track_name": "O.K. (Bonus Track)",
+            "track_artist": "Mac Miller",
+            "track_album": "Watching Movies with the Sound Off (Deluxe Edition)",
+            "track_duration": 160868,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2020-10-19T22:27:45Z",
+            "uri": "spotify:track:5Zxag6MRK1YCumP1XP3lZg"
+        },
+        {
+            "track_id": "3GCdLUSnKSMJhs4Tj6CV3s",
+            "track_name": "All The Stars (with SZA)",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "Black Panther The Album Music From And Inspired By",
+            "track_duration": 232186,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-04T07:55:30Z",
+            "uri": "spotify:track:3GCdLUSnKSMJhs4Tj6CV3s"
+        },
+        {
+            "track_id": "4WEuEfFiczWxblHyuucSBL",
+            "track_name": "HiiiPower",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "Section.80",
+            "track_duration": 279854,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-07T21:50:15Z",
+            "uri": "spotify:track:4WEuEfFiczWxblHyuucSBL"
+        },
+        {
+            "track_id": "1UGD3lW3tDmgZfAVDh6w7r",
+            "track_name": "Devil In A New Dress",
+            "track_artist": "Kanye West",
+            "track_album": "My Beautiful Dark Twisted Fantasy",
+            "track_duration": 351946,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-07T21:50:22Z",
+            "uri": "spotify:track:1UGD3lW3tDmgZfAVDh6w7r"
+        },
+        {
+            "track_id": "7ycWLEP1GsNjVvcjawXz3z",
+            "track_name": "Praise The Lord (Da Shine) (feat. Skepta)",
+            "track_artist": "A$AP Rocky",
+            "track_album": "TESTING",
+            "track_duration": 205040,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-07T23:13:46Z",
+            "uri": "spotify:track:7ycWLEP1GsNjVvcjawXz3z"
+        },
+        {
+            "track_id": "1YakuHfzKxjnseCEeVQtrY",
+            "track_name": "Don't Wanna Fall In Love",
+            "track_artist": "KYLE",
+            "track_album": "Smyle (Extended)",
+            "track_duration": 232368,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-11T21:44:46Z",
+            "uri": "spotify:track:1YakuHfzKxjnseCEeVQtrY"
+        },
+        {
+            "track_id": "3BZEcbdtXQSo7OrvKRJ6mb",
+            "track_name": "MONTERO (Call Me By Your Name)",
+            "track_artist": "Lil Nas X",
+            "track_album": "MONTERO (Call Me By Your Name)",
+            "track_duration": 137875,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-04-07T23:42:50Z",
+            "uri": "spotify:track:3BZEcbdtXQSo7OrvKRJ6mb"
+        },
+        {
+            "track_id": "64v1g2HcPumBz2Wd1rT56b",
+            "track_name": "LUMBERJACK",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "LUMBERJACK",
+            "track_duration": 138312,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-06-18T00:30:45Z",
+            "uri": "spotify:track:64v1g2HcPumBz2Wd1rT56b"
+        },
+        {
+            "track_id": "7ytR5pFWmSjzHJIeQkgog4",
+            "track_name": "ROCKSTAR (feat. Roddy Ricch)",
+            "track_artist": "DaBaby",
+            "track_album": "BLAME IT ON BABY",
+            "track_duration": 181733,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-06-18T00:36:42Z",
+            "uri": "spotify:track:7ytR5pFWmSjzHJIeQkgog4"
+        },
+        {
+            "track_id": "3lWCa9e0KhDghboM5L9C6d",
+            "track_name": "Soul Food",
+            "track_artist": "Logic",
+            "track_album": "Under Pressure (Deluxe)",
+            "track_duration": 292933,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-07-23T16:29:52Z",
+            "uri": "spotify:track:3lWCa9e0KhDghboM5L9C6d"
+        },
+        {
+            "track_id": "0P1wH403SZCVHRrHzdSAUu",
+            "track_name": "I'm Gone",
+            "track_artist": "Logic",
+            "track_album": "Under Pressure",
+            "track_duration": 282133,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-07-23T16:30:05Z",
+            "uri": "spotify:track:0P1wH403SZCVHRrHzdSAUu"
+        },
+        {
+            "track_id": "0Kojfmpnf0A2yC1zyv39Zx",
+            "track_name": "Buried Alive",
+            "track_artist": "Logic",
+            "track_album": "Under Pressure (Deluxe)",
+            "track_duration": 337746,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-07-23T16:30:11Z",
+            "uri": "spotify:track:0Kojfmpnf0A2yC1zyv39Zx"
+        },
+        {
+            "track_id": "2SL6oP2YAEQbqsrkOzRGO4",
+            "track_name": "Venom - Music From The Motion Picture",
+            "track_artist": "Eminem",
+            "track_album": "Kamikaze",
+            "track_duration": 269554,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-07-23T16:33:02Z",
+            "uri": "spotify:track:2SL6oP2YAEQbqsrkOzRGO4"
+        },
+        {
+            "track_id": "5WNYg3usc6H8N3MBEp4zVk",
+            "track_name": "Boredom (feat. Rex Orange County & Anna of the North)",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "Flower Boy",
+            "track_duration": 320720,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-08-01T21:58:39Z",
+            "uri": "spotify:track:5WNYg3usc6H8N3MBEp4zVk"
+        },
+        {
+            "track_id": "2gbMPBrBVj3CuNTLp2dHYs",
+            "track_name": "Off The Grid",
+            "track_artist": "Kanye West",
+            "track_album": "Donda",
+            "track_duration": 339249,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-09-11T20:54:54Z",
+            "uri": "spotify:track:2gbMPBrBVj3CuNTLp2dHYs"
+        },
+        {
+            "track_id": "0RbW8kWozrVSIGb4V13o0o",
+            "track_name": "Hurricane",
+            "track_artist": "Kanye West",
+            "track_album": "Donda",
+            "track_duration": 243187,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-09-11T21:02:30Z",
+            "uri": "spotify:track:0RbW8kWozrVSIGb4V13o0o"
+        },
+        {
+            "track_id": "0Zm7NKJgoKY6ZWwtoEUILK",
+            "track_name": "Praise God",
+            "track_artist": "Kanye West",
+            "track_album": "Donda",
+            "track_duration": 226652,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-09-12T17:08:54Z",
+            "uri": "spotify:track:0Zm7NKJgoKY6ZWwtoEUILK"
+        },
+        {
+            "track_id": "7Bpx2vsWfQFBACRz4h3IqH",
+            "track_name": "family ties (with Kendrick Lamar)",
+            "track_artist": "Baby Keem",
+            "track_album": "family ties (with Kendrick Lamar)",
+            "track_duration": 252069,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-10-15T05:49:06Z",
+            "uri": "spotify:track:7Bpx2vsWfQFBACRz4h3IqH"
+        },
+        {
+            "track_id": "0aMHIW1lqrulVCx0LLlr6a",
+            "track_name": "Cocoa Butter Kisses",
+            "track_artist": "Chance the Rapper",
+            "track_album": "Acid Rap",
+            "track_duration": 307187,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-02-14T08:14:37Z",
+            "uri": "spotify:track:0aMHIW1lqrulVCx0LLlr6a"
+        },
+        {
+            "track_id": "51pshtuYkgUQnt5huMPbKL",
+            "track_name": "The Spins",
+            "track_artist": "Mac Miller",
+            "track_album": "K.I.D.S.",
+            "track_duration": 195873,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-02-14T08:57:25Z",
+            "uri": "spotify:track:51pshtuYkgUQnt5huMPbKL"
+        },
+        {
+            "track_id": "0WSEq9Ko4kFPt8yo3ICd6T",
+            "track_name": "Praise God",
+            "track_artist": "Kanye West",
+            "track_album": "Donda",
+            "track_duration": 226652,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-02-26T11:28:35Z",
+            "uri": "spotify:track:0WSEq9Ko4kFPt8yo3ICd6T"
+        },
+        {
+            "track_id": "6nBQFAIVFmAx2oZ8p6lUg6",
+            "track_name": "Tempo (feat. Missy Elliott)",
+            "track_artist": "Lizzo",
+            "track_album": "Cuz I Love You",
+            "track_duration": 175342,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-03-02T17:17:36Z",
+            "uri": "spotify:track:6nBQFAIVFmAx2oZ8p6lUg6"
+        },
+        {
+            "track_id": "5Z9KJZvQzH6PFmb8SNkxuk",
+            "track_name": "INDUSTRY BABY (feat. Jack Harlow)",
+            "track_artist": "Lil Nas X",
+            "track_album": "MONTERO",
+            "track_duration": 212352,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-03-18T17:13:41Z",
+            "uri": "spotify:track:5Z9KJZvQzH6PFmb8SNkxuk"
+        },
+        {
+            "track_id": "4Li2WHPkuyCdtmokzW2007",
+            "track_name": "Ni**as In Paris",
+            "track_artist": "JAY-Z",
+            "track_album": "Watch The Throne (Deluxe)",
+            "track_duration": 219333,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-04-13T09:33:35Z",
+            "uri": "spotify:track:4Li2WHPkuyCdtmokzW2007"
+        },
+        {
+            "track_id": "5TxRUOsGeWeRl3xOML59Ai",
+            "track_name": "ARE WE STILL FRIENDS?",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "IGOR",
+            "track_duration": 265480,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-04-20T16:45:07Z",
+            "uri": "spotify:track:5TxRUOsGeWeRl3xOML59Ai"
+        },
+        {
+            "track_id": "1PckUlxKqWQs3RlWXVBLw3",
+            "track_name": "About Damn Time",
+            "track_artist": "Lizzo",
+            "track_album": "About Damn Time",
+            "track_duration": 191822,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-05-02T16:35:43Z",
+            "uri": "spotify:track:1PckUlxKqWQs3RlWXVBLw3"
+        },
+        {
+            "track_id": "7L9g4cPfohScjJ8mGwLQWr",
+            "track_name": "TEMPTATION",
+            "track_artist": "Joey Bada$$",
+            "track_album": "ALL-AMERIKKKAN BADA$$",
+            "track_duration": 244197,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-05-05T11:58:23Z",
+            "uri": "spotify:track:7L9g4cPfohScjJ8mGwLQWr"
+        },
+        {
+            "track_id": "6fYr27d1dxrs2tiYW3nOdN",
+            "track_name": "So Slow (feat. Anderson .Paak, King Chip)",
+            "track_artist": "Blended Babies",
+            "track_album": "So Slow (feat. Anderson .Paak & King Chip)",
+            "track_duration": 186845,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-05-05T12:04:59Z",
+            "uri": "spotify:track:6fYr27d1dxrs2tiYW3nOdN"
+        },
+        {
+            "track_id": "0fv2KH6hac06J86hBUTcSf",
+            "track_name": "NEW MAGIC WAND",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "IGOR",
+            "track_duration": 195320,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-05-18T13:05:46Z",
+            "uri": "spotify:track:0fv2KH6hac06J86hBUTcSf"
+        },
+        {
+            "track_id": "5WzfCu5fhgm7jv896EN1Md",
+            "track_name": "She",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "Goblin",
+            "track_duration": 253386,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-06-11T17:19:41Z",
+            "uri": "spotify:track:5WzfCu5fhgm7jv896EN1Md"
+        },
+        {
+            "track_id": "7mFj0LlWtEJaEigguaWqYh",
+            "track_name": "Sweetest Pie",
+            "track_artist": "Megan Thee Stallion",
+            "track_album": "Sweetest Pie",
+            "track_duration": 201334,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-07-12T05:17:12Z",
+            "uri": "spotify:track:7mFj0LlWtEJaEigguaWqYh"
+        },
+        {
+            "track_id": "0N9C80kcgL0xXGduKnYKWi",
+            "track_name": "Love Lost",
+            "track_artist": "Mac Miller",
+            "track_album": "I Love Life, Thank You",
+            "track_duration": 162875,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-09-12T17:00:44Z",
+            "uri": "spotify:track:0N9C80kcgL0xXGduKnYKWi"
+        },
+        {
+            "track_id": "4C6Uex2ILwJi9sZXRdmqXp",
+            "track_name": "Super Freaky Girl",
+            "track_artist": "Nicki Minaj",
+            "track_album": "Super Freaky Girl",
+            "track_duration": 170977,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-09-13T05:10:37Z",
+            "uri": "spotify:track:4C6Uex2ILwJi9sZXRdmqXp"
+        },
+        {
+            "track_id": "2dxjKgT0li4qBI3QwuN9Ih",
+            "track_name": "Touch The Sky",
+            "track_artist": "Kanye West",
+            "track_album": "Late Registration",
+            "track_duration": 236600,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2022-09-13T14:12:16Z",
+            "uri": "spotify:track:2dxjKgT0li4qBI3QwuN9Ih"
+        },
+        {
+            "track_id": "6JcJGBEmXMnhyqv8EIV9XY",
+            "track_name": "Do What I Want",
+            "track_artist": "Kid Cudi",
+            "track_album": "Entergalactic",
+            "track_duration": 172053,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-01-03T23:37:35Z",
+            "uri": "spotify:track:6JcJGBEmXMnhyqv8EIV9XY"
+        },
+        {
+            "track_id": "0mbP3AOiMpQ0c4gvj3uDzM",
+            "track_name": "Get Stupid",
+            "track_artist": "Mac Dre",
+            "track_album": "Ronald Dregan",
+            "track_duration": 242626,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-02-15T17:20:34Z",
+            "uri": "spotify:track:0mbP3AOiMpQ0c4gvj3uDzM"
+        },
+        {
+            "track_id": "22538YKRjtLLuosd61VUOn",
+            "track_name": "Imma Be",
+            "track_artist": "Black Eyed Peas",
+            "track_album": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
+            "track_duration": 257560,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-02-16T05:49:14Z",
+            "uri": "spotify:track:22538YKRjtLLuosd61VUOn"
+        },
+        {
+            "track_id": "6AQbmUe0Qwf5PZnt4HmTXv",
+            "track_name": "Boy's a Liar Pt. 2",
+            "track_artist": "PinkPantheress",
+            "track_album": "Boy's a liar Pt. 2",
+            "track_duration": 131013,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-02-23T06:50:33Z",
+            "uri": "spotify:track:6AQbmUe0Qwf5PZnt4HmTXv"
+        },
+        {
+            "track_id": "11a6GzsfPoLY1bVw3IFeMs",
+            "track_name": "I'm Legit",
+            "track_artist": "Nicki Minaj",
+            "track_album": "Pink Friday: Roman Reloaded The Re-Up",
+            "track_duration": 198053,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-03-26T18:58:01Z",
+            "uri": "spotify:track:11a6GzsfPoLY1bVw3IFeMs"
+        },
+        {
+            "track_id": "6clDsO8HwhHEgJDDp88VdL",
+            "track_name": "Two Tens (feat. Anderson .Paak)",
+            "track_artist": "Cordae",
+            "track_album": "Two Tens (feat. Anderson .Paak)",
+            "track_duration": 152371,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-03-29T15:03:58Z",
+            "uri": "spotify:track:6clDsO8HwhHEgJDDp88VdL"
+        },
+        {
+            "track_id": "5Gt9bxniM1SxN61yRzRhXL",
+            "track_name": "United In Grief",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "Mr. Morale & The Big Steppers",
+            "track_duration": 255377,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-04-17T21:55:56Z",
+            "uri": "spotify:track:5Gt9bxniM1SxN61yRzRhXL"
+        },
+        {
+            "track_id": "66mVPWmFvXPFf8pjK5ttOW",
+            "track_name": "Worldwide Steppers",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "Mr. Morale & The Big Steppers",
+            "track_duration": 203367,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-04-17T22:05:44Z",
+            "uri": "spotify:track:66mVPWmFvXPFf8pjK5ttOW"
+        },
+        {
+            "track_id": "6OfOzTitafSnsaunQLuNFw",
+            "track_name": "DOGTOOTH",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "CALL ME IF YOU GET LOST: The Estate Sale",
+            "track_duration": 161041,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-04-21T19:41:36Z",
+            "uri": "spotify:track:6OfOzTitafSnsaunQLuNFw"
+        },
+        {
+            "track_id": "3Y6XWs8xMlCngyIxNOFnsp",
+            "track_name": "Sound of da Police",
+            "track_artist": "KRS-One",
+            "track_album": "Return of the Boom Bap",
+            "track_duration": 258506,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-05-17T00:35:21Z",
+            "uri": "spotify:track:3Y6XWs8xMlCngyIxNOFnsp"
+        },
+        {
+            "track_id": "7f1UEGMBMuXfLBP5XANfrW",
+            "track_name": "The Hop",
+            "track_artist": "A Tribe Called Quest",
+            "track_album": "Beats, Rhymes & Life",
+            "track_duration": 207466,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-05-25T19:27:10Z",
+            "uri": "spotify:track:7f1UEGMBMuXfLBP5XANfrW"
+        },
+        {
+            "track_id": "0Pu71wxadDlB8fJXfjIjeJ",
+            "track_name": "Shoop",
+            "track_artist": "Salt-N-Pepa",
+            "track_album": "Very Necessary",
+            "track_duration": 248573,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-05-25T19:29:05Z",
+            "uri": "spotify:track:0Pu71wxadDlB8fJXfjIjeJ"
+        },
+        {
+            "track_id": "7Dj5qxfo9DmBCPMUYZFLxE",
+            "track_name": "Retro (Rough)",
+            "track_artist": "Childish Gambino",
+            "track_album": "Kauai",
+            "track_duration": 202666,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-05-25T19:37:49Z",
+            "uri": "spotify:track:7Dj5qxfo9DmBCPMUYZFLxE"
+        },
+        {
+            "track_id": "2g8HN35AnVGIk7B8yMucww",
+            "track_name": "Big Poppa - 2005 Remaster",
+            "track_artist": "The Notorious B.I.G.",
+            "track_album": "Ready to Die (The Remaster)",
+            "track_duration": 252746,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-01T18:26:09Z",
+            "uri": "spotify:track:2g8HN35AnVGIk7B8yMucww"
+        },
+        {
+            "track_id": "7KwZNVEaqikRSBSpyhXK2j",
+            "track_name": "Hypnotize - 2014 Remaster",
+            "track_artist": "The Notorious B.I.G.",
+            "track_album": "Life After Death (2014 Remastered Edition)",
+            "track_duration": 229826,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-01T18:26:21Z",
+            "uri": "spotify:track:7KwZNVEaqikRSBSpyhXK2j"
+        },
+        {
+            "track_id": "0Z2J91b2iTGLVTZC4fKgxf",
+            "track_name": "Hit 'Em Up - Single Version",
+            "track_artist": "2Pac",
+            "track_album": "Greatest Hits",
+            "track_duration": 312626,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-01T18:29:43Z",
+            "uri": "spotify:track:0Z2J91b2iTGLVTZC4fKgxf"
+        },
+        {
+            "track_id": "1otG6j1WHNvl9WgXLWkHTo",
+            "track_name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+            "track_artist": "Kali Uchis",
+            "track_album": "Isolation",
+            "track_duration": 207454,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-06T23:50:42Z",
+            "uri": "spotify:track:1otG6j1WHNvl9WgXLWkHTo"
+        },
+        {
+            "track_id": "1KUZ33cOqk3X4Ezk0aZnVp",
+            "track_name": "Peaches & Eggplants (feat. 21 Savage)",
+            "track_artist": "Young Nudy",
+            "track_album": "Peaches & Eggplants (feat. 21 Savage)",
+            "track_duration": 203813,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-07T05:08:26Z",
+            "uri": "spotify:track:1KUZ33cOqk3X4Ezk0aZnVp"
+        }
+    ]
+}

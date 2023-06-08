@@ -1,0 +1,825 @@
+{
+    "id": "6FGJgrb9cf0kfUUS0vpWWn",
+    "tracks": [
+        {
+            "track_id": "33JMMgxQKL3zJsZeMNC3gR",
+            "track_name": "Nothing That Has Happened So Far Has Been Anything We Could Control",
+            "track_artist": "Tame Impala",
+            "track_album": "Lonerism",
+            "track_duration": 359946,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:33:41Z",
+            "uri": "spotify:track:33JMMgxQKL3zJsZeMNC3gR"
+        },
+        {
+            "track_id": "77SnOPvN2y9eXphue3iZX9",
+            "track_name": "Out Of Love - Album Version Re-Mix",
+            "track_artist": "TOTO",
+            "track_album": "The Definitive Collection",
+            "track_duration": 261466,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:33:53Z",
+            "uri": "spotify:track:77SnOPvN2y9eXphue3iZX9"
+        },
+        {
+            "track_id": "7kyiHjkFdmHcYcIJtFAdaF",
+            "track_name": "Yam Yam",
+            "track_artist": "No Vacation",
+            "track_album": "Yam Yam",
+            "track_duration": 216038,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:34:12Z",
+            "uri": "spotify:track:7kyiHjkFdmHcYcIJtFAdaF"
+        },
+        {
+            "track_id": "5JA4EKh6hBqtvnMoFjp18u",
+            "track_name": "Time",
+            "track_artist": "Colouring",
+            "track_album": "bn",
+            "track_duration": 201293,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:34:28Z",
+            "uri": "spotify:track:5JA4EKh6hBqtvnMoFjp18u"
+        },
+        {
+            "track_id": "0vabIwEiZDGml2CyVmGNBX",
+            "track_name": "Y volar (con los Caligaris)",
+            "track_artist": "La Pegatina",
+            "track_album": "Ahora o nunca",
+            "track_duration": 189600,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:34:37Z",
+            "uri": "spotify:track:0vabIwEiZDGml2CyVmGNBX"
+        },
+        {
+            "track_id": "2HwwGKPcI0rqnsFCqATXuj",
+            "track_name": "I Couldn't Be More In Love",
+            "track_artist": "The 1975",
+            "track_album": "A Brief Inquiry Into Online Relationships",
+            "track_duration": 231991,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:35:14Z",
+            "uri": "spotify:track:2HwwGKPcI0rqnsFCqATXuj"
+        },
+        {
+            "track_id": "7KMPr1me4DGvtv5QlkPrkI",
+            "track_name": "The Limit",
+            "track_artist": "Finom",
+            "track_album": "Fantasize Your Ghost",
+            "track_duration": 198038,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:35:22Z",
+            "uri": "spotify:track:7KMPr1me4DGvtv5QlkPrkI"
+        },
+        {
+            "track_id": "6ZtkJXFpAmLrHFc6Miz5rk",
+            "track_name": "Hoop (feat. Quavo)",
+            "track_artist": "French Montana",
+            "track_album": "MONTANA",
+            "track_duration": 191420,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:35:36Z",
+            "uri": "spotify:track:6ZtkJXFpAmLrHFc6Miz5rk"
+        },
+        {
+            "track_id": "2rDwETmcGw4ZqbuXvLQmDL",
+            "track_name": "Only You",
+            "track_artist": "Theophilus London",
+            "track_album": "Bebey",
+            "track_duration": 215446,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:35:48Z",
+            "uri": "spotify:track:2rDwETmcGw4ZqbuXvLQmDL"
+        },
+        {
+            "track_id": "14SdFsC2m6kl7buXWJb0n3",
+            "track_name": "Overdose (with HONNE)",
+            "track_artist": "SG Lewis",
+            "track_album": "Dawn",
+            "track_duration": 247173,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:36:13Z",
+            "uri": "spotify:track:14SdFsC2m6kl7buXWJb0n3"
+        },
+        {
+            "track_id": "198bliqoO1szKdWjHLOUlq",
+            "track_name": "Comatose",
+            "track_artist": "Low Hum",
+            "track_album": "Room To Breathe",
+            "track_duration": 376226,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:36:51Z",
+            "uri": "spotify:track:198bliqoO1szKdWjHLOUlq"
+        },
+        {
+            "track_id": "3jjujdWJ72nww5eGnfs2E7",
+            "track_name": "Adore You",
+            "track_artist": "Harry Styles",
+            "track_album": "Fine Line",
+            "track_duration": 207133,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:36:59Z",
+            "uri": "spotify:track:3jjujdWJ72nww5eGnfs2E7"
+        },
+        {
+            "track_id": "1j3FhFPMCG6WUlWX57e1Kz",
+            "track_name": "Death",
+            "track_artist": "Mt. Joy",
+            "track_album": "Rearrange Us",
+            "track_duration": 177506,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:37:06Z",
+            "uri": "spotify:track:1j3FhFPMCG6WUlWX57e1Kz"
+        },
+        {
+            "track_id": "4gZDCOFuLCxCRWNhSEcOtJ",
+            "track_name": "These Days",
+            "track_artist": "Wallows",
+            "track_album": "Spring EP",
+            "track_duration": 202626,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:37:14Z",
+            "uri": "spotify:track:4gZDCOFuLCxCRWNhSEcOtJ"
+        },
+        {
+            "track_id": "0z9dPcBhJvqO06QMaKelUE",
+            "track_name": "Drunk on Halloween",
+            "track_artist": "Wallows",
+            "track_album": "Drunk on Halloween",
+            "track_duration": 237026,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:37:21Z",
+            "uri": "spotify:track:0z9dPcBhJvqO06QMaKelUE"
+        },
+        {
+            "track_id": "0LLuOVazP1OKq8PnmIDQen",
+            "track_name": "Mar",
+            "track_artist": "Le\u00f3n Larregui",
+            "track_album": "Voluma",
+            "track_duration": 258373,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:37:33Z",
+            "uri": "spotify:track:0LLuOVazP1OKq8PnmIDQen"
+        },
+        {
+            "track_id": "0NdAh5vk2C5hVNy54043lj",
+            "track_name": "Feels So Good \u25d1",
+            "track_artist": "HONNE",
+            "track_album": "Love Me / Love Me Not",
+            "track_duration": 228389,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:37:55Z",
+            "uri": "spotify:track:0NdAh5vk2C5hVNy54043lj"
+        },
+        {
+            "track_id": "7eH4e0FohTiyf9IF53aRyI",
+            "track_name": "Afterglow",
+            "track_artist": "The Lonely Biscuits",
+            "track_album": "The Universe in You",
+            "track_duration": 165249,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:38:05Z",
+            "uri": "spotify:track:7eH4e0FohTiyf9IF53aRyI"
+        },
+        {
+            "track_id": "5grbqMXc1PkkhKBW6sq6qf",
+            "track_name": "Can't Stop Thinking About You",
+            "track_artist": "Tobias Jesso Jr.",
+            "track_album": "Goon",
+            "track_duration": 233706,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:38:20Z",
+            "uri": "spotify:track:5grbqMXc1PkkhKBW6sq6qf"
+        },
+        {
+            "track_id": "64lsIF5pw0sJY0gV5kz0RN",
+            "track_name": "Can I Call You Tonight?",
+            "track_artist": "Dayglow",
+            "track_album": "Fuzzybrain",
+            "track_duration": 278769,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:38:40Z",
+            "uri": "spotify:track:64lsIF5pw0sJY0gV5kz0RN"
+        },
+        {
+            "track_id": "0vq7fkHZl2khMonn5G7d9l",
+            "track_name": "Affluenza",
+            "track_artist": "Conan Gray",
+            "track_album": "Kid Krow",
+            "track_duration": 199880,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:38:50Z",
+            "uri": "spotify:track:0vq7fkHZl2khMonn5G7d9l"
+        },
+        {
+            "track_id": "41cJIihaawZaBWzhQGv25i",
+            "track_name": "Cain",
+            "track_artist": "EXES",
+            "track_album": "Cain",
+            "track_duration": 216000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:39:11Z",
+            "uri": "spotify:track:41cJIihaawZaBWzhQGv25i"
+        },
+        {
+            "track_id": "3vb4YVKrodB9uTuQuOTf1j",
+            "track_name": "notice me - acoustic",
+            "track_artist": "ROLE MODEL",
+            "track_album": "notice me (acoustic)",
+            "track_duration": 194386,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:39:32Z",
+            "uri": "spotify:track:3vb4YVKrodB9uTuQuOTf1j"
+        },
+        {
+            "track_id": "72gooyj5bJQNROC5Ptmjn7",
+            "track_name": "for the people in the back",
+            "track_artist": "ROLE MODEL",
+            "track_album": "our little angel - EP",
+            "track_duration": 154400,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:39:40Z",
+            "uri": "spotify:track:72gooyj5bJQNROC5Ptmjn7"
+        },
+        {
+            "track_id": "3ySU5vwQB33iGulwcUL9qQ",
+            "track_name": "Don't Take The Money",
+            "track_artist": "Bleachers",
+            "track_album": "Gone Now",
+            "track_duration": 215546,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:39:56Z",
+            "uri": "spotify:track:3ySU5vwQB33iGulwcUL9qQ"
+        },
+        {
+            "track_id": "2r2Ldl32zG3QqxPqRn4y9y",
+            "track_name": "Nadir",
+            "track_artist": "TENDER",
+            "track_album": "Modern Addiction",
+            "track_duration": 241946,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T05:40:03Z",
+            "uri": "spotify:track:2r2Ldl32zG3QqxPqRn4y9y"
+        },
+        {
+            "track_id": "2Y0iGXY6m6immVb2ktbseM",
+            "track_name": "Little Dark Age",
+            "track_artist": "MGMT",
+            "track_album": "Little Dark Age",
+            "track_duration": 299960,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:24:06Z",
+            "uri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+        },
+        {
+            "track_id": "00GOPLxW4PGQuUYdPJh8K1",
+            "track_name": "IV. Sweatpants",
+            "track_artist": "Childish Gambino",
+            "track_album": "Because the Internet",
+            "track_duration": 180675,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:24:13Z",
+            "uri": "spotify:track:00GOPLxW4PGQuUYdPJh8K1"
+        },
+        {
+            "track_id": "69vacq3f64e3J7qCcl6euz",
+            "track_name": "You Killed Me on the Moon",
+            "track_artist": "BLOW",
+            "track_album": "Fall in Deep",
+            "track_duration": 190000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:24:24Z",
+            "uri": "spotify:track:69vacq3f64e3J7qCcl6euz"
+        },
+        {
+            "track_id": "7yL4wdksHlDnmKvofxMTBE",
+            "track_name": "A LOT TO LOSE",
+            "track_artist": "24kGoldn",
+            "track_album": "DROPPED OUTTA COLLEGE",
+            "track_duration": 180746,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:24:41Z",
+            "uri": "spotify:track:7yL4wdksHlDnmKvofxMTBE"
+        },
+        {
+            "track_id": "4AkKdaEAdJXBwfC56FASfy",
+            "track_name": "Broken Record",
+            "track_artist": "GSoul",
+            "track_album": "Hate Everything",
+            "track_duration": 192360,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:25:08Z",
+            "uri": "spotify:track:4AkKdaEAdJXBwfC56FASfy"
+        },
+        {
+            "track_id": "5uDohC8URXwbGiHAMuKGoa",
+            "track_name": "Rocky",
+            "track_artist": "Still Woozy",
+            "track_album": "Rocky",
+            "track_duration": 166000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:25:17Z",
+            "uri": "spotify:track:5uDohC8URXwbGiHAMuKGoa"
+        },
+        {
+            "track_id": "5YYW3yRktprLRr47WK219Y",
+            "track_name": "Ella No Es Tuya - Remix",
+            "track_artist": "Rochy RD",
+            "track_album": "Ella No Es Tuya (Remix)",
+            "track_duration": 218106,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:25:27Z",
+            "uri": "spotify:track:5YYW3yRktprLRr47WK219Y"
+        },
+        {
+            "track_id": "08n0mZu3EAXqKA427eNJO1",
+            "track_name": "Shiloh",
+            "track_artist": "Hua",
+            "track_album": "Intentions",
+            "track_duration": 106105,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:25:34Z",
+            "uri": "spotify:track:08n0mZu3EAXqKA427eNJO1"
+        },
+        {
+            "track_id": "3aTZwNMCZrIXoLzHNCAjhB",
+            "track_name": "18",
+            "track_artist": "emawk",
+            "track_album": "18",
+            "track_duration": 205370,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:25:41Z",
+            "uri": "spotify:track:3aTZwNMCZrIXoLzHNCAjhB"
+        },
+        {
+            "track_id": "6tDDoYIxWvMLTdKpjFkc1B",
+            "track_name": "telepat\u00eda",
+            "track_artist": "Kali Uchis",
+            "track_album": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+            "track_duration": 160191,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:25:47Z",
+            "uri": "spotify:track:6tDDoYIxWvMLTdKpjFkc1B"
+        },
+        {
+            "track_id": "05xA64s3UzOOmAnh9SIIjn",
+            "track_name": "Bloom",
+            "track_artist": "bLAck pARty",
+            "track_album": "Mango",
+            "track_duration": 302000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:25:54Z",
+            "uri": "spotify:track:05xA64s3UzOOmAnh9SIIjn"
+        },
+        {
+            "track_id": "4QLbogzP3qlilBUBVSI96T",
+            "track_name": "4/4",
+            "track_artist": "Danny and Alex",
+            "track_album": "Grand Slam, Thank You Ma'am",
+            "track_duration": 214000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:26:02Z",
+            "uri": "spotify:track:4QLbogzP3qlilBUBVSI96T"
+        },
+        {
+            "track_id": "07ItvNMIe1xdbqy8xrbHV1",
+            "track_name": "The Songwriter",
+            "track_artist": "Father John Misty",
+            "track_album": "God's Favorite Customer",
+            "track_duration": 225840,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:26:13Z",
+            "uri": "spotify:track:07ItvNMIe1xdbqy8xrbHV1"
+        },
+        {
+            "track_id": "35Ki1lvKPC2sFBD3GmKdRG",
+            "track_name": "Televised",
+            "track_artist": "HUNNY",
+            "track_album": "Windows I",
+            "track_duration": 194716,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:26:22Z",
+            "uri": "spotify:track:35Ki1lvKPC2sFBD3GmKdRG"
+        },
+        {
+            "track_id": "7bhSQqbyUvFVfmXgkF028O",
+            "track_name": "Violet",
+            "track_artist": "Bad Suns",
+            "track_album": "Disappear Here",
+            "track_duration": 198400,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:26:32Z",
+            "uri": "spotify:track:7bhSQqbyUvFVfmXgkF028O"
+        },
+        {
+            "track_id": "0suglut4Tkjn10qBssZluj",
+            "track_name": "Qu\u00edmicos",
+            "track_artist": "Little Jesus",
+            "track_album": "Norte (Japanese Version)",
+            "track_duration": 266615,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:26:41Z",
+            "uri": "spotify:track:0suglut4Tkjn10qBssZluj"
+        },
+        {
+            "track_id": "1Bph2KY0MA2JUiX5uADWjZ",
+            "track_name": "Broken",
+            "track_artist": "Jake Bugg",
+            "track_album": "Jake Bugg",
+            "track_duration": 247013,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:26:53Z",
+            "uri": "spotify:track:1Bph2KY0MA2JUiX5uADWjZ"
+        },
+        {
+            "track_id": "4LGJ2pLDvTRnul3EcZoYkX",
+            "track_name": "Like Real People Do",
+            "track_artist": "Hozier",
+            "track_album": "Hozier",
+            "track_duration": 198029,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:27:02Z",
+            "uri": "spotify:track:4LGJ2pLDvTRnul3EcZoYkX"
+        },
+        {
+            "track_id": "6e56CkYWD3JO6ovFZBA8po",
+            "track_name": "Intro III",
+            "track_artist": "NF",
+            "track_album": "Perception",
+            "track_duration": 268666,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:27:15Z",
+            "uri": "spotify:track:6e56CkYWD3JO6ovFZBA8po"
+        },
+        {
+            "track_id": "5x9VIW2fS21JMswOt6AORI",
+            "track_name": "Classic",
+            "track_artist": "MKTO",
+            "track_album": "Classic",
+            "track_duration": 175333,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:27:22Z",
+            "uri": "spotify:track:5x9VIW2fS21JMswOt6AORI"
+        },
+        {
+            "track_id": "4vHNeBWDQpVCmGbaccrRzi",
+            "track_name": "Goodie Bag",
+            "track_artist": "Still Woozy",
+            "track_album": "Goodie Bag",
+            "track_duration": 146390,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:27:31Z",
+            "uri": "spotify:track:4vHNeBWDQpVCmGbaccrRzi"
+        },
+        {
+            "track_id": "4AGjD3R8ch6JmvDLAwFw7P",
+            "track_name": "Ticket To Ride",
+            "track_artist": "KAWALA",
+            "track_album": "Ticket To Ride",
+            "track_duration": 182066,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:27:38Z",
+            "uri": "spotify:track:4AGjD3R8ch6JmvDLAwFw7P"
+        },
+        {
+            "track_id": "6CDzDgIUqeDY5g8ujExx2f",
+            "track_name": "Heat Waves",
+            "track_artist": "Glass Animals",
+            "track_album": "Heat Waves",
+            "track_duration": 238805,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:27:47Z",
+            "uri": "spotify:track:6CDzDgIUqeDY5g8ujExx2f"
+        },
+        {
+            "track_id": "0rRjGruFonCGOt0S5zAJNQ",
+            "track_name": "The Other Side Of Paradise",
+            "track_artist": "Glass Animals",
+            "track_album": "How To Be A Human Being",
+            "track_duration": 320654,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:27:55Z",
+            "uri": "spotify:track:0rRjGruFonCGOt0S5zAJNQ"
+        },
+        {
+            "track_id": "3sIoWQZbJqUKj5iELz8eTA",
+            "track_name": "Morrow",
+            "track_artist": "070 Shake",
+            "track_album": "Modus Vivendi",
+            "track_duration": 246626,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:28:04Z",
+            "uri": "spotify:track:3sIoWQZbJqUKj5iELz8eTA"
+        },
+        {
+            "track_id": "5hM5arv9KDbCHS0k9uqwjr",
+            "track_name": "Borderline",
+            "track_artist": "Tame Impala",
+            "track_album": "The Slow Rush",
+            "track_duration": 237800,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:28:11Z",
+            "uri": "spotify:track:5hM5arv9KDbCHS0k9uqwjr"
+        },
+        {
+            "track_id": "2AqazcPtVXn7uhFIyInNNp",
+            "track_name": "Professional Griefers - Vocal Mix",
+            "track_artist": "deadmau5",
+            "track_album": "> album title goes here <",
+            "track_duration": 243750,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:28:36Z",
+            "uri": "spotify:track:2AqazcPtVXn7uhFIyInNNp"
+        },
+        {
+            "track_id": "3EcsBKooLv8jotNKmuYQyd",
+            "track_name": "Tarde",
+            "track_artist": "Siddhartha",
+            "track_album": "\u00danicos",
+            "track_duration": 258200,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:28:47Z",
+            "uri": "spotify:track:3EcsBKooLv8jotNKmuYQyd"
+        },
+        {
+            "track_id": "09erNidgzl2DZysi97bWN1",
+            "track_name": "Hate Everything",
+            "track_artist": "GSoul",
+            "track_album": "Hate Everything",
+            "track_duration": 205773,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:28:55Z",
+            "uri": "spotify:track:09erNidgzl2DZysi97bWN1"
+        },
+        {
+            "track_id": "18Zr5WWu7X9LVool3pJRum",
+            "track_name": "Two Slow Dancers",
+            "track_artist": "Mitski",
+            "track_album": "Be the Cowboy",
+            "track_duration": 239303,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:29:05Z",
+            "uri": "spotify:track:18Zr5WWu7X9LVool3pJRum"
+        },
+        {
+            "track_id": "3bKwqavDTzceHn9fYoWqDU",
+            "track_name": "Notice",
+            "track_artist": "Jword",
+            "track_album": "Notice",
+            "track_duration": 194088,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:29:15Z",
+            "uri": "spotify:track:3bKwqavDTzceHn9fYoWqDU"
+        },
+        {
+            "track_id": "7zTTDkkLkJ2iHAqq1daDCr",
+            "track_name": "OUTTA MY MIND",
+            "track_artist": "Monsune",
+            "track_album": "OUTTA MY MIND",
+            "track_duration": 226005,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:29:23Z",
+            "uri": "spotify:track:7zTTDkkLkJ2iHAqq1daDCr"
+        },
+        {
+            "track_id": "7hM9ShrZMCV7xYOQwqBnNb",
+            "track_name": "Dead Weight",
+            "track_artist": "PVRIS",
+            "track_album": "Dead Weight",
+            "track_duration": 207000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:29:32Z",
+            "uri": "spotify:track:7hM9ShrZMCV7xYOQwqBnNb"
+        },
+        {
+            "track_id": "7ivYWXqrPLs66YwakDuSim",
+            "track_name": "like i need u",
+            "track_artist": "keshi",
+            "track_album": "THE REAPER",
+            "track_duration": 182678,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:29:42Z",
+            "uri": "spotify:track:7ivYWXqrPLs66YwakDuSim"
+        },
+        {
+            "track_id": "5kHZyXRjBXpBrwlWn9vzsd",
+            "track_name": "Barcelona",
+            "track_artist": "The Big Moon",
+            "track_album": "Walking Like We Do",
+            "track_duration": 226848,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:29:53Z",
+            "uri": "spotify:track:5kHZyXRjBXpBrwlWn9vzsd"
+        },
+        {
+            "track_id": "3LRbalLzZcuvSR6jVnqclh",
+            "track_name": "Meet Me in Amsterdam",
+            "track_artist": "RINI",
+            "track_album": "After the Sun",
+            "track_duration": 301448,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:30:02Z",
+            "uri": "spotify:track:3LRbalLzZcuvSR6jVnqclh"
+        },
+        {
+            "track_id": "7qFhAfUbytgPIVz4TYb3hT",
+            "track_name": "Do U Wrong (feat. Syd)",
+            "track_artist": "Leven Kali",
+            "track_album": "Leven Kali: Low Tide",
+            "track_duration": 280266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:30:15Z",
+            "uri": "spotify:track:7qFhAfUbytgPIVz4TYb3hT"
+        },
+        {
+            "track_id": "2rWny2VBj64zAx9q5VvPkB",
+            "track_name": "when you're drunk",
+            "track_artist": "LANY",
+            "track_album": "mama's boy (deluxe)",
+            "track_duration": 212026,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:30:26Z",
+            "uri": "spotify:track:2rWny2VBj64zAx9q5VvPkB"
+        },
+        {
+            "track_id": "0CyRloqqjpeKEAd3cO6J6z",
+            "track_name": "We're Not Just Friends",
+            "track_artist": "Parks, Squares and Alleys",
+            "track_album": "We're Not Just Friends",
+            "track_duration": 187820,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:30:37Z",
+            "uri": "spotify:track:0CyRloqqjpeKEAd3cO6J6z"
+        },
+        {
+            "track_id": "20PISOo4VbLz4yFH78Zv5R",
+            "track_name": "Swim",
+            "track_artist": "Fickle Friends",
+            "track_album": "You Are Someone Else",
+            "track_duration": 197506,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:30:44Z",
+            "uri": "spotify:track:20PISOo4VbLz4yFH78Zv5R"
+        },
+        {
+            "track_id": "7dMU1llpBZRrAwi5he68Kq",
+            "track_name": "Glue",
+            "track_artist": "Fickle Friends",
+            "track_album": "You Are Someone Else",
+            "track_duration": 188720,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:30:51Z",
+            "uri": "spotify:track:7dMU1llpBZRrAwi5he68Kq"
+        },
+        {
+            "track_id": "6uOPpbw0ufHCruEKFKAUkj",
+            "track_name": "Party Police",
+            "track_artist": "Alvvays",
+            "track_album": "Alvvays",
+            "track_duration": 227719,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:31:00Z",
+            "uri": "spotify:track:6uOPpbw0ufHCruEKFKAUkj"
+        },
+        {
+            "track_id": "69LmhIdKwDsXkkhX0CrPpm",
+            "track_name": "Imperio",
+            "track_artist": "The Change",
+            "track_album": "Imperio",
+            "track_duration": 222860,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:31:08Z",
+            "uri": "spotify:track:69LmhIdKwDsXkkhX0CrPpm"
+        },
+        {
+            "track_id": "3EGetjWI2ljkqiYwxqhhCj",
+            "track_name": "Amor Papaya (with Caloncho)",
+            "track_artist": "Carlos Sadness",
+            "track_album": "Amor Papaya",
+            "track_duration": 224327,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:31:18Z",
+            "uri": "spotify:track:3EGetjWI2ljkqiYwxqhhCj"
+        },
+        {
+            "track_id": "74uGhWp4BYpjFj1V2DzgoO",
+            "track_name": "Pink",
+            "track_artist": "Aerosmith",
+            "track_album": "Nine Lives",
+            "track_duration": 235360,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:31:32Z",
+            "uri": "spotify:track:74uGhWp4BYpjFj1V2DzgoO"
+        },
+        {
+            "track_id": "4NOZ35Dhucr6UlVyLOtktd",
+            "track_name": "Dangerous",
+            "track_artist": "Kardinal Offishall",
+            "track_album": "Not 4 Sale",
+            "track_duration": 246053,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:31:46Z",
+            "uri": "spotify:track:4NOZ35Dhucr6UlVyLOtktd"
+        },
+        {
+            "track_id": "0l3GEbH3CviUytD6iX4wzg",
+            "track_name": "Right Thurr",
+            "track_artist": "Chingy",
+            "track_album": "Jackpot",
+            "track_duration": 250746,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:31:54Z",
+            "uri": "spotify:track:0l3GEbH3CviUytD6iX4wzg"
+        },
+        {
+            "track_id": "6WmIyn2fx1PKQ0XDpYj4VR",
+            "track_name": "Love It If We Made It",
+            "track_artist": "The 1975",
+            "track_album": "A Brief Inquiry Into Online Relationships",
+            "track_duration": 252925,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:32:02Z",
+            "uri": "spotify:track:6WmIyn2fx1PKQ0XDpYj4VR"
+        },
+        {
+            "track_id": "4rKEmhNA19JezqVsSQS4yo",
+            "track_name": "love4eva (feat. Grimes)",
+            "track_artist": "LOONA/yyxy",
+            "track_album": "beauty&thebeat",
+            "track_duration": 220477,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:32:12Z",
+            "uri": "spotify:track:4rKEmhNA19JezqVsSQS4yo"
+        },
+        {
+            "track_id": "60ynsPSSKe6O3sfwRnIBRf",
+            "track_name": "Streets",
+            "track_artist": "Doja Cat",
+            "track_album": "Hot Pink",
+            "track_duration": 226986,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:32:51Z",
+            "uri": "spotify:track:60ynsPSSKe6O3sfwRnIBRf"
+        },
+        {
+            "track_id": "6atVS7UZBxoyJkkteM62u5",
+            "track_name": "Clarity",
+            "track_artist": "John Mayer",
+            "track_album": "Heavier Things",
+            "track_duration": 271426,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:33:02Z",
+            "uri": "spotify:track:6atVS7UZBxoyJkkteM62u5"
+        },
+        {
+            "track_id": "4BY4V1T0RJK1HmD2Q0ClyK",
+            "track_name": "Oblivion",
+            "track_artist": "Grimes",
+            "track_album": "Visions",
+            "track_duration": 251266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:33:09Z",
+            "uri": "spotify:track:4BY4V1T0RJK1HmD2Q0ClyK"
+        },
+        {
+            "track_id": "2CJ6CRzuRQd46asE1ucuVD",
+            "track_name": "Charger (feat. Grace Jones)",
+            "track_artist": "Gorillaz",
+            "track_album": "Humanz (Deluxe)",
+            "track_duration": 214386,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:33:19Z",
+            "uri": "spotify:track:2CJ6CRzuRQd46asE1ucuVD"
+        },
+        {
+            "track_id": "3NiYvMjp5A3FZmP3dojS8k",
+            "track_name": "Arrow Through Me - Remastered 1993",
+            "track_artist": "Wings",
+            "track_album": "Back To The Egg",
+            "track_duration": 216693,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:33:34Z",
+            "uri": "spotify:track:3NiYvMjp5A3FZmP3dojS8k"
+        },
+        {
+            "track_id": "7Js4OF5MUb2bqJe09g4uQE",
+            "track_name": "Oh! You Pretty Things - 2015 Remaster",
+            "track_artist": "David Bowie",
+            "track_album": "Hunky Dory (2015 Remaster)",
+            "track_duration": 193986,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:33:56Z",
+            "uri": "spotify:track:7Js4OF5MUb2bqJe09g4uQE"
+        },
+        {
+            "track_id": "63OJHHu2ambZAvdrvhdT2b",
+            "track_name": "I Found a Reason - 2015 Remaster",
+            "track_artist": "The Velvet Underground",
+            "track_album": "Loaded (2015 Remaster)",
+            "track_duration": 255680,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2021-02-23T17:34:07Z",
+            "uri": "spotify:track:63OJHHu2ambZAvdrvhdT2b"
+        }
+    ]
+}
