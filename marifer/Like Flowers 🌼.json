@@ -1,0 +1,585 @@
+{
+    "id": "7Fu1cxCiBBwcT1wlvdrN5s",
+    "tracks": [
+        {
+            "track_id": "4cMGt04mMdpCq7LyNuOYzr",
+            "track_name": "Push & Pull",
+            "track_artist": "Georgia Webster",
+            "track_album": "Push & Pull",
+            "track_duration": 187369,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:07:48Z",
+            "uri": "spotify:track:4cMGt04mMdpCq7LyNuOYzr"
+        },
+        {
+            "track_id": "1aEsTgCsv8nOjEgyEoRCpS",
+            "track_name": "this is how you fall in love",
+            "track_artist": "Jeremy Zucker",
+            "track_album": "brent ii",
+            "track_duration": 174586,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:07:52Z",
+            "uri": "spotify:track:1aEsTgCsv8nOjEgyEoRCpS"
+        },
+        {
+            "track_id": "2NWVdwbd2hPIzC2lyf4y63",
+            "track_name": "Moral of the Story (feat. Niall Horan)",
+            "track_artist": "Ashe",
+            "track_album": "Moral of the Story (feat. Niall Horan)",
+            "track_duration": 198515,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:07:56Z",
+            "uri": "spotify:track:2NWVdwbd2hPIzC2lyf4y63"
+        },
+        {
+            "track_id": "4HffeEF97c6UxNePgbuECW",
+            "track_name": "Pancakes for Dinner",
+            "track_artist": "Lizzy McAlpine",
+            "track_album": "Give Me A Minute",
+            "track_duration": 235035,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:00Z",
+            "uri": "spotify:track:4HffeEF97c6UxNePgbuECW"
+        },
+        {
+            "track_id": "4x5YzxjrF9wvIIXJV7TveC",
+            "track_name": "Till Forever Falls Apart",
+            "track_artist": "Ashe",
+            "track_album": "Ashlyn",
+            "track_duration": 222926,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:04Z",
+            "uri": "spotify:track:4x5YzxjrF9wvIIXJV7TveC"
+        },
+        {
+            "track_id": "0awuNCj9gwJEM0seER22DW",
+            "track_name": "CHICKEN TENDIES",
+            "track_artist": "Clinton Kane",
+            "track_album": "CHICKEN TENDIES",
+            "track_duration": 196844,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:07Z",
+            "uri": "spotify:track:0awuNCj9gwJEM0seER22DW"
+        },
+        {
+            "track_id": "2eAvDnpXP5W0cVtiI0PUxV",
+            "track_name": "Dandelions",
+            "track_artist": "Ruth B.",
+            "track_album": "Safe Haven",
+            "track_duration": 233720,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:12Z",
+            "uri": "spotify:track:2eAvDnpXP5W0cVtiI0PUxV"
+        },
+        {
+            "track_id": "3hy770zkWLyGaLNKr1qaUw",
+            "track_name": "Brown Eyes, Brown Hair",
+            "track_artist": "Caleb Hearn",
+            "track_album": "Brown Eyes, Brown Hair",
+            "track_duration": 186121,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:15Z",
+            "uri": "spotify:track:3hy770zkWLyGaLNKr1qaUw"
+        },
+        {
+            "track_id": "4UJYasyUJsxLUCyQRMgl2H",
+            "track_name": "Exless",
+            "track_artist": "Kate Stephenson",
+            "track_album": "Exless",
+            "track_duration": 205773,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:18Z",
+            "uri": "spotify:track:4UJYasyUJsxLUCyQRMgl2H"
+        },
+        {
+            "track_id": "14ahZtLV5yKtqQATTfQta0",
+            "track_name": "Home for the Summer",
+            "track_artist": "Sara Kays",
+            "track_album": "Home for the Summer",
+            "track_duration": 155271,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:22Z",
+            "uri": "spotify:track:14ahZtLV5yKtqQATTfQta0"
+        },
+        {
+            "track_id": "6w9aRQglMZxvxwdxyEWnCm",
+            "track_name": "Ain't Met Us Yet",
+            "track_artist": "Matt Cooper",
+            "track_album": "Ain't Met Us Yet",
+            "track_duration": 304931,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:25Z",
+            "uri": "spotify:track:6w9aRQglMZxvxwdxyEWnCm"
+        },
+        {
+            "track_id": "6VrAgFXBbRX2PkT92lAoKK",
+            "track_name": "Can't Help Falling in Love",
+            "track_artist": "Christian Leave",
+            "track_album": "Hope",
+            "track_duration": 135714,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:30Z",
+            "uri": "spotify:track:6VrAgFXBbRX2PkT92lAoKK"
+        },
+        {
+            "track_id": "1AXJqw8lCf3chqvgq4U8mA",
+            "track_name": "FUCKBOY",
+            "track_artist": "Dixie",
+            "track_album": "FUCKBOY",
+            "track_duration": 190346,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:08:33Z",
+            "uri": "spotify:track:1AXJqw8lCf3chqvgq4U8mA"
+        },
+        {
+            "track_id": "5WtfUKzXircvW8l5aaVZWT",
+            "track_name": "What A Time (feat. Niall Horan)",
+            "track_artist": "Julia Michaels",
+            "track_album": "Inner Monologue Part 1",
+            "track_duration": 173306,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:09:16Z",
+            "uri": "spotify:track:5WtfUKzXircvW8l5aaVZWT"
+        },
+        {
+            "track_id": "5TUZhrb8UaaA76NhzZax2Z",
+            "track_name": "Lost in Translation",
+            "track_artist": "The Neighbourhood",
+            "track_album": "Chip Chrome & The Mono-Tones",
+            "track_duration": 190226,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:10:13Z",
+            "uri": "spotify:track:5TUZhrb8UaaA76NhzZax2Z"
+        },
+        {
+            "track_id": "4dnmtQPnXU993aEUGp0bY8",
+            "track_name": "drivers license",
+            "track_artist": "Olivia Rodrigo",
+            "track_album": "drivers license",
+            "track_duration": 242013,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:31:46Z",
+            "uri": "spotify:track:4dnmtQPnXU993aEUGp0bY8"
+        },
+        {
+            "track_id": "6XoOA62cqX4CFtfidTIxbj",
+            "track_name": "Common Sense",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Common Sense",
+            "track_duration": 166645,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:31:49Z",
+            "uri": "spotify:track:6XoOA62cqX4CFtfidTIxbj"
+        },
+        {
+            "track_id": "6DSHbo7m9awD387qT89mKU",
+            "track_name": "Anyone Else",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Anyone Else",
+            "track_duration": 200473,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:31:53Z",
+            "uri": "spotify:track:6DSHbo7m9awD387qT89mKU"
+        },
+        {
+            "track_id": "03B2SfXuvDh1m9F4tqrX07",
+            "track_name": "Skin",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "Skin",
+            "track_duration": 177500,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:31:56Z",
+            "uri": "spotify:track:03B2SfXuvDh1m9F4tqrX07"
+        },
+        {
+            "track_id": "1jOBlsvKhdqjZAlUAia4Qz",
+            "track_name": "Lie Lie Lie",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Lie Lie Lie",
+            "track_duration": 176691,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:31:58Z",
+            "uri": "spotify:track:1jOBlsvKhdqjZAlUAia4Qz"
+        },
+        {
+            "track_id": "6QpPVC3iLIlWuYsm5kwIke",
+            "track_name": "Only a Matter of Time",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Only a Matter of Time",
+            "track_duration": 194093,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:32:02Z",
+            "uri": "spotify:track:6QpPVC3iLIlWuYsm5kwIke"
+        },
+        {
+            "track_id": "61KpQadow081I2AsbeLcsb",
+            "track_name": "deja vu",
+            "track_artist": "Olivia Rodrigo",
+            "track_album": "deja vu",
+            "track_duration": 215507,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:32:06Z",
+            "uri": "spotify:track:61KpQadow081I2AsbeLcsb"
+        },
+        {
+            "track_id": "56vFGtnkALFOskmY5vhI6z",
+            "track_name": "Sorry",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Joshua Bassett",
+            "track_duration": 202640,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:32:09Z",
+            "uri": "spotify:track:56vFGtnkALFOskmY5vhI6z"
+        },
+        {
+            "track_id": "6LIi7Opuz9B3PHnKBlpssp",
+            "track_name": "Do It All Again",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Joshua Bassett",
+            "track_duration": 211320,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:32:34Z",
+            "uri": "spotify:track:6LIi7Opuz9B3PHnKBlpssp"
+        },
+        {
+            "track_id": "6EiaFdYn2vrI0TSeKprX4R",
+            "track_name": "Telling Myself",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Joshua Bassett",
+            "track_duration": 169215,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:32:37Z",
+            "uri": "spotify:track:6EiaFdYn2vrI0TSeKprX4R"
+        },
+        {
+            "track_id": "6PERP62TejQjgHu81OHxgM",
+            "track_name": "good 4 u",
+            "track_artist": "Olivia Rodrigo",
+            "track_album": "good 4 u",
+            "track_duration": 178147,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:32:40Z",
+            "uri": "spotify:track:6PERP62TejQjgHu81OHxgM"
+        },
+        {
+            "track_id": "0JU7KoyKSFgY1zJV2ex6Ee",
+            "track_name": "Feel Something",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Feel Something",
+            "track_duration": 163866,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:32:44Z",
+            "uri": "spotify:track:0JU7KoyKSFgY1zJV2ex6Ee"
+        },
+        {
+            "track_id": "4bzPm515kjjaTDLfGo5TR9",
+            "track_name": "Ballerina",
+            "track_artist": "Jeremy Shada",
+            "track_album": "Ballerina",
+            "track_duration": 146960,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:33:35Z",
+            "uri": "spotify:track:4bzPm515kjjaTDLfGo5TR9"
+        },
+        {
+            "track_id": "3LbwR2WcofkDBp4LSgGJh1",
+            "track_name": "Loved You Once",
+            "track_artist": "Clara Mae",
+            "track_album": "Loved You Once",
+            "track_duration": 148603,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-03T00:52:42Z",
+            "uri": "spotify:track:3LbwR2WcofkDBp4LSgGJh1"
+        },
+        {
+            "track_id": "4JeOesjcWWlprTAvucDSJX",
+            "track_name": "People Watching",
+            "track_artist": "Conan Gray",
+            "track_album": "People Watching",
+            "track_duration": 158536,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-04T21:53:01Z",
+            "uri": "spotify:track:4JeOesjcWWlprTAvucDSJX"
+        },
+        {
+            "track_id": "5ajjAnNRh8bxFvaVHzpPjh",
+            "track_name": "Reckless",
+            "track_artist": "Madison Beer",
+            "track_album": "Reckless",
+            "track_duration": 203384,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-04T21:53:34Z",
+            "uri": "spotify:track:5ajjAnNRh8bxFvaVHzpPjh"
+        },
+        {
+            "track_id": "5qNh5WtzMbfpSj2jLlBkoD",
+            "track_name": "Your Power",
+            "track_artist": "Billie Eilish",
+            "track_album": "Your Power",
+            "track_duration": 245896,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-07T20:27:43Z",
+            "uri": "spotify:track:5qNh5WtzMbfpSj2jLlBkoD"
+        },
+        {
+            "track_id": "4xqrdfXkTW4T0RauPLv3WA",
+            "track_name": "Heather",
+            "track_artist": "Conan Gray",
+            "track_album": "Kid Krow",
+            "track_duration": 198040,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-07T20:39:50Z",
+            "uri": "spotify:track:4xqrdfXkTW4T0RauPLv3WA"
+        },
+        {
+            "track_id": "1nYzjrdVQ8RpF93M0jPFW7",
+            "track_name": "Remember That Night?",
+            "track_artist": "Sara Kays",
+            "track_album": "Remember That Night?",
+            "track_duration": 227186,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:41:34Z",
+            "uri": "spotify:track:1nYzjrdVQ8RpF93M0jPFW7"
+        },
+        {
+            "track_id": "76SiX7ZyXoL8CwBvVdhC24",
+            "track_name": "Pasta",
+            "track_artist": "New Rules",
+            "track_album": "Pasta",
+            "track_duration": 177561,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:41:38Z",
+            "uri": "spotify:track:76SiX7ZyXoL8CwBvVdhC24"
+        },
+        {
+            "track_id": "2wkIdVB8HsWyMur3Q4shlZ",
+            "track_name": "wish i loved you in the 90s",
+            "track_artist": "Tate McRae",
+            "track_album": "TOO YOUNG TO BE SAD",
+            "track_duration": 176853,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:41:54Z",
+            "uri": "spotify:track:2wkIdVB8HsWyMur3Q4shlZ"
+        },
+        {
+            "track_id": "58qX77t2VWMWcycsh9zKLc",
+            "track_name": "i don't want to watch the world end with someone else",
+            "track_artist": "Clinton Kane",
+            "track_album": "i don't want to watch the world end with someone else",
+            "track_duration": 184505,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:41:58Z",
+            "uri": "spotify:track:58qX77t2VWMWcycsh9zKLc"
+        },
+        {
+            "track_id": "1VuRRvJqtf4qOTsaEckjvd",
+            "track_name": "Omg Did She Call Him Baby?",
+            "track_artist": "Beth McCarthy",
+            "track_album": "Omg Did She Call Him Baby?",
+            "track_duration": 195416,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:10Z",
+            "uri": "spotify:track:1VuRRvJqtf4qOTsaEckjvd"
+        },
+        {
+            "track_id": "67TV6fBPxChl75QC3qXOl7",
+            "track_name": "Accidentally in Love",
+            "track_artist": "KiD RAiN",
+            "track_album": "Accidentally in Love",
+            "track_duration": 128933,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:12Z",
+            "uri": "spotify:track:67TV6fBPxChl75QC3qXOl7"
+        },
+        {
+            "track_id": "1JdBLsTQ91qCAeABpw2hPK",
+            "track_name": "To Love Someone Else",
+            "track_artist": "Avery Lynch",
+            "track_album": "To Love Someone Else",
+            "track_duration": 224680,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:16Z",
+            "uri": "spotify:track:1JdBLsTQ91qCAeABpw2hPK"
+        },
+        {
+            "track_id": "27kcZEJvhkb1rzZS9gCpdA",
+            "track_name": "remember the mornings",
+            "track_artist": "Clinton Kane",
+            "track_album": "remember the mornings",
+            "track_duration": 202354,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:18Z",
+            "uri": "spotify:track:27kcZEJvhkb1rzZS9gCpdA"
+        },
+        {
+            "track_id": "03pMITmL4qouGlrfTAhX9W",
+            "track_name": "Crocodiles",
+            "track_artist": "Cian Ducrot",
+            "track_album": "Crocodiles",
+            "track_duration": 240065,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:21Z",
+            "uri": "spotify:track:03pMITmL4qouGlrfTAhX9W"
+        },
+        {
+            "track_id": "18yfoGq1LaR0PAymo2SVnG",
+            "track_name": "Over",
+            "track_artist": "Matt Morreale",
+            "track_album": "Over",
+            "track_duration": 150000,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:35Z",
+            "uri": "spotify:track:18yfoGq1LaR0PAymo2SVnG"
+        },
+        {
+            "track_id": "0lDRZtKybTQiG59UE07Zr2",
+            "track_name": "ily",
+            "track_artist": "David Kushner",
+            "track_album": "ily",
+            "track_duration": 217846,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:44Z",
+            "uri": "spotify:track:0lDRZtKybTQiG59UE07Zr2"
+        },
+        {
+            "track_id": "4i5684mD7ZifYxMput3jmQ",
+            "track_name": "Safe Places - Acoustic",
+            "track_artist": "Cassidy King",
+            "track_album": "Not so Picture Perfect (Acoustic)",
+            "track_duration": 203636,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:42:52Z",
+            "uri": "spotify:track:4i5684mD7ZifYxMput3jmQ"
+        },
+        {
+            "track_id": "7JIuqL4ZqkpfGKQhYlrirs",
+            "track_name": "The Only Exception",
+            "track_artist": "Paramore",
+            "track_album": "Brand New Eyes",
+            "track_duration": 267653,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-16T03:31:51Z",
+            "uri": "spotify:track:7JIuqL4ZqkpfGKQhYlrirs"
+        },
+        {
+            "track_id": "7eBo2dKcpdLtzGfL0JA2nd",
+            "track_name": "The Fixer",
+            "track_artist": "Brent Morgan",
+            "track_album": "The Fixer",
+            "track_duration": 188184,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-16T03:32:26Z",
+            "uri": "spotify:track:7eBo2dKcpdLtzGfL0JA2nd"
+        },
+        {
+            "track_id": "5znMHq52OEJBTA3iJ1uf9l",
+            "track_name": "Ain't Met Us Yet",
+            "track_artist": "Matt Cooper",
+            "track_album": "Ain't Met Us Yet",
+            "track_duration": 304931,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-16T03:34:30Z",
+            "uri": "spotify:track:5znMHq52OEJBTA3iJ1uf9l"
+        },
+        {
+            "track_id": "7cY3q6uDDuPfh36fqxPEPy",
+            "track_name": "La vie en rose",
+            "track_artist": "Zaz",
+            "track_album": "Recto verso (Edition Collector)",
+            "track_duration": 231106,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-16T03:35:44Z",
+            "uri": "spotify:track:7cY3q6uDDuPfh36fqxPEPy"
+        },
+        {
+            "track_id": "7cAFrpq9c6nJJcnF04ah39",
+            "track_name": "Click",
+            "track_artist": "Jake Miller",
+            "track_album": "Silver Lining II",
+            "track_duration": 187125,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-16T03:36:04Z",
+            "uri": "spotify:track:7cAFrpq9c6nJJcnF04ah39"
+        },
+        {
+            "track_id": "771LchWwP7QMx6uAHIQKMW",
+            "track_name": "Fine",
+            "track_artist": "Ian McConnell",
+            "track_album": "Fine",
+            "track_duration": 145388,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-16T03:38:06Z",
+            "uri": "spotify:track:771LchWwP7QMx6uAHIQKMW"
+        },
+        {
+            "track_id": "4SACHtzLlcNaUKGYC9oX30",
+            "track_name": "Never Been in Love",
+            "track_artist": "Haley Mae Campbell",
+            "track_album": "Never Been in Love",
+            "track_duration": 179189,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-11-27T22:23:59Z",
+            "uri": "spotify:track:4SACHtzLlcNaUKGYC9oX30"
+        },
+        {
+            "track_id": "1KjJfUt1UyEbZSbliSkGpi",
+            "track_name": "Doppelg\u00e4nger",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Doppelg\u00e4nger",
+            "track_duration": 194957,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2022-02-25T15:16:38Z",
+            "uri": "spotify:track:1KjJfUt1UyEbZSbliSkGpi"
+        },
+        {
+            "track_id": "1S4qA7o3UuzSc1ykDWkUis",
+            "track_name": "Easier To Love",
+            "track_artist": "Grant Schaffer",
+            "track_album": "Easier To Love",
+            "track_duration": 213179,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2022-05-16T00:58:51Z",
+            "uri": "spotify:track:1S4qA7o3UuzSc1ykDWkUis"
+        },
+        {
+            "track_id": "1b5qdsOkBg9R0S12ng3Ees",
+            "track_name": "Zero Feelings",
+            "track_artist": "Zoe Clark",
+            "track_album": "Zero Feelings",
+            "track_duration": 154759,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2022-06-28T19:48:15Z",
+            "uri": "spotify:track:1b5qdsOkBg9R0S12ng3Ees"
+        },
+        {
+            "track_id": "4sEN7hRcdfzDpk4wUG47qO",
+            "track_name": "Smoke Slow",
+            "track_artist": "Joshua Bassett",
+            "track_album": "Smoke Slow",
+            "track_duration": 163759,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2022-08-13T17:19:51Z",
+            "uri": "spotify:track:4sEN7hRcdfzDpk4wUG47qO"
+        },
+        {
+            "track_id": "2D4BSm5Z8Hq5zYbSgJwEOh",
+            "track_name": "She Used To Be Mine",
+            "track_artist": "Sara Bareilles",
+            "track_album": "What's Inside: Songs from Waitress",
+            "track_duration": 250266,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-30T17:01:35Z",
+            "uri": "spotify:track:2D4BSm5Z8Hq5zYbSgJwEOh"
+        },
+        {
+            "track_id": "2K7xn816oNHJZ0aVqdQsha",
+            "track_name": "Softcore",
+            "track_artist": "The Neighbourhood",
+            "track_album": "Hard To Imagine The Neighbourhood Ever Changing",
+            "track_duration": 206280,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-30T17:03:07Z",
+            "uri": "spotify:track:2K7xn816oNHJZ0aVqdQsha"
+        }
+    ]
+}
