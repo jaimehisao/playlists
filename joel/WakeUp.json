@@ -1,0 +1,45 @@
+{
+    "id": "38R8jDCKeyEkg4dKD33KYq",
+    "tracks": [
+        {
+            "track_id": "2dpaYNEQHiRxtZbfNsse99",
+            "track_name": "Happier",
+            "track_artist": "Marshmello",
+            "track_album": "Happier",
+            "track_duration": 214289,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2019-10-28T06:55:20Z",
+            "uri": "spotify:track:2dpaYNEQHiRxtZbfNsse99"
+        },
+        {
+            "track_id": "08bNPGLD8AhKpnnERrAc6G",
+            "track_name": "FRIENDS",
+            "track_artist": "Marshmello",
+            "track_album": "FRIENDS",
+            "track_duration": 202620,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2019-10-28T06:55:40Z",
+            "uri": "spotify:track:08bNPGLD8AhKpnnERrAc6G"
+        },
+        {
+            "track_id": "4hPpVbbakQNv8YTHYaOJP4",
+            "track_name": "One Thing Right",
+            "track_artist": "Marshmello",
+            "track_album": "One Thing Right",
+            "track_duration": 181823,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2019-10-28T06:55:47Z",
+            "uri": "spotify:track:4hPpVbbakQNv8YTHYaOJP4"
+        },
+        {
+            "track_id": "5icOoE6VgqFKohjWWNp0Ac",
+            "track_name": "Here With Me",
+            "track_artist": "Marshmello",
+            "track_album": "Here With Me",
+            "track_duration": 156346,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2019-10-28T06:55:49Z",
+            "uri": "spotify:track:5icOoE6VgqFKohjWWNp0Ac"
+        }
+    ]
+}
