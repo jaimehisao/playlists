@@ -1,0 +1,575 @@
+{
+    "id": "6UNYRMQpAZG3fxO1NxCvFB",
+    "tracks": [
+        {
+            "track_id": "214nt20w5wOxJnY462klLw",
+            "track_name": "Miss Americana & The Heartbreak Prince",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 234146,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:214nt20w5wOxJnY462klLw"
+        },
+        {
+            "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "track_name": "Cruel Summer",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 178426,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+        },
+        {
+            "track_id": "3RauEVgRgj1IuWdJ9fDs70",
+            "track_name": "The Man",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 190360,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3RauEVgRgj1IuWdJ9fDs70"
+        },
+        {
+            "track_id": "6RRNNciQGZEXnqk8SQ9yv5",
+            "track_name": "You Need To Calm Down",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 171360,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:6RRNNciQGZEXnqk8SQ9yv5"
+        },
+        {
+            "track_id": "1dGr1c8CrMLDpV6mPbImSI",
+            "track_name": "Lover",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 221306,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+        },
+        {
+            "track_id": "3pHkh7d0lzM2AldUtz2x37",
+            "track_name": "The Archer",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 211240,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3pHkh7d0lzM2AldUtz2x37"
+        },
+        {
+            "track_id": "77sMIMlNaSURUAXq5coCxE",
+            "track_name": "Fearless (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 241591,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:77sMIMlNaSURUAXq5coCxE"
+        },
+        {
+            "track_id": "1qrpoAMXodY6895hGKoUpA",
+            "track_name": "You Belong With Me (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 231124,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1qrpoAMXodY6895hGKoUpA"
+        },
+        {
+            "track_id": "3CeCwYWvdfXbZLXFhBrbnf",
+            "track_name": "Love Story (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Love Story (Taylor\u2019s Version)",
+            "track_duration": 235766,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3CeCwYWvdfXbZLXFhBrbnf"
+        },
+        {
+            "track_id": "7dW84mWkdWE5a6lFWxJCBG",
+            "track_name": "\u2018tis the damn season",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 229840,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:7dW84mWkdWE5a6lFWxJCBG"
+        },
+        {
+            "track_id": "0lx2cLdOt3piJbcaXIV74f",
+            "track_name": "willow",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 214706,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+        },
+        {
+            "track_id": "12ntTeqEeTg7GAVpe8Mhpl",
+            "track_name": "marjorie",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 257773,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:12ntTeqEeTg7GAVpe8Mhpl"
+        },
+        {
+            "track_id": "0sY6ZUTh4yoctD8VIXz339",
+            "track_name": "champagne problems",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 244000,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+        },
+        {
+            "track_id": "0PurA4JVJ8YQgSVopY8fn6",
+            "track_name": "tolerate it",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 245440,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:0PurA4JVJ8YQgSVopY8fn6"
+        },
+        {
+            "track_id": "2yLa0QULdQr0qAIvVwN6B5",
+            "track_name": "...Ready For It?",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 208186,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:2yLa0QULdQr0qAIvVwN6B5"
+        },
+        {
+            "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
+            "track_name": "Delicate",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 232253,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+        },
+        {
+            "track_id": "1R0a2iXumgCiFb7HEZ7gUE",
+            "track_name": "Don\u2019t Blame Me",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 236413,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1R0a2iXumgCiFb7HEZ7gUE"
+        },
+        {
+            "track_id": "1P17dC1amhFzptugyAO7Il",
+            "track_name": "Look What You Made Me Do",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 211853,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1P17dC1amhFzptugyAO7Il"
+        },
+        {
+            "track_id": "10eBRyImhfqVvkiVEGf0N0",
+            "track_name": "Enchanted",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now",
+            "track_duration": 352186,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:10eBRyImhfqVvkiVEGf0N0"
+        },
+        {
+            "track_id": "3yII7UwgLF6K5zW3xad3MP",
+            "track_name": "22 (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 230960,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3yII7UwgLF6K5zW3xad3MP"
+        },
+        {
+            "track_id": "5YqltLsjdqFtvqE7Nrysvs",
+            "track_name": "We Are Never Ever Getting Back Together (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 193146,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:5YqltLsjdqFtvqE7Nrysvs"
+        },
+        {
+            "track_id": "6AtZLIzUINvExIUy4QhdjP",
+            "track_name": "I Knew You Were Trouble (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 219760,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:6AtZLIzUINvExIUy4QhdjP"
+        },
+        {
+            "track_id": "5enxwA8aAbwZbf5qCHORXi",
+            "track_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 613026,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:5enxwA8aAbwZbf5qCHORXi"
+        },
+        {
+            "track_id": "6VsvKPJ4xjVNKpI8VVZ3SV",
+            "track_name": "invisible string",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 252880,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV"
+        },
+        {
+            "track_id": "0Jlcvv8IykzHaSmj49uNW8",
+            "track_name": "the 1",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 210251,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:0Jlcvv8IykzHaSmj49uNW8"
+        },
+        {
+            "track_id": "5kI4eCXXzyuIUXjQra0Cxi",
+            "track_name": "betty",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 294521,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
+        },
+        {
+            "track_id": "2Eeur20xVqfUoM3Q7EFPFt",
+            "track_name": "the last great american dynasty",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 230999,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:2Eeur20xVqfUoM3Q7EFPFt"
+        },
+        {
+            "track_id": "3hUxzQpSfdDqwM3ZTFQY0K",
+            "track_name": "august",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 261922,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+        },
+        {
+            "track_id": "2NmsngXHeC1GQ9wWrzhOMf",
+            "track_name": "illicit affairs",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 190898,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:2NmsngXHeC1GQ9wWrzhOMf"
+        },
+        {
+            "track_id": "1MgV7FIyNxIG7WzMRJV5HC",
+            "track_name": "my tears ricochet",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 255893,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC"
+        },
+        {
+            "track_id": "4R2kfaDFhslZEMJqAFNpdd",
+            "track_name": "cardigan",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 239560,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+        },
+        {
+            "track_id": "1fo2ctLqj3zBhRQKOXprol",
+            "track_name": "Style",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe Edition)",
+            "track_duration": 231000,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1fo2ctLqj3zBhRQKOXprol"
+        },
+        {
+            "track_id": "2sC2P3BN0IXujNaaSyDmtP",
+            "track_name": "Blank Space",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe Edition)",
+            "track_duration": 231826,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:2sC2P3BN0IXujNaaSyDmtP"
+        },
+        {
+            "track_id": "3fthfkkvy9av3q3uAGVf7U",
+            "track_name": "Shake It Off",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe Edition)",
+            "track_duration": 219200,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3fthfkkvy9av3q3uAGVf7U"
+        },
+        {
+            "track_id": "1Ov37jtRQ2YNAe8HzfczkL",
+            "track_name": "Wildest Dreams (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Wildest Dreams (Taylor's Version)",
+            "track_duration": 220433,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1Ov37jtRQ2YNAe8HzfczkL"
+        },
+        {
+            "track_id": "273dCMFseLcVsoSWx59IoE",
+            "track_name": "Bad Blood",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989",
+            "track_duration": 211933,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:273dCMFseLcVsoSWx59IoE"
+        },
+        {
+            "track_id": "5jQI2r1RdgtuT8S3iG8zFC",
+            "track_name": "Lavender Haze",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 202395,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:5jQI2r1RdgtuT8S3iG8zFC"
+        },
+        {
+            "track_id": "0V3wPSX9ygBnCm8psDIegu",
+            "track_name": "Anti-Hero",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 200690,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:0V3wPSX9ygBnCm8psDIegu"
+        },
+        {
+            "track_id": "3rWDp9tBPQR9z6U5YyRSK4",
+            "track_name": "Midnight Rain",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 174782,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3rWDp9tBPQR9z6U5YyRSK4"
+        },
+        {
+            "track_id": "1xwAWUI6Dj0WGC3KiUPN0O",
+            "track_name": "Vigilante Shit",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 164801,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:1xwAWUI6Dj0WGC3KiUPN0O"
+        },
+        {
+            "track_id": "3qoftcUZaUOncvIYjFSPdE",
+            "track_name": "Bejeweled",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 194165,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:3qoftcUZaUOncvIYjFSPdE"
+        },
+        {
+            "track_id": "56hioFjQ0DXrdn04hZcFgG",
+            "track_name": "Mastermind",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (3am Edition)",
+            "track_duration": 191039,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:56hioFjQ0DXrdn04hZcFgG"
+        },
+        {
+            "track_id": "5oqDgw5VGBln5dSIOPWyBq",
+            "track_name": "Karma",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (3am Edition)",
+            "track_duration": 204852,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:18:30Z",
+            "uri": "spotify:track:5oqDgw5VGBln5dSIOPWyBq"
+        },
+        {
+            "track_id": "2Fn01AIMyHbha2ceNQeOqw",
+            "track_name": "Tim McGraw",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 232106,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:19:40Z",
+            "uri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw"
+        },
+        {
+            "track_id": "0ZNU020wNYvgW84iljPkPP",
+            "track_name": "mirrorball",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 208977,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:19:49Z",
+            "uri": "spotify:track:0ZNU020wNYvgW84iljPkPP"
+        },
+        {
+            "track_id": "7kt9e9LFSpN1zQtYEl19o1",
+            "track_name": "this is me trying",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 195097,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:20:03Z",
+            "uri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+        },
+        {
+            "track_id": "5lFDIbYMcFHPPgzMcnPqSz",
+            "track_name": "State Of Grace (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 295413,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:20:17Z",
+            "uri": "spotify:track:5lFDIbYMcFHPPgzMcnPqSz"
+        },
+        {
+            "track_id": "1j6gmK6u4WNI33lMZ8dC1s",
+            "track_name": "Our Song",
+            "track_artist": "Taylor Swift",
+            "track_album": "Taylor Swift",
+            "track_duration": 201106,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:20:34Z",
+            "uri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+        },
+        {
+            "track_id": "1wtOxkiel43cVs0Yux5Q4h",
+            "track_name": "Snow On The Beach (feat. Lana Del Rey)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 256124,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:21:05Z",
+            "uri": "spotify:track:1wtOxkiel43cVs0Yux5Q4h"
+        },
+        {
+            "track_id": "1XjHRolIXL2M1EEOUsGGR4",
+            "track_name": "cowboy like me",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 275040,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:21:16Z",
+            "uri": "spotify:track:1XjHRolIXL2M1EEOUsGGR4"
+        },
+        {
+            "track_id": "5YL553x8sHderRBDlm3NM3",
+            "track_name": "White Horse (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 234515,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:21:22Z",
+            "uri": "spotify:track:5YL553x8sHderRBDlm3NM3"
+        },
+        {
+            "track_id": "73qMN9bXy7MSPwwGfH3wQr",
+            "track_name": "Sad Beautiful Tragic (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 284773,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:21:33Z",
+            "uri": "spotify:track:73qMN9bXy7MSPwwGfH3wQr"
+        },
+        {
+            "track_id": "0hK93KD6Y0j9giUGh4Valj",
+            "track_name": "Ours",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Deluxe Package)",
+            "track_duration": 238173,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:21:40Z",
+            "uri": "spotify:track:0hK93KD6Y0j9giUGh4Valj"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:21:46Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "1NmVZsG18CzCAtw7rnV3yA",
+            "track_name": "Clean",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 271000,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:21:54Z",
+            "uri": "spotify:track:1NmVZsG18CzCAtw7rnV3yA"
+        },
+        {
+            "track_id": "2m3ObD945KvpE5y9A1eUWm",
+            "track_name": "Jump Then Fall (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 237580,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:22:01Z",
+            "uri": "spotify:track:2m3ObD945KvpE5y9A1eUWm"
+        },
+        {
+            "track_id": "4e5ayHsOLJNLTGfjau2mEw",
+            "track_name": "The Lucky One (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 240466,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-04-06T20:22:09Z",
+            "uri": "spotify:track:4e5ayHsOLJNLTGfjau2mEw"
+        }
+    ]
+}
