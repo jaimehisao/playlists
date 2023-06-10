@@ -234,7 +234,7 @@
         {
             "track_id": "7qhwiyufW4TrovttmetUwr",
             "track_name": "Cuba",
-            "track_artist": "The Gibson Brothers",
+            "track_artist": "Gibson Brothers",
             "track_album": "The Complete Of Gibson Brothers",
             "track_duration": 453893,
             "track_added_by": "gabymarcosdv",
@@ -554,7 +554,7 @@
         {
             "track_id": "0kfzWBs3VOMaI0T5yZ0T8W",
             "track_name": "Que Sera Mi Vida",
-            "track_artist": "The Gibson Brothers",
+            "track_artist": "Gibson Brothers",
             "track_album": "The Complete Of Gibson Brothers",
             "track_duration": 352533,
             "track_added_by": "gabymarcosdv",
@@ -830,6 +830,16 @@
             "track_added_by": "gabymarcosdv",
             "track_added_at": "2023-06-06T15:48:33Z",
             "uri": "spotify:track:3s2FVNc1HsVNeTCROnT3ks"
+        },
+        {
+            "track_id": "3qZHUZTQiTMfJXcUYzY5mT",
+            "track_name": "In the Stone",
+            "track_artist": "Earth, Wind & Fire",
+            "track_album": "I Am",
+            "track_duration": 288480,
+            "track_added_by": "gabymarcosdv",
+            "track_added_at": "2023-06-09T15:15:54Z",
+            "uri": "spotify:track:3qZHUZTQiTMfJXcUYzY5mT"
         }
     ]
 }
