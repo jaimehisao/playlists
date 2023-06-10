@@ -1,0 +1,295 @@
+{
+    "id": "6zqvpvPTWQmQvJA4iVK1wz",
+    "tracks": [
+        {
+            "track_id": "053trmldheiFgDGCGgZ4WW",
+            "track_name": "La Vita Com'\u00e8",
+            "track_artist": "Max Gazz\u00e8",
+            "track_album": "Maximilian",
+            "track_duration": 233204,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-20T19:01:02Z",
+            "uri": "spotify:track:053trmldheiFgDGCGgZ4WW"
+        },
+        {
+            "track_id": "47WKrApg38URTWLAqSyO8B",
+            "track_name": "Giuda",
+            "track_artist": "Salmo",
+            "track_album": "Hellvisback",
+            "track_duration": 138960,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-20T19:09:11Z",
+            "uri": "spotify:track:47WKrApg38URTWLAqSyO8B"
+        },
+        {
+            "track_id": "4Yr7z1MFiI2D3QnldF107i",
+            "track_name": "PERDONAMI",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 134413,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:18:49Z",
+            "uri": "spotify:track:4Yr7z1MFiI2D3QnldF107i"
+        },
+        {
+            "track_id": "2fkVZYFv9hOejIsLzZy8ad",
+            "track_name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 186213,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:02Z",
+            "uri": "spotify:track:2fkVZYFv9hOejIsLzZy8ad"
+        },
+        {
+            "track_id": "3Ls9yKzshQye18Tx2AvOb6",
+            "track_name": "90MIN",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 231920,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:08Z",
+            "uri": "spotify:track:3Ls9yKzshQye18Tx2AvOb6"
+        },
+        {
+            "track_id": "3ggGHTn9JnaBG0GEFraHi3",
+            "track_name": "Io sono qui",
+            "track_artist": "Salmo",
+            "track_album": "Hellvisback",
+            "track_duration": 180880,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:26Z",
+            "uri": "spotify:track:3ggGHTn9JnaBG0GEFraHi3"
+        },
+        {
+            "track_id": "2rgOAX5Cj3pk8JFnaPwJbd",
+            "track_name": "STAI ZITTO (feat. Fabri Fibra)",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 202573,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:37Z",
+            "uri": "spotify:track:2rgOAX5Cj3pk8JFnaPwJbd"
+        },
+        {
+            "track_id": "2sCkQ5AoGNKy0urYd2E3BT",
+            "track_name": "RICCHI E MORTI",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 138240,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:41Z",
+            "uri": "spotify:track:2sCkQ5AoGNKy0urYd2E3BT"
+        },
+        {
+            "track_id": "7wC76LWyNxaP3hjGzbWOcN",
+            "track_name": "CABRIOLET (feat. Sfera Ebbasta)",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 185573,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:46Z",
+            "uri": "spotify:track:7wC76LWyNxaP3hjGzbWOcN"
+        },
+        {
+            "track_id": "4Nc1FDBI1NUiN48MjTiXEi",
+            "track_name": "HO PAURA DI USCIRE",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 197746,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:49Z",
+            "uri": "spotify:track:4Nc1FDBI1NUiN48MjTiXEi"
+        },
+        {
+            "track_id": "4spkZ6gRKh827yp6JI6TN1",
+            "track_name": "SPARARE ALLA LUNA (feat. Coez)",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 211666,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:53Z",
+            "uri": "spotify:track:4spkZ6gRKh827yp6JI6TN1"
+        },
+        {
+            "track_id": "6Jv6R1QvVm2CuCbqLi1nAT",
+            "track_name": "PXM",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 184506,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:23:57Z",
+            "uri": "spotify:track:6Jv6R1QvVm2CuCbqLi1nAT"
+        },
+        {
+            "track_id": "3ibnXjXTxiQQVJsoCffeo3",
+            "track_name": "ORA CHE FAI?",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 130506,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:24:08Z",
+            "uri": "spotify:track:3ibnXjXTxiQQVJsoCffeo3"
+        },
+        {
+            "track_id": "2LM2JJj3hQLCZRQFu1xu02",
+            "track_name": "Non mi avrete mai",
+            "track_artist": "Inoki",
+            "track_album": "Fabiano detto Inoki",
+            "track_duration": 232986,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:24:12Z",
+            "uri": "spotify:track:2LM2JJj3hQLCZRQFu1xu02"
+        },
+        {
+            "track_id": "525vzYkgrT8uerIzDe5Apx",
+            "track_name": "Bella",
+            "track_artist": "Jovanotti",
+            "track_album": "Lorenzo 1997 - L'Albero",
+            "track_duration": 276066,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:24:53Z",
+            "uri": "spotify:track:525vzYkgrT8uerIzDe5Apx"
+        },
+        {
+            "track_id": "2oBXn8htpoyjRqrkIGGm0a",
+            "track_name": "Fuori Dal Tunnel",
+            "track_artist": "Caparezza",
+            "track_album": "Verit\u00e0 Supposte",
+            "track_duration": 310266,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:25:08Z",
+            "uri": "spotify:track:2oBXn8htpoyjRqrkIGGm0a"
+        },
+        {
+            "track_id": "1VNARx6Sm6ZYAsDMCGiU1B",
+            "track_name": "LUNEDI'",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 205266,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:25:39Z",
+            "uri": "spotify:track:1VNARx6Sm6ZYAsDMCGiU1B"
+        },
+        {
+            "track_id": "41FusdKMoGstfNPq7TXjXX",
+            "track_name": "Rotten",
+            "track_artist": "Nitro",
+            "track_album": "Suicidol",
+            "track_duration": 238093,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:27:05Z",
+            "uri": "spotify:track:41FusdKMoGstfNPq7TXjXX"
+        },
+        {
+            "track_id": "4IzDqftkFXUR8G2vaTd3Rb",
+            "track_name": "Grande amore",
+            "track_artist": "Il Volo",
+            "track_album": "Grande amore (International Version)",
+            "track_duration": 224680,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-25T22:28:16Z",
+            "uri": "spotify:track:4IzDqftkFXUR8G2vaTd3Rb"
+        },
+        {
+            "track_id": "0swoHiwTazywpoqiKDUtGQ",
+            "track_name": "La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)",
+            "track_artist": "Takagi & Ketra",
+            "track_album": "La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)",
+            "track_duration": 191639,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-29T01:50:23Z",
+            "uri": "spotify:track:0swoHiwTazywpoqiKDUtGQ"
+        },
+        {
+            "track_id": "77F0NNChJGfDBp3fTCWaDc",
+            "track_name": "DISPOVERY CHANNEL (feat. Nitro)",
+            "track_artist": "Salmo",
+            "track_album": "Playlist",
+            "track_duration": 204400,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-06-29T01:50:48Z",
+            "uri": "spotify:track:77F0NNChJGfDBp3fTCWaDc"
+        },
+        {
+            "track_id": "0fcoHYvDf009KVoNCFWPmR",
+            "track_name": "Come Musica",
+            "track_artist": "Jovanotti",
+            "track_album": "Safari",
+            "track_duration": 230226,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-09-29T04:47:28Z",
+            "uri": "spotify:track:0fcoHYvDf009KVoNCFWPmR"
+        },
+        {
+            "track_id": "2S7RApTsKT0CtYojYq2cKz",
+            "track_name": "L'italiano",
+            "track_artist": "Toto Cutugno",
+            "track_album": "L'Italiano",
+            "track_duration": 236546,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2020-10-10T00:01:16Z",
+            "uri": "spotify:track:2S7RApTsKT0CtYojYq2cKz"
+        },
+        {
+            "track_id": "2zCjaqWmGZjeMxAwq8CXjN",
+            "track_name": "Luna",
+            "track_artist": "Alessandro Safina",
+            "track_album": "Insieme A Te",
+            "track_duration": 271626,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2021-01-07T20:26:41Z",
+            "uri": "spotify:track:2zCjaqWmGZjeMxAwq8CXjN"
+        },
+        {
+            "track_id": "0pwbULuHR9ufNE5FhOGcCQ",
+            "track_name": "Supercalifragili (feat. Annalisa)",
+            "track_artist": "J-AX",
+            "track_album": "ReAle",
+            "track_duration": 170133,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2021-06-25T19:24:29Z",
+            "uri": "spotify:track:0pwbULuHR9ufNE5FhOGcCQ"
+        },
+        {
+            "track_id": "776AftMmFFAWUIEAb3lHhw",
+            "track_name": "ZITTI E BUONI",
+            "track_artist": "M\u00e5neskin",
+            "track_album": "Teatro d'ira - Vol. I",
+            "track_duration": 194786,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2021-06-25T19:27:19Z",
+            "uri": "spotify:track:776AftMmFFAWUIEAb3lHhw"
+        },
+        {
+            "track_id": "6Vfo6O3hk38vDcSpazNo3p",
+            "track_name": "VENT'ANNI",
+            "track_artist": "M\u00e5neskin",
+            "track_album": "Teatro d'ira - Vol. I",
+            "track_duration": 253586,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2021-07-11T05:51:30Z",
+            "uri": "spotify:track:6Vfo6O3hk38vDcSpazNo3p"
+        },
+        {
+            "track_id": "1aX0Ki80LFzzhqxqRlqbAV",
+            "track_name": "Morir\u00f2 da Re",
+            "track_artist": "M\u00e5neskin",
+            "track_album": "Il ballo della vita",
+            "track_duration": 157880,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2021-08-17T15:28:51Z",
+            "uri": "spotify:track:1aX0Ki80LFzzhqxqRlqbAV"
+        },
+        {
+            "track_id": "2U89OCq6fBvXl2Vv8JmAkf",
+            "track_name": "Delusa",
+            "track_artist": "Vasco Rossi",
+            "track_album": "The Platinum Collection",
+            "track_duration": 276200,
+            "track_added_by": "fermtz020700",
+            "track_added_at": "2021-10-10T16:03:38Z",
+            "uri": "spotify:track:2U89OCq6fBvXl2Vv8JmAkf"
+        }
+    ]
+}
