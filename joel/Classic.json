@@ -1,0 +1,55 @@
+{
+    "id": "56uacGwdLvqT08Tpa1hgu5",
+    "tracks": [
+        {
+            "track_id": "6Yhg6HBYp4Mj6jhWPbrvuX",
+            "track_name": "Liebesleid",
+            "track_artist": "Fritz Kreisler",
+            "track_album": "Rachmaninoff plays Rachmaninoff - The Ampico Piano Recordings",
+            "track_duration": 225440,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2016-07-16T03:20:47Z",
+            "uri": "spotify:track:6Yhg6HBYp4Mj6jhWPbrvuX"
+        },
+        {
+            "track_id": "6pOAnXBzEZ960OTXpvXNnt",
+            "track_name": "Ballade No.1 In G Minor, Op.23",
+            "track_artist": "Fr\u00e9d\u00e9ric Chopin",
+            "track_album": "111 Years of Deutsche Grammophon - The Collectors' Edition 2",
+            "track_duration": 573000,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2016-07-16T03:30:24Z",
+            "uri": "spotify:track:6pOAnXBzEZ960OTXpvXNnt"
+        },
+        {
+            "track_id": "7esn1ri1DxPW63sr63cP6L",
+            "track_name": "12 \u00c9tudes, Op. 25: No. 11 in A Minor \"Winter Wind\"",
+            "track_artist": "Fr\u00e9d\u00e9ric Chopin",
+            "track_album": "Chopin: 24 \u00c9tudes, Op. 10 & Op. 25",
+            "track_duration": 211906,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2016-07-16T03:30:33Z",
+            "uri": "spotify:track:7esn1ri1DxPW63sr63cP6L"
+        },
+        {
+            "track_id": "7iES5ExYrIBrYuXMUfPmA8",
+            "track_name": "12 \u00c9tudes, Op. 25: No. 5 in E Minor \"Wrong Note\"",
+            "track_artist": "Fr\u00e9d\u00e9ric Chopin",
+            "track_album": "Chopin: 24 \u00c9tudes, Op. 10 & Op. 25",
+            "track_duration": 173960,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2016-07-16T03:30:45Z",
+            "uri": "spotify:track:7iES5ExYrIBrYuXMUfPmA8"
+        },
+        {
+            "track_id": "2Wggm6ZACJJAwbMGG388H6",
+            "track_name": "\u00c9tude in C Minor, Op. 10, No. 12 \"Revolutionary\"",
+            "track_artist": "Fr\u00e9d\u00e9ric Chopin",
+            "track_album": "Horowitz: Favorite Chopin [Expanded Edition]",
+            "track_duration": 156906,
+            "track_added_by": "225akkslwfmjku3p3tqa52i5q",
+            "track_added_at": "2016-07-16T03:30:59Z",
+            "uri": "spotify:track:2Wggm6ZACJJAwbMGG388H6"
+        }
+    ]
+}
