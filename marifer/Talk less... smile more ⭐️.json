@@ -1,0 +1,695 @@
+{
+    "id": "6B60AUZTWIIdaCh49AYoTL",
+    "tracks": [
+        {
+            "track_id": "4TTV7EcfroSLWzXRY6gLv6",
+            "track_name": "Alexander Hamilton",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 236737,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:4TTV7EcfroSLWzXRY6gLv6"
+        },
+        {
+            "track_id": "6dr7ekfhlbquvsVY8D7gyk",
+            "track_name": "Aaron Burr, Sir",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 156630,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:6dr7ekfhlbquvsVY8D7gyk"
+        },
+        {
+            "track_id": "4cxvludVmQxryrnx1m9FqL",
+            "track_name": "My Shot",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 333154,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:4cxvludVmQxryrnx1m9FqL"
+        },
+        {
+            "track_id": "0NJWhm3hUwIZSy5s0TGJ8q",
+            "track_name": "The Story of Tonight",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 91980,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:0NJWhm3hUwIZSy5s0TGJ8q"
+        },
+        {
+            "track_id": "71X7bPDljJHrmEGYCe7kQ8",
+            "track_name": "The Schuyler Sisters",
+            "track_artist": "Ren\u00e9e Elise Goldsberry",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 186542,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:71X7bPDljJHrmEGYCe7kQ8"
+        },
+        {
+            "track_id": "2G9lekfCh83S0lt2yfffBz",
+            "track_name": "Farmer Refuted",
+            "track_artist": "Thayne Jasperson",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 112742,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:2G9lekfCh83S0lt2yfffBz"
+        },
+        {
+            "track_id": "6OG1S805gIrH5nAQbEOPY3",
+            "track_name": "You'll Be Back",
+            "track_artist": "Jonathan Groff",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 208321,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:6OG1S805gIrH5nAQbEOPY3"
+        },
+        {
+            "track_id": "3nJYcY9yvKP8Oi2Ml8brXt",
+            "track_name": "Right Hand Man",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 321696,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:3nJYcY9yvKP8Oi2Ml8brXt"
+        },
+        {
+            "track_id": "2yBMVrq96wb9OHbMdBs0lF",
+            "track_name": "A Winter's Ball",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 69900,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:2yBMVrq96wb9OHbMdBs0lF"
+        },
+        {
+            "track_id": "54Sc7mZQ1RM03STpk4SfaA",
+            "track_name": "Helpless",
+            "track_artist": "Phillipa Soo",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 249770,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:54Sc7mZQ1RM03STpk4SfaA"
+        },
+        {
+            "track_id": "3dP0pLbg9OfVwssDjp9aT0",
+            "track_name": "Satisfied",
+            "track_artist": "Ren\u00e9e Elise Goldsberry",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 329228,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:3dP0pLbg9OfVwssDjp9aT0"
+        },
+        {
+            "track_id": "1CzeuSrm71wHP9qsjg7p3F",
+            "track_name": "The Story of Tonight - Reprise",
+            "track_artist": "Okieriete Onaodowan",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 115879,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:1CzeuSrm71wHP9qsjg7p3F"
+        },
+        {
+            "track_id": "7EqpEBPOohgk7NnKvBGFWo",
+            "track_name": "Wait for It",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 193749,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:7EqpEBPOohgk7NnKvBGFWo"
+        },
+        {
+            "track_id": "27MB0qHaYAZiTlwg25js1Y",
+            "track_name": "Stay Alive",
+            "track_artist": "Original Broadway Cast of Hamilton",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 159102,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:27MB0qHaYAZiTlwg25js1Y"
+        },
+        {
+            "track_id": "3lXyAQ0kekAvY5LodpWmUs",
+            "track_name": "Ten Duel Commandments",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 106646,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:3lXyAQ0kekAvY5LodpWmUs"
+        },
+        {
+            "track_id": "6p7jXaTJdpzGWnOJoK2jYr",
+            "track_name": "Meet Me Inside",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 83632,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:6p7jXaTJdpzGWnOJoK2jYr"
+        },
+        {
+            "track_id": "6oF8ueLn5hIl4PRp17sxW6",
+            "track_name": "That Would Be Enough",
+            "track_artist": "Phillipa Soo",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 178445,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:6oF8ueLn5hIl4PRp17sxW6"
+        },
+        {
+            "track_id": "7m9XR7FquXLP1FewdAcNS9",
+            "track_name": "Guns and Ships",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 127578,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:7m9XR7FquXLP1FewdAcNS9"
+        },
+        {
+            "track_id": "1mGO8rwCE9zk7H06OxcU5m",
+            "track_name": "History Has Its Eyes on You",
+            "track_artist": "Christopher Jackson",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 97050,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:1mGO8rwCE9zk7H06OxcU5m"
+        },
+        {
+            "track_id": "733tju3KUeatsbjcTRQ04i",
+            "track_name": "Yorktown (The World Turned Upside Down)",
+            "track_artist": "Original Broadway Cast of Hamilton",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 242587,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:733tju3KUeatsbjcTRQ04i"
+        },
+        {
+            "track_id": "3D4J0o9w44QKFrBrYrSVJY",
+            "track_name": "What Comes Next?",
+            "track_artist": "Jonathan Groff",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 99343,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:3D4J0o9w44QKFrBrYrSVJY"
+        },
+        {
+            "track_id": "2sEq2rC3ynYsT49x7utWnd",
+            "track_name": "Dear Theodosia",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 184004,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:2sEq2rC3ynYsT49x7utWnd"
+        },
+        {
+            "track_id": "7qfoq1JFKBUEIvhqOHzuqX",
+            "track_name": "Non-Stop",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 385438,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:7qfoq1JFKBUEIvhqOHzuqX"
+        },
+        {
+            "track_id": "2W9u3whoCkQYOUbmnSrHi1",
+            "track_name": "What'd I Miss",
+            "track_artist": "Daveed Diggs",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 236701,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:2W9u3whoCkQYOUbmnSrHi1"
+        },
+        {
+            "track_id": "3TfKt8mPpdXfQTMfRjHzyz",
+            "track_name": "Cabinet Battle #1",
+            "track_artist": "Christopher Jackson",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 215226,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:3TfKt8mPpdXfQTMfRjHzyz"
+        },
+        {
+            "track_id": "2qFIJT5hjqaNFA1GKwl9me",
+            "track_name": "Take a Break",
+            "track_artist": "Phillipa Soo",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 286485,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:2qFIJT5hjqaNFA1GKwl9me"
+        },
+        {
+            "track_id": "3s9itRgJYcKhem01P17865",
+            "track_name": "Say No to This",
+            "track_artist": "Jasmine Cephas-Jones",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 242017,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:3s9itRgJYcKhem01P17865"
+        },
+        {
+            "track_id": "2TK2KSrzXD6W01qjXVjNGh",
+            "track_name": "The Room Where It Happens",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 318214,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:2TK2KSrzXD6W01qjXVjNGh"
+        },
+        {
+            "track_id": "05bhmaAD1urZnQMWNd6p3S",
+            "track_name": "Schuyler Defeated",
+            "track_artist": "Phillipa Soo",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 63558,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:05bhmaAD1urZnQMWNd6p3S"
+        },
+        {
+            "track_id": "6KRHMYPIWRgFWlXPgqO2Fp",
+            "track_name": "Cabinet Battle #2",
+            "track_artist": "Christopher Jackson",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 142639,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:6KRHMYPIWRgFWlXPgqO2Fp"
+        },
+        {
+            "track_id": "1WHNqqRWhJVZIdCScFKtl5",
+            "track_name": "Washington on Your Side",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 181477,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:1WHNqqRWhJVZIdCScFKtl5"
+        },
+        {
+            "track_id": "0Iys022UwQ8xBfxE1g4nWZ",
+            "track_name": "One Last Time",
+            "track_artist": "Christopher Jackson",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 296387,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:0Iys022UwQ8xBfxE1g4nWZ"
+        },
+        {
+            "track_id": "4eeN8erNIbW2osT0knz5vT",
+            "track_name": "I Know Him",
+            "track_artist": "Jonathan Groff",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 97979,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:4eeN8erNIbW2osT0knz5vT"
+        },
+        {
+            "track_id": "68Ijc4fPmT3P5BN6Vrl2s2",
+            "track_name": "The Adams Administration",
+            "track_artist": "Original Broadway Cast of Hamilton",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 54840,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:68Ijc4fPmT3P5BN6Vrl2s2"
+        },
+        {
+            "track_id": "1DLfR4MOfLYbV6v3xrmWa8",
+            "track_name": "We Know",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 142044,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:1DLfR4MOfLYbV6v3xrmWa8"
+        },
+        {
+            "track_id": "16sNPUamj4vnA7uQLozRpU",
+            "track_name": "Hurricane",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 143551,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:16sNPUamj4vnA7uQLozRpU"
+        },
+        {
+            "track_id": "7D1Lf7N7AtCuEq5PGJtIPz",
+            "track_name": "The Reynolds Pamphlet",
+            "track_artist": "Original Broadway Cast of Hamilton",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 128470,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:7D1Lf7N7AtCuEq5PGJtIPz"
+        },
+        {
+            "track_id": "4B3qvzOMzLQXLeYgPsG3KA",
+            "track_name": "Burn",
+            "track_artist": "Phillipa Soo",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 225240,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:4B3qvzOMzLQXLeYgPsG3KA"
+        },
+        {
+            "track_id": "6lsFGDo1IEEPFKh94c9kFe",
+            "track_name": "Blow Us All Away",
+            "track_artist": "Ariana DeBose",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 173594,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:6lsFGDo1IEEPFKh94c9kFe"
+        },
+        {
+            "track_id": "2ydKgIVZAQXeYLWtxU8DFS",
+            "track_name": "Stay Alive - Reprise",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 111553,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:2ydKgIVZAQXeYLWtxU8DFS"
+        },
+        {
+            "track_id": "40LYL1Z6xgCn5cBybo5K0D",
+            "track_name": "It's Quiet Uptown",
+            "track_artist": "Ren\u00e9e Elise Goldsberry",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 270171,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:40LYL1Z6xgCn5cBybo5K0D"
+        },
+        {
+            "track_id": "0LpHC9mhPAQC98IjXZIrif",
+            "track_name": "The Election of 1800",
+            "track_artist": "Daveed Diggs",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 237982,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:0LpHC9mhPAQC98IjXZIrif"
+        },
+        {
+            "track_id": "6SHI6STEW51cQkAXBRpLNj",
+            "track_name": "Your Obedient Servant",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 150063,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:6SHI6STEW51cQkAXBRpLNj"
+        },
+        {
+            "track_id": "1dZutYKh4BtPlxbC81wV34",
+            "track_name": "Best of Wives and Best of Women",
+            "track_artist": "Phillipa Soo",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 47943,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:1dZutYKh4BtPlxbC81wV34"
+        },
+        {
+            "track_id": "0P09TBGSKiQwfUsEh1UafT",
+            "track_name": "The World Was Wide Enough",
+            "track_artist": "Leslie Odom Jr.",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 302191,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:0P09TBGSKiQwfUsEh1UafT"
+        },
+        {
+            "track_id": "7EsSVPxaYoAZjQwhspJBs2",
+            "track_name": "Who Lives, Who Dies, Who Tells Your Story",
+            "track_artist": "Original Broadway Cast of Hamilton",
+            "track_album": "Hamilton (Original Broadway Cast Recording)",
+            "track_duration": 217229,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-02T19:55:28Z",
+            "uri": "spotify:track:7EsSVPxaYoAZjQwhspJBs2"
+        },
+        {
+            "track_id": "2XxeRadxMDJQX8R9wOKR61",
+            "track_name": "No John Trumbull - Intro",
+            "track_artist": "The Roots",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 46106,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:2XxeRadxMDJQX8R9wOKR61"
+        },
+        {
+            "track_id": "7ElYuU4c2EVqtLpCBst0au",
+            "track_name": "My Shot (feat. Busta Rhymes, Joell Ortiz & Nate Ruess) - Rise Up Remix",
+            "track_artist": "The Roots",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 270746,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:7ElYuU4c2EVqtLpCBst0au"
+        },
+        {
+            "track_id": "0Cowgp3aB6IQSNJ8pNJYUN",
+            "track_name": "Wrote My Way Out",
+            "track_artist": "Nas",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 261306,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:0Cowgp3aB6IQSNJ8pNJYUN"
+        },
+        {
+            "track_id": "3ZV6Ry07586w52Wy1cLbLL",
+            "track_name": "Wait For It",
+            "track_artist": "Usher",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 208520,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:3ZV6Ry07586w52Wy1cLbLL"
+        },
+        {
+            "track_id": "0clwOjS9p20cEIQkuB7bEP",
+            "track_name": "An Open Letter (feat. Shockwave) - Interlude",
+            "track_artist": "Watsky",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 68293,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:0clwOjS9p20cEIQkuB7bEP"
+        },
+        {
+            "track_id": "3VyxvhpCUNVTvPO2B46lsa",
+            "track_name": "Satisfied (feat. Miguel & Queen Latifah)",
+            "track_artist": "Sia",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 318386,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:3VyxvhpCUNVTvPO2B46lsa"
+        },
+        {
+            "track_id": "1fq4k7G5kYqUvKIuEmFAAo",
+            "track_name": "Dear Theodosia (feat. Ben Folds)",
+            "track_artist": "Regina Spektor",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 145786,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:1fq4k7G5kYqUvKIuEmFAAo"
+        },
+        {
+            "track_id": "7CZAOaxmSM1RtgxMuGtlpf",
+            "track_name": "Valley Forge - Demo",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 166413,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:7CZAOaxmSM1RtgxMuGtlpf"
+        },
+        {
+            "track_id": "2w82KRjGk874HFjBkU4SPv",
+            "track_name": "It's Quiet Uptown",
+            "track_artist": "Kelly Clarkson",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 277880,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:2w82KRjGk874HFjBkU4SPv"
+        },
+        {
+            "track_id": "2MNUjJQ9rhoCqFtWYLT3ke",
+            "track_name": "That Would Be Enough",
+            "track_artist": "Alicia Keys",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 244973,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:2MNUjJQ9rhoCqFtWYLT3ke"
+        },
+        {
+            "track_id": "0bPREZOF43e3EIu0zdfLBp",
+            "track_name": "Immigrants (We Get The Job Done)",
+            "track_artist": "K'NAAN",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 281596,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:0bPREZOF43e3EIu0zdfLBp"
+        },
+        {
+            "track_id": "6Yq9kDhFvQ99Tl5DrYu3W4",
+            "track_name": "You'll Be Back",
+            "track_artist": "Jimmy Fallon",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 250786,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:6Yq9kDhFvQ99Tl5DrYu3W4"
+        },
+        {
+            "track_id": "5CCNOyJdEWDCVMRRIshNUL",
+            "track_name": "Helpless (feat. Ja Rule)",
+            "track_artist": "Ashanti",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 215373,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:5CCNOyJdEWDCVMRRIshNUL"
+        },
+        {
+            "track_id": "3MZ0Obyv6AnO1anmGBJydv",
+            "track_name": "Take A Break - Interlude",
+            "track_artist": "!llmind",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 48386,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:3MZ0Obyv6AnO1anmGBJydv"
+        },
+        {
+            "track_id": "6cBwryv6XVRzGooXa1FjnM",
+            "track_name": "Say Yes to This",
+            "track_artist": "Jill Scott",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 230360,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:6cBwryv6XVRzGooXa1FjnM"
+        },
+        {
+            "track_id": "5za2K5XXuEaFWps6pYdo2y",
+            "track_name": "Congratulations",
+            "track_artist": "Dessa",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 131000,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:5za2K5XXuEaFWps6pYdo2y"
+        },
+        {
+            "track_id": "2ZVWg6VCq8FQdeD5yuWD9r",
+            "track_name": "Burn",
+            "track_artist": "Andra Day",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 219440,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:2ZVWg6VCq8FQdeD5yuWD9r"
+        },
+        {
+            "track_id": "72AHM4UKrD5E0hsBhlCE8Q",
+            "track_name": "Stay Alive - Interlude",
+            "track_artist": "J.PERIOD",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 33093,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:72AHM4UKrD5E0hsBhlCE8Q"
+        },
+        {
+            "track_id": "4igquDw3JmJN6EXFgW3kUA",
+            "track_name": "Cabinet Battle 3 - Demo",
+            "track_artist": "Lin-Manuel Miranda",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 169293,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:4igquDw3JmJN6EXFgW3kUA"
+        },
+        {
+            "track_id": "6koe981h6mmlJUfupqiLgL",
+            "track_name": "Washingtons by Your Side",
+            "track_artist": "Wiz Khalifa",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 175773,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:6koe981h6mmlJUfupqiLgL"
+        },
+        {
+            "track_id": "131fUGYVs2uriiDmB0TKn8",
+            "track_name": "History Has Its Eyes On You",
+            "track_artist": "John Legend",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 196360,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:131fUGYVs2uriiDmB0TKn8"
+        },
+        {
+            "track_id": "2KxJv4AduPGxzI5NH2HUoC",
+            "track_name": "Who Tells Your Story (feat. Common & Ingrid Michaelson)",
+            "track_artist": "The Roots",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 253853,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:2KxJv4AduPGxzI5NH2HUoC"
+        },
+        {
+            "track_id": "0EPhiIcssW3jLKcGL8zYfl",
+            "track_name": "Dear Theodosia - Reprise",
+            "track_artist": "Chance the Rapper",
+            "track_album": "The Hamilton Mixtape",
+            "track_duration": 219200,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2021-09-14T23:27:42Z",
+            "uri": "spotify:track:0EPhiIcssW3jLKcGL8zYfl"
+        }
+    ]
+}
