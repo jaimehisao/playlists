@@ -36987,6 +36987,16 @@
         "type": "artist",
         "uri": "spotify:artist:3ARvFGBfNt9K1SIDM9yMwu"
     },
+    "6CzaYsf8RIrCHNDhFGSfgm": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6CzaYsf8RIrCHNDhFGSfgm"
+        },
+        "href": "https://api.spotify.com/v1/artists/6CzaYsf8RIrCHNDhFGSfgm",
+        "id": "6CzaYsf8RIrCHNDhFGSfgm",
+        "name": "Havana Swim Club",
+        "type": "artist",
+        "uri": "spotify:artist:6CzaYsf8RIrCHNDhFGSfgm"
+    },
     "07vycW8ICLf5hKb22PFWXw": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
@@ -44996,6 +45006,16 @@
         "name": "Ignacio Carrillo \"Mazacote\"",
         "type": "artist",
         "uri": "spotify:artist:4XU5FBFO6HVHwdJ5DXDW52"
+    },
+    "4W3fa7tiXGVXl3KilbACqt": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W3fa7tiXGVXl3KilbACqt",
+        "id": "4W3fa7tiXGVXl3KilbACqt",
+        "name": "Gustavo Santaolalla",
+        "type": "artist",
+        "uri": "spotify:artist:4W3fa7tiXGVXl3KilbACqt"
     },
     "34MYamymtmnsmpwbqydd7I": {
         "external_urls": {
@@ -60306,16 +60326,6 @@
         "name": "London Voices",
         "type": "artist",
         "uri": "spotify:artist:7y3ULlnKKpeZ4JOKMAJQzK"
-    },
-    "4W3fa7tiXGVXl3KilbACqt": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        "href": "https://api.spotify.com/v1/artists/4W3fa7tiXGVXl3KilbACqt",
-        "id": "4W3fa7tiXGVXl3KilbACqt",
-        "name": "Gustavo Santaolalla",
-        "type": "artist",
-        "uri": "spotify:artist:4W3fa7tiXGVXl3KilbACqt"
     },
     "6dwp73sWeoHMobWygzWYDP": {
         "external_urls": {
