@@ -2,6 +2,16 @@
     "id": "34d4vdujw4SczbXEsaGdl5",
     "tracks": [
         {
+            "track_id": "1oxOiOjsi7plNOZEhoPLPj",
+            "track_name": "Good Grief",
+            "track_artist": "Bastille",
+            "track_album": "Wild World (Complete Edition)",
+            "track_duration": 206493,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-05-10T15:30:30Z",
+            "uri": "spotify:track:1oxOiOjsi7plNOZEhoPLPj"
+        },
+        {
             "track_id": "6fNhZRFEkBfgW39W3wKARJ",
             "track_name": "Pompeii",
             "track_artist": "Bastille",
@@ -30,16 +40,6 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-05-10T15:30:22Z",
             "uri": "spotify:track:2dpaYNEQHiRxtZbfNsse99"
-        },
-        {
-            "track_id": "1oxOiOjsi7plNOZEhoPLPj",
-            "track_name": "Good Grief",
-            "track_artist": "Bastille",
-            "track_album": "Wild World (Complete Edition)",
-            "track_duration": 206493,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-05-10T15:30:30Z",
-            "uri": "spotify:track:1oxOiOjsi7plNOZEhoPLPj"
         },
         {
             "track_id": "7BNDyzwDboNRR2wmd7GSew",
