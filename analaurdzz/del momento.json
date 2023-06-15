@@ -62,16 +62,6 @@
             "uri": "spotify:track:214nt20w5wOxJnY462klLw"
         },
         {
-            "track_id": "3xYJScVfxByb61dYHTwiby",
-            "track_name": "Hits Different",
-            "track_artist": "Taylor Swift",
-            "track_album": "Midnights (The Til Dawn Edition)",
-            "track_duration": 234466,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-07T18:40:54Z",
-            "uri": "spotify:track:3xYJScVfxByb61dYHTwiby"
-        },
-        {
             "track_id": "1NmVZsG18CzCAtw7rnV3yA",
             "track_name": "Clean",
             "track_artist": "Taylor Swift",
@@ -90,6 +80,26 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-06-08T16:03:57Z",
             "uri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
+        },
+        {
+            "track_id": "0sY6ZUTh4yoctD8VIXz339",
+            "track_name": "champagne problems",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 244000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-11T14:22:30Z",
+            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+        },
+        {
+            "track_id": "4R2kfaDFhslZEMJqAFNpdd",
+            "track_name": "cardigan",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 239560,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-11T16:26:04Z",
+            "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
         }
     ]
 }
