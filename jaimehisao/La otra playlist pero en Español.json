@@ -2280,6 +2280,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-04-05T17:20:27Z",
             "uri": "spotify:track:4kLBNF8TemKftRMLV93sOJ"
+        },
+        {
+            "track_id": "3JBFUsZatpE435Y8ejP7RZ",
+            "track_name": "Te Vi",
+            "track_artist": "Julieta Venegas",
+            "track_album": "Los Momentos",
+            "track_duration": 209000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-11T06:17:33Z",
+            "uri": "spotify:track:3JBFUsZatpE435Y8ejP7RZ"
         }
     ]
 }
