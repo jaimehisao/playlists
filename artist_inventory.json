@@ -16549,16 +16549,6 @@
         "type": "artist",
         "uri": "spotify:artist:74W4mKE9RR576xVZiMGE8W"
     },
-    "20RKwJZc7LXujAbOJuwDEZ": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
-        },
-        "href": "https://api.spotify.com/v1/artists/20RKwJZc7LXujAbOJuwDEZ",
-        "id": "20RKwJZc7LXujAbOJuwDEZ",
-        "name": "Jezzabell Doran",
-        "type": "artist",
-        "uri": "spotify:artist:20RKwJZc7LXujAbOJuwDEZ"
-    },
     "6yADvjIe1epS2B0tUJcfu1": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
@@ -44587,26 +44577,6 @@
         "type": "artist",
         "uri": "spotify:artist:2NFrAuh8RQdQoS7iYFbckw"
     },
-    "11kBu957KTYoAltZHDm8gW": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        },
-        "href": "https://api.spotify.com/v1/artists/11kBu957KTYoAltZHDm8gW",
-        "id": "11kBu957KTYoAltZHDm8gW",
-        "name": "Buena Vista Social Club",
-        "type": "artist",
-        "uri": "spotify:artist:11kBu957KTYoAltZHDm8gW"
-    },
-    "2t7ndReOwR0bTqTaDxYa9G": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G"
-        },
-        "href": "https://api.spotify.com/v1/artists/2t7ndReOwR0bTqTaDxYa9G",
-        "id": "2t7ndReOwR0bTqTaDxYa9G",
-        "name": "Vieja Trova Santiaguera",
-        "type": "artist",
-        "uri": "spotify:artist:2t7ndReOwR0bTqTaDxYa9G"
-    },
     "12eNUx8BvR5qmpFssq8Vkt": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/12eNUx8BvR5qmpFssq8Vkt"
@@ -44626,6 +44596,26 @@
         "name": "Luis Frank",
         "type": "artist",
         "uri": "spotify:artist:3NOoOH3WZuJRNe5cvmW7ic"
+    },
+    "2t7ndReOwR0bTqTaDxYa9G": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G"
+        },
+        "href": "https://api.spotify.com/v1/artists/2t7ndReOwR0bTqTaDxYa9G",
+        "id": "2t7ndReOwR0bTqTaDxYa9G",
+        "name": "Vieja Trova Santiaguera",
+        "type": "artist",
+        "uri": "spotify:artist:2t7ndReOwR0bTqTaDxYa9G"
+    },
+    "11kBu957KTYoAltZHDm8gW": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        },
+        "href": "https://api.spotify.com/v1/artists/11kBu957KTYoAltZHDm8gW",
+        "id": "11kBu957KTYoAltZHDm8gW",
+        "name": "Buena Vista Social Club",
+        "type": "artist",
+        "uri": "spotify:artist:11kBu957KTYoAltZHDm8gW"
     },
     "6yQZkZC0BnKuZzuO1DAf3J": {
         "external_urls": {
@@ -62347,16 +62337,6 @@
         "type": "artist",
         "uri": "spotify:artist:1anAI9P9iSzc9qzLv6AtHZ"
     },
-    "25oLRSUjJk4YHNUsQXk7Ut": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        "href": "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
-        "id": "25oLRSUjJk4YHNUsQXk7Ut",
-        "name": "GRiZ",
-        "type": "artist",
-        "uri": "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
-    },
     "0sHN89qak07mnug3LVVjzP": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0sHN89qak07mnug3LVVjzP"
@@ -62396,26 +62376,6 @@
         "name": "Young Mister",
         "type": "artist",
         "uri": "spotify:artist:4NuiDXtUaaclXGNEPQYBBx"
-    },
-    "4QDvXnbmw1znkqkK1119Fc": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        },
-        "href": "https://api.spotify.com/v1/artists/4QDvXnbmw1znkqkK1119Fc",
-        "id": "4QDvXnbmw1znkqkK1119Fc",
-        "name": "RKCB",
-        "type": "artist",
-        "uri": "spotify:artist:4QDvXnbmw1znkqkK1119Fc"
-    },
-    "5JMtXD9vPBIygW4cTcQ8x9": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5JMtXD9vPBIygW4cTcQ8x9"
-        },
-        "href": "https://api.spotify.com/v1/artists/5JMtXD9vPBIygW4cTcQ8x9",
-        "id": "5JMtXD9vPBIygW4cTcQ8x9",
-        "name": "Demo Taped",
-        "type": "artist",
-        "uri": "spotify:artist:5JMtXD9vPBIygW4cTcQ8x9"
     },
     "1zVGInzEij1qk9ZlMlOC2X": {
         "external_urls": {
@@ -62517,16 +62477,6 @@
         "type": "artist",
         "uri": "spotify:artist:1ikg4sypcURm8Vy5GP68xb"
     },
-    "1xHQO9GJIW9OXHxGBISYc5": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        },
-        "href": "https://api.spotify.com/v1/artists/1xHQO9GJIW9OXHxGBISYc5",
-        "id": "1xHQO9GJIW9OXHxGBISYc5",
-        "name": "Marian Hill",
-        "type": "artist",
-        "uri": "spotify:artist:1xHQO9GJIW9OXHxGBISYc5"
-    },
     "6Q6ihEGDbwzz1GUjerKPRL": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6Q6ihEGDbwzz1GUjerKPRL"
@@ -62607,16 +62557,6 @@
         "type": "artist",
         "uri": "spotify:artist:5Ob0YymCzwXl4VlkxrJgQ5"
     },
-    "5sWHDYs0csV6RS48xBl0tH": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        },
-        "href": "https://api.spotify.com/v1/artists/5sWHDYs0csV6RS48xBl0tH",
-        "id": "5sWHDYs0csV6RS48xBl0tH",
-        "name": "Two Feet",
-        "type": "artist",
-        "uri": "spotify:artist:5sWHDYs0csV6RS48xBl0tH"
-    },
     "6Qx1uU4RPFG1H4pkbW2LpJ": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6Qx1uU4RPFG1H4pkbW2LpJ"
@@ -62676,16 +62616,6 @@
         "name": "Atlas Bound",
         "type": "artist",
         "uri": "spotify:artist:6107PIkQDuEUcdpZqSzQsu"
-    },
-    "280ogsADuVu9gxXPbp3wi9": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/280ogsADuVu9gxXPbp3wi9"
-        },
-        "href": "https://api.spotify.com/v1/artists/280ogsADuVu9gxXPbp3wi9",
-        "id": "280ogsADuVu9gxXPbp3wi9",
-        "name": "MS.",
-        "type": "artist",
-        "uri": "spotify:artist:280ogsADuVu9gxXPbp3wi9"
     },
     "3X87gXpR67PyTjcNubhkfu": {
         "external_urls": {
@@ -62836,6 +62766,26 @@
         "name": "Phum Viphurit",
         "type": "artist",
         "uri": "spotify:artist:5mqguTgtaoCMNMZD6txCh6"
+    },
+    "24HNTbd7Y2qVOCyzIosYi9": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9"
+        },
+        "href": "https://api.spotify.com/v1/artists/24HNTbd7Y2qVOCyzIosYi9",
+        "id": "24HNTbd7Y2qVOCyzIosYi9",
+        "name": "Nana Rogues",
+        "type": "artist",
+        "uri": "spotify:artist:24HNTbd7Y2qVOCyzIosYi9"
+    },
+    "0Rl3CB2zYJm6AZId0wM9dA": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Rl3CB2zYJm6AZId0wM9dA"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Rl3CB2zYJm6AZId0wM9dA",
+        "id": "0Rl3CB2zYJm6AZId0wM9dA",
+        "name": "Geneva White",
+        "type": "artist",
+        "uri": "spotify:artist:0Rl3CB2zYJm6AZId0wM9dA"
     },
     "5unwqQMjG8g30ziAeMl9Yf": {
         "external_urls": {
@@ -63097,6 +63047,16 @@
         "type": "artist",
         "uri": "spotify:artist:08vqoIPzUKFbYWJLfwiz8a"
     },
+    "280ogsADuVu9gxXPbp3wi9": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/280ogsADuVu9gxXPbp3wi9"
+        },
+        "href": "https://api.spotify.com/v1/artists/280ogsADuVu9gxXPbp3wi9",
+        "id": "280ogsADuVu9gxXPbp3wi9",
+        "name": "MS.",
+        "type": "artist",
+        "uri": "spotify:artist:280ogsADuVu9gxXPbp3wi9"
+    },
     "0ZDvTm9VtfIA3sLZYIxKx9": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0ZDvTm9VtfIA3sLZYIxKx9"
@@ -63116,6 +63076,26 @@
         "name": "Jorja Smith",
         "type": "artist",
         "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+    },
+    "4QDvXnbmw1znkqkK1119Fc": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4QDvXnbmw1znkqkK1119Fc",
+        "id": "4QDvXnbmw1znkqkK1119Fc",
+        "name": "RKCB",
+        "type": "artist",
+        "uri": "spotify:artist:4QDvXnbmw1znkqkK1119Fc"
+    },
+    "5JMtXD9vPBIygW4cTcQ8x9": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5JMtXD9vPBIygW4cTcQ8x9"
+        },
+        "href": "https://api.spotify.com/v1/artists/5JMtXD9vPBIygW4cTcQ8x9",
+        "id": "5JMtXD9vPBIygW4cTcQ8x9",
+        "name": "Demo Taped",
+        "type": "artist",
+        "uri": "spotify:artist:5JMtXD9vPBIygW4cTcQ8x9"
     },
     "56tbeL5xhBPxby544GuK3E": {
         "external_urls": {
@@ -64746,6 +64726,26 @@
         "name": "Sabz",
         "type": "artist",
         "uri": "spotify:artist:4qCJ0bax3hxvnJZub4vvZ9"
+    },
+    "0iEtIxbK0KxaSlF7G42ZOp": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
+        "type": "artist",
+        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+    },
+    "7rkW85dBwwrJtlHRDkJDAC": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7rkW85dBwwrJtlHRDkJDAC",
+        "id": "7rkW85dBwwrJtlHRDkJDAC",
+        "name": "NAV",
+        "type": "artist",
+        "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
     },
     "6HUm6AHJE0oisACMN6NNJ5": {
         "external_urls": {
@@ -67106,16 +67106,6 @@
         "name": "Young Nudy",
         "type": "artist",
         "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1"
-    },
-    "0iEtIxbK0KxaSlF7G42ZOp": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
-        "id": "0iEtIxbK0KxaSlF7G42ZOp",
-        "name": "Metro Boomin",
-        "type": "artist",
-        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
     },
     "4EMtGVFvfCSrEmWaGV0roE": {
         "external_urls": {
