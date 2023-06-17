@@ -44567,6 +44567,16 @@
         "type": "artist",
         "uri": "spotify:artist:2AiZXMqpVlCDnz3trZbWaK"
     },
+    "1xQQXPjWsDbzE34DWI6bcE": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1xQQXPjWsDbzE34DWI6bcE"
+        },
+        "href": "https://api.spotify.com/v1/artists/1xQQXPjWsDbzE34DWI6bcE",
+        "id": "1xQQXPjWsDbzE34DWI6bcE",
+        "name": "Tr\u00edo Los Andes",
+        "type": "artist",
+        "uri": "spotify:artist:1xQQXPjWsDbzE34DWI6bcE"
+    },
     "34MYamymtmnsmpwbqydd7I": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
@@ -48246,16 +48256,6 @@
         "name": "Pedro Bromfman",
         "type": "artist",
         "uri": "spotify:artist:5SiBQxijnMwUGUYG31gZnS"
-    },
-    "1xQQXPjWsDbzE34DWI6bcE": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1xQQXPjWsDbzE34DWI6bcE"
-        },
-        "href": "https://api.spotify.com/v1/artists/1xQQXPjWsDbzE34DWI6bcE",
-        "id": "1xQQXPjWsDbzE34DWI6bcE",
-        "name": "Tr\u00edo Los Andes",
-        "type": "artist",
-        "uri": "spotify:artist:1xQQXPjWsDbzE34DWI6bcE"
     },
     "30xkQv5Hm1F80liBpIXtjU": {
         "external_urls": {
@@ -59466,6 +59466,16 @@
         "name": "C & C Music Factory",
         "type": "artist",
         "uri": "spotify:artist:7krx6UBDKLwE0q3s3fesqF"
+    },
+    "08MVPakTEdRJimQNV61NFR": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        },
+        "href": "https://api.spotify.com/v1/artists/08MVPakTEdRJimQNV61NFR",
+        "id": "08MVPakTEdRJimQNV61NFR",
+        "name": "Freedom Williams",
+        "type": "artist",
+        "uri": "spotify:artist:08MVPakTEdRJimQNV61NFR"
     },
     "3yt4IVDHz0luREG9Uf9xrp": {
         "external_urls": {
