@@ -60697,6 +60697,26 @@
         "type": "artist",
         "uri": "spotify:artist:36sT4wc9jtpjKsa4kXZhkS"
     },
+    "3uo1mqxRLK2pm2tX4gxsaW": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3uo1mqxRLK2pm2tX4gxsaW"
+        },
+        "href": "https://api.spotify.com/v1/artists/3uo1mqxRLK2pm2tX4gxsaW",
+        "id": "3uo1mqxRLK2pm2tX4gxsaW",
+        "name": "Natalie Wilson",
+        "type": "artist",
+        "uri": "spotify:artist:3uo1mqxRLK2pm2tX4gxsaW"
+    },
+    "5UA8O7xDhZ74ebRYT0XOxB": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        },
+        "href": "https://api.spotify.com/v1/artists/5UA8O7xDhZ74ebRYT0XOxB",
+        "id": "5UA8O7xDhZ74ebRYT0XOxB",
+        "name": "Common Saints",
+        "type": "artist",
+        "uri": "spotify:artist:5UA8O7xDhZ74ebRYT0XOxB"
+    },
     "3xNhaqwvNIAP57dWgMTP1d": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
@@ -64336,6 +64356,16 @@
         "name": "NAV",
         "type": "artist",
         "uri": "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+    },
+    "1G0YV9WooUBjrwDq0Q7EFK": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        "href": "https://api.spotify.com/v1/artists/1G0YV9WooUBjrwDq0Q7EFK",
+        "id": "1G0YV9WooUBjrwDq0Q7EFK",
+        "name": "Charlotte Cardin",
+        "type": "artist",
+        "uri": "spotify:artist:1G0YV9WooUBjrwDq0Q7EFK"
     },
     "6HUm6AHJE0oisACMN6NNJ5": {
         "external_urls": {
