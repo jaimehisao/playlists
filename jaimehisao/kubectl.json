@@ -1080,6 +1080,116 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-05-28T07:40:13Z",
             "uri": "spotify:track:7gUpO6td4OOnu0Lf9vhcIV"
+        },
+        {
+            "track_id": "6pD0ufEQq0xdHSsRbg9LBK",
+            "track_name": "un x100to",
+            "track_artist": "Grupo Frontera",
+            "track_album": "un x100to",
+            "track_duration": 194563,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-19T07:41:06Z",
+            "uri": "spotify:track:6pD0ufEQq0xdHSsRbg9LBK"
+        },
+        {
+            "track_id": "6ylDpki1VpIsc525KC1ojF",
+            "track_name": "Tacones Rojos",
+            "track_artist": "Sebastian Yatra",
+            "track_album": "Dharma",
+            "track_duration": 189333,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-19T08:08:13Z",
+            "uri": "spotify:track:6ylDpki1VpIsc525KC1ojF"
+        },
+        {
+            "track_id": "5cF0dROlMOK5uNZtivgu50",
+            "track_name": "Attention",
+            "track_artist": "Charlie Puth",
+            "track_album": "Voicenotes",
+            "track_duration": 208786,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-20T02:55:13Z",
+            "uri": "spotify:track:5cF0dROlMOK5uNZtivgu50"
+        },
+        {
+            "track_id": "21t07fSxEHAjazqclabTEJ",
+            "track_name": "A D\u00f3nde Vamos",
+            "track_artist": "Morat",
+            "track_album": "\u00bfA D\u00f3nde Vamos?",
+            "track_duration": 204608,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-20T21:56:21Z",
+            "uri": "spotify:track:21t07fSxEHAjazqclabTEJ"
+        },
+        {
+            "track_id": "30ae9cv36eD4Q6Zc8PVF8v",
+            "track_name": "Leave It On The Dancefloor",
+            "track_artist": "Hope Tala",
+            "track_album": "Leave It On The Dancefloor",
+            "track_duration": 175016,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-25T02:41:51Z",
+            "uri": "spotify:track:30ae9cv36eD4Q6Zc8PVF8v"
+        },
+        {
+            "track_id": "6gU9OKjOE7ghfEd55oRO57",
+            "track_name": "The Weekend",
+            "track_artist": "SZA",
+            "track_album": "Ctrl",
+            "track_duration": 272186,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-25T08:34:23Z",
+            "uri": "spotify:track:6gU9OKjOE7ghfEd55oRO57"
+        },
+        {
+            "track_id": "5r5cp9IpziiIsR6b93vcnQ",
+            "track_name": "Walking On A Dream",
+            "track_artist": "Empire of the Sun",
+            "track_album": "Walking On A Dream (10th Anniversary Edition)",
+            "track_duration": 198440,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-27T05:28:46Z",
+            "uri": "spotify:track:5r5cp9IpziiIsR6b93vcnQ"
+        },
+        {
+            "track_id": "6GyFP1nfCDB8lbD2bG0Hq9",
+            "track_name": "Midnight City",
+            "track_artist": "M83",
+            "track_album": "Hurry up, We're Dreaming",
+            "track_duration": 243960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-29T00:35:10Z",
+            "uri": "spotify:track:6GyFP1nfCDB8lbD2bG0Hq9"
+        },
+        {
+            "track_id": "34dx8DACTJsc3rsJdaEIQw",
+            "track_name": "Papaoutai",
+            "track_artist": "Stromae",
+            "track_album": "racine carr\u00e9e",
+            "track_duration": 232146,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-29T00:41:19Z",
+            "uri": "spotify:track:34dx8DACTJsc3rsJdaEIQw"
+        },
+        {
+            "track_id": "2Y0iGXY6m6immVb2ktbseM",
+            "track_name": "Little Dark Age",
+            "track_artist": "MGMT",
+            "track_album": "Little Dark Age",
+            "track_duration": 299960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-29T00:41:23Z",
+            "uri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+        },
+        {
+            "track_id": "5fztgDIt1Nq32VHJrAHq0Y",
+            "track_name": "Big Yellow Taxi",
+            "track_artist": "Counting Crows",
+            "track_album": "Hard Candy",
+            "track_duration": 226826,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-06-29T01:29:12Z",
+            "uri": "spotify:track:5fztgDIt1Nq32VHJrAHq0Y"
         }
     ]
 }
