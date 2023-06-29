@@ -183,7 +183,7 @@
         },
         {
             "track_id": "7pzVqCZdYKM7oEPwaiQchB",
-            "track_name": "Eyes Without A Face - Remastered",
+            "track_name": "Eyes Without A Face - Remastered 1999",
             "track_artist": "Billy Idol",
             "track_album": "The Very Best Of Billy Idol: Idolize Yourself",
             "track_duration": 298280,
@@ -1132,16 +1132,6 @@
             "uri": "spotify:track:6xdLJrVj4vIXwhuG8TMopk"
         },
         {
-            "track_id": "3lNBpsW30g2xSngVw2l1U7",
-            "track_name": "To Be Yours",
-            "track_artist": "ODESZA",
-            "track_album": "To Be Yours",
-            "track_duration": 211782,
-            "track_added_by": "mariomoo",
-            "track_added_at": "2023-03-16T02:53:06Z",
-            "uri": "spotify:track:3lNBpsW30g2xSngVw2l1U7"
-        },
-        {
             "track_id": "4cMHCRLPNoEbpnl2rz6GS9",
             "track_name": "Back on the Chain Gang - 2007 Remaster",
             "track_artist": "Pretenders",
@@ -1220,6 +1210,76 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-06-09T03:59:04Z",
             "uri": "spotify:track:18AXbzPzBS8Y3AkgSxzJPb"
+        },
+        {
+            "track_id": "2YkIDPL5lGhRhomCq4S2RO",
+            "track_name": "My Way - 2008 Remastered",
+            "track_artist": "Frank Sinatra",
+            "track_album": "Nothing But The Best (Remastered)",
+            "track_duration": 276253,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-18T22:49:14Z",
+            "uri": "spotify:track:2YkIDPL5lGhRhomCq4S2RO"
+        },
+        {
+            "track_id": "7FXj7Qg3YorUxdrzvrcY25",
+            "track_name": "Fly Me To The Moon - 2008 Remastered",
+            "track_artist": "Frank Sinatra",
+            "track_album": "Nothing But The Best (Remastered)",
+            "track_duration": 147520,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-18T22:49:31Z",
+            "uri": "spotify:track:7FXj7Qg3YorUxdrzvrcY25"
+        },
+        {
+            "track_id": "762B4bOcXF7I2Y8UlKTyTy",
+            "track_name": "Chiquitita",
+            "track_artist": "ABBA",
+            "track_album": "Voulez-Vous",
+            "track_duration": 326320,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-18T22:49:43Z",
+            "uri": "spotify:track:762B4bOcXF7I2Y8UlKTyTy"
+        },
+        {
+            "track_id": "1orVKbp6vqtfAPOmvRofVq",
+            "track_name": "Rock'n Me",
+            "track_artist": "Steve Miller Band",
+            "track_album": "Fly Like An Eagle",
+            "track_duration": 187066,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-25T22:06:30Z",
+            "uri": "spotify:track:1orVKbp6vqtfAPOmvRofVq"
+        },
+        {
+            "track_id": "0bRXwKfigvpKZUurwqAlEh",
+            "track_name": "Lovely Day",
+            "track_artist": "Bill Withers",
+            "track_album": "Menagerie",
+            "track_duration": 254560,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-25T22:23:53Z",
+            "uri": "spotify:track:0bRXwKfigvpKZUurwqAlEh"
+        },
+        {
+            "track_id": "4lHQCzdK3VdYQvQZnnRouG",
+            "track_name": "Alone Again (Naturally)",
+            "track_artist": "Gilbert O'Sullivan",
+            "track_album": "Back to Front (Deluxe Edition)",
+            "track_duration": 216840,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-27T05:45:29Z",
+            "uri": "spotify:track:4lHQCzdK3VdYQvQZnnRouG"
+        },
+        {
+            "track_id": "3nUrhP3KuK4R1qdxRk2Kgo",
+            "track_name": "Stupid Cupid",
+            "track_artist": "Connie Francis",
+            "track_album": "Gold",
+            "track_duration": 133746,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-29T04:04:56Z",
+            "uri": "spotify:track:3nUrhP3KuK4R1qdxRk2Kgo"
         }
     ]
 }
