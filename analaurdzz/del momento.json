@@ -12,16 +12,6 @@
             "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
         },
         {
-            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
-            "track_name": "Death By A Thousand Cuts",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 198533,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-07T18:39:55Z",
-            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
-        },
-        {
             "track_id": "4y5bvROuBDPr5fuwXbIBZR",
             "track_name": "Paper Rings",
             "track_artist": "Taylor Swift",
@@ -42,64 +32,94 @@
             "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
         },
         {
-            "track_id": "0VE4kBnHJUgtMf0dy6DRmW",
-            "track_name": "Getaway Car",
-            "track_artist": "Taylor Swift",
-            "track_album": "reputation",
-            "track_duration": 233626,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-07T18:40:39Z",
-            "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
-        },
-        {
-            "track_id": "214nt20w5wOxJnY462klLw",
-            "track_name": "Miss Americana & The Heartbreak Prince",
+            "track_id": "2YWtcWi3a83pdEg3Gif4Pd",
+            "track_name": "I Think He Knows",
             "track_artist": "Taylor Swift",
             "track_album": "Lover",
-            "track_duration": 234146,
+            "track_duration": 173386,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-07T18:40:46Z",
-            "uri": "spotify:track:214nt20w5wOxJnY462klLw"
+            "track_added_at": "2023-06-18T21:47:30Z",
+            "uri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd"
         },
         {
-            "track_id": "1NmVZsG18CzCAtw7rnV3yA",
-            "track_name": "Clean",
+            "track_id": "5hQSXkFgbxjZo9uCwd11so",
+            "track_name": "False God",
             "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 271000,
+            "track_album": "Lover",
+            "track_duration": 200306,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-08T15:08:36Z",
-            "uri": "spotify:track:1NmVZsG18CzCAtw7rnV3yA"
+            "track_added_at": "2023-06-18T21:48:22Z",
+            "uri": "spotify:track:5hQSXkFgbxjZo9uCwd11so"
         },
         {
-            "track_id": "5kI4eCXXzyuIUXjQra0Cxi",
-            "track_name": "betty",
+            "track_id": "6oVxXO5oQ4pTpO8RSnkzvv",
+            "track_name": "Dress",
             "track_artist": "Taylor Swift",
-            "track_album": "folklore",
-            "track_duration": 294521,
+            "track_album": "reputation",
+            "track_duration": 230373,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-08T16:03:57Z",
-            "uri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
+            "track_added_at": "2023-06-18T21:48:17Z",
+            "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv"
         },
         {
-            "track_id": "0sY6ZUTh4yoctD8VIXz339",
-            "track_name": "champagne problems",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore",
-            "track_duration": 244000,
+            "track_id": "1qEmFfgcLObUfQm0j1W2CK",
+            "track_name": "Late Night Talking",
+            "track_artist": "Harry Styles",
+            "track_album": "Harry's House",
+            "track_duration": 177954,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-11T14:22:30Z",
-            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+            "track_added_at": "2023-06-18T21:49:08Z",
+            "uri": "spotify:track:1qEmFfgcLObUfQm0j1W2CK"
         },
         {
-            "track_id": "4R2kfaDFhslZEMJqAFNpdd",
-            "track_name": "cardigan",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore",
-            "track_duration": 239560,
+            "track_id": "69w5X6uTrOaWM32IetSzvO",
+            "track_name": "Daydreaming",
+            "track_artist": "Harry Styles",
+            "track_album": "Harry's House",
+            "track_duration": 187342,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-11T16:26:04Z",
-            "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+            "track_added_at": "2023-06-18T21:50:00Z",
+            "uri": "spotify:track:69w5X6uTrOaWM32IetSzvO"
+        },
+        {
+            "track_id": "77sMIMlNaSURUAXq5coCxE",
+            "track_name": "Fearless (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 241591,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-18T22:28:08Z",
+            "uri": "spotify:track:77sMIMlNaSURUAXq5coCxE"
+        },
+        {
+            "track_id": "7qEUFOVcxRI19tbT68JcYK",
+            "track_name": "Everything Has Changed (feat. Ed Sheeran) (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 245426,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-19T17:15:49Z",
+            "uri": "spotify:track:7qEUFOVcxRI19tbT68JcYK"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-23T15:26:53Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
+            "track_name": "Delicate",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 232253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-28T02:47:57Z",
+            "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
         }
     ]
 }
