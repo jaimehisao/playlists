@@ -2250,6 +2250,36 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-06-12T14:35:47Z",
             "uri": "spotify:track:1f1cI1rxKrMCLr5pD8rjX3"
+        },
+        {
+            "track_id": "1OBUY61V7sX1vcS99PxKLa",
+            "track_name": "Gravity (feat. JMR)",
+            "track_artist": "Jai Wolf",
+            "track_album": "Kindred Spirits",
+            "track_duration": 228480,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-18T18:31:07Z",
+            "uri": "spotify:track:1OBUY61V7sX1vcS99PxKLa"
+        },
+        {
+            "track_id": "6YcFNAsBntqdR0dd3ManI8",
+            "track_name": "Connection",
+            "track_artist": "Slow Magic",
+            "track_album": "Connection",
+            "track_duration": 195459,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-24T02:28:12Z",
+            "uri": "spotify:track:6YcFNAsBntqdR0dd3ManI8"
+        },
+        {
+            "track_id": "0RUJQ1mAfE4Tgyj7CAw6V9",
+            "track_name": "Dark Tide (feat. Megan McDuffee)",
+            "track_artist": "Scandroid",
+            "track_album": "The Darkness and The Light (Deluxe Edition)",
+            "track_duration": 218672,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-06-29T03:34:38Z",
+            "uri": "spotify:track:0RUJQ1mAfE4Tgyj7CAw6V9"
         }
     ]
 }
