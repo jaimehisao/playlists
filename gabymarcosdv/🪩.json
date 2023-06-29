@@ -840,6 +840,26 @@
             "track_added_by": "gabymarcosdv",
             "track_added_at": "2023-06-09T15:15:54Z",
             "uri": "spotify:track:3qZHUZTQiTMfJXcUYzY5mT"
+        },
+        {
+            "track_id": "5uuJruktM9fMdN9Va0DUMl",
+            "track_name": "Play That Funky Music",
+            "track_artist": "Wild Cherry",
+            "track_album": "Wild Cherry",
+            "track_duration": 300000,
+            "track_added_by": "gabymarcosdv",
+            "track_added_at": "2023-06-21T18:22:54Z",
+            "uri": "spotify:track:5uuJruktM9fMdN9Va0DUMl"
+        },
+        {
+            "track_id": "2RzFk0owMID3ihqk1eArBi",
+            "track_name": "Stumblin' In",
+            "track_artist": "Chris Norman",
+            "track_album": "Needles & Pin: The Best Of Smokie",
+            "track_duration": 236706,
+            "track_added_by": "gabymarcosdv",
+            "track_added_at": "2023-06-22T16:01:13Z",
+            "uri": "spotify:track:2RzFk0owMID3ihqk1eArBi"
         }
     ]
 }
