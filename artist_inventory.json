@@ -4949,6 +4949,16 @@
         "type": "artist",
         "uri": "spotify:artist:5vfEaoOBcK0Lzr07WN8KaK"
     },
+    "01qiJfvXOvrFjFcwwmZ6yc": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01qiJfvXOvrFjFcwwmZ6yc"
+        },
+        "href": "https://api.spotify.com/v1/artists/01qiJfvXOvrFjFcwwmZ6yc",
+        "id": "01qiJfvXOvrFjFcwwmZ6yc",
+        "name": "Darianna Everett",
+        "type": "artist",
+        "uri": "spotify:artist:01qiJfvXOvrFjFcwwmZ6yc"
+    },
     "0xgxqCx6wm4roFuDMO0l1d": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0xgxqCx6wm4roFuDMO0l1d"
@@ -11788,16 +11798,6 @@
         "name": "Kim Wilde",
         "type": "artist",
         "uri": "spotify:artist:73a6pNH4YtLNgDbPQwXveo"
-    },
-    "19YAQxr2xw4CZ6TlRwsY1C": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/19YAQxr2xw4CZ6TlRwsY1C"
-        },
-        "href": "https://api.spotify.com/v1/artists/19YAQxr2xw4CZ6TlRwsY1C",
-        "id": "19YAQxr2xw4CZ6TlRwsY1C",
-        "name": "Luca Bignardi",
-        "type": "artist",
-        "uri": "spotify:artist:19YAQxr2xw4CZ6TlRwsY1C"
     },
     "7guDJrEfX3qb6FEbdPA5qi": {
         "external_urls": {
