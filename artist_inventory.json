@@ -27439,6 +27439,16 @@
         "type": "artist",
         "uri": "spotify:artist:3fCQnw6VSudXBTN5d2QP2z"
     },
+    "1McMsnEElThX1knmY4oliG": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "type": "artist",
+        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    },
     "4TCXgdDPm10ensLNCVnIYa": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
@@ -30368,16 +30378,6 @@
         "name": "Ashe",
         "type": "artist",
         "uri": "spotify:artist:6P5NO5hzJbuOqSdyPB7SJM"
-    },
-    "1McMsnEElThX1knmY4oliG": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "type": "artist",
-        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
     },
     "39R87tT1qaTxHwu5m87USa": {
         "external_urls": {
