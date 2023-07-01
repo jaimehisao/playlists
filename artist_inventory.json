@@ -18885,7 +18885,7 @@
         },
         "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
         "id": "3iOvXCl6edW5Um0fXEBRXy",
-        "name": "The xx",
+        "name": "XX",
         "type": "artist",
         "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
     },
@@ -36466,6 +36466,16 @@
         "name": "Megan McDuffee",
         "type": "artist",
         "uri": "spotify:artist:4n34M10wtYMrhh5tNsKwnn"
+    },
+    "2jAzx88tHo3KNYauXANisl": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jAzx88tHo3KNYauXANisl",
+        "id": "2jAzx88tHo3KNYauXANisl",
+        "name": "Yellow House",
+        "type": "artist",
+        "uri": "spotify:artist:2jAzx88tHo3KNYauXANisl"
     },
     "4QTVePrFu1xuGM9K0kNXkk": {
         "external_urls": {
