@@ -36157,16 +36157,6 @@
         "type": "artist",
         "uri": "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
     },
-    "04p1jV00pBnrmh2rKl0jnT": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        "href": "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
-        "id": "04p1jV00pBnrmh2rKl0jnT",
-        "name": "Juelz",
-        "type": "artist",
-        "uri": "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
-    },
     "79ffq2PHS5TDmgnHhAyudW": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW"
