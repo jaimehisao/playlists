@@ -160,6 +160,106 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-05T22:23:43Z",
             "uri": "spotify:track:5JdLUE9D743ob2RtgmVpVx"
+        },
+        {
+            "track_id": "5rurggqwwudn9clMdcchxT",
+            "track_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+            "track_artist": "Metro Boomin",
+            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "track_duration": 219453,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-13T22:09:54Z",
+            "uri": "spotify:track:5rurggqwwudn9clMdcchxT"
+        },
+        {
+            "track_id": "0grfvXep0gn5nXdQoHue1a",
+            "track_name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
+            "track_artist": "Metro Boomin",
+            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+            "track_duration": 231746,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-13T22:10:14Z",
+            "uri": "spotify:track:0grfvXep0gn5nXdQoHue1a"
+        },
+        {
+            "track_id": "6vu5xJWIvukCK8cwBXOOj0",
+            "track_name": "Living In A Haze",
+            "track_artist": "Milky Chance",
+            "track_album": "Living In A Haze",
+            "track_duration": 173369,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-16T16:29:58Z",
+            "uri": "spotify:track:6vu5xJWIvukCK8cwBXOOj0"
+        },
+        {
+            "track_id": "6TlCLIAhWIDYnugRhccq7f",
+            "track_name": "Better Off",
+            "track_artist": "Milky Chance",
+            "track_album": "Living In A Haze",
+            "track_duration": 157653,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-16T16:44:07Z",
+            "uri": "spotify:track:6TlCLIAhWIDYnugRhccq7f"
+        },
+        {
+            "track_id": "1BSTT3sbQ1MVVacApHilK9",
+            "track_name": "Feeling For You",
+            "track_artist": "Milky Chance",
+            "track_album": "Living In A Haze",
+            "track_duration": 221560,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-16T16:55:37Z",
+            "uri": "spotify:track:1BSTT3sbQ1MVVacApHilK9"
+        },
+        {
+            "track_id": "1Ssx0q4HGSoZnqROoHDJ3l",
+            "track_name": "History Of Yesterday",
+            "track_artist": "Milky Chance",
+            "track_album": "Living In A Haze",
+            "track_duration": 179946,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-16T16:55:45Z",
+            "uri": "spotify:track:1Ssx0q4HGSoZnqROoHDJ3l"
+        },
+        {
+            "track_id": "6Ec5LeRzkisa5KJtwLfOoW",
+            "track_name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+            "track_artist": "Metro Boomin",
+            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "track_duration": 256026,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-24T03:21:23Z",
+            "uri": "spotify:track:6Ec5LeRzkisa5KJtwLfOoW"
+        },
+        {
+            "track_id": "6golelYKuy85o3u0cxIxFK",
+            "track_name": "The Wire",
+            "track_artist": "HAIM",
+            "track_album": "Days Are Gone",
+            "track_duration": 245293,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-26T22:26:35Z",
+            "uri": "spotify:track:6golelYKuy85o3u0cxIxFK"
+        },
+        {
+            "track_id": "3RXozqS8icK2YGcIggW7KM",
+            "track_name": "Los Angeles",
+            "track_artist": "HAIM",
+            "track_album": "Women In Music Pt. III",
+            "track_duration": 200000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-26T22:26:56Z",
+            "uri": "spotify:track:3RXozqS8icK2YGcIggW7KM"
+        },
+        {
+            "track_id": "72altzZt47caIFhaLiLIgB",
+            "track_name": "Sour",
+            "track_artist": "Echosmith",
+            "track_album": "Sour",
+            "track_duration": 210840,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-28T15:02:26Z",
+            "uri": "spotify:track:72altzZt47caIFhaLiLIgB"
         }
     ]
 }
