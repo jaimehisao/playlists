@@ -954,7 +954,7 @@
         {
             "track_id": "1DcxnVNFAyVl2sDQ646pXS",
             "track_name": "PPP",
-            "track_artist": "Kevin Roldan",
+            "track_artist": "KEVIN ROLDAN",
             "track_album": "PPP",
             "track_duration": 129039,
             "track_added_by": "gabrieldlg",
@@ -1073,7 +1073,7 @@
         },
         {
             "track_id": "1c0hsvHLELX6y8qymnpLKL",
-            "track_name": "Soltera - Remix",
+            "track_name": "Soltera (Remix)",
             "track_artist": "Lunay",
             "track_album": "Soltera (Remix)",
             "track_duration": 266086,
@@ -2280,6 +2280,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-04-17T21:41:38Z",
             "uri": "spotify:track:0PB0O24JqAuNdOAFVJljMS"
+        },
+        {
+            "track_id": "6VrQTLzzuyGIYjUDe4kAZk",
+            "track_name": "Un Coco",
+            "track_artist": "Bad Bunny",
+            "track_album": "Un Verano Sin Ti",
+            "track_duration": 196412,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-23T03:00:26Z",
+            "uri": "spotify:track:6VrQTLzzuyGIYjUDe4kAZk"
         }
     ]
 }
