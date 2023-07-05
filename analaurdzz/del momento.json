@@ -120,6 +120,26 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-06-28T02:47:57Z",
             "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+        },
+        {
+            "track_id": "3k79jB4aGmMDUQzEwa46Rz",
+            "track_name": "vampire",
+            "track_artist": "Olivia Rodrigo",
+            "track_album": "vampire",
+            "track_duration": 219724,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-06-30T16:03:42Z",
+            "uri": "spotify:track:3k79jB4aGmMDUQzEwa46Rz"
+        },
+        {
+            "track_id": "7A2cNLRT0YJc1yjxHlKihs",
+            "track_name": "Starlight (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 220413,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-02T20:14:18Z",
+            "uri": "spotify:track:7A2cNLRT0YJc1yjxHlKihs"
         }
     ]
 }
