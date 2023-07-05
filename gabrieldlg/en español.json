@@ -1800,6 +1800,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-06T17:50:21Z",
             "uri": "spotify:track:4GhaiN8g3mwCcbfDLGoYqy"
+        },
+        {
+            "track_id": "3XJmD5suzFUBHJ7sizBAiy",
+            "track_name": "La Magia",
+            "track_artist": "Little Jesus",
+            "track_album": "R\u00edo Salvaje",
+            "track_duration": 245373,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-23T02:08:50Z",
+            "uri": "spotify:track:3XJmD5suzFUBHJ7sizBAiy"
         }
     ]
 }
