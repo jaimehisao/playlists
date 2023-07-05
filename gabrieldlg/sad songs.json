@@ -2740,6 +2740,26 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-04T05:07:45Z",
             "uri": "spotify:track:5S4aYQAJOwJMAamANWlICO"
+        },
+        {
+            "track_id": "7MBSbBrx0TvBYyKEcpGcJb",
+            "track_name": "Sweet Marie",
+            "track_artist": "The Walters",
+            "track_album": "Young Men",
+            "track_duration": 137092,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-27T16:01:15Z",
+            "uri": "spotify:track:7MBSbBrx0TvBYyKEcpGcJb"
+        },
+        {
+            "track_id": "4r1AqGpB9YrXV2ivcrqfJY",
+            "track_name": ".",
+            "track_artist": "girl in red",
+            "track_album": "if i could make it go quiet",
+            "track_duration": 166240,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-27T16:27:48Z",
+            "uri": "spotify:track:4r1AqGpB9YrXV2ivcrqfJY"
         }
     ]
 }
