@@ -170,6 +170,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2022-08-09T14:49:46Z",
             "uri": "spotify:track:2Z15E5ssNA8knuTlw3hvqg"
+        },
+        {
+            "track_id": "04kybb0HCt1uaTBgYkSgwQ",
+            "track_name": "Hush",
+            "track_artist": "The Mar\u00edas",
+            "track_album": "Hush",
+            "track_duration": 181893,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-07-04T22:03:18Z",
+            "uri": "spotify:track:04kybb0HCt1uaTBgYkSgwQ"
         }
     ]
 }
