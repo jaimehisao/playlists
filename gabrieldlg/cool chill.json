@@ -2722,16 +2722,6 @@
             "uri": "spotify:track:6fsiu35EUhFHqKUP32ZMMf"
         },
         {
-            "track_id": "3yfki4r5cgFA784trLoHnk",
-            "track_name": "Living In A Haze",
-            "track_artist": "Milky Chance",
-            "track_album": "Living In A Haze",
-            "track_duration": 173369,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-03-28T19:13:30Z",
-            "uri": "spotify:track:3yfki4r5cgFA784trLoHnk"
-        },
-        {
             "track_id": "4VP8QiCeaZq8BeTIUrMQOG",
             "track_name": "No You Girls",
             "track_artist": "Franz Ferdinand",
@@ -2780,6 +2770,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-04-20T20:22:11Z",
             "uri": "spotify:track:6WrnSlcN0dzTO80mVVbBto"
+        },
+        {
+            "track_id": "5CMjjywI0eZMixPeqNd75R",
+            "track_name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+            "track_artist": "Daft Punk",
+            "track_album": "Random Access Memories",
+            "track_duration": 353893,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-25T03:28:55Z",
+            "uri": "spotify:track:5CMjjywI0eZMixPeqNd75R"
         }
     ]
 }
