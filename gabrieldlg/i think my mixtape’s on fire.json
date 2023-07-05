@@ -1410,6 +1410,26 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-09T16:13:26Z",
             "uri": "spotify:track:39MK3d3fonIP8Mz9oHCTBB"
+        },
+        {
+            "track_id": "2sFEmuVVAa2klHwhFaT0rR",
+            "track_name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "CALL ME IF YOU GET LOST: The Estate Sale",
+            "track_duration": 204364,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-10T20:32:16Z",
+            "uri": "spotify:track:2sFEmuVVAa2klHwhFaT0rR"
+        },
+        {
+            "track_id": "66wkCYWlXzSTQAfnsPBptt",
+            "track_name": "My Favorite Part",
+            "track_artist": "Mac Miller",
+            "track_album": "The Divine Feminine",
+            "track_duration": 216000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-06-20T14:52:59Z",
+            "uri": "spotify:track:66wkCYWlXzSTQAfnsPBptt"
         }
     ]
 }
