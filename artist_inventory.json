@@ -2059,6 +2059,16 @@
         "type": "artist",
         "uri": "spotify:artist:5ILrArfIV0tMURcHJN8Q07"
     },
+    "6zFYqv1mOsgBRQbae3JJ9e": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
+        "id": "6zFYqv1mOsgBRQbae3JJ9e",
+        "name": "Billy Joel",
+        "type": "artist",
+        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -6408,16 +6418,6 @@
         "name": "Redbone",
         "type": "artist",
         "uri": "spotify:artist:0w7HLMvZOHatWVbAKee1zF"
-    },
-    "6zFYqv1mOsgBRQbae3JJ9e": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        },
-        "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
-        "id": "6zFYqv1mOsgBRQbae3JJ9e",
-        "name": "Billy Joel",
-        "type": "artist",
-        "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
     },
     "26bcq2nyj5GB7uRr558iQg": {
         "external_urls": {
