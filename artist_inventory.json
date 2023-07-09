@@ -1739,36 +1739,6 @@
         "type": "artist",
         "uri": "spotify:artist:1MIVXf74SZHmTIp4V4paH4"
     },
-    "3MdXrJWsbVzdn6fe5JYkSQ": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        "href": "https://api.spotify.com/v1/artists/3MdXrJWsbVzdn6fe5JYkSQ",
-        "id": "3MdXrJWsbVzdn6fe5JYkSQ",
-        "name": "Latto",
-        "type": "artist",
-        "uri": "spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ"
-    },
-    "4iHNK0tOyZPYnBU7nGAgpQ": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
-        "id": "4iHNK0tOyZPYnBU7nGAgpQ",
-        "name": "Mariah Carey",
-        "type": "artist",
-        "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
-    },
-    "0QHgL1lAIqAw0HtD7YldmP": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
-        "id": "0QHgL1lAIqAw0HtD7YldmP",
-        "name": "DJ Khaled",
-        "type": "artist",
-        "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
-    },
     "7gOdHgIoIKoe4i9Tta6qdD": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
@@ -31629,6 +31599,16 @@
         "type": "artist",
         "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp"
     },
+    "4iHNK0tOyZPYnBU7nGAgpQ": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
+        "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+        "name": "Mariah Carey",
+        "type": "artist",
+        "uri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+    },
     "1YfEcTuGvBQ8xSD1f53UnK": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
@@ -56726,6 +56706,16 @@
         "name": "Skylar Grey",
         "type": "artist",
         "uri": "spotify:artist:4utLUGcTvOJFr6aqIJtYWV"
+    },
+    "0QHgL1lAIqAw0HtD7YldmP": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
+        "id": "0QHgL1lAIqAw0HtD7YldmP",
+        "name": "DJ Khaled",
+        "type": "artist",
+        "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP"
     },
     "3mOd9j63D2DAPnOzQBJhQJ": {
         "external_urls": {
