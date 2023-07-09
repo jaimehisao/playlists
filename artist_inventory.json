@@ -64437,6 +64437,16 @@
         "type": "artist",
         "uri": "spotify:artist:2VSRhqonKsL7KRAIk8SMmt"
     },
+    "1poWksyUHxANlcdBLPhsV9": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        },
+        "href": "https://api.spotify.com/v1/artists/1poWksyUHxANlcdBLPhsV9",
+        "id": "1poWksyUHxANlcdBLPhsV9",
+        "name": "Los Charros",
+        "type": "artist",
+        "uri": "spotify:artist:1poWksyUHxANlcdBLPhsV9"
+    },
     "42PLkpL4mM4Szp7fiyj15X": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
