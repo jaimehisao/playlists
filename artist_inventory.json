@@ -36107,16 +36107,6 @@
         "type": "artist",
         "uri": "spotify:artist:7CGSp2GbiOpLPSq61qjxf8"
     },
-    "6auWB5YAlcKaHyrbTH66nd": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
-        "href": "https://api.spotify.com/v1/artists/6auWB5YAlcKaHyrbTH66nd",
-        "id": "6auWB5YAlcKaHyrbTH66nd",
-        "name": "No Rome",
-        "type": "artist",
-        "uri": "spotify:artist:6auWB5YAlcKaHyrbTH66nd"
-    },
     "4CzzY9kG8C2BLOuTuy3oLe": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
@@ -37097,15 +37087,15 @@
         "type": "artist",
         "uri": "spotify:artist:0yn7SRwZcgP2uYeRTAbfhA"
     },
-    "3tgiOZXeC1DIimfprvfL64": {
+    "6qzvG1SmZwYwBH2O19cw4u": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64"
+            "spotify": "https://open.spotify.com/artist/6qzvG1SmZwYwBH2O19cw4u"
         },
-        "href": "https://api.spotify.com/v1/artists/3tgiOZXeC1DIimfprvfL64",
-        "id": "3tgiOZXeC1DIimfprvfL64",
-        "name": "Sam And The Womp",
+        "href": "https://api.spotify.com/v1/artists/6qzvG1SmZwYwBH2O19cw4u",
+        "id": "6qzvG1SmZwYwBH2O19cw4u",
+        "name": "Sam And The Whomp",
         "type": "artist",
-        "uri": "spotify:artist:3tgiOZXeC1DIimfprvfL64"
+        "uri": "spotify:artist:6qzvG1SmZwYwBH2O19cw4u"
     },
     "1fhvwCr1HKEZgZYOrfsHyk": {
         "external_urls": {
