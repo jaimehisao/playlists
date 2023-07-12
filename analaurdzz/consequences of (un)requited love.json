@@ -112,16 +112,6 @@
             "uri": "spotify:track:7ilS0BPWS8ek2P2GaxH3cP"
         },
         {
-            "track_id": "7lvegGYjA3TqpfdWucct7O",
-            "track_name": "Back To December - Acoustic",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 292533,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2019-01-28T04:21:55Z",
-            "uri": "spotify:track:7lvegGYjA3TqpfdWucct7O"
-        },
-        {
             "track_id": "4zFLQSVz08MGPWhagm7vMr",
             "track_name": "I Almost Do",
             "track_artist": "Taylor Swift",
@@ -1512,14 +1502,54 @@
             "uri": "spotify:track:72KRu0FpXCqGY9Emp60RBM"
         },
         {
-            "track_id": "4EUQXLipplO2v9mVaqQtjc",
-            "track_name": "Last Kiss",
+            "track_id": "79uDOz0zuuWS7HWxzMmTa2",
+            "track_name": "Back To December (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 367146,
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 294189,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2022-05-22T11:41:08Z",
-            "uri": "spotify:track:4EUQXLipplO2v9mVaqQtjc"
+            "track_added_at": "2023-07-11T15:30:55Z",
+            "uri": "spotify:track:79uDOz0zuuWS7HWxzMmTa2"
+        },
+        {
+            "track_id": "59KOoHFcw5XfICnO57holu",
+            "track_name": "Last Kiss (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 369120,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:31:01Z",
+            "uri": "spotify:track:59KOoHFcw5XfICnO57holu"
+        },
+        {
+            "track_id": "4s8BIKx4Zh6ryAEz8RTlaU",
+            "track_name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 311765,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:31:04Z",
+            "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU"
+        },
+        {
+            "track_id": "1HCdems7PQZRj42QDWLA0A",
+            "track_name": "Timeless (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 321396,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:31:06Z",
+            "uri": "spotify:track:1HCdems7PQZRj42QDWLA0A"
+        },
+        {
+            "track_id": "4hqJ4bSlYJOXb6Z4SRmzxs",
+            "track_name": "Long Live (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 317960,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:31:09Z",
+            "uri": "spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs"
         }
     ]
 }
