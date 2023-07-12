@@ -22,16 +22,6 @@
             "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
         },
         {
-            "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
-            "track_name": "Cruel Summer",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 178426,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-07T18:40:20Z",
-            "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
-        },
-        {
             "track_id": "2YWtcWi3a83pdEg3Gif4Pd",
             "track_name": "I Think He Knows",
             "track_artist": "Taylor Swift",
@@ -60,16 +50,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-06-18T21:48:17Z",
             "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv"
-        },
-        {
-            "track_id": "1qEmFfgcLObUfQm0j1W2CK",
-            "track_name": "Late Night Talking",
-            "track_artist": "Harry Styles",
-            "track_album": "Harry's House",
-            "track_duration": 177954,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-18T21:49:08Z",
-            "uri": "spotify:track:1qEmFfgcLObUfQm0j1W2CK"
         },
         {
             "track_id": "69w5X6uTrOaWM32IetSzvO",
@@ -122,16 +102,6 @@
             "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
         },
         {
-            "track_id": "3k79jB4aGmMDUQzEwa46Rz",
-            "track_name": "vampire",
-            "track_artist": "Olivia Rodrigo",
-            "track_album": "vampire",
-            "track_duration": 219724,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-30T16:03:42Z",
-            "uri": "spotify:track:3k79jB4aGmMDUQzEwa46Rz"
-        },
-        {
             "track_id": "7A2cNLRT0YJc1yjxHlKihs",
             "track_name": "Starlight (Taylor's Version)",
             "track_artist": "Taylor Swift",
@@ -140,6 +110,46 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-02T20:14:18Z",
             "uri": "spotify:track:7A2cNLRT0YJc1yjxHlKihs"
+        },
+        {
+            "track_id": "5kHMfzgLZP95O9NBy0ku4v",
+            "track_name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 273186,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-08T01:39:53Z",
+            "uri": "spotify:track:5kHMfzgLZP95O9NBy0ku4v"
+        },
+        {
+            "track_id": "3MytWN8L7shNYzGl4tAKRp",
+            "track_name": "Sparks Fly (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 261230,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-08T02:29:18Z",
+            "uri": "spotify:track:3MytWN8L7shNYzGl4tAKRp"
+        },
+        {
+            "track_id": "4evLyY5Ue1Wesc61t2KXAU",
+            "track_name": "Superman (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 274945,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-08T05:16:43Z",
+            "uri": "spotify:track:4evLyY5Ue1Wesc61t2KXAU"
+        },
+        {
+            "track_id": "7G0gBu6nLdhFDPRLc0HdDG",
+            "track_name": "Mine (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 231706,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:12:03Z",
+            "uri": "spotify:track:7G0gBu6nLdhFDPRLc0HdDG"
         }
     ]
 }
