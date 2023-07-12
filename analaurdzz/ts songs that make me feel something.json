@@ -532,86 +532,6 @@
             "uri": "spotify:track:2k43eySbfpDVx0PrO99UI8"
         },
         {
-            "track_id": "0tr6XR58KBdDYd8qvHVTs8",
-            "track_name": "Back To December",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 293040,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:02Z",
-            "uri": "spotify:track:0tr6XR58KBdDYd8qvHVTs8"
-        },
-        {
-            "track_id": "2PBghI9zJkQEWBzMSMo2Ki",
-            "track_name": "Speak Now",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 240773,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:04Z",
-            "uri": "spotify:track:2PBghI9zJkQEWBzMSMo2Ki"
-        },
-        {
-            "track_id": "1GeLxMgpeCnMJntwyW6rLw",
-            "track_name": "Dear John",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 403887,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:05Z",
-            "uri": "spotify:track:1GeLxMgpeCnMJntwyW6rLw"
-        },
-        {
-            "track_id": "3sqrvkNC6IPTIXvvbx9Arw",
-            "track_name": "Enchanted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 352200,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:11Z",
-            "uri": "spotify:track:3sqrvkNC6IPTIXvvbx9Arw"
-        },
-        {
-            "track_id": "72idZxdEHLbi2YI486c3sE",
-            "track_name": "Haunted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 242093,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:14Z",
-            "uri": "spotify:track:72idZxdEHLbi2YI486c3sE"
-        },
-        {
-            "track_id": "1VCJ7vk3Y2DoJIAEOXe3V8",
-            "track_name": "Last Kiss",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 367146,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:16Z",
-            "uri": "spotify:track:1VCJ7vk3Y2DoJIAEOXe3V8"
-        },
-        {
-            "track_id": "7BFc7ffruhZ4Hecnqf5xju",
-            "track_name": "Long Live",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 317960,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:17Z",
-            "uri": "spotify:track:7BFc7ffruhZ4Hecnqf5xju"
-        },
-        {
-            "track_id": "2jt90bYlYDg1lXYWES34LJ",
-            "track_name": "The Story Of Us",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 266480,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:52:56Z",
-            "uri": "spotify:track:2jt90bYlYDg1lXYWES34LJ"
-        },
-        {
             "track_id": "2TF4UtYreqNbQ6Z9AccldU",
             "track_name": "Teardrops On My Guitar - Radio Single Remix",
             "track_artist": "Taylor Swift",
@@ -630,6 +550,106 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-05-04T01:53:14Z",
             "uri": "spotify:track:569sXXQ7t0jSdqHooi2yqs"
+        },
+        {
+            "track_id": "79uDOz0zuuWS7HWxzMmTa2",
+            "track_name": "Back To December (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 294189,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:25:44Z",
+            "uri": "spotify:track:79uDOz0zuuWS7HWxzMmTa2"
+        },
+        {
+            "track_id": "5xXqyjLicvEpch72qEryFT",
+            "track_name": "Speak Now (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 242473,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:25:47Z",
+            "uri": "spotify:track:5xXqyjLicvEpch72qEryFT"
+        },
+        {
+            "track_id": "1zU8j1x3yi9xalMF96pzKp",
+            "track_name": "Dear John (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 405906,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:25:50Z",
+            "uri": "spotify:track:1zU8j1x3yi9xalMF96pzKp"
+        },
+        {
+            "track_id": "3sW3oSbzsfecv9XoUdGs7h",
+            "track_name": "Enchanted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 353253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:25:54Z",
+            "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h"
+        },
+        {
+            "track_id": "4tMzIAFTFdqGBQLdfbPces",
+            "track_name": "Haunted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 245413,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:25:57Z",
+            "uri": "spotify:track:4tMzIAFTFdqGBQLdfbPces"
+        },
+        {
+            "track_id": "12nBPF4Rh4XLFJV0YLN7uj",
+            "track_name": "Innocent (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 301221,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:25:58Z",
+            "uri": "spotify:track:12nBPF4Rh4XLFJV0YLN7uj"
+        },
+        {
+            "track_id": "59KOoHFcw5XfICnO57holu",
+            "track_name": "Last Kiss (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 369120,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:26:01Z",
+            "uri": "spotify:track:59KOoHFcw5XfICnO57holu"
+        },
+        {
+            "track_id": "4hqJ4bSlYJOXb6Z4SRmzxs",
+            "track_name": "Long Live (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 317960,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:26:04Z",
+            "uri": "spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs"
+        },
+        {
+            "track_id": "6dTA6y0C2ReQklntzZl8l3",
+            "track_name": "The Story Of Us (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 267653,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:26:24Z",
+            "uri": "spotify:track:6dTA6y0C2ReQklntzZl8l3"
+        },
+        {
+            "track_id": "3MytWN8L7shNYzGl4tAKRp",
+            "track_name": "Sparks Fly (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 261230,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:27:48Z",
+            "uri": "spotify:track:3MytWN8L7shNYzGl4tAKRp"
         }
     ]
 }
