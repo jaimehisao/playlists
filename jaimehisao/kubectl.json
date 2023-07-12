@@ -892,16 +892,6 @@
             "uri": "spotify:track:5WHTFyqSii0lmT9R21abT8"
         },
         {
-            "track_id": "0EJ3Kofm9hYq3hL4VZ881G",
-            "track_name": "Big Energy (feat. DJ Khaled) - Remix",
-            "track_artist": "Latto",
-            "track_album": "Big Energy (feat. DJ Khaled) [Remix]",
-            "track_duration": 181665,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2023-04-27T06:28:59Z",
-            "uri": "spotify:track:0EJ3Kofm9hYq3hL4VZ881G"
-        },
-        {
             "track_id": "1vYh9x8UmFTLbXiizk9Qc5",
             "track_name": "I Believe",
             "track_artist": "Jonas Brothers",
@@ -1200,6 +1190,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-07-03T06:58:53Z",
             "uri": "spotify:track:3gU9FbBKkLB23WvmSXpca2"
+        },
+        {
+            "track_id": "49MHCPzvMLXhRjDantBMVH",
+            "track_name": "Just the Way You Are",
+            "track_artist": "Billy Joel",
+            "track_album": "The Stranger (Legacy Edition)",
+            "track_duration": 290573,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-07T23:32:39Z",
+            "uri": "spotify:track:49MHCPzvMLXhRjDantBMVH"
         }
     ]
 }
