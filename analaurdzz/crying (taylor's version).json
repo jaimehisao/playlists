@@ -352,96 +352,6 @@
             "uri": "spotify:track:1NmVZsG18CzCAtw7rnV3yA"
         },
         {
-            "track_id": "0tr6XR58KBdDYd8qvHVTs8",
-            "track_name": "Back To December",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 293040,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:40:52Z",
-            "uri": "spotify:track:0tr6XR58KBdDYd8qvHVTs8"
-        },
-        {
-            "track_id": "1GeLxMgpeCnMJntwyW6rLw",
-            "track_name": "Dear John",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 403887,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:40:55Z",
-            "uri": "spotify:track:1GeLxMgpeCnMJntwyW6rLw"
-        },
-        {
-            "track_id": "57w0Uyk2jJAkO2hMJ36xJZ",
-            "track_name": "Never Grow Up",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 290480,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:41:52Z",
-            "uri": "spotify:track:57w0Uyk2jJAkO2hMJ36xJZ"
-        },
-        {
-            "track_id": "3sqrvkNC6IPTIXvvbx9Arw",
-            "track_name": "Enchanted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 352200,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:46:49Z",
-            "uri": "spotify:track:3sqrvkNC6IPTIXvvbx9Arw"
-        },
-        {
-            "track_id": "4LraIz87diVQdDK0rhi0S4",
-            "track_name": "Innocent",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 302266,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:47:01Z",
-            "uri": "spotify:track:4LraIz87diVQdDK0rhi0S4"
-        },
-        {
-            "track_id": "72idZxdEHLbi2YI486c3sE",
-            "track_name": "Haunted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 242093,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:47:03Z",
-            "uri": "spotify:track:72idZxdEHLbi2YI486c3sE"
-        },
-        {
-            "track_id": "1VCJ7vk3Y2DoJIAEOXe3V8",
-            "track_name": "Last Kiss",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 367146,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:47:05Z",
-            "uri": "spotify:track:1VCJ7vk3Y2DoJIAEOXe3V8"
-        },
-        {
-            "track_id": "7BFc7ffruhZ4Hecnqf5xju",
-            "track_name": "Long Live",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 317960,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:47:06Z",
-            "uri": "spotify:track:7BFc7ffruhZ4Hecnqf5xju"
-        },
-        {
-            "track_id": "5tSmAABuoOfR59lrtXdDqm",
-            "track_name": "If This Was A Movie",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 234546,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:47:10Z",
-            "uri": "spotify:track:5tSmAABuoOfR59lrtXdDqm"
-        },
-        {
             "track_id": "2TF4UtYreqNbQ6Z9AccldU",
             "track_name": "Teardrops On My Guitar - Radio Single Remix",
             "track_artist": "Taylor Swift",
@@ -470,6 +380,106 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-06-22T16:47:39Z",
             "uri": "spotify:track:1k3PzDNjg38cWqOvL4M9vq"
+        },
+        {
+            "track_id": "79uDOz0zuuWS7HWxzMmTa2",
+            "track_name": "Back To December (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 294189,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:18Z",
+            "uri": "spotify:track:79uDOz0zuuWS7HWxzMmTa2"
+        },
+        {
+            "track_id": "1zU8j1x3yi9xalMF96pzKp",
+            "track_name": "Dear John (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 405906,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:21Z",
+            "uri": "spotify:track:1zU8j1x3yi9xalMF96pzKp"
+        },
+        {
+            "track_id": "2EFZ9emtKWEglWUQGEQ3P9",
+            "track_name": "Never Grow Up (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 292920,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:24Z",
+            "uri": "spotify:track:2EFZ9emtKWEglWUQGEQ3P9"
+        },
+        {
+            "track_id": "3sW3oSbzsfecv9XoUdGs7h",
+            "track_name": "Enchanted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 353253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:29Z",
+            "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h"
+        },
+        {
+            "track_id": "12nBPF4Rh4XLFJV0YLN7uj",
+            "track_name": "Innocent (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 301221,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:30Z",
+            "uri": "spotify:track:12nBPF4Rh4XLFJV0YLN7uj"
+        },
+        {
+            "track_id": "4tMzIAFTFdqGBQLdfbPces",
+            "track_name": "Haunted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 245413,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:32Z",
+            "uri": "spotify:track:4tMzIAFTFdqGBQLdfbPces"
+        },
+        {
+            "track_id": "59KOoHFcw5XfICnO57holu",
+            "track_name": "Last Kiss (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 369120,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:35Z",
+            "uri": "spotify:track:59KOoHFcw5XfICnO57holu"
+        },
+        {
+            "track_id": "4hqJ4bSlYJOXb6Z4SRmzxs",
+            "track_name": "Long Live (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 317960,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:37Z",
+            "uri": "spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs"
+        },
+        {
+            "track_id": "4s8BIKx4Zh6ryAEz8RTlaU",
+            "track_name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 311765,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:44Z",
+            "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU"
+        },
+        {
+            "track_id": "0kAZ3H6G9Zac4PMpmobMkj",
+            "track_name": "If This Was A Movie (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "If This Was A Movie (Taylor\u2019s Version)",
+            "track_duration": 237022,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T15:28:50Z",
+            "uri": "spotify:track:0kAZ3H6G9Zac4PMpmobMkj"
         }
     ]
 }
