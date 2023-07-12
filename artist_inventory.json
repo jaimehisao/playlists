@@ -27399,6 +27399,16 @@
         "type": "artist",
         "uri": "spotify:artist:7sAXoFldVGlGtZ5LPVtAYD"
     },
+    "6XTGKOV9jceQ6f67lnhpbF": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        "href": "https://api.spotify.com/v1/artists/6XTGKOV9jceQ6f67lnhpbF",
+        "id": "6XTGKOV9jceQ6f67lnhpbF",
+        "name": "LATIN MAFIA",
+        "type": "artist",
+        "uri": "spotify:artist:6XTGKOV9jceQ6f67lnhpbF"
+    },
     "3fCQnw6VSudXBTN5d2QP2z": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z"
