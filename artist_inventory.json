@@ -2039,6 +2039,16 @@
         "type": "artist",
         "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
     },
+    "2FwJwEswyIUAljqgjNSHgP": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        "href": "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP",
+        "id": "2FwJwEswyIUAljqgjNSHgP",
+        "name": "Snakehips",
+        "type": "artist",
+        "uri": "spotify:artist:2FwJwEswyIUAljqgjNSHgP"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -14788,16 +14798,6 @@
         "name": "BANKS",
         "type": "artist",
         "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
-    },
-    "2FwJwEswyIUAljqgjNSHgP": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        "href": "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP",
-        "id": "2FwJwEswyIUAljqgjNSHgP",
-        "name": "Snakehips",
-        "type": "artist",
-        "uri": "spotify:artist:2FwJwEswyIUAljqgjNSHgP"
     },
     "5aNSfdgygtKXXyFAwqyASY": {
         "external_urls": {
@@ -36043,7 +36043,7 @@
         },
         "href": "https://api.spotify.com/v1/artists/7nDJpnTQgtM87yaive1aos",
         "id": "7nDJpnTQgtM87yaive1aos",
-        "name": "Hugo",
+        "name": "Hugo Santini",
         "type": "artist",
         "uri": "spotify:artist:7nDJpnTQgtM87yaive1aos"
     },
@@ -36306,6 +36306,16 @@
         "name": "Lights",
         "type": "artist",
         "uri": "spotify:artist:5pdyjBIaY5o1yOyexGIUc6"
+    },
+    "2NFrAuh8RQdQoS7iYFbckw": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        },
+        "href": "https://api.spotify.com/v1/artists/2NFrAuh8RQdQoS7iYFbckw",
+        "id": "2NFrAuh8RQdQoS7iYFbckw",
+        "name": "The Midnight",
+        "type": "artist",
+        "uri": "spotify:artist:2NFrAuh8RQdQoS7iYFbckw"
     },
     "4QTVePrFu1xuGM9K0kNXkk": {
         "external_urls": {
@@ -44066,16 +44076,6 @@
         "name": "Helen Tess",
         "type": "artist",
         "uri": "spotify:artist:6CgLAgCJ6veWxsHIBFqc7P"
-    },
-    "2NFrAuh8RQdQoS7iYFbckw": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        },
-        "href": "https://api.spotify.com/v1/artists/2NFrAuh8RQdQoS7iYFbckw",
-        "id": "2NFrAuh8RQdQoS7iYFbckw",
-        "name": "The Midnight",
-        "type": "artist",
-        "uri": "spotify:artist:2NFrAuh8RQdQoS7iYFbckw"
     },
     "12eNUx8BvR5qmpFssq8Vkt": {
         "external_urls": {
@@ -63927,16 +63927,6 @@
         "type": "artist",
         "uri": "spotify:artist:264nbMzGPSkDZqTY8nXwCG"
     },
-    "3ygIl3frs6gQCo1f0AGnRj": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        },
-        "href": "https://api.spotify.com/v1/artists/3ygIl3frs6gQCo1f0AGnRj",
-        "id": "3ygIl3frs6gQCo1f0AGnRj",
-        "name": "SERBIA",
-        "type": "artist",
-        "uri": "spotify:artist:3ygIl3frs6gQCo1f0AGnRj"
-    },
     "5e7WJRwth4l23zcCG9JaXE": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5e7WJRwth4l23zcCG9JaXE"
@@ -63956,6 +63946,16 @@
         "name": "Pusho",
         "type": "artist",
         "uri": "spotify:artist:2qbEtwBVyobgpNP5KcHE9J"
+    },
+    "3ygIl3frs6gQCo1f0AGnRj": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ygIl3frs6gQCo1f0AGnRj",
+        "id": "3ygIl3frs6gQCo1f0AGnRj",
+        "name": "SERBIA",
+        "type": "artist",
+        "uri": "spotify:artist:3ygIl3frs6gQCo1f0AGnRj"
     },
     "19g2jApswUTCNqXFxx2lAx": {
         "external_urls": {
