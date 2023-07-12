@@ -92,16 +92,6 @@
             "uri": "spotify:track:7F3dOpuo0GuMr69SfDuk3n"
         },
         {
-            "track_id": "5B1Aw1cxQRM5NpBxHLEPlv",
-            "track_name": "Haunted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 242066,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2013-10-19T15:14:36Z",
-            "uri": "spotify:track:5B1Aw1cxQRM5NpBxHLEPlv"
-        },
-        {
             "track_id": "4GzDUKkd1RwAtYZMMUBM3W",
             "track_name": "I Knew You Were Trouble.",
             "track_artist": "Taylor Swift",
@@ -170,16 +160,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2013-10-19T15:15:02Z",
             "uri": "spotify:track:0OkJtCF6yQIdK11ge58uXD"
-        },
-        {
-            "track_id": "0jtdfTEk7MqNDVr1jioqbo",
-            "track_name": "Mine",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 230800,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2013-10-19T15:15:08Z",
-            "uri": "spotify:track:0jtdfTEk7MqNDVr1jioqbo"
         },
         {
             "track_id": "3vJ7kCW4ROYpWFqlvFBkWb",
@@ -282,16 +262,6 @@
             "uri": "spotify:track:2MTMeQZLVI9yiZIXsCbzGi"
         },
         {
-            "track_id": "0kPS328ObWAHlkY5NPr8nr",
-            "track_name": "Speak Now",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 240746,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2013-10-19T15:15:48Z",
-            "uri": "spotify:track:0kPS328ObWAHlkY5NPr8nr"
-        },
-        {
             "track_id": "4T5cqerbDXueYSVfXkIITo",
             "track_name": "Sunday Morning",
             "track_artist": "Maroon 5",
@@ -350,16 +320,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2013-10-25T15:02:01Z",
             "uri": "spotify:track:4ejjJSozfM6QOUsLBom2qA"
-        },
-        {
-            "track_id": "2StN99ZsvCLj9HJGddQe2O",
-            "track_name": "Enchanted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 352200,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2013-10-25T15:02:02Z",
-            "uri": "spotify:track:2StN99ZsvCLj9HJGddQe2O"
         },
         {
             "track_id": "0UnnPoUkys3vA1PNJyN7MO",
@@ -430,16 +390,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2013-10-25T15:02:10Z",
             "uri": "spotify:track:57riAzioKDOxYyGGzgUnZQ"
-        },
-        {
-            "track_id": "6SMU8IxdkpJ25w8iCsEoRJ",
-            "track_name": "Superman",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 276266,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2013-10-25T15:02:16Z",
-            "uri": "spotify:track:6SMU8IxdkpJ25w8iCsEoRJ"
         },
         {
             "track_id": "0U55koroJZzoNEX8B8FMO9",
@@ -550,16 +500,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2013-10-25T15:02:29Z",
             "uri": "spotify:track:4ePfWF9AE2AnyUIdBg2SuK"
-        },
-        {
-            "track_id": "1e11E57VFfuU4jHpjDnRlO",
-            "track_name": "Back To December",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 293040,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2013-10-25T15:02:30Z",
-            "uri": "spotify:track:1e11E57VFfuU4jHpjDnRlO"
         },
         {
             "track_id": "7gWujq7zwdGfExh2a10FeF",
@@ -3000,6 +2940,66 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2017-06-30T01:02:46Z",
             "uri": "spotify:track:5zMCVOE672AEsKkStg8Gl3"
+        },
+        {
+            "track_id": "6jizk5lOUnfpaZXYMdfeC6",
+            "track_name": "Trumpets",
+            "track_artist": "Jason Derulo",
+            "track_album": "Tattoos",
+            "track_duration": 217306,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2017-06-30T01:02:46Z",
+            "uri": "spotify:track:6jizk5lOUnfpaZXYMdfeC6"
+        },
+        {
+            "track_id": "5mQNY6pTeSDl2doFB7uLbE",
+            "track_name": "Kids",
+            "track_artist": "OneRepublic",
+            "track_album": "Oh My My",
+            "track_duration": 238386,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2017-06-30T01:02:46Z",
+            "uri": "spotify:track:5mQNY6pTeSDl2doFB7uLbE"
+        },
+        {
+            "track_id": "3ug4KguxOFtVOpq2zDY6uh",
+            "track_name": "El Pr\u00f3ximo Viernes - Live Version",
+            "track_artist": "Thalia",
+            "track_album": "Thalia En Primera Fila",
+            "track_duration": 249360,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2017-06-30T01:02:46Z",
+            "uri": "spotify:track:3ug4KguxOFtVOpq2zDY6uh"
+        },
+        {
+            "track_id": "1CQ2cMfrmFM1YdfmjENKVE",
+            "track_name": "She Looks So Perfect",
+            "track_artist": "5 Seconds of Summer",
+            "track_album": "5 Seconds Of Summer",
+            "track_duration": 202496,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2017-06-30T01:02:46Z",
+            "uri": "spotify:track:1CQ2cMfrmFM1YdfmjENKVE"
+        },
+        {
+            "track_id": "3dhjNA0jGA8vHBQ1VdD6vV",
+            "track_name": "I Feel It Coming",
+            "track_artist": "The Weeknd",
+            "track_album": "Starboy",
+            "track_duration": 269186,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2017-06-30T01:02:46Z",
+            "uri": "spotify:track:3dhjNA0jGA8vHBQ1VdD6vV"
+        },
+        {
+            "track_id": "2YMyVYNLmFDD0KGtNkkgFa",
+            "track_name": "Kissing Strangers",
+            "track_artist": "DNCE",
+            "track_album": "Kissing Strangers",
+            "track_duration": 202480,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2017-06-30T01:02:46Z",
+            "uri": "spotify:track:2YMyVYNLmFDD0KGtNkkgFa"
         }
     ]
 }
