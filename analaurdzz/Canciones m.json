@@ -1,0 +1,35 @@
+{
+    "id": "09WnCYqY4KKSKN4E1mpoxS",
+    "tracks": [
+        {
+            "track_id": "24lqVtYdnA1NhYd37XFOPb",
+            "track_name": "No digas nada",
+            "track_artist": "LATIN MAFIA",
+            "track_album": "No digas nada",
+            "track_duration": 222545,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T22:37:54Z",
+            "uri": "spotify:track:24lqVtYdnA1NhYd37XFOPb"
+        },
+        {
+            "track_id": "1QgY3dbddC41h8cBm9lxKd",
+            "track_name": "Julieta",
+            "track_artist": "LATIN MAFIA",
+            "track_album": "Julieta",
+            "track_duration": 210413,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T22:37:59Z",
+            "uri": "spotify:track:1QgY3dbddC41h8cBm9lxKd"
+        },
+        {
+            "track_id": "4hSnduLsZ7sDBxaBzxkNFT",
+            "track_name": "Mala buena suerte",
+            "track_artist": "LATIN MAFIA",
+            "track_album": "Mala buena suerte",
+            "track_duration": 165333,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-11T22:38:02Z",
+            "uri": "spotify:track:4hSnduLsZ7sDBxaBzxkNFT"
+        }
+    ]
+}
