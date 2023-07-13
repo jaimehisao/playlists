@@ -522,16 +522,6 @@
             "uri": "spotify:track:7b3k8I1fncAzbk9PHnLkbX"
         },
         {
-            "track_id": "0lvdP6cLKB7FdM5tQh0zzk",
-            "track_name": "Sat\u00e9lite",
-            "track_artist": "SERBIA",
-            "track_album": "Sat\u00e9lites",
-            "track_duration": 249520,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-02-20T15:21:23Z",
-            "uri": "spotify:track:0lvdP6cLKB7FdM5tQh0zzk"
-        },
-        {
             "track_id": "6jA8JUuPCGYjFcgw0AoM5T",
             "track_name": "Me Niego (feat. Ozuna & Wisin)",
             "track_artist": "Reik",
@@ -1330,16 +1320,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2019-06-11T00:33:02Z",
             "uri": "spotify:track:44td4RZLrXX00qlN3swpSn"
-        },
-        {
-            "track_id": "3Ga6eKrUFf12ouh9Yw3v2D",
-            "track_name": "Downtown",
-            "track_artist": "Anitta",
-            "track_album": "Downtown",
-            "track_duration": 193456,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2019-06-11T00:33:09Z",
-            "uri": "spotify:track:3Ga6eKrUFf12ouh9Yw3v2D"
         },
         {
             "track_id": "7BuHdm4lQqcyG3qTwdkxus",
@@ -2970,6 +2950,36 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-07-04T03:29:42Z",
             "uri": "spotify:track:798ahLNEcoFER7Vywg1FMT"
+        },
+        {
+            "track_id": "2q9udNV9NK0BL3q9p6TLxf",
+            "track_name": "Procura",
+            "track_artist": "ChiChi Peralta",
+            "track_album": "Pa' Otro La 'O",
+            "track_duration": 271031,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-05T18:35:04Z",
+            "uri": "spotify:track:2q9udNV9NK0BL3q9p6TLxf"
+        },
+        {
+            "track_id": "0D5AiwyGN6UdrGNThCQgC3",
+            "track_name": "Amores Como el Nuestro",
+            "track_artist": "Los Charros",
+            "track_album": "Corazon de Papel (Edicion Especial Remasterizada)",
+            "track_duration": 196306,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-08T20:34:59Z",
+            "uri": "spotify:track:0D5AiwyGN6UdrGNThCQgC3"
+        },
+        {
+            "track_id": "7256yGEwDkqs39TKHTeXik",
+            "track_name": "Me Volv\u00ed A Acordar De Ti",
+            "track_artist": "Los Angeles De Charly",
+            "track_album": "Te Voy A Enamorar",
+            "track_duration": 237093,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-09T20:27:36Z",
+            "uri": "spotify:track:7256yGEwDkqs39TKHTeXik"
         }
     ]
 }
