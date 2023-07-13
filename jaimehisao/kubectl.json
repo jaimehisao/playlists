@@ -702,16 +702,6 @@
             "uri": "spotify:track:2ST72jD2KVe7f3fbcGyX1b"
         },
         {
-            "track_id": "6qMf3eqbmToDXj7LixyK1w",
-            "track_name": "Sl\u00e5 hjerte, sl\u00e5",
-            "track_artist": "Chris Holsten",
-            "track_album": "Bak en fasade",
-            "track_duration": 197100,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2023-03-28T00:01:56Z",
-            "uri": "spotify:track:6qMf3eqbmToDXj7LixyK1w"
-        },
-        {
             "track_id": "7ASFZh1D0DPZro7UXUKGmd",
             "track_name": "Loving Is Easy",
             "track_artist": "Rex Orange County",
@@ -1200,6 +1190,56 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-07-07T23:32:39Z",
             "uri": "spotify:track:49MHCPzvMLXhRjDantBMVH"
+        },
+        {
+            "track_id": "6F67FNdOBNMFzxdj1CQ5pL",
+            "track_name": "Lavender Haze - Snakehips Remix",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lavender Haze (Remixes)",
+            "track_duration": 187510,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-12T07:51:02Z",
+            "uri": "spotify:track:6F67FNdOBNMFzxdj1CQ5pL"
+        },
+        {
+            "track_id": "19Ym5Sg0YyOCa6ao21bdoG",
+            "track_name": "Gypsy",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Greatest Hits",
+            "track_duration": 264906,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-12T13:13:00Z",
+            "uri": "spotify:track:19Ym5Sg0YyOCa6ao21bdoG"
+        },
+        {
+            "track_id": "1SShxVVBeZBCY7WddnksPz",
+            "track_name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
+            "track_artist": "Crystal Waters",
+            "track_album": "Surprise",
+            "track_duration": 451826,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-12T14:20:04Z",
+            "uri": "spotify:track:1SShxVVBeZBCY7WddnksPz"
+        },
+        {
+            "track_id": "1QxIFMs4M8qd5cbJJu80v4",
+            "track_name": "Skyline",
+            "track_artist": "Khalid",
+            "track_album": "Skyline",
+            "track_duration": 182895,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-12T15:12:20Z",
+            "uri": "spotify:track:1QxIFMs4M8qd5cbJJu80v4"
+        },
+        {
+            "track_id": "7LgOkzv8NTDeInrCLJnNru",
+            "track_name": "Heartbreak On The Dancefloor (feat. Frances)",
+            "track_artist": "SG Lewis",
+            "track_album": "times",
+            "track_duration": 195853,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-12T15:13:15Z",
+            "uri": "spotify:track:7LgOkzv8NTDeInrCLJnNru"
         }
     ]
 }
