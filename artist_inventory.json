@@ -1599,16 +1599,6 @@
         "type": "artist",
         "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
     },
-    "63Dir7MyAhpGcHU3rOh3uF": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        },
-        "href": "https://api.spotify.com/v1/artists/63Dir7MyAhpGcHU3rOh3uF",
-        "id": "63Dir7MyAhpGcHU3rOh3uF",
-        "name": "Chris Holsten",
-        "type": "artist",
-        "uri": "spotify:artist:63Dir7MyAhpGcHU3rOh3uF"
-    },
     "4gHcu2JoaXJ0mV4aNPCd7N": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
@@ -2048,6 +2038,46 @@
         "name": "Snakehips",
         "type": "artist",
         "uri": "spotify:artist:2FwJwEswyIUAljqgjNSHgP"
+    },
+    "2sd9Q3r0Jhqpe3w9WVuG43": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        },
+        "href": "https://api.spotify.com/v1/artists/2sd9Q3r0Jhqpe3w9WVuG43",
+        "id": "2sd9Q3r0Jhqpe3w9WVuG43",
+        "name": "Crystal Waters",
+        "type": "artist",
+        "uri": "spotify:artist:2sd9Q3r0Jhqpe3w9WVuG43"
+    },
+    "4zs2Vybqo9ktD8QORpnHfI": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
+        },
+        "href": "https://api.spotify.com/v1/artists/4zs2Vybqo9ktD8QORpnHfI",
+        "id": "4zs2Vybqo9ktD8QORpnHfI",
+        "name": "The Basement Boys",
+        "type": "artist",
+        "uri": "spotify:artist:4zs2Vybqo9ktD8QORpnHfI"
+    },
+    "0GG2cWaonE4JPrjcCCQ1EG": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        "href": "https://api.spotify.com/v1/artists/0GG2cWaonE4JPrjcCCQ1EG",
+        "id": "0GG2cWaonE4JPrjcCCQ1EG",
+        "name": "SG Lewis",
+        "type": "artist",
+        "uri": "spotify:artist:0GG2cWaonE4JPrjcCCQ1EG"
+    },
+    "4m6VmvHDXWmVdIw6EJGQ86": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        },
+        "href": "https://api.spotify.com/v1/artists/4m6VmvHDXWmVdIw6EJGQ86",
+        "id": "4m6VmvHDXWmVdIw6EJGQ86",
+        "name": "Frances",
+        "type": "artist",
+        "uri": "spotify:artist:4m6VmvHDXWmVdIw6EJGQ86"
     },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
@@ -5158,16 +5188,6 @@
         "name": "CLUBZ",
         "type": "artist",
         "uri": "spotify:artist:6MoZZABXeQwEmzmcwICxwK"
-    },
-    "0GG2cWaonE4JPrjcCCQ1EG": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        "href": "https://api.spotify.com/v1/artists/0GG2cWaonE4JPrjcCCQ1EG",
-        "id": "0GG2cWaonE4JPrjcCCQ1EG",
-        "name": "SG Lewis",
-        "type": "artist",
-        "uri": "spotify:artist:0GG2cWaonE4JPrjcCCQ1EG"
     },
     "2Rx84pqygIYad4A1PaHu1l": {
         "external_urls": {
@@ -10748,26 +10768,6 @@
         "name": "Philip Bailey",
         "type": "artist",
         "uri": "spotify:artist:6ZNeppgfBLPUyugks9Yn1u"
-    },
-    "2sd9Q3r0Jhqpe3w9WVuG43": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        },
-        "href": "https://api.spotify.com/v1/artists/2sd9Q3r0Jhqpe3w9WVuG43",
-        "id": "2sd9Q3r0Jhqpe3w9WVuG43",
-        "name": "Crystal Waters",
-        "type": "artist",
-        "uri": "spotify:artist:2sd9Q3r0Jhqpe3w9WVuG43"
-    },
-    "4zs2Vybqo9ktD8QORpnHfI": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
-        },
-        "href": "https://api.spotify.com/v1/artists/4zs2Vybqo9ktD8QORpnHfI",
-        "id": "4zs2Vybqo9ktD8QORpnHfI",
-        "name": "The Basement Boys",
-        "type": "artist",
-        "uri": "spotify:artist:4zs2Vybqo9ktD8QORpnHfI"
     },
     "4VhL8KLjVso4vLfOLVViTb": {
         "external_urls": {
@@ -60807,6 +60807,16 @@
         "type": "artist",
         "uri": "spotify:artist:4Xj0nxVO4r7PLEaw7LRiBa"
     },
+    "2JfbhY0uEDLi1d89RzdU9S": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        },
+        "href": "https://api.spotify.com/v1/artists/2JfbhY0uEDLi1d89RzdU9S",
+        "id": "2JfbhY0uEDLi1d89RzdU9S",
+        "name": "AMORE",
+        "type": "artist",
+        "uri": "spotify:artist:2JfbhY0uEDLi1d89RzdU9S"
+    },
     "3xNhaqwvNIAP57dWgMTP1d": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
@@ -62207,16 +62217,6 @@
         "type": "artist",
         "uri": "spotify:artist:3qBKjEOanahMxlRojwCzhI"
     },
-    "1cxtdWSZf8BrugnXpQwYSS": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1cxtdWSZf8BrugnXpQwYSS"
-        },
-        "href": "https://api.spotify.com/v1/artists/1cxtdWSZf8BrugnXpQwYSS",
-        "id": "1cxtdWSZf8BrugnXpQwYSS",
-        "name": "Souldrop",
-        "type": "artist",
-        "uri": "spotify:artist:1cxtdWSZf8BrugnXpQwYSS"
-    },
     "6vqMDhoigg5btfdPsPTVFt": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
@@ -62486,6 +62486,16 @@
         "name": "Geneva White",
         "type": "artist",
         "uri": "spotify:artist:0Rl3CB2zYJm6AZId0wM9dA"
+    },
+    "3S4d3YRNGg2OhnNm3QvfhA": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3S4d3YRNGg2OhnNm3QvfhA",
+        "id": "3S4d3YRNGg2OhnNm3QvfhA",
+        "name": "slenderbodies",
+        "type": "artist",
+        "uri": "spotify:artist:3S4d3YRNGg2OhnNm3QvfhA"
     },
     "5unwqQMjG8g30ziAeMl9Yf": {
         "external_urls": {
