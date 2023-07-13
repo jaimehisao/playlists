@@ -185,7 +185,7 @@
             "track_id": "7pzVqCZdYKM7oEPwaiQchB",
             "track_name": "Eyes Without A Face - Remastered 1999",
             "track_artist": "Billy Idol",
-            "track_album": "The Very Best Of Billy Idol: Idolize Yourself",
+            "track_album": "Idolize Yourself: The Very Best Of Billy Idol",
             "track_duration": 298280,
             "track_added_by": "mariomoo",
             "track_added_at": "2022-07-16T05:46:32Z",
@@ -1280,6 +1280,26 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-06-29T04:04:56Z",
             "uri": "spotify:track:3nUrhP3KuK4R1qdxRk2Kgo"
+        },
+        {
+            "track_id": "05wIrZSwuaVWhcv5FfqeH0",
+            "track_name": "Walking On Sunshine",
+            "track_artist": "Katrina & The Waves",
+            "track_album": "Katrina & The Waves",
+            "track_duration": 238733,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-07T21:38:30Z",
+            "uri": "spotify:track:05wIrZSwuaVWhcv5FfqeH0"
+        },
+        {
+            "track_id": "2x5IXUFOcvvBUtEpnCBNlp",
+            "track_name": "Alive And Kicking",
+            "track_artist": "Simple Minds",
+            "track_album": "Once Upon A Time (Super Deluxe)",
+            "track_duration": 289453,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-11T22:53:56Z",
+            "uri": "spotify:track:2x5IXUFOcvvBUtEpnCBNlp"
         }
     ]
 }
