@@ -1730,6 +1730,16 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-05-14T18:54:19Z",
             "uri": "spotify:track:30Zcjs7pgEkmJA1lEbGSWT"
+        },
+        {
+            "track_id": "1uNePI826aqh9uC9pgbeHU",
+            "track_name": "Tia Tamera (feat. Rico Nasty)",
+            "track_artist": "Doja Cat",
+            "track_album": "Amala (Deluxe Version)",
+            "track_duration": 211013,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-10T21:31:51Z",
+            "uri": "spotify:track:1uNePI826aqh9uC9pgbeHU"
         }
     ]
 }
