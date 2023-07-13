@@ -252,14 +252,14 @@
             "uri": "spotify:track:07NxDD1iKCHbAldceD7QLP"
         },
         {
-            "track_id": "3lXekiVK1ZPZbKconsys73",
-            "track_name": "The Story Of Us",
+            "track_id": "6dTA6y0C2ReQklntzZl8l3",
+            "track_name": "The Story Of Us (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 265680,
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 267653,
             "track_added_by": "anazerm28",
-            "track_added_at": "2022-04-03T19:20:28Z",
-            "uri": "spotify:track:3lXekiVK1ZPZbKconsys73"
+            "track_added_at": "2023-07-07T04:18:51Z",
+            "uri": "spotify:track:6dTA6y0C2ReQklntzZl8l3"
         },
         {
             "track_id": "3rWDp9tBPQR9z6U5YyRSK4",
@@ -270,6 +270,26 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-02-27T22:49:02Z",
             "uri": "spotify:track:3rWDp9tBPQR9z6U5YyRSK4"
+        },
+        {
+            "track_id": "1zU8j1x3yi9xalMF96pzKp",
+            "track_name": "Dear John (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 405906,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-07T04:19:08Z",
+            "uri": "spotify:track:1zU8j1x3yi9xalMF96pzKp"
+        },
+        {
+            "track_id": "79uDOz0zuuWS7HWxzMmTa2",
+            "track_name": "Back To December (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 294189,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-07T04:19:29Z",
+            "uri": "spotify:track:79uDOz0zuuWS7HWxzMmTa2"
         }
     ]
 }
