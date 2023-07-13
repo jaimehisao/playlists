@@ -362,16 +362,6 @@
             "uri": "spotify:track:7jxmPJ4F8Gh54tSJhA8Cqg"
         },
         {
-            "track_id": "689Hm8cMb5ZNRwv1fr4QUn",
-            "track_name": "Things I've Learned - AUST Remix",
-            "track_artist": "BRKLYN",
-            "track_album": "Things I've Learned (AUST Remix)",
-            "track_duration": 273277,
-            "track_added_by": "mariomoo",
-            "track_added_at": "2022-07-07T17:15:17Z",
-            "uri": "spotify:track:689Hm8cMb5ZNRwv1fr4QUn"
-        },
-        {
             "track_id": "4F8wogXmIgCXEsi1FK0gH4",
             "track_name": "HEART ATTACK",
             "track_artist": "BRONSON",
@@ -2064,7 +2054,7 @@
         {
             "track_id": "6pR0LSU0EAwvfEa9ocQ1aV",
             "track_name": "Pueblo",
-            "track_artist": "Hugo",
+            "track_artist": "Hugo Santini",
             "track_album": "Pueblo",
             "track_duration": 103220,
             "track_added_by": "mariomoo",
@@ -2130,16 +2120,6 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-05-14T20:21:41Z",
             "uri": "spotify:track:4VJRH6rxf9BkGYUsadAXdN"
-        },
-        {
-            "track_id": "5wZPSp0UMm8hexjBO5KMbb",
-            "track_name": "Want It All (feat. Evalyn) [No Rome Remix]",
-            "track_artist": "Jai Wolf",
-            "track_album": "Want It All (feat. Evalyn) [No Rome Remix]",
-            "track_duration": 197250,
-            "track_added_by": "mariomoo",
-            "track_added_at": "2023-05-14T20:23:38Z",
-            "uri": "spotify:track:5wZPSp0UMm8hexjBO5KMbb"
         },
         {
             "track_id": "3nXFJJmhSKF4fTUNVcmAG2",
@@ -2310,6 +2290,46 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-07-02T22:07:30Z",
             "uri": "spotify:track:7B6mFdzHolEYKtTGtEXAuc"
+        },
+        {
+            "track_id": "6MDlxzbFeXvy7n7Kd35E5K",
+            "track_name": "show me",
+            "track_artist": "San Holo",
+            "track_album": "album1",
+            "track_duration": 341475,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-09T19:28:31Z",
+            "uri": "spotify:track:6MDlxzbFeXvy7n7Kd35E5K"
+        },
+        {
+            "track_id": "6bfyfZ0UV3K9Broh54iXaw",
+            "track_name": "Stop Thinking (feat. Lights)",
+            "track_artist": "Seven Lions",
+            "track_album": "Stop Thinking (feat. Lights)",
+            "track_duration": 292633,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-09T19:47:41Z",
+            "uri": "spotify:track:6bfyfZ0UV3K9Broh54iXaw"
+        },
+        {
+            "track_id": "4c37fNeMZH98oIqGYVGF0o",
+            "track_name": "Memories",
+            "track_artist": "The Midnight",
+            "track_album": "Endless Summer",
+            "track_duration": 379100,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-12T05:04:02Z",
+            "uri": "spotify:track:4c37fNeMZH98oIqGYVGF0o"
+        },
+        {
+            "track_id": "4PMmwowVLOajPdiKnrU1vK",
+            "track_name": "Sunset",
+            "track_artist": "The Midnight",
+            "track_album": "Endless Summer",
+            "track_duration": 326520,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-12T05:04:09Z",
+            "uri": "spotify:track:4PMmwowVLOajPdiKnrU1vK"
         }
     ]
 }
