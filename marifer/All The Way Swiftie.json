@@ -142,146 +142,6 @@
             "uri": "spotify:track:0YgHuReCSPwTXYny7isLja"
         },
         {
-            "track_id": "0GxW5K0qzrq7L1jwSY5OmY",
-            "track_name": "Mine - POP Mix",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 230546,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:0GxW5K0qzrq7L1jwSY5OmY"
-        },
-        {
-            "track_id": "46NGAvL695VnbcSeTmQWmM",
-            "track_name": "Sparks Fly",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 260946,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:46NGAvL695VnbcSeTmQWmM"
-        },
-        {
-            "track_id": "5l6GqSxplqnZbLg0LTPQeG",
-            "track_name": "Back To December",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 293040,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:5l6GqSxplqnZbLg0LTPQeG"
-        },
-        {
-            "track_id": "7dXKdjpOaH2iwfFKmUj7aq",
-            "track_name": "Speak Now",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 240773,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:7dXKdjpOaH2iwfFKmUj7aq"
-        },
-        {
-            "track_id": "3K2es3gElMRJ3qvmPW442g",
-            "track_name": "Dear John",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 403933,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:3K2es3gElMRJ3qvmPW442g"
-        },
-        {
-            "track_id": "0KztjtD3ytzgYjUKIVfBnW",
-            "track_name": "Mean",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 237746,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:0KztjtD3ytzgYjUKIVfBnW"
-        },
-        {
-            "track_id": "3lXekiVK1ZPZbKconsys73",
-            "track_name": "The Story Of Us",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 265680,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:3lXekiVK1ZPZbKconsys73"
-        },
-        {
-            "track_id": "3JilapcaOXzjR9gtvCY8FO",
-            "track_name": "Never Grow Up",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 290480,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:3JilapcaOXzjR9gtvCY8FO"
-        },
-        {
-            "track_id": "04S1pkp1VaIqjg8zZqknR5",
-            "track_name": "Enchanted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 352200,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
-        },
-        {
-            "track_id": "0PWgAyoxsjwGRuFSO0fyya",
-            "track_name": "Better Than Revenge",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 217173,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:0PWgAyoxsjwGRuFSO0fyya"
-        },
-        {
-            "track_id": "0mTgFzkDgSAF3nJY25XCXG",
-            "track_name": "Innocent",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 302266,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:0mTgFzkDgSAF3nJY25XCXG"
-        },
-        {
-            "track_id": "2YjKcFQ1vYFhQPgsmCOjss",
-            "track_name": "Haunted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 242093,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:2YjKcFQ1vYFhQPgsmCOjss"
-        },
-        {
-            "track_id": "4EUQXLipplO2v9mVaqQtjc",
-            "track_name": "Last Kiss",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 367146,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:4EUQXLipplO2v9mVaqQtjc"
-        },
-        {
-            "track_id": "4ewAfHYpDTzpW1GKO44CVP",
-            "track_name": "Long Live",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 317960,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:14:59Z",
-            "uri": "spotify:track:4ewAfHYpDTzpW1GKO44CVP"
-        },
-        {
             "track_id": "3nRmDz7qGCvsMS30rGGY0x",
             "track_name": "Welcome To New York",
             "track_artist": "Taylor Swift",
@@ -1940,6 +1800,226 @@
             "track_added_by": "marifer_salas",
             "track_added_at": "2023-04-30T17:04:33Z",
             "uri": "spotify:track:0kAZ3H6G9Zac4PMpmobMkj"
+        },
+        {
+            "track_id": "7G0gBu6nLdhFDPRLc0HdDG",
+            "track_name": "Mine (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 231706,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:7G0gBu6nLdhFDPRLc0HdDG"
+        },
+        {
+            "track_id": "3MytWN8L7shNYzGl4tAKRp",
+            "track_name": "Sparks Fly (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 261230,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:3MytWN8L7shNYzGl4tAKRp"
+        },
+        {
+            "track_id": "79uDOz0zuuWS7HWxzMmTa2",
+            "track_name": "Back To December (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 294189,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:79uDOz0zuuWS7HWxzMmTa2"
+        },
+        {
+            "track_id": "5xXqyjLicvEpch72qEryFT",
+            "track_name": "Speak Now (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 242473,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:5xXqyjLicvEpch72qEryFT"
+        },
+        {
+            "track_id": "1zU8j1x3yi9xalMF96pzKp",
+            "track_name": "Dear John (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 405906,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:1zU8j1x3yi9xalMF96pzKp"
+        },
+        {
+            "track_id": "30Y4CV7A6YqtQtTTo7Ue4j",
+            "track_name": "Mean (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 238693,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:30Y4CV7A6YqtQtTTo7Ue4j"
+        },
+        {
+            "track_id": "6dTA6y0C2ReQklntzZl8l3",
+            "track_name": "The Story Of Us (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 267653,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:6dTA6y0C2ReQklntzZl8l3"
+        },
+        {
+            "track_id": "2EFZ9emtKWEglWUQGEQ3P9",
+            "track_name": "Never Grow Up (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 292920,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:2EFZ9emtKWEglWUQGEQ3P9"
+        },
+        {
+            "track_id": "3sW3oSbzsfecv9XoUdGs7h",
+            "track_name": "Enchanted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 353253,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h"
+        },
+        {
+            "track_id": "0NwGC0v03ysCYINtg6ns58",
+            "track_name": "Better Than Revenge (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 220306,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:0NwGC0v03ysCYINtg6ns58"
+        },
+        {
+            "track_id": "12nBPF4Rh4XLFJV0YLN7uj",
+            "track_name": "Innocent (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 301221,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:12nBPF4Rh4XLFJV0YLN7uj"
+        },
+        {
+            "track_id": "4tMzIAFTFdqGBQLdfbPces",
+            "track_name": "Haunted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 245413,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:4tMzIAFTFdqGBQLdfbPces"
+        },
+        {
+            "track_id": "59KOoHFcw5XfICnO57holu",
+            "track_name": "Last Kiss (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 369120,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:59KOoHFcw5XfICnO57holu"
+        },
+        {
+            "track_id": "4hqJ4bSlYJOXb6Z4SRmzxs",
+            "track_name": "Long Live (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 317960,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs"
+        },
+        {
+            "track_id": "3yNJkriPzWjkkDAWHIAVUq",
+            "track_name": "Ours (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 235803,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:3yNJkriPzWjkkDAWHIAVUq"
+        },
+        {
+            "track_id": "4evLyY5Ue1Wesc61t2KXAU",
+            "track_name": "Superman (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 274945,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:4evLyY5Ue1Wesc61t2KXAU"
+        },
+        {
+            "track_id": "4e3ZNTAV6PCrdYMUrUlMpQ",
+            "track_name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 266466,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:4e3ZNTAV6PCrdYMUrUlMpQ"
+        },
+        {
+            "track_id": "0zo975x58DlXbZllWvfYhg",
+            "track_name": "When Emma Falls in Love (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 252385,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:0zo975x58DlXbZllWvfYhg"
+        },
+        {
+            "track_id": "5kHMfzgLZP95O9NBy0ku4v",
+            "track_name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 273186,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:5kHMfzgLZP95O9NBy0ku4v"
+        },
+        {
+            "track_id": "4ABYxlb92WBIjHu7TIKmml",
+            "track_name": "Castles Crumbling (feat. Hayley Williams) (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 306062,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:4ABYxlb92WBIjHu7TIKmml"
+        },
+        {
+            "track_id": "4s8BIKx4Zh6ryAEz8RTlaU",
+            "track_name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 311765,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU"
+        },
+        {
+            "track_id": "1HCdems7PQZRj42QDWLA0A",
+            "track_name": "Timeless (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 321396,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-07-09T15:26:15Z",
+            "uri": "spotify:track:1HCdems7PQZRj42QDWLA0A"
         }
     ]
 }
