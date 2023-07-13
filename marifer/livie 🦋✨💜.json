@@ -180,6 +180,16 @@
             "track_added_by": "marifer_salas",
             "track_added_at": "2021-09-02T19:38:20Z",
             "uri": "spotify:track:3qxzozdGFaBxQ0X4HkrMr0"
+        },
+        {
+            "track_id": "3k79jB4aGmMDUQzEwa46Rz",
+            "track_name": "vampire",
+            "track_artist": "Olivia Rodrigo",
+            "track_album": "vampire",
+            "track_duration": 219724,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-06-30T15:50:24Z",
+            "uri": "spotify:track:3k79jB4aGmMDUQzEwa46Rz"
         }
     ]
 }
