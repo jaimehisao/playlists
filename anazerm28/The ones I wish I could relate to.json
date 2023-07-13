@@ -142,14 +142,14 @@
             "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
         },
         {
-            "track_id": "04S1pkp1VaIqjg8zZqknR5",
-            "track_name": "Enchanted",
+            "track_id": "3sW3oSbzsfecv9XoUdGs7h",
+            "track_name": "Enchanted (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "Speak Now",
-            "track_duration": 352200,
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 353253,
             "track_added_by": "anazerm28",
-            "track_added_at": "2022-03-31T20:52:29Z",
-            "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+            "track_added_at": "2023-07-07T04:14:28Z",
+            "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h"
         },
         {
             "track_id": "7HuBDWi18s4aJM8UFnNheH",
@@ -230,6 +230,16 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-03-05T22:10:23Z",
             "uri": "spotify:track:0YgHuReCSPwTXYny7isLja"
+        },
+        {
+            "track_id": "3MytWN8L7shNYzGl4tAKRp",
+            "track_name": "Sparks Fly (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 261230,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-07T04:19:24Z",
+            "uri": "spotify:track:3MytWN8L7shNYzGl4tAKRp"
         }
     ]
 }
