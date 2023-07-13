@@ -112,16 +112,6 @@
             "uri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N"
         },
         {
-            "track_id": "3sqrvkNC6IPTIXvvbx9Arw",
-            "track_name": "Enchanted",
-            "track_artist": "Taylor Swift",
-            "track_album": "Speak Now (Deluxe Package)",
-            "track_duration": 352200,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2023-06-26T21:35:50Z",
-            "uri": "spotify:track:3sqrvkNC6IPTIXvvbx9Arw"
-        },
-        {
             "track_id": "4zmKGsrXjLmljb5fTaBTot",
             "track_name": "Snow On The Beach (feat. More Lana Del Rey)",
             "track_artist": "Taylor Swift",
@@ -130,6 +120,66 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-06-26T22:42:40Z",
             "uri": "spotify:track:4zmKGsrXjLmljb5fTaBTot"
+        },
+        {
+            "track_id": "4s8BIKx4Zh6ryAEz8RTlaU",
+            "track_name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 311765,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-07T23:35:27Z",
+            "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU"
+        },
+        {
+            "track_id": "3sW3oSbzsfecv9XoUdGs7h",
+            "track_name": "Enchanted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 353253,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-08T01:44:47Z",
+            "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h"
+        },
+        {
+            "track_id": "0NwGC0v03ysCYINtg6ns58",
+            "track_name": "Better Than Revenge (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 220306,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-08T01:49:15Z",
+            "uri": "spotify:track:0NwGC0v03ysCYINtg6ns58"
+        },
+        {
+            "track_id": "7HC7R2D8WjXVcUHJyEGjRs",
+            "track_name": "Breathe (feat. Colbie Caillat) (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 263377,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-08T03:08:22Z",
+            "uri": "spotify:track:7HC7R2D8WjXVcUHJyEGjRs"
+        },
+        {
+            "track_id": "1msEuwSBneBKpVCZQcFTsU",
+            "track_name": "Forever & Always (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Fearless (Taylor's Version)",
+            "track_duration": 225328,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-08T03:25:14Z",
+            "uri": "spotify:track:1msEuwSBneBKpVCZQcFTsU"
+        },
+        {
+            "track_id": "5kHMfzgLZP95O9NBy0ku4v",
+            "track_name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 273186,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-11T01:04:06Z",
+            "uri": "spotify:track:5kHMfzgLZP95O9NBy0ku4v"
         }
     ]
 }
