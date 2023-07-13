@@ -942,16 +942,6 @@
             "uri": "spotify:track:5gH7FAegI4ahWusg7QC8Gl"
         },
         {
-            "track_id": "1MoDk4XDqdX25GXaRfXY2O",
-            "track_name": "7",
-            "track_artist": "Catfish and the Bottlemen",
-            "track_album": "The Ride",
-            "track_duration": 256306,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-05-07T07:06:23Z",
-            "uri": "spotify:track:1MoDk4XDqdX25GXaRfXY2O"
-        },
-        {
             "track_id": "4Q6Kuze3wNMQRjamyBjHUR",
             "track_name": "Rivers and Roads",
             "track_artist": "The Head And The Heart",
@@ -1860,16 +1850,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-01-08T05:21:47Z",
             "uri": "spotify:track:6PGoSes0D9eUDeeAafB2As"
-        },
-        {
-            "track_id": "6nG15lgUKuNgsLRJrk9oL8",
-            "track_name": "Out of Mind",
-            "track_artist": "Souldrop",
-            "track_album": "Out of Mind",
-            "track_duration": 208942,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-01-10T13:05:17Z",
-            "uri": "spotify:track:6nG15lgUKuNgsLRJrk9oL8"
         },
         {
             "track_id": "6lOHJvk1ss3cH42PlxyLvo",
@@ -3000,6 +2980,26 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-09-04T20:43:50Z",
             "uri": "spotify:track:5DOi1mlXw4sxrtdXXKFJr6"
+        },
+        {
+            "track_id": "3MsWJhmtAg643wU1Y5TCqh",
+            "track_name": "Treated Like The Weather",
+            "track_artist": "Slum Sociable",
+            "track_album": "Slum Sociable",
+            "track_duration": 250795,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-09-04T21:27:19Z",
+            "uri": "spotify:track:3MsWJhmtAg643wU1Y5TCqh"
+        },
+        {
+            "track_id": "7bWTJ9aXMNGoQ3rCQEjEWu",
+            "track_name": "take you home",
+            "track_artist": "slenderbodies",
+            "track_album": "take you home",
+            "track_duration": 230185,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-09-05T04:55:00Z",
+            "uri": "spotify:track:7bWTJ9aXMNGoQ3rCQEjEWu"
         }
     ]
 }
