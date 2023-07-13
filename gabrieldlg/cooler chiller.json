@@ -260,6 +260,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-28T15:02:26Z",
             "uri": "spotify:track:72altzZt47caIFhaLiLIgB"
+        },
+        {
+            "track_id": "66tkDkPsznE5zIHNt4QkXB",
+            "track_name": "Tieduprightnow",
+            "track_artist": "Parcels",
+            "track_album": "Tieduprightnow",
+            "track_duration": 249956,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-07-11T22:27:33Z",
+            "uri": "spotify:track:66tkDkPsznE5zIHNt4QkXB"
         }
     ]
 }
