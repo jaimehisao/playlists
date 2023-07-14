@@ -27409,6 +27409,36 @@
         "type": "artist",
         "uri": "spotify:artist:6XTGKOV9jceQ6f67lnhpbF"
     },
+    "52iwsT98xCoGgiGntTiR7K": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
+        "id": "52iwsT98xCoGgiGntTiR7K",
+        "name": "Quevedo",
+        "type": "artist",
+        "uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
+    },
+    "7Gi6gjaWy3DxyilpF1a8Is": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+        "id": "7Gi6gjaWy3DxyilpF1a8Is",
+        "name": "Junior H",
+        "type": "artist",
+        "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+    },
+    "12GqGscKJx3aE4t07u7eVZ": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+        "id": "12GqGscKJx3aE4t07u7eVZ",
+        "name": "Peso Pluma",
+        "type": "artist",
+        "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
     "3fCQnw6VSudXBTN5d2QP2z": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z"
@@ -32916,16 +32946,6 @@
         "name": "Mora",
         "type": "artist",
         "uri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S"
-    },
-    "52iwsT98xCoGgiGntTiR7K": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
-        "id": "52iwsT98xCoGgiGntTiR7K",
-        "name": "Quevedo",
-        "type": "artist",
-        "uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
     },
     "4yjm4SvYqC5FFuLbB6TyHr": {
         "external_urls": {
@@ -51457,6 +51477,16 @@
         "type": "artist",
         "uri": "spotify:artist:4C9L4xjlVFB6lsA9v3EfUh"
     },
+    "2E6y6es8zk2Gp6USdFX8VS": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2E6y6es8zk2Gp6USdFX8VS"
+        },
+        "href": "https://api.spotify.com/v1/artists/2E6y6es8zk2Gp6USdFX8VS",
+        "id": "2E6y6es8zk2Gp6USdFX8VS",
+        "name": "V\u00edctor y Fina",
+        "type": "artist",
+        "uri": "spotify:artist:2E6y6es8zk2Gp6USdFX8VS"
+    },
     "12d4iIvTOk7JkI6ecvc3ca": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
@@ -64257,16 +64287,6 @@
         "type": "artist",
         "uri": "spotify:artist:1NNRWkhwmcXRimFYSBpB1y"
     },
-    "12GqGscKJx3aE4t07u7eVZ": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-        "id": "12GqGscKJx3aE4t07u7eVZ",
-        "name": "Peso Pluma",
-        "type": "artist",
-        "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
-    },
     "6E4v4lnsSuO5SaQ4FNOWSA": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
@@ -66886,16 +66906,6 @@
         "name": "Intocables Del Norte",
         "type": "artist",
         "uri": "spotify:artist:66WHpx4m3XGcW1Qour5fvL"
-    },
-    "7Gi6gjaWy3DxyilpF1a8Is": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
-        "id": "7Gi6gjaWy3DxyilpF1a8Is",
-        "name": "Junior H",
-        "type": "artist",
-        "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
     },
     "0elWFr7TW8piilVRYJUe4P": {
         "external_urls": {
