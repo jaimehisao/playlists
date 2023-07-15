@@ -64357,6 +64357,16 @@
         "type": "artist",
         "uri": "spotify:artist:1poWksyUHxANlcdBLPhsV9"
     },
+    "5XJDexmWFLWOkjOEjOVX3e": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        "href": "https://api.spotify.com/v1/artists/5XJDexmWFLWOkjOEjOVX3e",
+        "id": "5XJDexmWFLWOkjOEjOVX3e",
+        "name": "Eladio Carrion",
+        "type": "artist",
+        "uri": "spotify:artist:5XJDexmWFLWOkjOEjOVX3e"
+    },
     "42PLkpL4mM4Szp7fiyj15X": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
@@ -66647,16 +66657,6 @@
         "type": "artist",
         "uri": "spotify:artist:7LikFezeadIOOH8CCBbEL5"
     },
-    "5XJDexmWFLWOkjOEjOVX3e": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        "href": "https://api.spotify.com/v1/artists/5XJDexmWFLWOkjOEjOVX3e",
-        "id": "5XJDexmWFLWOkjOEjOVX3e",
-        "name": "Eladio Carrion",
-        "type": "artist",
-        "uri": "spotify:artist:5XJDexmWFLWOkjOEjOVX3e"
-    },
     "7yTZWEdEJE8raacRDmTYx2": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/7yTZWEdEJE8raacRDmTYx2"
@@ -67216,6 +67216,16 @@
         "name": "Young Nudy",
         "type": "artist",
         "uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1"
+    },
+    "1I0tv3cE1cDIJvQpHyuCYN": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        },
+        "href": "https://api.spotify.com/v1/artists/1I0tv3cE1cDIJvQpHyuCYN",
+        "id": "1I0tv3cE1cDIJvQpHyuCYN",
+        "name": "Icandy",
+        "type": "artist",
+        "uri": "spotify:artist:1I0tv3cE1cDIJvQpHyuCYN"
     },
     "4EMtGVFvfCSrEmWaGV0roE": {
         "external_urls": {
