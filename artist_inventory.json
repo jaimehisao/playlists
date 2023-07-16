@@ -2079,6 +2079,16 @@
         "type": "artist",
         "uri": "spotify:artist:4m6VmvHDXWmVdIw6EJGQ86"
     },
+    "5p7f24Rk5HkUZsaS3BLG5F": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        "href": "https://api.spotify.com/v1/artists/5p7f24Rk5HkUZsaS3BLG5F",
+        "id": "5p7f24Rk5HkUZsaS3BLG5F",
+        "name": "Hailee Steinfeld",
+        "type": "artist",
+        "uri": "spotify:artist:5p7f24Rk5HkUZsaS3BLG5F"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -56646,16 +56656,6 @@
         "name": "Bryson Tiller",
         "type": "artist",
         "uri": "spotify:artist:2EMAnMvWE2eb56ToJVfCWs"
-    },
-    "5p7f24Rk5HkUZsaS3BLG5F": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        "href": "https://api.spotify.com/v1/artists/5p7f24Rk5HkUZsaS3BLG5F",
-        "id": "5p7f24Rk5HkUZsaS3BLG5F",
-        "name": "Hailee Steinfeld",
-        "type": "artist",
-        "uri": "spotify:artist:5p7f24Rk5HkUZsaS3BLG5F"
     },
     "4olE3I5QU0dvSR7LIpqTXc": {
         "external_urls": {
