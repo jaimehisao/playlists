@@ -2089,6 +2089,16 @@
         "type": "artist",
         "uri": "spotify:artist:5p7f24Rk5HkUZsaS3BLG5F"
     },
+    "1cZQSpDsxgKIX2yW5OR9Ot": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        "href": "https://api.spotify.com/v1/artists/1cZQSpDsxgKIX2yW5OR9Ot",
+        "id": "1cZQSpDsxgKIX2yW5OR9Ot",
+        "name": "Lennon Stella",
+        "type": "artist",
+        "uri": "spotify:artist:1cZQSpDsxgKIX2yW5OR9Ot"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -16959,16 +16969,6 @@
         "type": "artist",
         "uri": "spotify:artist:45eNHdiiabvmbp4erw26rg"
     },
-    "1cZQSpDsxgKIX2yW5OR9Ot": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        "href": "https://api.spotify.com/v1/artists/1cZQSpDsxgKIX2yW5OR9Ot",
-        "id": "1cZQSpDsxgKIX2yW5OR9Ot",
-        "name": "Lennon Stella",
-        "type": "artist",
-        "uri": "spotify:artist:1cZQSpDsxgKIX2yW5OR9Ot"
-    },
     "4ZYtO7K6tpQGNgoRRseDOg": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg"
@@ -27469,6 +27469,16 @@
         "type": "artist",
         "uri": "spotify:artist:3fCQnw6VSudXBTN5d2QP2z"
     },
+    "00FQb4jTyendYWaN8pK0wa": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+        "id": "00FQb4jTyendYWaN8pK0wa",
+        "name": "Lana Del Rey",
+        "type": "artist",
+        "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    },
     "4TCXgdDPm10ensLNCVnIYa": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
@@ -27568,16 +27578,6 @@
         "name": "Niall Horan",
         "type": "artist",
         "uri": "spotify:artist:1Hsdzj7Dlq2I7tHP7501T4"
-    },
-    "00FQb4jTyendYWaN8pK0wa": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
-        "id": "00FQb4jTyendYWaN8pK0wa",
-        "name": "Lana Del Rey",
-        "type": "artist",
-        "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
     },
     "65dGLGjkw3UbddUg2GKQoZ": {
         "external_urls": {
