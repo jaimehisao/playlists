@@ -36197,6 +36197,16 @@
         "type": "artist",
         "uri": "spotify:artist:69Mj3u4FTUrpyeGNSIaU6F"
     },
+    "1Ha0Fz4i0d4gu5fZbhBCtH": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Ha0Fz4i0d4gu5fZbhBCtH",
+        "id": "1Ha0Fz4i0d4gu5fZbhBCtH",
+        "name": "Night Ranger",
+        "type": "artist",
+        "uri": "spotify:artist:1Ha0Fz4i0d4gu5fZbhBCtH"
+    },
     "47qa2xx9Xlw1oGkKbMq8Zt": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt"
@@ -65846,16 +65856,6 @@
         "name": "Nat King Cole",
         "type": "artist",
         "uri": "spotify:artist:7v4imS0moSyGdXyLgVTIV7"
-    },
-    "1Ha0Fz4i0d4gu5fZbhBCtH": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
-        },
-        "href": "https://api.spotify.com/v1/artists/1Ha0Fz4i0d4gu5fZbhBCtH",
-        "id": "1Ha0Fz4i0d4gu5fZbhBCtH",
-        "name": "Night Ranger",
-        "type": "artist",
-        "uri": "spotify:artist:1Ha0Fz4i0d4gu5fZbhBCtH"
     },
     "66QeIFuFJDNCImNHlFzrY1": {
         "external_urls": {
