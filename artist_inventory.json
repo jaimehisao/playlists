@@ -2109,6 +2109,36 @@
         "type": "artist",
         "uri": "spotify:artist:63XBtGSEZINSyXylZxEUbv"
     },
+    "6fWVd57NKTalqvmjRd2t8Z": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        "href": "https://api.spotify.com/v1/artists/6fWVd57NKTalqvmjRd2t8Z",
+        "id": "6fWVd57NKTalqvmjRd2t8Z",
+        "name": "24kGoldn",
+        "type": "artist",
+        "uri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
+    },
+    "6ASri4ePR7RlsvIQgWPJpS": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ASri4ePR7RlsvIQgWPJpS",
+        "id": "6ASri4ePR7RlsvIQgWPJpS",
+        "name": "iann dior",
+        "type": "artist",
+        "uri": "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+    },
+    "25uiPmTg16RbhZWAqwLBy5": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id": "25uiPmTg16RbhZWAqwLBy5",
+        "name": "Charli XCX",
+        "type": "artist",
+        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -17228,16 +17258,6 @@
         "name": "Lorde",
         "type": "artist",
         "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
-    },
-    "25uiPmTg16RbhZWAqwLBy5": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
-        "id": "25uiPmTg16RbhZWAqwLBy5",
-        "name": "Charli XCX",
-        "type": "artist",
-        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
     },
     "5EehXjjMktLuJmbRsM7YfB": {
         "external_urls": {
@@ -43527,16 +43547,6 @@
         "type": "artist",
         "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
     },
-    "6ASri4ePR7RlsvIQgWPJpS": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        "href": "https://api.spotify.com/v1/artists/6ASri4ePR7RlsvIQgWPJpS",
-        "id": "6ASri4ePR7RlsvIQgWPJpS",
-        "name": "iann dior",
-        "type": "artist",
-        "uri": "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
-    },
     "6Ad91Jof8Niiw0lGLLi3NW": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
@@ -66946,16 +66956,6 @@
         "name": "Skye",
         "type": "artist",
         "uri": "spotify:artist:0sHIsJteyLhBYwKgF3Vfg2"
-    },
-    "6fWVd57NKTalqvmjRd2t8Z": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        "href": "https://api.spotify.com/v1/artists/6fWVd57NKTalqvmjRd2t8Z",
-        "id": "6fWVd57NKTalqvmjRd2t8Z",
-        "name": "24kGoldn",
-        "type": "artist",
-        "uri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
     },
     "4DMkrFIqGXLycc4YLYTn1i": {
         "external_urls": {
