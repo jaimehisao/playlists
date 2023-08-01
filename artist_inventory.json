@@ -36227,6 +36227,16 @@
         "type": "artist",
         "uri": "spotify:artist:1Ha0Fz4i0d4gu5fZbhBCtH"
     },
+    "05YVYeV4HxYp5rrWalvuE1": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        "href": "https://api.spotify.com/v1/artists/05YVYeV4HxYp5rrWalvuE1",
+        "id": "05YVYeV4HxYp5rrWalvuE1",
+        "name": "Grover Washington, Jr.",
+        "type": "artist",
+        "uri": "spotify:artist:05YVYeV4HxYp5rrWalvuE1"
+    },
     "47qa2xx9Xlw1oGkKbMq8Zt": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt"
@@ -46576,16 +46586,6 @@
         "name": "Fuerza Regida",
         "type": "artist",
         "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
-    },
-    "05YVYeV4HxYp5rrWalvuE1": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        },
-        "href": "https://api.spotify.com/v1/artists/05YVYeV4HxYp5rrWalvuE1",
-        "id": "05YVYeV4HxYp5rrWalvuE1",
-        "name": "Grover Washington, Jr.",
-        "type": "artist",
-        "uri": "spotify:artist:05YVYeV4HxYp5rrWalvuE1"
     },
     "05ouAmDrGAzXD8XqYnW4Pd": {
         "external_urls": {
