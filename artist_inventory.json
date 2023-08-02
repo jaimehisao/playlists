@@ -2139,6 +2139,26 @@
         "type": "artist",
         "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
     },
+    "28y6CyJNkGNjJQKrlx4AmN": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        "href": "https://api.spotify.com/v1/artists/28y6CyJNkGNjJQKrlx4AmN",
+        "id": "28y6CyJNkGNjJQKrlx4AmN",
+        "name": "HRVY",
+        "type": "artist",
+        "uri": "spotify:artist:28y6CyJNkGNjJQKrlx4AmN"
+    },
+    "4YXycRbyyAE0wozTk7QMEq": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YXycRbyyAE0wozTk7QMEq",
+        "id": "4YXycRbyyAE0wozTk7QMEq",
+        "name": "Matoma",
+        "type": "artist",
+        "uri": "spotify:artist:4YXycRbyyAE0wozTk7QMEq"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -41306,16 +41326,6 @@
         "name": "Sub-Radio",
         "type": "artist",
         "uri": "spotify:artist:2lCUVconWp5YjxdYssfZ8J"
-    },
-    "28y6CyJNkGNjJQKrlx4AmN": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        "href": "https://api.spotify.com/v1/artists/28y6CyJNkGNjJQKrlx4AmN",
-        "id": "28y6CyJNkGNjJQKrlx4AmN",
-        "name": "HRVY",
-        "type": "artist",
-        "uri": "spotify:artist:28y6CyJNkGNjJQKrlx4AmN"
     },
     "4N8BwYTEC6XqykGvXXlmfv": {
         "external_urls": {
