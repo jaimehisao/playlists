@@ -880,6 +880,36 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-06-29T20:09:06Z",
             "uri": "spotify:track:38UYeBLfvpnDSG9GznZdnL"
+        },
+        {
+            "track_id": "6mAN61JH0dzyZpWslS11jy",
+            "track_name": "Fantasias",
+            "track_artist": "Rauw Alejandro",
+            "track_album": "Fantasias",
+            "track_duration": 199711,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-17T19:46:38Z",
+            "uri": "spotify:track:6mAN61JH0dzyZpWslS11jy"
+        },
+        {
+            "track_id": "6ifUES3keWjwXgae8pXI3o",
+            "track_name": "Me Reh\u00faso",
+            "track_artist": "Danny Ocean",
+            "track_album": "54+1",
+            "track_duration": 205714,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-20T18:50:30Z",
+            "uri": "spotify:track:6ifUES3keWjwXgae8pXI3o"
+        },
+        {
+            "track_id": "4EKZsrsCKyqr64FBHLc0DU",
+            "track_name": "Cr\u00e9eme",
+            "track_artist": "KAROL G",
+            "track_album": "OCEAN",
+            "track_duration": 214293,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-20T18:50:43Z",
+            "uri": "spotify:track:4EKZsrsCKyqr64FBHLc0DU"
         }
     ]
 }
