@@ -784,7 +784,7 @@
         {
             "track_id": "7lJt7vBDNUO8Mv8uELND1H",
             "track_name": "Sympathy For The Devil",
-            "track_artist": "The Rolling Stones",
+            "track_artist": "Keith Richards",
             "track_album": "Beggars Banquet",
             "track_duration": 377760,
             "track_added_by": "mariomoo",
@@ -1300,6 +1300,116 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-07-11T22:53:56Z",
             "uri": "spotify:track:2x5IXUFOcvvBUtEpnCBNlp"
+        },
+        {
+            "track_id": "37BTh5g05cxBIRYMbw8g2T",
+            "track_name": "Rosanna",
+            "track_artist": "TOTO",
+            "track_album": "Toto IV",
+            "track_duration": 331200,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-15T05:54:56Z",
+            "uri": "spotify:track:37BTh5g05cxBIRYMbw8g2T"
+        },
+        {
+            "track_id": "1ynmMEK1fkyiZ6Z6F3ThEt",
+            "track_name": "Centerfold",
+            "track_artist": "The J. Geils Band",
+            "track_album": "Freeze Frame",
+            "track_duration": 216533,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-27T02:48:13Z",
+            "uri": "spotify:track:1ynmMEK1fkyiZ6Z6F3ThEt"
+        },
+        {
+            "track_id": "2olVm1lHicpveMAo4AUDRB",
+            "track_name": "The Power Of Love",
+            "track_artist": "Huey Lewis & The News",
+            "track_album": "Greatest Hits: Huey Lewis And The News",
+            "track_duration": 234333,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-27T16:28:48Z",
+            "uri": "spotify:track:2olVm1lHicpveMAo4AUDRB"
+        },
+        {
+            "track_id": "1k1Bqnv2R0uJXQN4u6LKYt",
+            "track_name": "Ain't No Sunshine",
+            "track_artist": "Bill Withers",
+            "track_album": "Just As I Am",
+            "track_duration": 125093,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-27T16:29:19Z",
+            "uri": "spotify:track:1k1Bqnv2R0uJXQN4u6LKYt"
+        },
+        {
+            "track_id": "1JQ6Xm1JrvHfvAqhl5pwaA",
+            "track_name": "Easy",
+            "track_artist": "Commodores",
+            "track_album": "Commodores",
+            "track_duration": 256426,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-29T05:39:52Z",
+            "uri": "spotify:track:1JQ6Xm1JrvHfvAqhl5pwaA"
+        },
+        {
+            "track_id": "57trQKFZdJxHia4sMJioWk",
+            "track_name": "Sister Christian",
+            "track_artist": "Night Ranger",
+            "track_album": "Midnight Madness",
+            "track_duration": 302933,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-29T06:23:36Z",
+            "uri": "spotify:track:57trQKFZdJxHia4sMJioWk"
+        },
+        {
+            "track_id": "1ko2lVN0vKGUl9zrU0qSlT",
+            "track_name": "Just the Two of Us (feat. Bill Withers)",
+            "track_artist": "Grover Washington, Jr.",
+            "track_album": "Anthology",
+            "track_duration": 438493,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-31T20:43:04Z",
+            "uri": "spotify:track:1ko2lVN0vKGUl9zrU0qSlT"
+        },
+        {
+            "track_id": "6XUHsYE38CEbYunT983O9G",
+            "track_name": "Give A Little Bit",
+            "track_artist": "Supertramp",
+            "track_album": "Even In The Quietest Moments",
+            "track_duration": 248173,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-08-01T23:12:34Z",
+            "uri": "spotify:track:6XUHsYE38CEbYunT983O9G"
+        },
+        {
+            "track_id": "2hdNya0b6Cc2YJ8IyaQIWp",
+            "track_name": "Livin' Thing",
+            "track_artist": "Electric Light Orchestra",
+            "track_album": "A New World Record",
+            "track_duration": 212306,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-08-01T23:28:11Z",
+            "uri": "spotify:track:2hdNya0b6Cc2YJ8IyaQIWp"
+        },
+        {
+            "track_id": "0vOkmmJEtjuFZDzrQSFzEE",
+            "track_name": "Hit Me With Your Best Shot",
+            "track_artist": "Pat Benatar",
+            "track_album": "Crimes Of Passion",
+            "track_duration": 171266,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-08-01T23:47:23Z",
+            "uri": "spotify:track:0vOkmmJEtjuFZDzrQSFzEE"
+        },
+        {
+            "track_id": "1oYYd2gnWZYrt89EBXdFiO",
+            "track_name": "Message In A Bottle",
+            "track_artist": "The Police",
+            "track_album": "Reggatta De Blanc (Remastered 2003)",
+            "track_duration": 290280,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-08-02T20:55:28Z",
+            "uri": "spotify:track:1oYYd2gnWZYrt89EBXdFiO"
         }
     ]
 }
