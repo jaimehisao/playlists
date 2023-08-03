@@ -1042,6 +1042,16 @@
             "uri": "spotify:track:4qUijfYU8EoIWiY6oSyrgT"
         },
         {
+            "track_id": "0kAZ3H6G9Zac4PMpmobMkj",
+            "track_name": "If This Was A Movie (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "If This Was A Movie (Taylor\u2019s Version)",
+            "track_duration": 237022,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-13T21:45:18Z",
+            "uri": "spotify:track:0kAZ3H6G9Zac4PMpmobMkj"
+        },
+        {
             "track_id": "1Ov37jtRQ2YNAe8HzfczkL",
             "track_name": "Wildest Dreams (Taylor's Version)",
             "track_artist": "Taylor Swift",
@@ -1850,6 +1860,26 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-07-07T04:01:18Z",
             "uri": "spotify:track:1HCdems7PQZRj42QDWLA0A"
+        },
+        {
+            "track_id": "05kJkr80XEaZeN8kxyQoFp",
+            "track_name": "Lavender Haze - Acoustic Version",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lavender Haze (Acoustic Version)",
+            "track_duration": 174375,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-31T05:17:28Z",
+            "uri": "spotify:track:05kJkr80XEaZeN8kxyQoFp"
+        },
+        {
+            "track_id": "2d3d9xZutJjmUpntiyHt3F",
+            "track_name": "Anti-Hero - Acoustic Version",
+            "track_artist": "Taylor Swift",
+            "track_album": "Anti-Hero (Acoustic Version)",
+            "track_duration": 196473,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-31T05:24:08Z",
+            "uri": "spotify:track:2d3d9xZutJjmUpntiyHt3F"
         }
     ]
 }
