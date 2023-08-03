@@ -1074,7 +1074,7 @@
         {
             "track_id": "0Tl84qfow6Dv0PM60zoBhb",
             "track_name": "La Bomba",
-            "track_artist": "azul azul",
+            "track_artist": "Azul Azul",
             "track_album": "El Sapo",
             "track_duration": 123960,
             "track_added_by": "jaimehisao",
@@ -2300,6 +2300,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-06-29T17:40:36Z",
             "uri": "spotify:track:05iMQqncVBIm4AE26EvaTL"
+        },
+        {
+            "track_id": "4C2zOFgrXxfNGNpYQWIcaH",
+            "track_name": "Labios Compartidos",
+            "track_artist": "Man\u00e1",
+            "track_album": "Amar Es Combatir",
+            "track_duration": 317626,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-22T06:02:08Z",
+            "uri": "spotify:track:4C2zOFgrXxfNGNpYQWIcaH"
+        },
+        {
+            "track_id": "57MWRhMsRLm394pOeYup4n",
+            "track_name": "Ni\u00f1o",
+            "track_artist": "Belanova",
+            "track_album": "Dulce Beat",
+            "track_duration": 211280,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-26T08:27:44Z",
+            "uri": "spotify:track:57MWRhMsRLm394pOeYup4n"
         }
     ]
 }
