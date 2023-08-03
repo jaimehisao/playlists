@@ -51717,6 +51717,26 @@
         "type": "artist",
         "uri": "spotify:artist:4GGfAshSkqoxpZdoaHm7ky"
     },
+    "3HR1xtIsUefdFnkI1XHgeA": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3HR1xtIsUefdFnkI1XHgeA",
+        "id": "3HR1xtIsUefdFnkI1XHgeA",
+        "name": "The Dead South",
+        "type": "artist",
+        "uri": "spotify:artist:3HR1xtIsUefdFnkI1XHgeA"
+    },
+    "179MtpbgyNgeNnwNVqnn4p": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+        },
+        "href": "https://api.spotify.com/v1/artists/179MtpbgyNgeNnwNVqnn4p",
+        "id": "179MtpbgyNgeNnwNVqnn4p",
+        "name": "Avi Kaplan",
+        "type": "artist",
+        "uri": "spotify:artist:179MtpbgyNgeNnwNVqnn4p"
+    },
     "0qk9IE3icvkYLRii8qAko8": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
@@ -52136,6 +52156,26 @@
         "name": "Alessandra",
         "type": "artist",
         "uri": "spotify:artist:35HMF6Y8dSzNfeJs3X65fw"
+    },
+    "5k979N1TnPncUyqlXlaRSv": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
+        },
+        "href": "https://api.spotify.com/v1/artists/5k979N1TnPncUyqlXlaRSv",
+        "id": "5k979N1TnPncUyqlXlaRSv",
+        "name": "The Longest Johns",
+        "type": "artist",
+        "uri": "spotify:artist:5k979N1TnPncUyqlXlaRSv"
+    },
+    "3uliAYf4KyTkBpVf3BiWVv": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
+        },
+        "href": "https://api.spotify.com/v1/artists/3uliAYf4KyTkBpVf3BiWVv",
+        "id": "3uliAYf4KyTkBpVf3BiWVv",
+        "name": "SK\u00c1LD",
+        "type": "artist",
+        "uri": "spotify:artist:3uliAYf4KyTkBpVf3BiWVv"
     },
     "19xz1vcuKNjniGEftTOSSH": {
         "external_urls": {
@@ -64917,6 +64957,16 @@
         "type": "artist",
         "uri": "spotify:artist:3xYXYzm9H3RzyQgBrYwIcx"
     },
+    "6AawJaQO4i99Be2A3w7BTW": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        },
+        "href": "https://api.spotify.com/v1/artists/6AawJaQO4i99Be2A3w7BTW",
+        "id": "6AawJaQO4i99Be2A3w7BTW",
+        "name": "Middle Kids",
+        "type": "artist",
+        "uri": "spotify:artist:6AawJaQO4i99Be2A3w7BTW"
+    },
     "6HUm6AHJE0oisACMN6NNJ5": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
@@ -66236,16 +66286,6 @@
         "name": "Alexander 23",
         "type": "artist",
         "uri": "spotify:artist:6sFHvCyqklnJpXC9Nh1aag"
-    },
-    "5k979N1TnPncUyqlXlaRSv": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
-        },
-        "href": "https://api.spotify.com/v1/artists/5k979N1TnPncUyqlXlaRSv",
-        "id": "5k979N1TnPncUyqlXlaRSv",
-        "name": "The Longest Johns",
-        "type": "artist",
-        "uri": "spotify:artist:5k979N1TnPncUyqlXlaRSv"
     },
     "59KX7XUUgAOOo5IyDjca0T": {
         "external_urls": {
