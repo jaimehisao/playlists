@@ -1530,6 +1530,26 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-05-31T15:38:14Z",
             "uri": "spotify:track:6DOArmLfD3NmxhY5bV88fU"
+        },
+        {
+            "track_id": "4y2MThaI5pbc67XglcOMTE",
+            "track_name": "Ayer y hoy",
+            "track_artist": "Julio Jaramillo",
+            "track_album": "18 Valses",
+            "track_duration": 178600,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-07-16T14:27:46Z",
+            "uri": "spotify:track:4y2MThaI5pbc67XglcOMTE"
+        },
+        {
+            "track_id": "3bDOpnOmgSTVe806xFPO26",
+            "track_name": "En Todas Partes - Bolero",
+            "track_artist": "D\u00fao Irizarry de C\u00f3rdova",
+            "track_album": "Llam\u00e1ndote",
+            "track_duration": 195400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-02T05:46:10Z",
+            "uri": "spotify:track:3bDOpnOmgSTVe806xFPO26"
         }
     ]
 }
