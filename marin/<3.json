@@ -820,6 +820,36 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-04-25T16:55:40Z",
             "uri": "spotify:track:02qUbyBPoAdnhvJ4sX00Ee"
+        },
+        {
+            "track_id": "5UWTiW1EVoSaA5CWkd0Udm",
+            "track_name": "Solamente T\u00fa",
+            "track_artist": "Duelo",
+            "track_album": "Solamente T\u00fa",
+            "track_duration": 195146,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-07-20T19:54:47Z",
+            "uri": "spotify:track:5UWTiW1EVoSaA5CWkd0Udm"
+        },
+        {
+            "track_id": "2A1izwuHiZjoxyH6y6W0U4",
+            "track_name": "Eres Mi Religi\u00f3n",
+            "track_artist": "Man\u00e1",
+            "track_album": "Eres Mi Religi\u00f3n",
+            "track_duration": 267836,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-01T15:19:53Z",
+            "uri": "spotify:track:2A1izwuHiZjoxyH6y6W0U4"
+        },
+        {
+            "track_id": "2jZgzSxNSg1hTCq0ewWHGJ",
+            "track_name": "Junk Of The Heart (Happy)",
+            "track_artist": "The Kooks",
+            "track_album": "Junk Of The Heart",
+            "track_duration": 187253,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-01T16:07:40Z",
+            "uri": "spotify:track:2jZgzSxNSg1hTCq0ewWHGJ"
         }
     ]
 }
