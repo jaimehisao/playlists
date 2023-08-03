@@ -1180,6 +1180,36 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-05-01T05:59:29Z",
             "uri": "spotify:track:0De9jFjJ4eRLl7Yww2eBw1"
+        },
+        {
+            "track_id": "4eMxLQtSdgxdA1Hs6D2YuN",
+            "track_name": "In Hell I'll Be in Good Company",
+            "track_artist": "The Dead South",
+            "track_album": "Good Company",
+            "track_duration": 245320,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-03T05:09:43Z",
+            "uri": "spotify:track:4eMxLQtSdgxdA1Hs6D2YuN"
+        },
+        {
+            "track_id": "4sBXlQqVp4UpsI0wENiu88",
+            "track_name": "People Are Strange",
+            "track_artist": "The Dead South",
+            "track_album": "Easy Listening for Jerks, Pt. 2",
+            "track_duration": 191485,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-03T05:43:52Z",
+            "uri": "spotify:track:4sBXlQqVp4UpsI0wENiu88"
+        },
+        {
+            "track_id": "7BfEnLAkbIo4StVbyHdDwY",
+            "track_name": "Get Down",
+            "track_artist": "Avi Kaplan",
+            "track_album": "Get Down",
+            "track_duration": 190000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-03T05:54:55Z",
+            "uri": "spotify:track:7BfEnLAkbIo4StVbyHdDwY"
         }
     ]
 }
