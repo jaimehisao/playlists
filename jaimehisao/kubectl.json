@@ -1240,6 +1240,156 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-07-12T15:13:15Z",
             "uri": "spotify:track:7LgOkzv8NTDeInrCLJnNru"
+        },
+        {
+            "track_id": "1l4iQsOZ5sOXZPMQLvouaB",
+            "track_name": "Coast (feat. Anderson .Paak)",
+            "track_artist": "Hailee Steinfeld",
+            "track_album": "Coast",
+            "track_duration": 166720,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-16T00:48:10Z",
+            "uri": "spotify:track:1l4iQsOZ5sOXZPMQLvouaB"
+        },
+        {
+            "track_id": "1msgEd8W5hBZAOmd3s9hC0",
+            "track_name": "Lifetime",
+            "track_artist": "SG Lewis",
+            "track_album": "AudioLust & HigherLove",
+            "track_duration": 286061,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-18T00:09:29Z",
+            "uri": "spotify:track:1msgEd8W5hBZAOmd3s9hC0"
+        },
+        {
+            "track_id": "49dFIRQCQxPWgoH0m38XQ5",
+            "track_name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
+            "track_artist": "Lennon Stella",
+            "track_album": "Summer Feelings (feat. Charlie Puth)",
+            "track_duration": 160289,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-19T20:57:39Z",
+            "uri": "spotify:track:49dFIRQCQxPWgoH0m38XQ5"
+        },
+        {
+            "track_id": "7nE9H4e4uPOis5sJY39fOc",
+            "track_name": "Volare",
+            "track_artist": "Danny Ocean",
+            "track_album": "@dannocean",
+            "track_duration": 147598,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-19T23:03:07Z",
+            "uri": "spotify:track:7nE9H4e4uPOis5sJY39fOc"
+        },
+        {
+            "track_id": "2jNyJzHvoLSuI7CWAhsdhn",
+            "track_name": "good guys",
+            "track_artist": "LANY",
+            "track_album": "mama's boy",
+            "track_duration": 224933,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-25T22:20:22Z",
+            "uri": "spotify:track:2jNyJzHvoLSuI7CWAhsdhn"
+        },
+        {
+            "track_id": "2oap3QptGISyIvwKpnJJId",
+            "track_name": "Experience",
+            "track_artist": "Victoria Mon\u00e9t",
+            "track_album": "JAGUAR",
+            "track_duration": 176773,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-25T22:38:55Z",
+            "uri": "spotify:track:2oap3QptGISyIvwKpnJJId"
+        },
+        {
+            "track_id": "3xIMkM5LgbVDkpO74O3Np3",
+            "track_name": "Rush",
+            "track_artist": "Troye Sivan",
+            "track_album": "Rush",
+            "track_duration": 156391,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-26T05:22:50Z",
+            "uri": "spotify:track:3xIMkM5LgbVDkpO74O3Np3"
+        },
+        {
+            "track_id": "57MWRhMsRLm394pOeYup4n",
+            "track_name": "Ni\u00f1o",
+            "track_artist": "Belanova",
+            "track_album": "Dulce Beat",
+            "track_duration": 211280,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-26T08:27:44Z",
+            "uri": "spotify:track:57MWRhMsRLm394pOeYup4n"
+        },
+        {
+            "track_id": "6FuGJB290AQMAHTfjOYVaK",
+            "track_name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+            "track_artist": "24kGoldn",
+            "track_album": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+            "track_duration": 192745,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-31T03:56:22Z",
+            "uri": "spotify:track:6FuGJB290AQMAHTfjOYVaK"
+        },
+        {
+            "track_id": "5VxmI3IdgAxWVvUnJoLuY2",
+            "track_name": "Speed Drive (From Barbie The Album)",
+            "track_artist": "Charli XCX",
+            "track_album": "Speed Drive (From Barbie The Album)",
+            "track_duration": 117809,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-31T06:34:45Z",
+            "uri": "spotify:track:5VxmI3IdgAxWVvUnJoLuY2"
+        },
+        {
+            "track_id": "7982sGZuvo5OXsY6REzgIn",
+            "track_name": "Boom Clap",
+            "track_artist": "Charli XCX",
+            "track_album": "SUCKER",
+            "track_duration": 169866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-31T17:19:02Z",
+            "uri": "spotify:track:7982sGZuvo5OXsY6REzgIn"
+        },
+        {
+            "track_id": "2nMOodYNHBAQ3Kc1QNimZU",
+            "track_name": "Cool",
+            "track_artist": "Dua Lipa",
+            "track_album": "Future Nostalgia",
+            "track_duration": 209583,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-07-31T20:44:14Z",
+            "uri": "spotify:track:2nMOodYNHBAQ3Kc1QNimZU"
+        },
+        {
+            "track_id": "5w40ZYhbBMAlHYNDaVJIUu",
+            "track_name": "Chemical",
+            "track_artist": "Post Malone",
+            "track_album": "Chemical",
+            "track_duration": 184013,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-01T20:56:09Z",
+            "uri": "spotify:track:5w40ZYhbBMAlHYNDaVJIUu"
+        },
+        {
+            "track_id": "53kWAAfx7IopXRa31MQHB8",
+            "track_name": "Good Vibes",
+            "track_artist": "HRVY",
+            "track_album": "Good Vibes",
+            "track_duration": 170280,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-01T23:05:00Z",
+            "uri": "spotify:track:53kWAAfx7IopXRa31MQHB8"
+        },
+        {
+            "track_id": "5U0RzSPAVv4jxWkLinGLWF",
+            "track_name": "4EVER!",
+            "track_artist": "LANY",
+            "track_album": "I Loved You.",
+            "track_duration": 205094,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-02T23:36:33Z",
+            "uri": "spotify:track:5U0RzSPAVv4jxWkLinGLWF"
         }
     ]
 }
