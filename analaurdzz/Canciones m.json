@@ -30,6 +30,26 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-11T22:38:02Z",
             "uri": "spotify:track:4hSnduLsZ7sDBxaBzxkNFT"
+        },
+        {
+            "track_id": "6XbtvPmIpyCbjuT0e8cQtp",
+            "track_name": "Columbia",
+            "track_artist": "Quevedo",
+            "track_album": "Columbia",
+            "track_duration": 186000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-13T15:53:10Z",
+            "uri": "spotify:track:6XbtvPmIpyCbjuT0e8cQtp"
+        },
+        {
+            "track_id": "1haJsMtoBhHfvuM7XWuT3W",
+            "track_name": "El Azul",
+            "track_artist": "Junior H",
+            "track_album": "El Azul",
+            "track_duration": 187225,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-07-13T16:50:42Z",
+            "uri": "spotify:track:1haJsMtoBhHfvuM7XWuT3W"
         }
     ]
 }
