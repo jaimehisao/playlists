@@ -1,0 +1,25 @@
+{
+    "id": "4RjXWDLLsDQrgUZRsIYtnq",
+    "tracks": [
+        {
+            "track_id": "4xeV3emfKSxB91sqPdacdL",
+            "track_name": "Divide",
+            "track_artist": "Supertask",
+            "track_album": "Divide",
+            "track_duration": 262941,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-27T18:29:06Z",
+            "uri": "spotify:track:4xeV3emfKSxB91sqPdacdL"
+        },
+        {
+            "track_id": "7F57r3qr0Aglc8njBayrgn",
+            "track_name": "Oase",
+            "track_artist": "Mo Anando",
+            "track_album": "Late Night Essentials",
+            "track_duration": 285301,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-07-29T20:05:58Z",
+            "uri": "spotify:track:7F57r3qr0Aglc8njBayrgn"
+        }
+    ]
+}
