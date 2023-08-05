@@ -2,6 +2,206 @@
     "id": "1TZoFNpA1C9IvfGZLyULKI",
     "tracks": [
         {
+            "track_id": "0kzw2tRyuL9rzipi5ntlIy",
+            "track_name": "Shut Up and Dance",
+            "track_artist": "WALK THE MOON",
+            "track_album": "TALKING IS HARD (Expanded Edition)",
+            "track_duration": 199080,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:02:52Z",
+            "uri": "spotify:track:0kzw2tRyuL9rzipi5ntlIy"
+        },
+        {
+            "track_id": "72ojun8ufF5Y0YzssmvVHL",
+            "track_name": "D\u00e9j\u00e0 vu (feat. Sia)",
+            "track_artist": "Giorgio Moroder",
+            "track_album": "D\u00e9j\u00e0 vu",
+            "track_duration": 200026,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:03:16Z",
+            "uri": "spotify:track:72ojun8ufF5Y0YzssmvVHL"
+        },
+        {
+            "track_id": "0sooJd5WbNnnz5k6yO7FIQ",
+            "track_name": "Pompeii",
+            "track_artist": "Bastille",
+            "track_album": "All This Bad Blood",
+            "track_duration": 214147,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:03:25Z",
+            "uri": "spotify:track:0sooJd5WbNnnz5k6yO7FIQ"
+        },
+        {
+            "track_id": "5t3upx39Buo4NKmYfT3kkr",
+            "track_name": "Verge",
+            "track_artist": "Owl City",
+            "track_album": "Verge",
+            "track_duration": 213079,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:03:35Z",
+            "uri": "spotify:track:5t3upx39Buo4NKmYfT3kkr"
+        },
+        {
+            "track_id": "1gihuPhrLraKYrJMAEONyc",
+            "track_name": "Feel So Close - Radio Edit",
+            "track_artist": "Calvin Harris",
+            "track_album": "18 Months",
+            "track_duration": 206413,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:03:37Z",
+            "uri": "spotify:track:1gihuPhrLraKYrJMAEONyc"
+        },
+        {
+            "track_id": "6q2jvC1htmreAOxJwRtnUD",
+            "track_name": "International Smile",
+            "track_artist": "Katy Perry",
+            "track_album": "PRISM",
+            "track_duration": 227820,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:03:45Z",
+            "uri": "spotify:track:6q2jvC1htmreAOxJwRtnUD"
+        },
+        {
+            "track_id": "3CvRHWTTER3tsaLPAL2Yxv",
+            "track_name": "Love Me Again",
+            "track_artist": "John Newman",
+            "track_album": "Tribute (Deluxe)",
+            "track_duration": 239894,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:03:49Z",
+            "uri": "spotify:track:3CvRHWTTER3tsaLPAL2Yxv"
+        },
+        {
+            "track_id": "6tS3XVuOyu10897O3ae7bi",
+            "track_name": "California Gurls",
+            "track_artist": "Katy Perry",
+            "track_album": "Teenage Dream: The Complete Confection",
+            "track_duration": 234653,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:04:20Z",
+            "uri": "spotify:track:6tS3XVuOyu10897O3ae7bi"
+        },
+        {
+            "track_id": "3AGOgQzp0YcPH41u9p7dOp",
+            "track_name": "Glad You Came",
+            "track_artist": "The Wanted",
+            "track_album": "The Wanted (Special Edition)",
+            "track_duration": 198186,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:04:29Z",
+            "uri": "spotify:track:3AGOgQzp0YcPH41u9p7dOp"
+        },
+        {
+            "track_id": "0VYQK5I08homNvX8SRS37R",
+            "track_name": "Heroes (we could be)",
+            "track_artist": "Alesso",
+            "track_album": "Heroes (we could be)",
+            "track_duration": 209866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:04:42Z",
+            "uri": "spotify:track:0VYQK5I08homNvX8SRS37R"
+        },
+        {
+            "track_id": "1mSzZKMIPZIkn3jFV7v62b",
+            "track_name": "Gyal You A Party Animal",
+            "track_artist": "Charly Black",
+            "track_album": "Gyal You A Party Animal",
+            "track_duration": 214866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:04:47Z",
+            "uri": "spotify:track:1mSzZKMIPZIkn3jFV7v62b"
+        },
+        {
+            "track_id": "24LS4lQShWyixJ0ZrJXfJ5",
+            "track_name": "Sweet Nothing (feat. Florence Welch)",
+            "track_artist": "Calvin Harris",
+            "track_album": "18 Months",
+            "track_duration": 212560,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:05:02Z",
+            "uri": "spotify:track:24LS4lQShWyixJ0ZrJXfJ5"
+        },
+        {
+            "track_id": "6Pgkp4qUoTmJIPn7ReaGxL",
+            "track_name": "Without You (feat. Sandro Cavazza)",
+            "track_artist": "Avicii",
+            "track_album": "AV\u012aCI (01)",
+            "track_duration": 181672,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:05:20Z",
+            "uri": "spotify:track:6Pgkp4qUoTmJIPn7ReaGxL"
+        },
+        {
+            "track_id": "5L95vS64rG1YMIFm1hLjyZ",
+            "track_name": "Rollercoaster",
+            "track_artist": "Bleachers",
+            "track_album": "Strange Desire",
+            "track_duration": 188866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T05:56:26Z",
+            "uri": "spotify:track:5L95vS64rG1YMIFm1hLjyZ"
+        },
+        {
+            "track_id": "1ixphys4A3NEXp6MDScfih",
+            "track_name": "Be the One",
+            "track_artist": "Dua Lipa",
+            "track_album": "Be the One",
+            "track_duration": 202914,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T05:57:03Z",
+            "uri": "spotify:track:1ixphys4A3NEXp6MDScfih"
+        },
+        {
+            "track_id": "00BuKLSAFkaEkaVAgIMbeA",
+            "track_name": "Telephone",
+            "track_artist": "Lady Gaga",
+            "track_album": "The Fame Monster (International Deluxe)",
+            "track_duration": 220626,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T05:59:41Z",
+            "uri": "spotify:track:00BuKLSAFkaEkaVAgIMbeA"
+        },
+        {
+            "track_id": "4NnWuGQujzWUEg0uZokO5M",
+            "track_name": "Just Like Heaven",
+            "track_artist": "The Cure",
+            "track_album": "Kiss Me, Kiss Me, Kiss Me",
+            "track_duration": 212013,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:00:54Z",
+            "uri": "spotify:track:4NnWuGQujzWUEg0uZokO5M"
+        },
+        {
+            "track_id": "2WfaOiMkCvy7F5fcp2zZ8L",
+            "track_name": "Take on Me",
+            "track_artist": "a-ha",
+            "track_album": "Hunting High and Low",
+            "track_duration": 225280,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:43:31Z",
+            "uri": "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L"
+        },
+        {
+            "track_id": "7G7tgVYORlDuVprcYHuFJh",
+            "track_name": "Don't Dream It's Over",
+            "track_artist": "Crowded House",
+            "track_album": "Crowded House",
+            "track_duration": 236933,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:43:35Z",
+            "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh"
+        },
+        {
+            "track_id": "0lxt6J01WBpovNFVF87Yqa",
+            "track_name": "Friday I'm In Love",
+            "track_artist": "The Cure",
+            "track_album": "Greatest Hits",
+            "track_duration": 214400,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2020-10-29T06:43:41Z",
+            "uri": "spotify:track:0lxt6J01WBpovNFVF87Yqa"
+        },
+        {
             "track_id": "4YwbSZaYeYja8Umyt222Qf",
             "track_name": "You Can't Hurry Love - 2016 Remaster",
             "track_artist": "Phil Collins",
