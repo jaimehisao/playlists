@@ -35087,6 +35087,16 @@
         "type": "artist",
         "uri": "spotify:artist:54pgkpWVgQYbQXD8bkUP8n"
     },
+    "41DKMtAnhVo7aDeluAHDJg": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        "href": "https://api.spotify.com/v1/artists/41DKMtAnhVo7aDeluAHDJg",
+        "id": "41DKMtAnhVo7aDeluAHDJg",
+        "name": "MYRNE",
+        "type": "artist",
+        "uri": "spotify:artist:41DKMtAnhVo7aDeluAHDJg"
+    },
     "5zMJZTfga0uJURmLLymnoh": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh"
@@ -36656,6 +36666,16 @@
         "name": "J.Folk",
         "type": "artist",
         "uri": "spotify:artist:4OUfEeFLBRVOLi3o2LhH4A"
+    },
+    "5D6V4Z6oPz4waooiuBaWIf": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        "href": "https://api.spotify.com/v1/artists/5D6V4Z6oPz4waooiuBaWIf",
+        "id": "5D6V4Z6oPz4waooiuBaWIf",
+        "name": "S\u00e1tyr",
+        "type": "artist",
+        "uri": "spotify:artist:5D6V4Z6oPz4waooiuBaWIf"
     },
     "07vycW8ICLf5hKb22PFWXw": {
         "external_urls": {
