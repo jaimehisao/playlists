@@ -27559,6 +27559,16 @@
         "type": "artist",
         "uri": "spotify:artist:0AdjzZxHJ4MfbImx2rD0Df"
     },
+    "66ihevNkSYNzRAl44dx6jJ": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ",
+        "id": "66ihevNkSYNzRAl44dx6jJ",
+        "name": "Carin Leon",
+        "type": "artist",
+        "uri": "spotify:artist:66ihevNkSYNzRAl44dx6jJ"
+    },
     "3fCQnw6VSudXBTN5d2QP2z": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z"
@@ -45896,16 +45906,6 @@
         "name": "Grupo Controversia",
         "type": "artist",
         "uri": "spotify:artist:2HaFbAOPIHQbvFbxho9Zgh"
-    },
-    "66ihevNkSYNzRAl44dx6jJ": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        "href": "https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ",
-        "id": "66ihevNkSYNzRAl44dx6jJ",
-        "name": "Carin Leon",
-        "type": "artist",
-        "uri": "spotify:artist:66ihevNkSYNzRAl44dx6jJ"
     },
     "7uGhSk7fVURjDaiXW1FSbL": {
         "external_urls": {
@@ -67137,16 +67137,6 @@
         "type": "artist",
         "uri": "spotify:artist:6vbY3hOaCAhC7VjucswgdS"
     },
-    "2wIVse2owClT7go1WT98tk": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk",
-        "id": "2wIVse2owClT7go1WT98tk",
-        "name": "Missy Elliott",
-        "type": "artist",
-        "uri": "spotify:artist:2wIVse2owClT7go1WT98tk"
-    },
     "2LIk90788K0zvyj2JJVwkJ": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
@@ -67186,16 +67176,6 @@
         "name": "Mac Dre",
         "type": "artist",
         "uri": "spotify:artist:4sv6VJ2QZlaSosz3kFlxQH"
-    },
-    "78rUTD7y6Cy67W1RVzYs7t": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
-        "id": "78rUTD7y6Cy67W1RVzYs7t",
-        "name": "PinkPantheress",
-        "type": "artist",
-        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
     },
     "2NdeV5rLm47xAvogXrYhJX": {
         "external_urls": {
