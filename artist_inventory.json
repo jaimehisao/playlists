@@ -40607,6 +40607,26 @@
         "type": "artist",
         "uri": "spotify:artist:2w7IutHv5g4e8LumrwtjWR"
     },
+    "2XOvFG8pp1XAV1V6ZJABim": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        "href": "https://api.spotify.com/v1/artists/2XOvFG8pp1XAV1V6ZJABim",
+        "id": "2XOvFG8pp1XAV1V6ZJABim",
+        "name": "Benjamin Diamond",
+        "type": "artist",
+        "uri": "spotify:artist:2XOvFG8pp1XAV1V6ZJABim"
+    },
+    "24JRvbKfTcF2x7c2kCCJrW": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        "href": "https://api.spotify.com/v1/artists/24JRvbKfTcF2x7c2kCCJrW",
+        "id": "24JRvbKfTcF2x7c2kCCJrW",
+        "name": "Alan Braxe",
+        "type": "artist",
+        "uri": "spotify:artist:24JRvbKfTcF2x7c2kCCJrW"
+    },
     "6tbjWDEIzxoDsBA1FuhfPW": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
@@ -45927,15 +45947,15 @@
         "type": "artist",
         "uri": "spotify:artist:3tmF8ajZvGWE5F7JwkW0XP"
     },
-    "3nFB4eMP5gdqee2eQb8nZb": {
+    "2xtVF7p8OnfvOmTExIoknF": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+            "spotify": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
         },
-        "href": "https://api.spotify.com/v1/artists/3nFB4eMP5gdqee2eQb8nZb",
-        "id": "3nFB4eMP5gdqee2eQb8nZb",
-        "name": "Conjunto Primavera",
+        "href": "https://api.spotify.com/v1/artists/2xtVF7p8OnfvOmTExIoknF",
+        "id": "2xtVF7p8OnfvOmTExIoknF",
+        "name": "Tony Melendez",
         "type": "artist",
-        "uri": "spotify:artist:3nFB4eMP5gdqee2eQb8nZb"
+        "uri": "spotify:artist:2xtVF7p8OnfvOmTExIoknF"
     },
     "6G43BFwUJvFWbev3knhgEa": {
         "external_urls": {
@@ -49896,6 +49916,16 @@
         "name": "Jimmy Zambrano",
         "type": "artist",
         "uri": "spotify:artist:3uKiTiDNyvbeVE5zlM4Zlj"
+    },
+    "3nFB4eMP5gdqee2eQb8nZb": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nFB4eMP5gdqee2eQb8nZb",
+        "id": "3nFB4eMP5gdqee2eQb8nZb",
+        "name": "Conjunto Primavera",
+        "type": "artist",
+        "uri": "spotify:artist:3nFB4eMP5gdqee2eQb8nZb"
     },
     "1KfBKoozFugeT1PBkz33xl": {
         "external_urls": {
