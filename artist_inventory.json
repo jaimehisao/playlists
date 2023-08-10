@@ -6119,16 +6119,6 @@
         "type": "artist",
         "uri": "spotify:artist:0Ur2HPuhb0mRnXFPOsCFB7"
     },
-    "2wesOX1fzorPTtgcuZ0xv2": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2"
-        },
-        "href": "https://api.spotify.com/v1/artists/2wesOX1fzorPTtgcuZ0xv2",
-        "id": "2wesOX1fzorPTtgcuZ0xv2",
-        "name": "sonoradinamita",
-        "type": "artist",
-        "uri": "spotify:artist:2wesOX1fzorPTtgcuZ0xv2"
-    },
     "2QTmeZpVjHmIoYSRwsoucA": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
@@ -64337,66 +64327,6 @@
         "type": "artist",
         "uri": "spotify:artist:5XJDexmWFLWOkjOEjOVX3e"
     },
-    "42PLkpL4mM4Szp7fiyj15X": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        },
-        "href": "https://api.spotify.com/v1/artists/42PLkpL4mM4Szp7fiyj15X",
-        "id": "42PLkpL4mM4Szp7fiyj15X",
-        "name": "Ceramic Animal",
-        "type": "artist",
-        "uri": "spotify:artist:42PLkpL4mM4Szp7fiyj15X"
-    },
-    "1a4N2lwra7WGjwCDJS1Dkk": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
-        },
-        "href": "https://api.spotify.com/v1/artists/1a4N2lwra7WGjwCDJS1Dkk",
-        "id": "1a4N2lwra7WGjwCDJS1Dkk",
-        "name": "Lotus ",
-        "type": "artist",
-        "uri": "spotify:artist:1a4N2lwra7WGjwCDJS1Dkk"
-    },
-    "32zeX1IoVKAGWMyy1isKUq": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        },
-        "href": "https://api.spotify.com/v1/artists/32zeX1IoVKAGWMyy1isKUq",
-        "id": "32zeX1IoVKAGWMyy1isKUq",
-        "name": "No Vacation",
-        "type": "artist",
-        "uri": "spotify:artist:32zeX1IoVKAGWMyy1isKUq"
-    },
-    "3IunaFjvNKj98JW89JYv9u": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        },
-        "href": "https://api.spotify.com/v1/artists/3IunaFjvNKj98JW89JYv9u",
-        "id": "3IunaFjvNKj98JW89JYv9u",
-        "name": "The Japanese House",
-        "type": "artist",
-        "uri": "spotify:artist:3IunaFjvNKj98JW89JYv9u"
-    },
-    "7LImGq5KnzQobZciDJpeJb": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        },
-        "href": "https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb",
-        "id": "7LImGq5KnzQobZciDJpeJb",
-        "name": "Charlotte Lawrence",
-        "type": "artist",
-        "uri": "spotify:artist:7LImGq5KnzQobZciDJpeJb"
-    },
-    "5HGpLatsXUVatRVuaZAkaY": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5HGpLatsXUVatRVuaZAkaY"
-        },
-        "href": "https://api.spotify.com/v1/artists/5HGpLatsXUVatRVuaZAkaY",
-        "id": "5HGpLatsXUVatRVuaZAkaY",
-        "name": "Emily Krueger",
-        "type": "artist",
-        "uri": "spotify:artist:5HGpLatsXUVatRVuaZAkaY"
-    },
     "4GzIiGnHYrOnq2LUiD6zdo": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo"
@@ -67276,6 +67206,16 @@
         "name": "Icandy",
         "type": "artist",
         "uri": "spotify:artist:1I0tv3cE1cDIJvQpHyuCYN"
+    },
+    "32zeX1IoVKAGWMyy1isKUq": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        },
+        "href": "https://api.spotify.com/v1/artists/32zeX1IoVKAGWMyy1isKUq",
+        "id": "32zeX1IoVKAGWMyy1isKUq",
+        "name": "No Vacation",
+        "type": "artist",
+        "uri": "spotify:artist:32zeX1IoVKAGWMyy1isKUq"
     },
     "4EMtGVFvfCSrEmWaGV0roE": {
         "external_urls": {
