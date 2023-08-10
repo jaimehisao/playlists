@@ -35107,6 +35107,26 @@
         "type": "artist",
         "uri": "spotify:artist:41DKMtAnhVo7aDeluAHDJg"
     },
+    "2PmIyxmEFsNfQJjEifPDZC": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2PmIyxmEFsNfQJjEifPDZC",
+        "id": "2PmIyxmEFsNfQJjEifPDZC",
+        "name": "RAT BOY",
+        "type": "artist",
+        "uri": "spotify:artist:2PmIyxmEFsNfQJjEifPDZC"
+    },
+    "2XUc6ElGNvAOKaiALMBzhc": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2XUc6ElGNvAOKaiALMBzhc"
+        },
+        "href": "https://api.spotify.com/v1/artists/2XUc6ElGNvAOKaiALMBzhc",
+        "id": "2XUc6ElGNvAOKaiALMBzhc",
+        "name": "IBDY",
+        "type": "artist",
+        "uri": "spotify:artist:2XUc6ElGNvAOKaiALMBzhc"
+    },
     "5zMJZTfga0uJURmLLymnoh": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh"
