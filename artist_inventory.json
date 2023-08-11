@@ -12709,16 +12709,6 @@
         "type": "artist",
         "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
-    "1kkjXmcMmibTegsw0JtDwv": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        "href": "https://api.spotify.com/v1/artists/1kkjXmcMmibTegsw0JtDwv",
-        "id": "1kkjXmcMmibTegsw0JtDwv",
-        "name": "Vulf",
-        "type": "artist",
-        "uri": "spotify:artist:1kkjXmcMmibTegsw0JtDwv"
-    },
     "1MRkDoyt3FmhmZNgnwkfLf": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/1MRkDoyt3FmhmZNgnwkfLf"
