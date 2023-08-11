@@ -7619,6 +7619,26 @@
         "type": "artist",
         "uri": "spotify:artist:4zbqGb99bANxJBsvwRr2zT"
     },
+    "7slfeZO9LsJbWgpkIoXBUJ": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/7slfeZO9LsJbWgpkIoXBUJ",
+        "id": "7slfeZO9LsJbWgpkIoXBUJ",
+        "name": "Ricky Martin",
+        "type": "artist",
+        "uri": "spotify:artist:7slfeZO9LsJbWgpkIoXBUJ"
+    },
+    "0j8QSBQZ9MNSGjHr1Vll1R": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        "href": "https://api.spotify.com/v1/artists/0j8QSBQZ9MNSGjHr1Vll1R",
+        "id": "0j8QSBQZ9MNSGjHr1Vll1R",
+        "name": "Natalia Jim\u00e9nez",
+        "type": "artist",
+        "uri": "spotify:artist:0j8QSBQZ9MNSGjHr1Vll1R"
+    },
     "69zVBf7wk5vKWsTF7zE5CC": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
@@ -14559,16 +14579,6 @@
         "type": "artist",
         "uri": "spotify:artist:4e0nWw2r4BoQSKPQ2zpU13"
     },
-    "7slfeZO9LsJbWgpkIoXBUJ": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        "href": "https://api.spotify.com/v1/artists/7slfeZO9LsJbWgpkIoXBUJ",
-        "id": "7slfeZO9LsJbWgpkIoXBUJ",
-        "name": "Ricky Martin",
-        "type": "artist",
-        "uri": "spotify:artist:7slfeZO9LsJbWgpkIoXBUJ"
-    },
     "2OjoIDVPQKT9B7loZbPEfp": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
@@ -21208,16 +21218,6 @@
         "name": "JHart",
         "type": "artist",
         "uri": "spotify:artist:6oSTtYd3B3OJubFU8mVhHQ"
-    },
-    "0j8QSBQZ9MNSGjHr1Vll1R": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        "href": "https://api.spotify.com/v1/artists/0j8QSBQZ9MNSGjHr1Vll1R",
-        "id": "0j8QSBQZ9MNSGjHr1Vll1R",
-        "name": "Natalia Jim\u00e9nez",
-        "type": "artist",
-        "uri": "spotify:artist:0j8QSBQZ9MNSGjHr1Vll1R"
     },
     "2Otnykd696YidQYfEGVmNq": {
         "external_urls": {
