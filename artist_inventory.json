@@ -51817,6 +51817,16 @@
         "type": "artist",
         "uri": "spotify:artist:179MtpbgyNgeNnwNVqnn4p"
     },
+    "0YHgnSkV3S5mvSSCTRWDi5": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        },
+        "href": "https://api.spotify.com/v1/artists/0YHgnSkV3S5mvSSCTRWDi5",
+        "id": "0YHgnSkV3S5mvSSCTRWDi5",
+        "name": "Poor Man's Poison",
+        "type": "artist",
+        "uri": "spotify:artist:0YHgnSkV3S5mvSSCTRWDi5"
+    },
     "0qk9IE3icvkYLRii8qAko8": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
@@ -66456,6 +66466,16 @@
         "name": "jagger finn",
         "type": "artist",
         "uri": "spotify:artist:4b1cEwAKl1Wdg6x8kkraJa"
+    },
+    "0BNz24TKUn8Ov1ApFkLzA1": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        "href": "https://api.spotify.com/v1/artists/0BNz24TKUn8Ov1ApFkLzA1",
+        "id": "0BNz24TKUn8Ov1ApFkLzA1",
+        "name": "Emile Mosseri",
+        "type": "artist",
+        "uri": "spotify:artist:0BNz24TKUn8Ov1ApFkLzA1"
     },
     "5ypEYwWaSgtjBPCPcredFM": {
         "external_urls": {
