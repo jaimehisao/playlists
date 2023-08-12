@@ -64767,15 +64767,15 @@
         "type": "artist",
         "uri": "spotify:artist:35WVTyRnKAoaGExqgktVyb"
     },
-    "1hLiboQ98IQWhpKeP9vRFw": {
+    "4I5DxNJP2fNxCZHp0ENJUh": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            "spotify": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
-        "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
-        "id": "1hLiboQ98IQWhpKeP9vRFw",
-        "name": "boygenius",
+        "href": "https://api.spotify.com/v1/artists/4I5DxNJP2fNxCZHp0ENJUh",
+        "id": "4I5DxNJP2fNxCZHp0ENJUh",
+        "name": "Boy Genius",
         "type": "artist",
-        "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+        "uri": "spotify:artist:4I5DxNJP2fNxCZHp0ENJUh"
     },
     "12zbUHbPHL5DGuJtiUfsip": {
         "external_urls": {
@@ -66476,6 +66476,16 @@
         "name": "Emile Mosseri",
         "type": "artist",
         "uri": "spotify:artist:0BNz24TKUn8Ov1ApFkLzA1"
+    },
+    "5zVu34ozw0BzXIcNHqkO0u": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        "href": "https://api.spotify.com/v1/artists/5zVu34ozw0BzXIcNHqkO0u",
+        "id": "5zVu34ozw0BzXIcNHqkO0u",
+        "name": "Liana Flores",
+        "type": "artist",
+        "uri": "spotify:artist:5zVu34ozw0BzXIcNHqkO0u"
     },
     "5ypEYwWaSgtjBPCPcredFM": {
         "external_urls": {
