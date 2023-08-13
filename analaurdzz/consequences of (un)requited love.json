@@ -1550,6 +1550,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-11T15:31:09Z",
             "uri": "spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs"
+        },
+        {
+            "track_id": "6D2tzc8kRnZb7P1lNwMBLH",
+            "track_name": "Close To You",
+            "track_artist": "Rihanna",
+            "track_album": "ANTI (Deluxe)",
+            "track_duration": 223213,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T18:27:21Z",
+            "uri": "spotify:track:6D2tzc8kRnZb7P1lNwMBLH"
         }
     ]
 }
