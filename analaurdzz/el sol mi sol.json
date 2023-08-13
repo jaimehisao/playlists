@@ -1,0 +1,475 @@
+{
+    "id": "7fM3LPAYJrsbPaAQAXyIM6",
+    "tracks": [
+        {
+            "track_id": "0ULXIAoxSZBcOwygC3PA0i",
+            "track_name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 249000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:51:37Z",
+            "uri": "spotify:track:0ULXIAoxSZBcOwygC3PA0i"
+        },
+        {
+            "track_id": "1k4GYtmW7edpJ9uhQmzO66",
+            "track_name": "Amor (Amor, amor, amor)",
+            "track_artist": "Luis Miguel",
+            "track_album": "Mis Romances",
+            "track_duration": 222293,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:51:47Z",
+            "uri": "spotify:track:1k4GYtmW7edpJ9uhQmzO66"
+        },
+        {
+            "track_id": "4p7XH4NhQ25iGYrrbg93gt",
+            "track_name": "Suave",
+            "track_artist": "Luis Miguel",
+            "track_album": "Aries",
+            "track_duration": 289600,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:51:54Z",
+            "uri": "spotify:track:4p7XH4NhQ25iGYrrbg93gt"
+        },
+        {
+            "track_id": "7BwxbmYFy0l3ROHDjV2c14",
+            "track_name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+            "track_artist": "Luis Miguel",
+            "track_album": "Busca Una Mujer",
+            "track_duration": 237240,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:03Z",
+            "uri": "spotify:track:7BwxbmYFy0l3ROHDjV2c14"
+        },
+        {
+            "track_id": "0REKETXT8fkn2C863KKlO4",
+            "track_name": "Dormir contigo",
+            "track_artist": "Luis Miguel",
+            "track_album": "Amarte Es Un Placer",
+            "track_duration": 253360,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:11Z",
+            "uri": "spotify:track:0REKETXT8fkn2C863KKlO4"
+        },
+        {
+            "track_id": "3pJlTmnEjkf1u9Bualfo8X",
+            "track_name": "Sol, arena y mar",
+            "track_artist": "Luis Miguel",
+            "track_album": "Amarte Es Un Placer",
+            "track_duration": 197933,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:20Z",
+            "uri": "spotify:track:3pJlTmnEjkf1u9Bualfo8X"
+        },
+        {
+            "track_id": "0svWUjefj6RBlIQxA3VCvx",
+            "track_name": "Te necesito",
+            "track_artist": "Luis Miguel",
+            "track_album": "33",
+            "track_duration": 194320,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:27Z",
+            "uri": "spotify:track:0svWUjefj6RBlIQxA3VCvx"
+        },
+        {
+            "track_id": "2V5fZ0WxkZnKt9mZOHqWAd",
+            "track_name": "Es por ti",
+            "track_artist": "Luis Miguel",
+            "track_album": "Luis Miguel (Edici\u00f3n De Lujo)",
+            "track_duration": 213226,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:32Z",
+            "uri": "spotify:track:2V5fZ0WxkZnKt9mZOHqWAd"
+        },
+        {
+            "track_id": "6vPAmoERUMRoTZaCCSWQ12",
+            "track_name": "Hasta Que Me Olvides",
+            "track_artist": "Luis Miguel",
+            "track_album": "Aries",
+            "track_duration": 281000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:41Z",
+            "uri": "spotify:track:6vPAmoERUMRoTZaCCSWQ12"
+        },
+        {
+            "track_id": "4mu9UDULgYFQfWQFx5fkKM",
+            "track_name": "Dame",
+            "track_artist": "Luis Miguel",
+            "track_album": "Nada Es Igual",
+            "track_duration": 297893,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:47Z",
+            "uri": "spotify:track:4mu9UDULgYFQfWQFx5fkKM"
+        },
+        {
+            "track_id": "1kS5xIvvytkr5Ut1JkQ9SM",
+            "track_name": "No Me Platiques M\u00e1s",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romance",
+            "track_duration": 211440,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:52:56Z",
+            "uri": "spotify:track:1kS5xIvvytkr5Ut1JkQ9SM"
+        },
+        {
+            "track_id": "0MHSnVk2CrGP8hIkxpxwMJ",
+            "track_name": "Usted",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romance",
+            "track_duration": 223200,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:53:05Z",
+            "uri": "spotify:track:0MHSnVk2CrGP8hIkxpxwMJ"
+        },
+        {
+            "track_id": "5dlNzEPBCM7HgmhfaK0xph",
+            "track_name": "La Puerta",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romance",
+            "track_duration": 199266,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:53:12Z",
+            "uri": "spotify:track:5dlNzEPBCM7HgmhfaK0xph"
+        },
+        {
+            "track_id": "2MkeDQiyZ8MV45IjLhCPSF",
+            "track_name": "La Barca",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romance",
+            "track_duration": 209653,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:53:20Z",
+            "uri": "spotify:track:2MkeDQiyZ8MV45IjLhCPSF"
+        },
+        {
+            "track_id": "2pSZjEpbXwlocV8js7MNmu",
+            "track_name": "Inolvidable",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romance",
+            "track_duration": 257573,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:53:30Z",
+            "uri": "spotify:track:2pSZjEpbXwlocV8js7MNmu"
+        },
+        {
+            "track_id": "4FqfHVML025cwjfhAOFbfa",
+            "track_name": "Por Debajo De La Mesa",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romances",
+            "track_duration": 184080,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:53:37Z",
+            "uri": "spotify:track:4FqfHVML025cwjfhAOFbfa"
+        },
+        {
+            "track_id": "2DAsLftcRKP3iarCPmI1RY",
+            "track_name": "No S\u00e9 T\u00fa",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romance",
+            "track_duration": 229853,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:53:44Z",
+            "uri": "spotify:track:2DAsLftcRKP3iarCPmI1RY"
+        },
+        {
+            "track_id": "4uP2EipoPEAq3InMMCQMG9",
+            "track_name": "Como Yo Te Am\u00e9",
+            "track_artist": "Luis Miguel",
+            "track_album": "Segundo Romance",
+            "track_duration": 214506,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:53:53Z",
+            "uri": "spotify:track:4uP2EipoPEAq3InMMCQMG9"
+        },
+        {
+            "track_id": "70BcjMGYixgH1GKkLS40Jr",
+            "track_name": "Solamente Una Vez",
+            "track_artist": "Luis Miguel",
+            "track_album": "Segundo Romance",
+            "track_duration": 181866,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:54:00Z",
+            "uri": "spotify:track:70BcjMGYixgH1GKkLS40Jr"
+        },
+        {
+            "track_id": "4dr2h9rnEW6OBxm8LvRBW2",
+            "track_name": "Somos Novios",
+            "track_artist": "Luis Miguel",
+            "track_album": "Segundo Romance",
+            "track_duration": 191693,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:54:09Z",
+            "uri": "spotify:track:4dr2h9rnEW6OBxm8LvRBW2"
+        },
+        {
+            "track_id": "1FJSXlDrgr9AS37w67CPHP",
+            "track_name": "Todo Y Nada",
+            "track_artist": "Luis Miguel",
+            "track_album": "Segundo Romance",
+            "track_duration": 219400,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:54:16Z",
+            "uri": "spotify:track:1FJSXlDrgr9AS37w67CPHP"
+        },
+        {
+            "track_id": "6YeFF97Rn7G978UoYCGOy4",
+            "track_name": "Volver",
+            "track_artist": "Luis Miguel",
+            "track_album": "Mis Romances",
+            "track_duration": 221866,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:54:42Z",
+            "uri": "spotify:track:6YeFF97Rn7G978UoYCGOy4"
+        },
+        {
+            "track_id": "3DHtkBwlskpqFY4xMnW1Tt",
+            "track_name": "Uno",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romances",
+            "track_duration": 247666,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:54:52Z",
+            "uri": "spotify:track:3DHtkBwlskpqFY4xMnW1Tt"
+        },
+        {
+            "track_id": "1uwqN6D0Ds7WQ4bXnOgUSw",
+            "track_name": "El D\u00eda Que Me Quieras",
+            "track_artist": "Luis Miguel",
+            "track_album": "Todos Los Romances",
+            "track_duration": 239800,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:55:01Z",
+            "uri": "spotify:track:1uwqN6D0Ds7WQ4bXnOgUSw"
+        },
+        {
+            "track_id": "2LxtK38dlYh9Byvv93ndYY",
+            "track_name": "Sonr\u00ede",
+            "track_artist": "Luis Miguel",
+            "track_album": "Navidades Luis Miguel",
+            "track_duration": 188199,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:55:07Z",
+            "uri": "spotify:track:2LxtK38dlYh9Byvv93ndYY"
+        },
+        {
+            "track_id": "2J4qy8RyfwgXHt73cWOE6P",
+            "track_name": "Fr\u00eda Como El Viento",
+            "track_artist": "Luis Miguel",
+            "track_album": "Busca Una Mujer",
+            "track_duration": 235106,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:55:14Z",
+            "uri": "spotify:track:2J4qy8RyfwgXHt73cWOE6P"
+        },
+        {
+            "track_id": "27XboT5Wb8VOn7A0heo3Ei",
+            "track_name": "Tengo Todo Excepto a Ti",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 272826,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:55:22Z",
+            "uri": "spotify:track:27XboT5Wb8VOn7A0heo3Ei"
+        },
+        {
+            "track_id": "5fj3zNkXfOlrJGVcZBId6D",
+            "track_name": "Entr\u00e9gate",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 263906,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:55:32Z",
+            "uri": "spotify:track:5fj3zNkXfOlrJGVcZBId6D"
+        },
+        {
+            "track_id": "1jxO9AwMqYynDsuMWKrPvi",
+            "track_name": "La bikina - En vivo",
+            "track_artist": "Luis Miguel",
+            "track_album": "Vivo",
+            "track_duration": 179040,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:55:51Z",
+            "uri": "spotify:track:1jxO9AwMqYynDsuMWKrPvi"
+        },
+        {
+            "track_id": "5CGoF0BhLnKEWYlb8kWKos",
+            "track_name": "Come Fly With Me",
+            "track_artist": "Frank Sinatra",
+            "track_album": "Duets (20th Anniversary Deluxe Edition)",
+            "track_duration": 188573,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:56:09Z",
+            "uri": "spotify:track:5CGoF0BhLnKEWYlb8kWKos"
+        },
+        {
+            "track_id": "3ZRUhvuUE2lwZF19puKM8P",
+            "track_name": "Un Hombre Busca a Una Mujer",
+            "track_artist": "Luis Miguel",
+            "track_album": "Busca Una Mujer",
+            "track_duration": 215066,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:56:17Z",
+            "uri": "spotify:track:3ZRUhvuUE2lwZF19puKM8P"
+        },
+        {
+            "track_id": "1PdgPj8tdE2OAhH40J4f4g",
+            "track_name": "Cuesti\u00f3n De Piel",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 264573,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:56:25Z",
+            "uri": "spotify:track:1PdgPj8tdE2OAhH40J4f4g"
+        },
+        {
+            "track_id": "2PZtKB8fDoDGLot27oUnWH",
+            "track_name": "Oro De Ley",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 238933,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:56:32Z",
+            "uri": "spotify:track:2PZtKB8fDoDGLot27oUnWH"
+        },
+        {
+            "track_id": "3HE0wPD30AjKMKtxNaKFQ4",
+            "track_name": "Amante Del Amor",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 202200,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:56:40Z",
+            "uri": "spotify:track:3HE0wPD30AjKMKtxNaKFQ4"
+        },
+        {
+            "track_id": "7CbgafOaqArpdlZVlTpNeA",
+            "track_name": "M\u00e1s All\u00e1 De Todo",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 245133,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:56:48Z",
+            "uri": "spotify:track:7CbgafOaqArpdlZVlTpNeA"
+        },
+        {
+            "track_id": "2IWGjFFHiChCI6g6wE3mQO",
+            "track_name": "Quiero",
+            "track_artist": "Luis Miguel",
+            "track_album": "Amarte Es Un Placer",
+            "track_duration": 276026,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:57:03Z",
+            "uri": "spotify:track:2IWGjFFHiChCI6g6wE3mQO"
+        },
+        {
+            "track_id": "4yakD6EKEjeMezENNCSlcc",
+            "track_name": "Qu\u00e9 Nivel De Mujer",
+            "track_artist": "Luis Miguel",
+            "track_album": "Aries",
+            "track_duration": 268466,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:57:15Z",
+            "uri": "spotify:track:4yakD6EKEjeMezENNCSlcc"
+        },
+        {
+            "track_id": "4LZK9BGNf7M6N4nBbxYxVd",
+            "track_name": "Mujer de fuego",
+            "track_artist": "Luis Miguel",
+            "track_album": "Luis Miguel (Edici\u00f3n De Lujo)",
+            "track_duration": 211466,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:57:31Z",
+            "uri": "spotify:track:4LZK9BGNf7M6N4nBbxYxVd"
+        },
+        {
+            "track_id": "4NWpfDWcLOKAPUjNoqFIc1",
+            "track_name": "No Me Puedes Dejar Asi",
+            "track_artist": "Luis Miguel",
+            "track_album": "La Miel De Mis Primeros \u00c9xitos",
+            "track_duration": 206117,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:57:40Z",
+            "uri": "spotify:track:4NWpfDWcLOKAPUjNoqFIc1"
+        },
+        {
+            "track_id": "3WY8ecMJJjdepU2k2NoFv1",
+            "track_name": "Palabra De Honor",
+            "track_artist": "Luis Miguel",
+            "track_album": "Palabra De Honor",
+            "track_duration": 218951,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:57:49Z",
+            "uri": "spotify:track:3WY8ecMJJjdepU2k2NoFv1"
+        },
+        {
+            "track_id": "6F9yAYUaNbUhdlQyt5uZ3b",
+            "track_name": "La Incondicional",
+            "track_artist": "Luis Miguel",
+            "track_album": "Busca Una Mujer",
+            "track_duration": 257026,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:57:56Z",
+            "uri": "spotify:track:6F9yAYUaNbUhdlQyt5uZ3b"
+        },
+        {
+            "track_id": "3rZySdtQD7kNmpVb8gYQv4",
+            "track_name": "Te propongo esta noche",
+            "track_artist": "Luis Miguel",
+            "track_album": "Amarte Es Un Placer",
+            "track_duration": 371533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:58:05Z",
+            "uri": "spotify:track:3rZySdtQD7kNmpVb8gYQv4"
+        },
+        {
+            "track_id": "1uKjQoh8JZj9ryuYRhpd7E",
+            "track_name": "Ahora Te Puedes Marchar",
+            "track_artist": "Luis Miguel",
+            "track_album": "Soy Como Quiero Ser",
+            "track_duration": 191973,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:58:14Z",
+            "uri": "spotify:track:1uKjQoh8JZj9ryuYRhpd7E"
+        },
+        {
+            "track_id": "6Ucocvd2YaEJRPmbT4SFgu",
+            "track_name": "La Chica Del Bikini Azul",
+            "track_artist": "Luis Miguel",
+            "track_album": "Palabra De Honor",
+            "track_duration": 180239,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:58:21Z",
+            "uri": "spotify:track:6Ucocvd2YaEJRPmbT4SFgu"
+        },
+        {
+            "track_id": "5uOQOPnVsGpyPkZn1EHweO",
+            "track_name": "Isabel",
+            "track_artist": "Luis Miguel",
+            "track_album": "La Miel De Mis Primeros \u00c9xitos",
+            "track_duration": 157484,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:58:28Z",
+            "uri": "spotify:track:5uOQOPnVsGpyPkZn1EHweO"
+        },
+        {
+            "track_id": "3hVaK0zn3sVWWY8TvN1Te5",
+            "track_name": "Cuando Calienta El Sol",
+            "track_artist": "Luis Miguel",
+            "track_album": "Soy Como Quiero Ser",
+            "track_duration": 236413,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:58:35Z",
+            "uri": "spotify:track:3hVaK0zn3sVWWY8TvN1Te5"
+        },
+        {
+            "track_id": "5BPq1UQa1NSN647R6IzD3n",
+            "track_name": "M\u00e9xico En La Piel",
+            "track_artist": "Luis Miguel",
+            "track_album": "Mexico en la Piel (edicion diamante)",
+            "track_duration": 209213,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:59:02Z",
+            "uri": "spotify:track:5BPq1UQa1NSN647R6IzD3n"
+        }
+    ]
+}
