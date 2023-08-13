@@ -34097,15 +34097,15 @@
         "type": "artist",
         "uri": "spotify:artist:2BVYdY4PyfCF9z4NrkhEB2"
     },
-    "4VsbQvC84B8Z3IsBY1HLQy": {
+    "3lxRO5odRiOgZaSPvjfVIf": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+            "spotify": "https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf"
         },
-        "href": "https://api.spotify.com/v1/artists/4VsbQvC84B8Z3IsBY1HLQy",
-        "id": "4VsbQvC84B8Z3IsBY1HLQy",
-        "name": "La Factoria",
+        "href": "https://api.spotify.com/v1/artists/3lxRO5odRiOgZaSPvjfVIf",
+        "id": "3lxRO5odRiOgZaSPvjfVIf",
+        "name": "La Factor\u00eda",
         "type": "artist",
-        "uri": "spotify:artist:4VsbQvC84B8Z3IsBY1HLQy"
+        "uri": "spotify:artist:3lxRO5odRiOgZaSPvjfVIf"
     },
     "7gR53ad9JjCweCv4f9MWEX": {
         "external_urls": {
@@ -43726,16 +43726,6 @@
         "name": "The Smiths",
         "type": "artist",
         "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
-    },
-    "3lxRO5odRiOgZaSPvjfVIf": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf"
-        },
-        "href": "https://api.spotify.com/v1/artists/3lxRO5odRiOgZaSPvjfVIf",
-        "id": "3lxRO5odRiOgZaSPvjfVIf",
-        "name": "La Factor\u00eda",
-        "type": "artist",
-        "uri": "spotify:artist:3lxRO5odRiOgZaSPvjfVIf"
     },
     "1b7AEdUSudOQoZF5ebUxCL": {
         "external_urls": {
