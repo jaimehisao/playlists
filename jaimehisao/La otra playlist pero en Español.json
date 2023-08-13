@@ -2320,6 +2320,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-07-26T08:27:44Z",
             "uri": "spotify:track:57MWRhMsRLm394pOeYup4n"
+        },
+        {
+            "track_id": "2uhaDVmfG7pT94VO5jl2r4",
+            "track_name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
+            "track_artist": "Ricky Martin",
+            "track_album": "M\u00e1s M\u00fasica + Alma + Sexo",
+            "track_duration": 216613,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-10T22:59:13Z",
+            "uri": "spotify:track:2uhaDVmfG7pT94VO5jl2r4"
+        },
+        {
+            "track_id": "241I3O891QjV1m4raTHshI",
+            "track_name": "Ay Qu\u00e9 Pesado",
+            "track_artist": "M\u0153nia",
+            "track_album": "Stereo Hits",
+            "track_duration": 211600,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-10T23:04:28Z",
+            "uri": "spotify:track:241I3O891QjV1m4raTHshI"
         }
     ]
 }
