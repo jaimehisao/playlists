@@ -1390,6 +1390,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-08-02T23:36:33Z",
             "uri": "spotify:track:5U0RzSPAVv4jxWkLinGLWF"
+        },
+        {
+            "track_id": "4cH7XOPBjVUD5Mwo9F2TVz",
+            "track_name": "Love Myself",
+            "track_artist": "Hailee Steinfeld",
+            "track_album": "HAIZ",
+            "track_duration": 218773,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-09T18:57:56Z",
+            "uri": "spotify:track:4cH7XOPBjVUD5Mwo9F2TVz"
+        },
+        {
+            "track_id": "2qxaR31Te4xDR2yO6LqM8z",
+            "track_name": "Rock Bottom",
+            "track_artist": "Hailee Steinfeld",
+            "track_album": "HAIZ",
+            "track_duration": 198240,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-09T21:55:02Z",
+            "uri": "spotify:track:2qxaR31Te4xDR2yO6LqM8z"
         }
     ]
 }
