@@ -42,46 +42,6 @@
             "uri": "spotify:track:7A2cNLRT0YJc1yjxHlKihs"
         },
         {
-            "track_id": "3xYJScVfxByb61dYHTwiby",
-            "track_name": "Hits Different",
-            "track_artist": "Taylor Swift",
-            "track_album": "Midnights (The Til Dawn Edition)",
-            "track_duration": 234466,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-26T21:45:38Z",
-            "uri": "spotify:track:3xYJScVfxByb61dYHTwiby"
-        },
-        {
-            "track_id": "3hUxzQpSfdDqwM3ZTFQY0K",
-            "track_name": "august",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore",
-            "track_duration": 261922,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-26T21:46:22Z",
-            "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
-        },
-        {
-            "track_id": "6uvh0In7u1Xn4HgxOfAn8O",
-            "track_name": "Matilda",
-            "track_artist": "Harry Styles",
-            "track_album": "Harry's House",
-            "track_duration": 245964,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-26T22:11:43Z",
-            "uri": "spotify:track:6uvh0In7u1Xn4HgxOfAn8O"
-        },
-        {
-            "track_id": "4D7BCuvgdJlYvlX5WlN54t",
-            "track_name": "You're On Your Own, Kid",
-            "track_artist": "Taylor Swift",
-            "track_album": "Midnights",
-            "track_duration": 194206,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-28T15:13:34Z",
-            "uri": "spotify:track:4D7BCuvgdJlYvlX5WlN54t"
-        },
-        {
             "track_id": "0sY6ZUTh4yoctD8VIXz339",
             "track_name": "champagne problems",
             "track_artist": "Taylor Swift",
@@ -100,6 +60,56 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-31T18:02:53Z",
             "uri": "spotify:track:5NORWMFC27ywGSZxi8uquP"
+        },
+        {
+            "track_id": "3VSYkAf6f46i5ZkXOHORq1",
+            "track_name": "Sweet",
+            "track_artist": "Cigarettes After Sex",
+            "track_album": "Cigarettes After Sex",
+            "track_duration": 291640,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T18:40:44Z",
+            "uri": "spotify:track:3VSYkAf6f46i5ZkXOHORq1"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-08T19:48:51Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "1vYXt7VSjH9JIM5oRRo7vA",
+            "track_name": "Dance The Night (From Barbie The Album)",
+            "track_artist": "Dua Lipa",
+            "track_album": "Dance The Night (From Barbie The Album)",
+            "track_duration": 176579,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-10T17:29:31Z",
+            "uri": "spotify:track:1vYXt7VSjH9JIM5oRRo7vA"
+        },
+        {
+            "track_id": "6oVxXO5oQ4pTpO8RSnkzvv",
+            "track_name": "Dress",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 230373,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-10T17:29:37Z",
+            "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv"
+        },
+        {
+            "track_id": "5hQSXkFgbxjZo9uCwd11so",
+            "track_name": "False God",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 200306,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-10T17:29:41Z",
+            "uri": "spotify:track:5hQSXkFgbxjZo9uCwd11so"
         }
     ]
 }
