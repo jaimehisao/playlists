@@ -1410,6 +1410,36 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-08-09T21:55:02Z",
             "uri": "spotify:track:2qxaR31Te4xDR2yO6LqM8z"
+        },
+        {
+            "track_id": "3WGJSY8JaGliVIJyMig5aS",
+            "track_name": "1999",
+            "track_artist": "Charli XCX",
+            "track_album": "Charli",
+            "track_duration": 189200,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-14T02:18:36Z",
+            "uri": "spotify:track:3WGJSY8JaGliVIJyMig5aS"
+        },
+        {
+            "track_id": "5e0vgBWfwToyphURwynSXa",
+            "track_name": "Run Away With Me",
+            "track_artist": "Carly Rae Jepsen",
+            "track_album": "Emotion",
+            "track_duration": 251320,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-14T17:47:05Z",
+            "uri": "spotify:track:5e0vgBWfwToyphURwynSXa"
+        },
+        {
+            "track_id": "21AziTMaZwcLflGMAj85o5",
+            "track_name": "All 4 Nothing (I'm So In Love)",
+            "track_artist": "Lauv",
+            "track_album": "All 4 Nothing (I'm So In Love)",
+            "track_duration": 183014,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-14T18:04:44Z",
+            "uri": "spotify:track:21AziTMaZwcLflGMAj85o5"
         }
     ]
 }
