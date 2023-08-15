@@ -192,6 +192,16 @@
             "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h"
         },
         {
+            "track_id": "4hqJ4bSlYJOXb6Z4SRmzxs",
+            "track_name": "Long Live (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 317960,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-08-06T06:08:07Z",
+            "uri": "spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs"
+        },
+        {
             "track_id": "3yII7UwgLF6K5zW3xad3MP",
             "track_name": "22 (Taylor's Version)",
             "track_artist": "Taylor Swift",
@@ -230,16 +240,6 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-06-15T21:47:29Z",
             "uri": "spotify:track:5enxwA8aAbwZbf5qCHORXi"
-        },
-        {
-            "track_id": "6VsvKPJ4xjVNKpI8VVZ3SV",
-            "track_name": "invisible string",
-            "track_artist": "Taylor Swift",
-            "track_album": "folklore",
-            "track_duration": 252880,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-06-15T21:47:29Z",
-            "uri": "spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV"
         },
         {
             "track_id": "0Jlcvv8IykzHaSmj49uNW8",
