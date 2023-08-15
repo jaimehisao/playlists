@@ -440,6 +440,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-07-27T18:29:16Z",
             "uri": "spotify:track:4xeV3emfKSxB91sqPdacdL"
+        },
+        {
+            "track_id": "19Nvvak2wE2qp5QUPeLczT",
+            "track_name": "Goosebumps",
+            "track_artist": "No Spirit",
+            "track_album": "Goosebumps",
+            "track_duration": 165613,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-08-05T17:30:15Z",
+            "uri": "spotify:track:19Nvvak2wE2qp5QUPeLczT"
         }
     ]
 }
