@@ -52267,6 +52267,16 @@
         "type": "artist",
         "uri": "spotify:artist:3uliAYf4KyTkBpVf3BiWVv"
     },
+    "67ps5pbKVO7V9Fcb4lTIXz": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        },
+        "href": "https://api.spotify.com/v1/artists/67ps5pbKVO7V9Fcb4lTIXz",
+        "id": "67ps5pbKVO7V9Fcb4lTIXz",
+        "name": "Wind Rose",
+        "type": "artist",
+        "uri": "spotify:artist:67ps5pbKVO7V9Fcb4lTIXz"
+    },
     "19xz1vcuKNjniGEftTOSSH": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
@@ -66406,16 +66416,6 @@
         "name": "Eels",
         "type": "artist",
         "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl"
-    },
-    "164Uj4eKjl6zTBKfJLFKKK": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
-        "id": "164Uj4eKjl6zTBKfJLFKKK",
-        "name": "JVKE",
-        "type": "artist",
-        "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
     },
     "5y8tKLUfMvliMe8IKamR32": {
         "external_urls": {
