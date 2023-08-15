@@ -52,26 +52,6 @@
             "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
         },
         {
-            "track_id": "5NORWMFC27ywGSZxi8uquP",
-            "track_name": "Ophelia",
-            "track_artist": "The Lumineers",
-            "track_album": "Cleopatra",
-            "track_duration": 160097,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-31T18:02:53Z",
-            "uri": "spotify:track:5NORWMFC27ywGSZxi8uquP"
-        },
-        {
-            "track_id": "3VSYkAf6f46i5ZkXOHORq1",
-            "track_name": "Sweet",
-            "track_artist": "Cigarettes After Sex",
-            "track_album": "Cigarettes After Sex",
-            "track_duration": 291640,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-08-08T18:40:44Z",
-            "uri": "spotify:track:3VSYkAf6f46i5ZkXOHORq1"
-        },
-        {
             "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
             "track_name": "Death By A Thousand Cuts",
             "track_artist": "Taylor Swift",
@@ -110,6 +90,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-08-10T17:29:41Z",
             "uri": "spotify:track:5hQSXkFgbxjZo9uCwd11so"
+        },
+        {
+            "track_id": "05GsNucq8Bngd9fnd4fRa0",
+            "track_name": "Begin Again (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 238866,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-14T19:48:43Z",
+            "uri": "spotify:track:05GsNucq8Bngd9fnd4fRa0"
         }
     ]
 }
