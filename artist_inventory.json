@@ -64777,15 +64777,15 @@
         "type": "artist",
         "uri": "spotify:artist:35WVTyRnKAoaGExqgktVyb"
     },
-    "1hLiboQ98IQWhpKeP9vRFw": {
+    "0G74SX9TlCzmPDApiV3zcC": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            "spotify": "https://open.spotify.com/artist/0G74SX9TlCzmPDApiV3zcC"
         },
-        "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
-        "id": "1hLiboQ98IQWhpKeP9vRFw",
+        "href": "https://api.spotify.com/v1/artists/0G74SX9TlCzmPDApiV3zcC",
+        "id": "0G74SX9TlCzmPDApiV3zcC",
         "name": "boygenius",
         "type": "artist",
-        "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+        "uri": "spotify:artist:0G74SX9TlCzmPDApiV3zcC"
     },
     "12zbUHbPHL5DGuJtiUfsip": {
         "external_urls": {
@@ -67226,6 +67226,16 @@
         "name": "Icandy",
         "type": "artist",
         "uri": "spotify:artist:1I0tv3cE1cDIJvQpHyuCYN"
+    },
+    "2AfU5LYBVCiCtuCCfM7uVX": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+        "id": "2AfU5LYBVCiCtuCCfM7uVX",
+        "name": "Kota the Friend",
+        "type": "artist",
+        "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
     },
     "32zeX1IoVKAGWMyy1isKUq": {
         "external_urls": {
