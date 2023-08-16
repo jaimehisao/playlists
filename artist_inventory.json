@@ -2159,6 +2159,16 @@
         "type": "artist",
         "uri": "spotify:artist:4YXycRbyyAE0wozTk7QMEq"
     },
+    "3CjlHNtplJyTf9npxaPl5w": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        },
+        "href": "https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w",
+        "id": "3CjlHNtplJyTf9npxaPl5w",
+        "name": "CHVRCHES",
+        "type": "artist",
+        "uri": "spotify:artist:3CjlHNtplJyTf9npxaPl5w"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -31916,16 +31926,6 @@
         "name": "Melanie Martinez",
         "type": "artist",
         "uri": "spotify:artist:63yrD80RY3RNEM2YDpUpO8"
-    },
-    "3CjlHNtplJyTf9npxaPl5w": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        },
-        "href": "https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w",
-        "id": "3CjlHNtplJyTf9npxaPl5w",
-        "name": "CHVRCHES",
-        "type": "artist",
-        "uri": "spotify:artist:3CjlHNtplJyTf9npxaPl5w"
     },
     "2BeARYDF52QQk5S2zgiVHe": {
         "external_urls": {
