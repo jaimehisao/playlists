@@ -1010,6 +1010,36 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-27T18:25:12Z",
             "uri": "spotify:track:0SccFtYdj75y6lL2OW10Cf"
+        },
+        {
+            "track_id": "5fDVGTBnAnB8K0Kcn3Lmf6",
+            "track_name": "Things will be fine",
+            "track_artist": "Metronomy",
+            "track_album": "Small World",
+            "track_duration": 210266,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-16T16:51:35Z",
+            "uri": "spotify:track:5fDVGTBnAnB8K0Kcn3Lmf6"
+        },
+        {
+            "track_id": "5Nc3vGiiHFyQegUNjsboj9",
+            "track_name": "mona lisa",
+            "track_artist": "mxmtoon",
+            "track_album": "rising",
+            "track_duration": 190052,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-17T04:47:54Z",
+            "uri": "spotify:track:5Nc3vGiiHFyQegUNjsboj9"
+        },
+        {
+            "track_id": "10ZrEcxWcD9vOSUVhUH33O",
+            "track_name": "On \u00e9tait beau",
+            "track_artist": "Louane",
+            "track_album": "Louane",
+            "track_duration": 205586,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-17T05:53:41Z",
+            "uri": "spotify:track:10ZrEcxWcD9vOSUVhUH33O"
         }
     ]
 }
