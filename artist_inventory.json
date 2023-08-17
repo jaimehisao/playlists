@@ -2169,6 +2169,16 @@
         "type": "artist",
         "uri": "spotify:artist:3CjlHNtplJyTf9npxaPl5w"
     },
+    "7o95ZoZt5ZYn31e9z1Hc0a": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        "href": "https://api.spotify.com/v1/artists/7o95ZoZt5ZYn31e9z1Hc0a",
+        "id": "7o95ZoZt5ZYn31e9z1Hc0a",
+        "name": "Natasha Bedingfield",
+        "type": "artist",
+        "uri": "spotify:artist:7o95ZoZt5ZYn31e9z1Hc0a"
+    },
     "5OSQDUNmll299ldFIF1Dau": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
@@ -3168,16 +3178,6 @@
         "name": "Tom Lord-Alge",
         "type": "artist",
         "uri": "spotify:artist:32ckuKo8LrZhQMyCehYKkt"
-    },
-    "7o95ZoZt5ZYn31e9z1Hc0a": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        },
-        "href": "https://api.spotify.com/v1/artists/7o95ZoZt5ZYn31e9z1Hc0a",
-        "id": "7o95ZoZt5ZYn31e9z1Hc0a",
-        "name": "Natasha Bedingfield",
-        "type": "artist",
-        "uri": "spotify:artist:7o95ZoZt5ZYn31e9z1Hc0a"
     },
     "4VMYDCV2IEDYJArk749S6m": {
         "external_urls": {
@@ -28079,6 +28079,16 @@
         "type": "artist",
         "uri": "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
     },
+    "7wjeXCtRND2ZdKfMJFu6JC": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        "href": "https://api.spotify.com/v1/artists/7wjeXCtRND2ZdKfMJFu6JC",
+        "id": "7wjeXCtRND2ZdKfMJFu6JC",
+        "name": "Louane",
+        "type": "artist",
+        "uri": "spotify:artist:7wjeXCtRND2ZdKfMJFu6JC"
+    },
     "0a2vRhBsS3zNu6pTQo1Rnm": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0a2vRhBsS3zNu6pTQo1Rnm"
@@ -31029,16 +31039,6 @@
         "type": "artist",
         "uri": "spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m"
     },
-    "7wjeXCtRND2ZdKfMJFu6JC": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        },
-        "href": "https://api.spotify.com/v1/artists/7wjeXCtRND2ZdKfMJFu6JC",
-        "id": "7wjeXCtRND2ZdKfMJFu6JC",
-        "name": "Louane",
-        "type": "artist",
-        "uri": "spotify:artist:7wjeXCtRND2ZdKfMJFu6JC"
-    },
     "1g0fXhQMHAxlRyIBkCbuE7": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
@@ -31198,6 +31198,16 @@
         "name": "\u00c1lvaro De Luna",
         "type": "artist",
         "uri": "spotify:artist:5N3YDBGT2gUzXgLDTwPRi5"
+    },
+    "0HthCchcL0kVLHTr113Vk1": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        "href": "https://api.spotify.com/v1/artists/0HthCchcL0kVLHTr113Vk1",
+        "id": "0HthCchcL0kVLHTr113Vk1",
+        "name": "mxmtoon",
+        "type": "artist",
+        "uri": "spotify:artist:0HthCchcL0kVLHTr113Vk1"
     },
     "6O74knDqdv3XaWtkII7Xjp": {
         "external_urls": {
@@ -36747,6 +36757,26 @@
         "type": "artist",
         "uri": "spotify:artist:2N0vFuOoMtAQfBmhsRo24e"
     },
+    "01Er12nK5rrnHx8usFPJAs": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+        },
+        "href": "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
+        "id": "01Er12nK5rrnHx8usFPJAs",
+        "name": "Derek Fiechter",
+        "type": "artist",
+        "uri": "spotify:artist:01Er12nK5rrnHx8usFPJAs"
+    },
+    "2XDOBQOobSTxtmFhWKdm6x": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/2XDOBQOobSTxtmFhWKdm6x",
+        "id": "2XDOBQOobSTxtmFhWKdm6x",
+        "name": "Brandon Fiechter",
+        "type": "artist",
+        "uri": "spotify:artist:2XDOBQOobSTxtmFhWKdm6x"
+    },
     "3IsULVZIf4iGp9ExB7yJVq": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
@@ -41387,16 +41417,6 @@
         "type": "artist",
         "uri": "spotify:artist:0ZUvK7zGdXLd78mQr3t1Tw"
     },
-    "0HthCchcL0kVLHTr113Vk1": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        "href": "https://api.spotify.com/v1/artists/0HthCchcL0kVLHTr113Vk1",
-        "id": "0HthCchcL0kVLHTr113Vk1",
-        "name": "mxmtoon",
-        "type": "artist",
-        "uri": "spotify:artist:0HthCchcL0kVLHTr113Vk1"
-    },
     "2lCUVconWp5YjxdYssfZ8J": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J"
@@ -44526,26 +44546,6 @@
         "name": "Emerson String Quartet",
         "type": "artist",
         "uri": "spotify:artist:4IBl8k6ZsBagsI5zRjyXH7"
-    },
-    "01Er12nK5rrnHx8usFPJAs": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
-        },
-        "href": "https://api.spotify.com/v1/artists/01Er12nK5rrnHx8usFPJAs",
-        "id": "01Er12nK5rrnHx8usFPJAs",
-        "name": "Derek Fiechter",
-        "type": "artist",
-        "uri": "spotify:artist:01Er12nK5rrnHx8usFPJAs"
-    },
-    "2XDOBQOobSTxtmFhWKdm6x": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
-        },
-        "href": "https://api.spotify.com/v1/artists/2XDOBQOobSTxtmFhWKdm6x",
-        "id": "2XDOBQOobSTxtmFhWKdm6x",
-        "name": "Brandon Fiechter",
-        "type": "artist",
-        "uri": "spotify:artist:2XDOBQOobSTxtmFhWKdm6x"
     },
     "0d6alfZHUx3xoRnPjkTL7Q": {
         "external_urls": {
@@ -71717,15 +71717,15 @@
         "type": "artist",
         "uri": "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
     },
-    "6am9h0hxHjTPai30eHbA4B": {
+    "51V0E9ipJyIj7yFDkaLx96": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6am9h0hxHjTPai30eHbA4B"
+            "spotify": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
         },
-        "href": "https://api.spotify.com/v1/artists/6am9h0hxHjTPai30eHbA4B",
-        "id": "6am9h0hxHjTPai30eHbA4B",
+        "href": "https://api.spotify.com/v1/artists/51V0E9ipJyIj7yFDkaLx96",
+        "id": "51V0E9ipJyIj7yFDkaLx96",
         "name": "Jetta",
         "type": "artist",
-        "uri": "spotify:artist:6am9h0hxHjTPai30eHbA4B"
+        "uri": "spotify:artist:51V0E9ipJyIj7yFDkaLx96"
     },
     "2ActkR0xU2ZiDhWYhijydE": {
         "external_urls": {
