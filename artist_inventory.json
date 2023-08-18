@@ -32537,6 +32537,26 @@
         "type": "artist",
         "uri": "spotify:artist:4yjm4SvYqC5FFuLbB6TyHr"
     },
+    "716NhGYqD1jl2wI1Qkgq36": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+        "id": "716NhGYqD1jl2wI1Qkgq36",
+        "name": "Bizarrap",
+        "type": "artist",
+        "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    },
+    "4SsVbpTthjScTS7U2hmr1X": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        "href": "https://api.spotify.com/v1/artists/4SsVbpTthjScTS7U2hmr1X",
+        "id": "4SsVbpTthjScTS7U2hmr1X",
+        "name": "Arc\u00e1ngel",
+        "type": "artist",
+        "uri": "spotify:artist:4SsVbpTthjScTS7U2hmr1X"
+    },
     "36QJpDe2go2KgaRleHCDTp": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
@@ -43567,16 +43587,6 @@
         "type": "artist",
         "uri": "spotify:artist:76whng5pl9msPkkjFUtWYn"
     },
-    "4SsVbpTthjScTS7U2hmr1X": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        "href": "https://api.spotify.com/v1/artists/4SsVbpTthjScTS7U2hmr1X",
-        "id": "4SsVbpTthjScTS7U2hmr1X",
-        "name": "Arc\u00e1ngel",
-        "type": "artist",
-        "uri": "spotify:artist:4SsVbpTthjScTS7U2hmr1X"
-    },
     "4QrBoWLm2WNlPdbFhmlaUZ": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
@@ -46596,16 +46606,6 @@
         "name": "Maxine Nightingale",
         "type": "artist",
         "uri": "spotify:artist:6jQ9UtYXqNfVnPkrH1Xxwi"
-    },
-    "716NhGYqD1jl2wI1Qkgq36": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-        "id": "716NhGYqD1jl2wI1Qkgq36",
-        "name": "Bizarrap",
-        "type": "artist",
-        "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     },
     "1g1nVvle9qO9AWIUWYvPAP": {
         "external_urls": {
@@ -60817,6 +60817,46 @@
         "type": "artist",
         "uri": "spotify:artist:4IEP61D1hdCPQVzAYzP9VC"
     },
+    "51ZSh80McCt7vbqHouzW0A": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        "href": "https://api.spotify.com/v1/artists/51ZSh80McCt7vbqHouzW0A",
+        "id": "51ZSh80McCt7vbqHouzW0A",
+        "name": "Yahritza Y Su Esencia",
+        "type": "artist",
+        "uri": "spotify:artist:51ZSh80McCt7vbqHouzW0A"
+    },
+    "0XeEobZplHxzM9QzFQWLiR": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        "href": "https://api.spotify.com/v1/artists/0XeEobZplHxzM9QzFQWLiR",
+        "id": "0XeEobZplHxzM9QzFQWLiR",
+        "name": "Eslabon Armado",
+        "type": "artist",
+        "uri": "spotify:artist:0XeEobZplHxzM9QzFQWLiR"
+    },
+    "7aWQYo8mKVpTHHgBISKku4": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7aWQYo8mKVpTHHgBISKku4"
+        },
+        "href": "https://api.spotify.com/v1/artists/7aWQYo8mKVpTHHgBISKku4",
+        "id": "7aWQYo8mKVpTHHgBISKku4",
+        "name": "Grup Frontera",
+        "type": "artist",
+        "uri": "spotify:artist:7aWQYo8mKVpTHHgBISKku4"
+    },
+    "1NNRWkhwmcXRimFYSBpB1y": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        "href": "https://api.spotify.com/v1/artists/1NNRWkhwmcXRimFYSBpB1y",
+        "id": "1NNRWkhwmcXRimFYSBpB1y",
+        "name": "Yng Lvcas",
+        "type": "artist",
+        "uri": "spotify:artist:1NNRWkhwmcXRimFYSBpB1y"
+    },
     "3IpQziA6YwD53PQ5xbwgLF": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
@@ -64247,16 +64287,6 @@
         "type": "artist",
         "uri": "spotify:artist:3qsKSpcV3ncke3hw52JSMB"
     },
-    "1NNRWkhwmcXRimFYSBpB1y": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        "href": "https://api.spotify.com/v1/artists/1NNRWkhwmcXRimFYSBpB1y",
-        "id": "1NNRWkhwmcXRimFYSBpB1y",
-        "name": "Yng Lvcas",
-        "type": "artist",
-        "uri": "spotify:artist:1NNRWkhwmcXRimFYSBpB1y"
-    },
     "6E4v4lnsSuO5SaQ4FNOWSA": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
@@ -64286,16 +64316,6 @@
         "name": "Depressiego",
         "type": "artist",
         "uri": "spotify:artist:0lGbS4aZKjwIzqXtq2fyQD"
-    },
-    "51ZSh80McCt7vbqHouzW0A": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        "href": "https://api.spotify.com/v1/artists/51ZSh80McCt7vbqHouzW0A",
-        "id": "51ZSh80McCt7vbqHouzW0A",
-        "name": "Yahritza Y Su Esencia",
-        "type": "artist",
-        "uri": "spotify:artist:51ZSh80McCt7vbqHouzW0A"
     },
     "70nxnxEqDQIEWneRjg2Q4O": {
         "external_urls": {
@@ -64746,16 +64766,6 @@
         "name": "Sabz",
         "type": "artist",
         "uri": "spotify:artist:4qCJ0bax3hxvnJZub4vvZ9"
-    },
-    "0XeEobZplHxzM9QzFQWLiR": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        "href": "https://api.spotify.com/v1/artists/0XeEobZplHxzM9QzFQWLiR",
-        "id": "0XeEobZplHxzM9QzFQWLiR",
-        "name": "Eslabon Armado",
-        "type": "artist",
-        "uri": "spotify:artist:0XeEobZplHxzM9QzFQWLiR"
     },
     "30BfEIsC9RFTPJDIVy43ri": {
         "external_urls": {
