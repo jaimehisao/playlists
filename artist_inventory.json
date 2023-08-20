@@ -51827,6 +51827,36 @@
         "type": "artist",
         "uri": "spotify:artist:0YHgnSkV3S5mvSSCTRWDi5"
     },
+    "5pyVHz7lcfqKoV9BflFYwN": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        },
+        "href": "https://api.spotify.com/v1/artists/5pyVHz7lcfqKoV9BflFYwN",
+        "id": "5pyVHz7lcfqKoV9BflFYwN",
+        "name": "Jameson Rodgers",
+        "type": "artist",
+        "uri": "spotify:artist:5pyVHz7lcfqKoV9BflFYwN"
+    },
+    "7tkwiWhGKSuQV8LwPWceWN": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
+        },
+        "href": "https://api.spotify.com/v1/artists/7tkwiWhGKSuQV8LwPWceWN",
+        "id": "7tkwiWhGKSuQV8LwPWceWN",
+        "name": "Craig Campbell",
+        "type": "artist",
+        "uri": "spotify:artist:7tkwiWhGKSuQV8LwPWceWN"
+    },
+    "2QMsj4XJ7ne2hojxt6v5eb": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        "href": "https://api.spotify.com/v1/artists/2QMsj4XJ7ne2hojxt6v5eb",
+        "id": "2QMsj4XJ7ne2hojxt6v5eb",
+        "name": "Riley Green",
+        "type": "artist",
+        "uri": "spotify:artist:2QMsj4XJ7ne2hojxt6v5eb"
+    },
     "0qk9IE3icvkYLRii8qAko8": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
