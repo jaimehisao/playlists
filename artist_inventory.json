@@ -44437,6 +44437,16 @@
         "type": "artist",
         "uri": "spotify:artist:1xQQXPjWsDbzE34DWI6bcE"
     },
+    "3IUAZiICL3J7GlHYPgT414": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        "href": "https://api.spotify.com/v1/artists/3IUAZiICL3J7GlHYPgT414",
+        "id": "3IUAZiICL3J7GlHYPgT414",
+        "name": "Rodolfo Aicardi",
+        "type": "artist",
+        "uri": "spotify:artist:3IUAZiICL3J7GlHYPgT414"
+    },
     "34MYamymtmnsmpwbqydd7I": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
@@ -49656,16 +49666,6 @@
         "name": "Kelvis Ochoa",
         "type": "artist",
         "uri": "spotify:artist:3Q2MVC1NWIzEyUytnlFBKm"
-    },
-    "3IUAZiICL3J7GlHYPgT414": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        "href": "https://api.spotify.com/v1/artists/3IUAZiICL3J7GlHYPgT414",
-        "id": "3IUAZiICL3J7GlHYPgT414",
-        "name": "Rodolfo Aicardi",
-        "type": "artist",
-        "uri": "spotify:artist:3IUAZiICL3J7GlHYPgT414"
     },
     "6xihzJv7xtLyRc420HlM0y": {
         "external_urls": {
