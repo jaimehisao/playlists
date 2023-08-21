@@ -40997,6 +40997,16 @@
         "type": "artist",
         "uri": "spotify:artist:5xUf6j4upBrXZPg6AI4MRK"
     },
+    "7gXy60xRcwYujBFoYHnR2O": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        "href": "https://api.spotify.com/v1/artists/7gXy60xRcwYujBFoYHnR2O",
+        "id": "7gXy60xRcwYujBFoYHnR2O",
+        "name": "Big Red Machine",
+        "type": "artist",
+        "uri": "spotify:artist:7gXy60xRcwYujBFoYHnR2O"
+    },
     "0UOrkpzPED604dKzxgfJqg": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
@@ -42016,16 +42026,6 @@
         "name": "Swatkins",
         "type": "artist",
         "uri": "spotify:artist:0HnF3y5xRlNr6eGQmFZgjP"
-    },
-    "7gXy60xRcwYujBFoYHnR2O": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        "href": "https://api.spotify.com/v1/artists/7gXy60xRcwYujBFoYHnR2O",
-        "id": "7gXy60xRcwYujBFoYHnR2O",
-        "name": "Big Red Machine",
-        "type": "artist",
-        "uri": "spotify:artist:7gXy60xRcwYujBFoYHnR2O"
     },
     "7gW0r5CkdEUMm42w9XpyZO": {
         "external_urls": {
@@ -50736,6 +50736,36 @@
         "name": "Cuarteto Almanaque",
         "type": "artist",
         "uri": "spotify:artist:3mDraoH8A5o3wS7dfOtIqs"
+    },
+    "3NGFaAfVw91L1JeY5NaOet": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3NGFaAfVw91L1JeY5NaOet"
+        },
+        "href": "https://api.spotify.com/v1/artists/3NGFaAfVw91L1JeY5NaOet",
+        "id": "3NGFaAfVw91L1JeY5NaOet",
+        "name": "Ruth Abadiano",
+        "type": "artist",
+        "uri": "spotify:artist:3NGFaAfVw91L1JeY5NaOet"
+    },
+    "2ItPN8i3VlnEbuR26vnXXX": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ItPN8i3VlnEbuR26vnXXX"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ItPN8i3VlnEbuR26vnXXX",
+        "id": "2ItPN8i3VlnEbuR26vnXXX",
+        "name": "Unknown Artist",
+        "type": "artist",
+        "uri": "spotify:artist:2ItPN8i3VlnEbuR26vnXXX"
+    },
+    "1pdvqZlba01URStTIbnfv2": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2"
+        },
+        "href": "https://api.spotify.com/v1/artists/1pdvqZlba01URStTIbnfv2",
+        "id": "1pdvqZlba01URStTIbnfv2",
+        "name": "Los Hijos De La Ni\u00f1a Luz",
+        "type": "artist",
+        "uri": "spotify:artist:1pdvqZlba01URStTIbnfv2"
     },
     "7AgtFmxbJL1wDbp7yYrzQb": {
         "external_urls": {
