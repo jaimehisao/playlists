@@ -1440,6 +1440,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-08-09T17:55:36Z",
             "uri": "spotify:track:56dtB7EzO7EneUgYwX8krC"
+        },
+        {
+            "track_id": "7e89621JPkKaeDSTQ3avtg",
+            "track_name": "Sweet Home Alabama",
+            "track_artist": "Lynyrd Skynyrd",
+            "track_album": "Second Helping (Expanded Edition)",
+            "track_duration": 283800,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-08-27T06:44:04Z",
+            "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg"
         }
     ]
 }
