@@ -572,16 +572,6 @@
             "uri": "spotify:track:7AcQlHwQyjO3BGRGWqRWhw"
         },
         {
-            "track_id": "0KHDthR0XvPoeJaqBc7Sg5",
-            "track_name": "Ya Te Perd\u00ed La Fe",
-            "track_artist": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-            "track_album": "Ojos En Blanco",
-            "track_duration": 147053,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-04-10T22:05:26Z",
-            "uri": "spotify:track:0KHDthR0XvPoeJaqBc7Sg5"
-        },
-        {
             "track_id": "5wCUdBsdubZ3ZFoJoRsMrY",
             "track_name": "Persiana Americana - Remasterizado 2007",
             "track_artist": "Soda Stereo",
@@ -3000,6 +2990,16 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-02-16T13:23:11Z",
             "uri": "spotify:track:0X3V93Zs8EF6uqUaQuIDXx"
+        },
+        {
+            "track_id": "2kfSFdq2h0xLXq01em1zc7",
+            "track_name": "La Gata Bajo la Lluvia",
+            "track_artist": "Roc\u00edo D\u00farcal",
+            "track_album": "Sus 16 Grandes Exitos",
+            "track_duration": 219106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-02-17T00:09:38Z",
+            "uri": "spotify:track:2kfSFdq2h0xLXq01em1zc7"
         }
     ]
 }
