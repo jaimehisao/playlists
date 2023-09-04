@@ -1742,16 +1742,6 @@
             "uri": "spotify:track:5IQfg3XiRgQpbKnbyiIDNx"
         },
         {
-            "track_id": "0HU6iAeBwxODFxkiRMTgF1",
-            "track_name": "Lo que t\u00fa me das",
-            "track_artist": "Juanpalitoschinos",
-            "track_album": "Lo que t\u00fa me das",
-            "track_duration": 235098,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2021-02-26T18:13:42Z",
-            "uri": "spotify:track:0HU6iAeBwxODFxkiRMTgF1"
-        },
-        {
             "track_id": "0WlskmmuIGnHDYhHohSuGJ",
             "track_name": "Coraz\u00f3n part\u00edo",
             "track_artist": "Alejandro Sanz",
@@ -2902,16 +2892,6 @@
             "uri": "spotify:track:1iRvhKiXRElIH2Uf4gd95P"
         },
         {
-            "track_id": "4ocXAchdkulq97w6m1ZaPv",
-            "track_name": "Cu\u00e9ntale",
-            "track_artist": "Don Omar",
-            "track_album": "King Of Kings",
-            "track_duration": 261306,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2023-06-30T21:12:59Z",
-            "uri": "spotify:track:4ocXAchdkulq97w6m1ZaPv"
-        },
-        {
             "track_id": "5BSclXJTa9B0iURhUjZo50",
             "track_name": "La Tortura (feat. Alejandro Sanz)",
             "track_artist": "Shakira",
@@ -2980,6 +2960,46 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-07-09T20:27:36Z",
             "uri": "spotify:track:7256yGEwDkqs39TKHTeXik"
+        },
+        {
+            "track_id": "0PB0O24JqAuNdOAFVJljMS",
+            "track_name": "Coco Chanel",
+            "track_artist": "Eladio Carrion",
+            "track_album": "3MEN2 KBRN",
+            "track_duration": 208125,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-15T00:08:24Z",
+            "uri": "spotify:track:0PB0O24JqAuNdOAFVJljMS"
+        },
+        {
+            "track_id": "5gflgO9EPbIBf16n5TKnQS",
+            "track_name": "Yo Voy (feat. Daddy Yankee)",
+            "track_artist": "Zion & Lennox",
+            "track_album": "Motivando a la Yal",
+            "track_duration": 232019,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-16T06:44:45Z",
+            "uri": "spotify:track:5gflgO9EPbIBf16n5TKnQS"
+        },
+        {
+            "track_id": "7mY1dIaY9vY6Jrlrjg3dRn",
+            "track_name": "Quiero Bailar",
+            "track_artist": "Ivy Queen",
+            "track_album": "DIVA- Platinum Edition",
+            "track_duration": 186506,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-16T06:44:57Z",
+            "uri": "spotify:track:7mY1dIaY9vY6Jrlrjg3dRn"
+        },
+        {
+            "track_id": "2kfSFdq2h0xLXq01em1zc7",
+            "track_name": "La Gata Bajo la Lluvia",
+            "track_artist": "Roc\u00edo D\u00farcal",
+            "track_album": "Sus 16 Grandes Exitos",
+            "track_duration": 219106,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-16T06:49:56Z",
+            "uri": "spotify:track:2kfSFdq2h0xLXq01em1zc7"
         }
     ]
 }
