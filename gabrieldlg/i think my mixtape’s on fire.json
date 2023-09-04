@@ -342,26 +342,6 @@
             "uri": "spotify:track:1iSZPndzmY6NvL1jAtIvY1"
         },
         {
-            "track_id": "5VuxWXbt7XENQCtE9TzpTv",
-            "track_name": "Spoil My Night (feat. Swae Lee)",
-            "track_artist": "Post Malone",
-            "track_album": "beerbongs & bentleys",
-            "track_duration": 194560,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2020-01-12T00:36:34Z",
-            "uri": "spotify:track:5VuxWXbt7XENQCtE9TzpTv"
-        },
-        {
-            "track_id": "3fpVWegR6YOS1Yk5HSMYIq",
-            "track_name": "Paranoid",
-            "track_artist": "Post Malone",
-            "track_album": "beerbongs & bentleys",
-            "track_duration": 221786,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2020-01-12T00:36:43Z",
-            "uri": "spotify:track:3fpVWegR6YOS1Yk5HSMYIq"
-        },
-        {
             "track_id": "3kxfsdsCpFgN412fpnW85Y",
             "track_name": "Redbone",
             "track_artist": "Childish Gambino",
@@ -380,16 +360,6 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2020-01-12T00:37:01Z",
             "uri": "spotify:track:3X7xCWOmb7UdYJDGP4oNIx"
-        },
-        {
-            "track_id": "7dt6x5M1jzdTEt8oCbisTK",
-            "track_name": "Better Now",
-            "track_artist": "Post Malone",
-            "track_album": "beerbongs & bentleys",
-            "track_duration": 231266,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2020-01-12T00:37:27Z",
-            "uri": "spotify:track:7dt6x5M1jzdTEt8oCbisTK"
         },
         {
             "track_id": "1OmcAT5Y8eg5bUPv9qJT4R",
@@ -540,16 +510,6 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2020-01-16T03:13:30Z",
             "uri": "spotify:track:2EEeOnHehOozLq4aS0n6SL"
-        },
-        {
-            "track_id": "7BYppcUTuG5ysmaJlGSt3t",
-            "track_name": "Welcome to Chilis",
-            "track_artist": "Yung Gravy",
-            "track_album": "Welcome to Chilis",
-            "track_duration": 157500,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2020-01-23T23:05:13Z",
-            "uri": "spotify:track:7BYppcUTuG5ysmaJlGSt3t"
         },
         {
             "track_id": "7FIWs0pqAYbP91WWM0vlTQ",
@@ -1092,16 +1052,6 @@
             "uri": "spotify:track:0WSEq9Ko4kFPt8yo3ICd6T"
         },
         {
-            "track_id": "6nBQFAIVFmAx2oZ8p6lUg6",
-            "track_name": "Tempo (feat. Missy Elliott)",
-            "track_artist": "Lizzo",
-            "track_album": "Cuz I Love You",
-            "track_duration": 175342,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2022-03-02T17:17:36Z",
-            "uri": "spotify:track:6nBQFAIVFmAx2oZ8p6lUg6"
-        },
-        {
             "track_id": "5Z9KJZvQzH6PFmb8SNkxuk",
             "track_name": "INDUSTRY BABY (feat. Jack Harlow)",
             "track_artist": "Lil Nas X",
@@ -1130,16 +1080,6 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2022-04-20T16:45:07Z",
             "uri": "spotify:track:5TxRUOsGeWeRl3xOML59Ai"
-        },
-        {
-            "track_id": "1PckUlxKqWQs3RlWXVBLw3",
-            "track_name": "About Damn Time",
-            "track_artist": "Lizzo",
-            "track_album": "About Damn Time",
-            "track_duration": 191822,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2022-05-02T16:35:43Z",
-            "uri": "spotify:track:1PckUlxKqWQs3RlWXVBLw3"
         },
         {
             "track_id": "7L9g4cPfohScjJ8mGwLQWr",
@@ -1250,16 +1190,6 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-02-16T05:49:14Z",
             "uri": "spotify:track:22538YKRjtLLuosd61VUOn"
-        },
-        {
-            "track_id": "6AQbmUe0Qwf5PZnt4HmTXv",
-            "track_name": "Boy's a Liar Pt. 2",
-            "track_artist": "PinkPantheress",
-            "track_album": "Boy's a liar Pt. 2",
-            "track_duration": 131013,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-02-23T06:50:33Z",
-            "uri": "spotify:track:6AQbmUe0Qwf5PZnt4HmTXv"
         },
         {
             "track_id": "11a6GzsfPoLY1bVw3IFeMs",
@@ -1430,6 +1360,116 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-20T14:52:59Z",
             "uri": "spotify:track:66wkCYWlXzSTQAfnsPBptt"
+        },
+        {
+            "track_id": "06eobTXs90ICbtbxhmgviZ",
+            "track_name": "Keep Dat Nigga",
+            "track_artist": "Icandy",
+            "track_album": "Keep Dat Nigga",
+            "track_duration": 138945,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-07-15T03:05:17Z",
+            "uri": "spotify:track:06eobTXs90ICbtbxhmgviZ"
+        },
+        {
+            "track_id": "3sp3wHVuQ3CRtsZykHDtKq",
+            "track_name": "Hollywood",
+            "track_artist": "Kota the Friend",
+            "track_album": "FOTO",
+            "track_duration": 241678,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-16T03:01:45Z",
+            "uri": "spotify:track:3sp3wHVuQ3CRtsZykHDtKq"
+        },
+        {
+            "track_id": "68Dni7IE4VyPkTOH9mRWHr",
+            "track_name": "No Role Modelz",
+            "track_artist": "J. Cole",
+            "track_album": "2014 Forest Hills Drive",
+            "track_duration": 292799,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T17:19:05Z",
+            "uri": "spotify:track:68Dni7IE4VyPkTOH9mRWHr"
+        },
+        {
+            "track_id": "3U21A07gAloCc4P7J8rxcn",
+            "track_name": "All Mine",
+            "track_artist": "Kanye West",
+            "track_album": "ye",
+            "track_duration": 145506,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T17:23:52Z",
+            "uri": "spotify:track:3U21A07gAloCc4P7J8rxcn"
+        },
+        {
+            "track_id": "7sO5G9EABYOXQKNPNiE9NR",
+            "track_name": "Ric Flair Drip (with Metro Boomin)",
+            "track_artist": "Offset",
+            "track_album": "Without Warning",
+            "track_duration": 172800,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T17:37:58Z",
+            "uri": "spotify:track:7sO5G9EABYOXQKNPNiE9NR"
+        },
+        {
+            "track_id": "1ThmUihH9dF8EV08ku5AXN",
+            "track_name": "Faucet Failure",
+            "track_artist": "Ski Mask The Slump God",
+            "track_album": "STOKELEY",
+            "track_duration": 145626,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T17:41:07Z",
+            "uri": "spotify:track:1ThmUihH9dF8EV08ku5AXN"
+        },
+        {
+            "track_id": "51rXHuKN8Loc4sUlKPODgH",
+            "track_name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+            "track_artist": "Jay Rock",
+            "track_album": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+            "track_duration": 229670,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T17:41:11Z",
+            "uri": "spotify:track:51rXHuKN8Loc4sUlKPODgH"
+        },
+        {
+            "track_id": "5bJ1DrEM4hNCafcDd1oxHx",
+            "track_name": "Self Care",
+            "track_artist": "Mac Miller",
+            "track_album": "Swimming",
+            "track_duration": 345133,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T17:44:42Z",
+            "uri": "spotify:track:5bJ1DrEM4hNCafcDd1oxHx"
+        },
+        {
+            "track_id": "2oLwDI8tZUOh6SmTMRRfKs",
+            "track_name": "Elevators (Me & You)",
+            "track_artist": "Outkast",
+            "track_album": "ATLiens",
+            "track_duration": 265200,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T23:21:38Z",
+            "uri": "spotify:track:2oLwDI8tZUOh6SmTMRRfKs"
+        },
+        {
+            "track_id": "3XukKy28kqKFl52GiCUSFo",
+            "track_name": "Georgia",
+            "track_artist": "Kevin Abstract",
+            "track_album": "ARIZONA BABY",
+            "track_duration": 219466,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-04T05:06:23Z",
+            "uri": "spotify:track:3XukKy28kqKFl52GiCUSFo"
+        },
+        {
+            "track_id": "6xagjcywpcyNFghafZPQJv",
+            "track_name": "Banana Clip",
+            "track_artist": "Miguel",
+            "track_album": "War & Leisure",
+            "track_duration": 201626,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-04T05:14:50Z",
+            "uri": "spotify:track:6xagjcywpcyNFghafZPQJv"
         }
     ]
 }
