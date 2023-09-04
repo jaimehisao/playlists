@@ -1260,6 +1260,16 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-08-15T09:28:54Z",
             "uri": "spotify:track:0FDY2EHOv32kUoqplU1hdY"
+        },
+        {
+            "track_id": "4UZnuQKIE6lQHJjTU8OViS",
+            "track_name": "Bubamara",
+            "track_artist": "Fanfare Ciocarlia",
+            "track_album": "Iag Bari",
+            "track_duration": 115360,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-21T23:29:00Z",
+            "uri": "spotify:track:4UZnuQKIE6lQHJjTU8OViS"
         }
     ]
 }
