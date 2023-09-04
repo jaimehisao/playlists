@@ -12,16 +12,6 @@
             "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
         },
         {
-            "track_id": "7qEUFOVcxRI19tbT68JcYK",
-            "track_name": "Everything Has Changed (feat. Ed Sheeran) (Taylor\u2019s Version)",
-            "track_artist": "Taylor Swift",
-            "track_album": "Red (Taylor's Version)",
-            "track_duration": 245426,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-19T17:15:49Z",
-            "uri": "spotify:track:7qEUFOVcxRI19tbT68JcYK"
-        },
-        {
             "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
             "track_name": "Delicate",
             "track_artist": "Taylor Swift",
@@ -42,16 +32,6 @@
             "uri": "spotify:track:7A2cNLRT0YJc1yjxHlKihs"
         },
         {
-            "track_id": "0sY6ZUTh4yoctD8VIXz339",
-            "track_name": "champagne problems",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore",
-            "track_duration": 244000,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-28T15:13:36Z",
-            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
-        },
-        {
             "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
             "track_name": "Death By A Thousand Cuts",
             "track_artist": "Taylor Swift",
@@ -63,7 +43,7 @@
         },
         {
             "track_id": "1vYXt7VSjH9JIM5oRRo7vA",
-            "track_name": "Dance The Night (From Barbie The Album)",
+            "track_name": "Dance The Night - From Barbie The Album",
             "track_artist": "Dua Lipa",
             "track_album": "Dance The Night (From Barbie The Album)",
             "track_duration": 176579,
@@ -120,6 +100,36 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-08-17T04:47:54Z",
             "uri": "spotify:track:5Nc3vGiiHFyQegUNjsboj9"
+        },
+        {
+            "track_id": "75zvC8d4iozawMJvxt8T1f",
+            "track_name": "Eres T\u00fa",
+            "track_artist": "Carla Morrison",
+            "track_album": "D\u00e9jenme Llorar",
+            "track_duration": 228253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-21T22:06:57Z",
+            "uri": "spotify:track:75zvC8d4iozawMJvxt8T1f"
+        },
+        {
+            "track_id": "0Nfh4u0J4bajcyp5pzaWCx",
+            "track_name": "Used To Be Young",
+            "track_artist": "Miley Cyrus",
+            "track_album": "Used To Be Young",
+            "track_duration": 191185,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-25T20:35:51Z",
+            "uri": "spotify:track:0Nfh4u0J4bajcyp5pzaWCx"
+        },
+        {
+            "track_id": "6fAToGuBw5lPlWvzdzGyYx",
+            "track_name": "Kil\u00f3metros",
+            "track_artist": "Ainda",
+            "track_album": "Kil\u00f3metros",
+            "track_duration": 212229,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-08-29T02:04:51Z",
+            "uri": "spotify:track:6fAToGuBw5lPlWvzdzGyYx"
         }
     ]
 }
