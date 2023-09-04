@@ -152,16 +152,6 @@
             "uri": "spotify:track:4YYRXdsQBKKHtqGw1jiVdJ"
         },
         {
-            "track_id": "7h6jglJXxtDhjmCW2ANwBL",
-            "track_name": "Arroz con coco",
-            "track_artist": "Lucho Bermudez Y Su Orquesta",
-            "track_album": "Lucho Berm\u00fadez y Su Orquesta",
-            "track_duration": 148506,
-            "track_added_by": "1291740798",
-            "track_added_at": "2023-05-31T16:24:38Z",
-            "uri": "spotify:track:7h6jglJXxtDhjmCW2ANwBL"
-        },
-        {
             "track_id": "6DyOUxZTufO1KAmbDZ241K",
             "track_name": "Cumbia Sabrosa",
             "track_artist": "Climaco Sarmiento",
@@ -410,6 +400,36 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-06-17T00:04:53Z",
             "uri": "spotify:track:3DPW5r4hfXjiqpq5SAllKn"
+        },
+        {
+            "track_id": "71v5UpocQfcOs8a1KEadU4",
+            "track_name": "Que No Quede Huella",
+            "track_artist": "Rodolfo Aicardi",
+            "track_album": "Narcos: Season 3 (A Netflix Original Series Soundtrack)",
+            "track_duration": 219584,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-20T15:01:41Z",
+            "uri": "spotify:track:71v5UpocQfcOs8a1KEadU4"
+        },
+        {
+            "track_id": "6xVQAgxCjmn7cRnOpK0AgP",
+            "track_name": "Tabaco y Ron",
+            "track_artist": "Rodolfo Aicardi",
+            "track_album": "Historia Musical de Rodolfo Bailable",
+            "track_duration": 242918,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-20T15:05:17Z",
+            "uri": "spotify:track:6xVQAgxCjmn7cRnOpK0AgP"
+        },
+        {
+            "track_id": "7h6jglJXxtDhjmCW2ANwBL",
+            "track_name": "Arroz con coco",
+            "track_artist": "Lucho Bermudez Y Su Orquesta",
+            "track_album": "Lucho Berm\u00fadez y Su Orquesta",
+            "track_duration": 148506,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-08-25T16:02:26Z",
+            "uri": "spotify:track:7h6jglJXxtDhjmCW2ANwBL"
         }
     ]
 }
