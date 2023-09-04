@@ -870,6 +870,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-06T00:46:46Z",
             "uri": "spotify:track:6iPDBwtiOZGlfQt9HD0jAG"
+        },
+        {
+            "track_id": "5fXk93H1gUgNtZrDGiNLR4",
+            "track_name": "Golpes en el Coraz\u00f3n",
+            "track_artist": "Los Aut\u00e9nticos Decadentes",
+            "track_album": "Golpes en el Coraz\u00f3n",
+            "track_duration": 211268,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-08-30T20:52:49Z",
+            "uri": "spotify:track:5fXk93H1gUgNtZrDGiNLR4"
         }
     ]
 }
