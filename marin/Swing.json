@@ -1,0 +1,55 @@
+{
+    "id": "5ZGlALKYMIyp8HUkrc5zEC",
+    "tracks": [
+        {
+            "track_id": "48Y0fDYJ9VJecyW75FsCCh",
+            "track_name": "Wonderland",
+            "track_artist": "Caravan Palace",
+            "track_album": "<I\u00b0_\u00b0I>",
+            "track_duration": 190554,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T05:44:40Z",
+            "uri": "spotify:track:48Y0fDYJ9VJecyW75FsCCh"
+        },
+        {
+            "track_id": "6PaeS7gb1MWp1WfHzbkXPT",
+            "track_name": "Take Me Home",
+            "track_artist": "Electro Velvet",
+            "track_album": "Take Me Home",
+            "track_duration": 204078,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T05:46:41Z",
+            "uri": "spotify:track:6PaeS7gb1MWp1WfHzbkXPT"
+        },
+        {
+            "track_id": "4x1JCQqbx4Ip60TyQcq7Oq",
+            "track_name": "I Loved You Then - Radio Edit",
+            "track_artist": "Luke & The Belleville Orchestra",
+            "track_album": "I Loved You Then (Radio Edit)",
+            "track_duration": 194000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T05:51:06Z",
+            "uri": "spotify:track:4x1JCQqbx4Ip60TyQcq7Oq"
+        },
+        {
+            "track_id": "2Lfv4vMlKmN695SQnSjN70",
+            "track_name": "Via con me",
+            "track_artist": "Swingrowers",
+            "track_album": "White Mink: Black Cotton, Vol. 3 (Electro Swing vs Speakeasy Jazz)",
+            "track_duration": 231360,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T05:55:34Z",
+            "uri": "spotify:track:2Lfv4vMlKmN695SQnSjN70"
+        },
+        {
+            "track_id": "11lES6tMz3x9c4w0PbXaZJ",
+            "track_name": "Desert",
+            "track_artist": "Jive Me",
+            "track_album": "Electro Swing New Generation 01 by Bart&Baker: The Best New Electro Swing Music",
+            "track_duration": 228800,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T05:59:06Z",
+            "uri": "spotify:track:11lES6tMz3x9c4w0PbXaZJ"
+        }
+    ]
+}
