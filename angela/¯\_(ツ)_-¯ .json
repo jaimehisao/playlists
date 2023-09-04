@@ -92,16 +92,6 @@
             "uri": "spotify:track:2MYl0er3UZ1RlKwRb5LODh"
         },
         {
-            "track_id": "6UjfByV1lDLW0SOVQA4NAi",
-            "track_name": "Gyalchester",
-            "track_artist": "Drake",
-            "track_album": "More Life",
-            "track_duration": 189229,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-03-19T17:50:01Z",
-            "uri": "spotify:track:6UjfByV1lDLW0SOVQA4NAi"
-        },
-        {
             "track_id": "4hP7NIeToP2hU6lyvIHPyp",
             "track_name": "Netflix & Dusse",
             "track_artist": "Smino",
@@ -1740,6 +1730,56 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-07-10T21:31:51Z",
             "uri": "spotify:track:1uNePI826aqh9uC9pgbeHU"
+        },
+        {
+            "track_id": "1dF5Y2dd7Wm4wZKvVjWBpr",
+            "track_name": "1st of Tha Month",
+            "track_artist": "Bone Thugs-N-Harmony",
+            "track_album": "E. 1999 Eternal",
+            "track_duration": 314680,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-17T03:33:20Z",
+            "uri": "spotify:track:1dF5Y2dd7Wm4wZKvVjWBpr"
+        },
+        {
+            "track_id": "6BU1RZexmvJcBjgagVVt3M",
+            "track_name": "Count Me Out",
+            "track_artist": "Kendrick Lamar",
+            "track_album": "Mr. Morale & The Big Steppers",
+            "track_duration": 283642,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-17T03:34:36Z",
+            "uri": "spotify:track:6BU1RZexmvJcBjgagVVt3M"
+        },
+        {
+            "track_id": "4Ami4MTReWxztxGW1ZmOk8",
+            "track_name": "Rapper Weed",
+            "track_artist": "SiR",
+            "track_album": "Rapper Weed",
+            "track_duration": 160000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-17T23:30:46Z",
+            "uri": "spotify:track:4Ami4MTReWxztxGW1ZmOk8"
+        },
+        {
+            "track_id": "6l8mgVN9Xf1hiDIFGA6CTE",
+            "track_name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+            "track_artist": "Beyonc\u00e9",
+            "track_album": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+            "track_duration": 260962,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-27T03:44:37Z",
+            "uri": "spotify:track:6l8mgVN9Xf1hiDIFGA6CTE"
+        },
+        {
+            "track_id": "5d5hgQCHyzkPrxWejb69St",
+            "track_name": "SOPRANO",
+            "track_artist": "Duckwrth",
+            "track_album": "THE FALLING MAN",
+            "track_duration": 166906,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-22T16:36:18Z",
+            "uri": "spotify:track:5d5hgQCHyzkPrxWejb69St"
         }
     ]
 }
