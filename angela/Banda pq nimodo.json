@@ -103,9 +103,9 @@
         },
         {
             "track_id": "23Lyy7ZXRvzfgH4JtDkKrX",
-            "track_name": "No Se Va - En Vivo",
+            "track_name": "No Se Va - EN VIVO",
             "track_artist": "Grupo Frontera",
-            "track_album": "No Se Va (En Vivo)",
+            "track_album": "No Se Va (EN VIVO)",
             "track_duration": 194019,
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-02-05T02:48:32Z",
@@ -680,6 +680,136 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-02-05T04:45:46Z",
             "uri": "spotify:track:3GUyiFEglEm9rSToOf5YZW"
+        },
+        {
+            "track_id": "7bPp2NmpmyhLJ7zWazAXMu",
+            "track_name": "TULUM",
+            "track_artist": "Peso Pluma",
+            "track_album": "G\u00c9NESIS",
+            "track_duration": 209415,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:03Z",
+            "uri": "spotify:track:7bPp2NmpmyhLJ7zWazAXMu"
+        },
+        {
+            "track_id": "4JdSXF2p71cr8uCY3UiJM0",
+            "track_name": "Fr\u00e1gil",
+            "track_artist": "Yahritza Y Su Esencia",
+            "track_album": "Fr\u00e1gil",
+            "track_duration": 160517,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:07Z",
+            "uri": "spotify:track:4JdSXF2p71cr8uCY3UiJM0"
+        },
+        {
+            "track_id": "7ABLbnD53cQK00mhcaOUVG",
+            "track_name": "LALA",
+            "track_artist": "Myke Towers",
+            "track_album": "LA VIDA ES UNA",
+            "track_duration": 197920,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:10Z",
+            "uri": "spotify:track:7ABLbnD53cQK00mhcaOUVG"
+        },
+        {
+            "track_id": "4QctbZRsuWYPT0pbKg7u75",
+            "track_name": "un x100to",
+            "track_artist": "Grupo Frontera",
+            "track_album": "El Comienzo",
+            "track_duration": 194563,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:11Z",
+            "uri": "spotify:track:4QctbZRsuWYPT0pbKg7u75"
+        },
+        {
+            "track_id": "1UMm1Qs3u59Wvk53zBUE8r",
+            "track_name": "SABOR FRESA",
+            "track_artist": "Fuerza Regida",
+            "track_album": "SABOR FRESA",
+            "track_duration": 156500,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:17Z",
+            "uri": "spotify:track:1UMm1Qs3u59Wvk53zBUE8r"
+        },
+        {
+            "track_id": "38UYeBLfvpnDSG9GznZdnL",
+            "track_name": "Tormenta (feat. Bad Bunny)",
+            "track_artist": "Gorillaz",
+            "track_album": "Cracker Island",
+            "track_duration": 193463,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:21Z",
+            "uri": "spotify:track:38UYeBLfvpnDSG9GznZdnL"
+        },
+        {
+            "track_id": "3qQbCzHBycnDpGskqOWY0E",
+            "track_name": "Ella Baila Sola",
+            "track_artist": "Eslabon Armado",
+            "track_album": "DESVELADO",
+            "track_duration": 165671,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:21Z",
+            "uri": "spotify:track:3qQbCzHBycnDpGskqOWY0E"
+        },
+        {
+            "track_id": "0pliiCOWPN0IId8sXAqNJr",
+            "track_name": "Di Que S\u00ed",
+            "track_artist": "Grupo Marca Registrada",
+            "track_album": "Don't Stop The Magic",
+            "track_duration": 190553,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:32Z",
+            "uri": "spotify:track:0pliiCOWPN0IId8sXAqNJr"
+        },
+        {
+            "track_id": "368eeEO3Y2uZUQ6S5oIjcu",
+            "track_name": "TQM",
+            "track_artist": "Fuerza Regida",
+            "track_album": "TQM",
+            "track_duration": 158965,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:37Z",
+            "uri": "spotify:track:368eeEO3Y2uZUQ6S5oIjcu"
+        },
+        {
+            "track_id": "3DFst64tzmtGszuQtVvu0Z",
+            "track_name": "No Se Va",
+            "track_artist": "Grup Frontera",
+            "track_album": "No Se Va",
+            "track_duration": 195697,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:45Z",
+            "uri": "spotify:track:3DFst64tzmtGszuQtVvu0Z"
+        },
+        {
+            "track_id": "6Um358vY92UBv5DloTRX9L",
+            "track_name": "Que Vuelvas",
+            "track_artist": "Carin Leon",
+            "track_album": "Que Vuelvas",
+            "track_duration": 169418,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:51Z",
+            "uri": "spotify:track:6Um358vY92UBv5DloTRX9L"
+        },
+        {
+            "track_id": "2UW7JaomAMuX9pZrjVpHAU",
+            "track_name": "La Bebe - Remix",
+            "track_artist": "Yng Lvcas",
+            "track_album": "La Bebe (Remix)",
+            "track_duration": 234352,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:31:56Z",
+            "uri": "spotify:track:2UW7JaomAMuX9pZrjVpHAU"
+        },
+        {
+            "track_id": "0E0DRHf5PfMeor0ZCwB3oT",
+            "track_name": "Otro Atardecer",
+            "track_artist": "Bad Bunny",
+            "track_album": "Un Verano Sin Ti",
+            "track_duration": 244444,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-18T03:32:06Z",
+            "uri": "spotify:track:0E0DRHf5PfMeor0ZCwB3oT"
         }
     ]
 }
