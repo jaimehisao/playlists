@@ -37467,6 +37467,16 @@
         "type": "artist",
         "uri": "spotify:artist:5RAUmZtkAPMIhgkRNwM8Xw"
     },
+    "7darGNapWiX3YbwJXwl0hR": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR"
+        },
+        "href": "https://api.spotify.com/v1/artists/7darGNapWiX3YbwJXwl0hR",
+        "id": "7darGNapWiX3YbwJXwl0hR",
+        "name": "Kissamil\u00e9",
+        "type": "artist",
+        "uri": "spotify:artist:7darGNapWiX3YbwJXwl0hR"
+    },
     "07vycW8ICLf5hKb22PFWXw": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
