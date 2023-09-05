@@ -92,26 +92,6 @@
             "uri": "spotify:track:7CUYHcu0RnbOnMz4RuN07w"
         },
         {
-            "track_id": "79Jhw5xn4gGn6PZak275gg",
-            "track_name": "Traicionera",
-            "track_artist": "Sebastian Yatra",
-            "track_album": "Traicionera",
-            "track_duration": 228466,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-02-25T22:42:24Z",
-            "uri": "spotify:track:79Jhw5xn4gGn6PZak275gg"
-        },
-        {
-            "track_id": "7iAXEpyYmNpEDBtALzxbMm",
-            "track_name": "Azul",
-            "track_artist": "Kike Santander",
-            "track_album": "Azul",
-            "track_duration": 260346,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-02-25T22:48:15Z",
-            "uri": "spotify:track:7iAXEpyYmNpEDBtALzxbMm"
-        },
-        {
             "track_id": "4P2g9eZaSJBC25PWT75X4w",
             "track_name": "Le Hace Falta Un Beso",
             "track_artist": "El Chapo De Sinaloa",
@@ -3000,6 +2980,26 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-07-16T06:49:56Z",
             "uri": "spotify:track:2kfSFdq2h0xLXq01em1zc7"
+        },
+        {
+            "track_id": "3UI9I3e1g1y5T3SMfdgfGO",
+            "track_name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+            "track_artist": "Carlos Baute",
+            "track_album": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+            "track_duration": 230280,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-22T06:15:25Z",
+            "uri": "spotify:track:3UI9I3e1g1y5T3SMfdgfGO"
+        },
+        {
+            "track_id": "0QN1rkBy3D6j9Yw3Czlcsc",
+            "track_name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
+            "track_artist": "Leka el Poeta",
+            "track_album": "Ella Quiere Hmm... Haa... Hmm...",
+            "track_duration": 212035,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-24T08:59:42Z",
+            "uri": "spotify:track:0QN1rkBy3D6j9Yw3Czlcsc"
         }
     ]
 }
