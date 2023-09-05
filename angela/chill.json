@@ -2012,16 +2012,6 @@
             "uri": "spotify:track:1PW0MH1EwqC09G0OnnjnT4"
         },
         {
-            "track_id": "0mnoeoS9UklYuKVbkwCkAX",
-            "track_name": "dopemang (feat. Ashley All Day)",
-            "track_artist": "Kiiara",
-            "track_album": "dopemang (feat. Ashley All Day)",
-            "track_duration": 168664,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-02-02T23:38:55Z",
-            "uri": "spotify:track:0mnoeoS9UklYuKVbkwCkAX"
-        },
-        {
             "track_id": "6FhQ6UH6m0mlXRLFiyehFR",
             "track_name": "Intention",
             "track_artist": "Kiiara",
@@ -3000,6 +2990,16 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-10-01T11:18:42Z",
             "uri": "spotify:track:3p7byaSR5J1he8vvDkxirp"
+        },
+        {
+            "track_id": "5bAazKBFJXIslvzbNOUxzC",
+            "track_name": "We Stayed Up All Night",
+            "track_artist": "Tourist",
+            "track_album": "Essentials",
+            "track_duration": 265758,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-01T12:06:42Z",
+            "uri": "spotify:track:5bAazKBFJXIslvzbNOUxzC"
         }
     ]
 }
