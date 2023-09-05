@@ -1420,6 +1420,46 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-08-30T17:36:44Z",
             "uri": "spotify:track:1vBpwxsLVwaR4evBIaFmqD"
+        },
+        {
+            "track_id": "3ST1SVHTxxiGodhUeASN3h",
+            "track_name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+            "track_artist": "The Highwaymen",
+            "track_album": "Live - American Outlaws",
+            "track_duration": 198133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T15:52:49Z",
+            "uri": "spotify:track:3ST1SVHTxxiGodhUeASN3h"
+        },
+        {
+            "track_id": "0NTN3g4W3DMqwA8Cy0KrCK",
+            "track_name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+            "track_artist": "The Highwaymen",
+            "track_album": "Live - American Outlaws",
+            "track_duration": 219106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T15:54:17Z",
+            "uri": "spotify:track:0NTN3g4W3DMqwA8Cy0KrCK"
+        },
+        {
+            "track_id": "4hZKQgu9lhERXZeOvTzlAB",
+            "track_name": "Wacko from Waco",
+            "track_artist": "Billy Joe Shaver",
+            "track_album": "Live at Billy Bob's Texas",
+            "track_duration": 139466,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T16:04:00Z",
+            "uri": "spotify:track:4hZKQgu9lhERXZeOvTzlAB"
+        },
+        {
+            "track_id": "0TOKl39WfOPXEvARhG92oj",
+            "track_name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
+            "track_artist": "Billy Joe Shaver",
+            "track_album": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
+            "track_duration": 121400,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-04T16:09:30Z",
+            "uri": "spotify:track:0TOKl39WfOPXEvARhG92oj"
         }
     ]
 }
