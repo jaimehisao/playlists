@@ -30,6 +30,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-08-31T17:07:13Z",
             "uri": "spotify:track:0xeezpEUbfU6tJ0IsEjkmF"
+        },
+        {
+            "track_id": "0ZBC5sbgLfGXo3HEnsn6K8",
+            "track_name": "Highs and Lows",
+            "track_artist": "Kissamil\u00e9",
+            "track_album": "Highs and Lows",
+            "track_duration": 185119,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-09-04T23:22:31Z",
+            "uri": "spotify:track:0ZBC5sbgLfGXo3HEnsn6K8"
         }
     ]
 }
