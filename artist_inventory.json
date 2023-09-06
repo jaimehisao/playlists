@@ -43827,6 +43827,56 @@
         "type": "artist",
         "uri": "spotify:artist:1dJyh390MvfYPuNbhnbSDs"
     },
+    "3w4H2MNSCHWJt50OEbS7m4": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3w4H2MNSCHWJt50OEbS7m4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3w4H2MNSCHWJt50OEbS7m4",
+        "id": "3w4H2MNSCHWJt50OEbS7m4",
+        "name": "Samantha Ballard",
+        "type": "artist",
+        "uri": "spotify:artist:3w4H2MNSCHWJt50OEbS7m4"
+    },
+    "6mdGjVrAY95ecXnVgtefti": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6mdGjVrAY95ecXnVgtefti"
+        },
+        "href": "https://api.spotify.com/v1/artists/6mdGjVrAY95ecXnVgtefti",
+        "id": "6mdGjVrAY95ecXnVgtefti",
+        "name": "Jeremy Ng",
+        "type": "artist",
+        "uri": "spotify:artist:6mdGjVrAY95ecXnVgtefti"
+    },
+    "6i5jeqNyrzyfDwIiAfNdyF": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF"
+        },
+        "href": "https://api.spotify.com/v1/artists/6i5jeqNyrzyfDwIiAfNdyF",
+        "id": "6i5jeqNyrzyfDwIiAfNdyF",
+        "name": "Mois\u00e9s Nieto",
+        "type": "artist",
+        "uri": "spotify:artist:6i5jeqNyrzyfDwIiAfNdyF"
+    },
+    "4v1lNt9Fnv87ABVRYtiUBE": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4v1lNt9Fnv87ABVRYtiUBE"
+        },
+        "href": "https://api.spotify.com/v1/artists/4v1lNt9Fnv87ABVRYtiUBE",
+        "id": "4v1lNt9Fnv87ABVRYtiUBE",
+        "name": "Patti Rudisill",
+        "type": "artist",
+        "uri": "spotify:artist:4v1lNt9Fnv87ABVRYtiUBE"
+    },
+    "2LUusABHOLZxryUgXKvHEC": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LUusABHOLZxryUgXKvHEC"
+        },
+        "href": "https://api.spotify.com/v1/artists/2LUusABHOLZxryUgXKvHEC",
+        "id": "2LUusABHOLZxryUgXKvHEC",
+        "name": "Israfelcello",
+        "type": "artist",
+        "uri": "spotify:artist:2LUusABHOLZxryUgXKvHEC"
+    },
     "2SZO75WXLFAEwVu32KGEFz": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2SZO75WXLFAEwVu32KGEFz"
