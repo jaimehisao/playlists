@@ -2829,6 +2829,16 @@
         "type": "artist",
         "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
     },
+    "6PXS4YHDkKvl1wkIl4V8DL": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        "href": "https://api.spotify.com/v1/artists/6PXS4YHDkKvl1wkIl4V8DL",
+        "id": "6PXS4YHDkKvl1wkIl4V8DL",
+        "name": "Fetty Wap",
+        "type": "artist",
+        "uri": "spotify:artist:6PXS4YHDkKvl1wkIl4V8DL"
+    },
     "27T030eWyCQRmDyuvr1kxY": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
@@ -34527,15 +34537,15 @@
         "type": "artist",
         "uri": "spotify:artist:3ngKsDXZAssmljeXCvEgOe"
     },
-    "6FhF4CThrHldCUxYWbloJP": {
+    "4mHAu7NX2UNsnGXjviBD9e": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6FhF4CThrHldCUxYWbloJP"
+            "spotify": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
         },
-        "href": "https://api.spotify.com/v1/artists/6FhF4CThrHldCUxYWbloJP",
-        "id": "6FhF4CThrHldCUxYWbloJP",
+        "href": "https://api.spotify.com/v1/artists/4mHAu7NX2UNsnGXjviBD9e",
+        "id": "4mHAu7NX2UNsnGXjviBD9e",
         "name": "Brooks",
         "type": "artist",
-        "uri": "spotify:artist:6FhF4CThrHldCUxYWbloJP"
+        "uri": "spotify:artist:4mHAu7NX2UNsnGXjviBD9e"
     },
     "5GtMEZEeFFsuHY8ad4kOxv": {
         "external_urls": {
