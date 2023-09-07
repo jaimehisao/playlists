@@ -28429,26 +28429,6 @@
         "type": "artist",
         "uri": "spotify:artist:3eZXi1et2XpXPD7PoUDDzE"
     },
-    "4TCXgdDPm10ensLNCVnIYa": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        },
-        "href": "https://api.spotify.com/v1/artists/4TCXgdDPm10ensLNCVnIYa",
-        "id": "4TCXgdDPm10ensLNCVnIYa",
-        "name": "Joy Williams",
-        "type": "artist",
-        "uri": "spotify:artist:4TCXgdDPm10ensLNCVnIYa"
-    },
-    "1yDI9pWnlrJmi9kZn3gkCb": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        },
-        "href": "https://api.spotify.com/v1/artists/1yDI9pWnlrJmi9kZn3gkCb",
-        "id": "1yDI9pWnlrJmi9kZn3gkCb",
-        "name": "John Paul White",
-        "type": "artist",
-        "uri": "spotify:artist:1yDI9pWnlrJmi9kZn3gkCb"
-    },
     "7puwbHKHU2MlKRY5BoYbVO": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/7puwbHKHU2MlKRY5BoYbVO"
@@ -29388,6 +29368,16 @@
         "name": "Cameron the Public",
         "type": "artist",
         "uri": "spotify:artist:64opkelQdhneaxXFH67TFV"
+    },
+    "4TCXgdDPm10ensLNCVnIYa": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TCXgdDPm10ensLNCVnIYa",
+        "id": "4TCXgdDPm10ensLNCVnIYa",
+        "name": "Joy Williams",
+        "type": "artist",
+        "uri": "spotify:artist:4TCXgdDPm10ensLNCVnIYa"
     },
     "5r5Va4lVQ1zjEfbJSrmCsS": {
         "external_urls": {
@@ -36287,6 +36277,56 @@
         "type": "artist",
         "uri": "spotify:artist:0Zdln8zZsLgVQswhycjCuo"
     },
+    "2w7IutHv5g4e8LumrwtjWR": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2w7IutHv5g4e8LumrwtjWR",
+        "id": "2w7IutHv5g4e8LumrwtjWR",
+        "name": "Stardust",
+        "type": "artist",
+        "uri": "spotify:artist:2w7IutHv5g4e8LumrwtjWR"
+    },
+    "2XOvFG8pp1XAV1V6ZJABim": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        "href": "https://api.spotify.com/v1/artists/2XOvFG8pp1XAV1V6ZJABim",
+        "id": "2XOvFG8pp1XAV1V6ZJABim",
+        "name": "Benjamin Diamond",
+        "type": "artist",
+        "uri": "spotify:artist:2XOvFG8pp1XAV1V6ZJABim"
+    },
+    "24JRvbKfTcF2x7c2kCCJrW": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        "href": "https://api.spotify.com/v1/artists/24JRvbKfTcF2x7c2kCCJrW",
+        "id": "24JRvbKfTcF2x7c2kCCJrW",
+        "name": "Alan Braxe",
+        "type": "artist",
+        "uri": "spotify:artist:24JRvbKfTcF2x7c2kCCJrW"
+    },
+    "41vv2Tj1knysv6MuFUmdwi": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
+        },
+        "href": "https://api.spotify.com/v1/artists/41vv2Tj1knysv6MuFUmdwi",
+        "id": "41vv2Tj1knysv6MuFUmdwi",
+        "name": "Thomas Bangalter",
+        "type": "artist",
+        "uri": "spotify:artist:41vv2Tj1knysv6MuFUmdwi"
+    },
+    "6wKxOKEA3K6R2UZ3COLXEY": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        "href": "https://api.spotify.com/v1/artists/6wKxOKEA3K6R2UZ3COLXEY",
+        "id": "6wKxOKEA3K6R2UZ3COLXEY",
+        "name": "Elohim",
+        "type": "artist",
+        "uri": "spotify:artist:6wKxOKEA3K6R2UZ3COLXEY"
+    },
     "5zMJZTfga0uJURmLLymnoh": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh"
@@ -40327,16 +40367,6 @@
         "type": "artist",
         "uri": "spotify:artist:5ffMSKGQRhetAjBjEgkRun"
     },
-    "41vv2Tj1knysv6MuFUmdwi": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
-        },
-        "href": "https://api.spotify.com/v1/artists/41vv2Tj1knysv6MuFUmdwi",
-        "id": "41vv2Tj1knysv6MuFUmdwi",
-        "name": "Thomas Bangalter",
-        "type": "artist",
-        "uri": "spotify:artist:41vv2Tj1knysv6MuFUmdwi"
-    },
     "4giO85Ma0hNO0wBWLFtJsS": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4giO85Ma0hNO0wBWLFtJsS"
@@ -41397,36 +41427,6 @@
         "type": "artist",
         "uri": "spotify:artist:4463nfFMmK1cwAWBQDwT5e"
     },
-    "2w7IutHv5g4e8LumrwtjWR": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
-        },
-        "href": "https://api.spotify.com/v1/artists/2w7IutHv5g4e8LumrwtjWR",
-        "id": "2w7IutHv5g4e8LumrwtjWR",
-        "name": "Stardust",
-        "type": "artist",
-        "uri": "spotify:artist:2w7IutHv5g4e8LumrwtjWR"
-    },
-    "2XOvFG8pp1XAV1V6ZJABim": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
-        },
-        "href": "https://api.spotify.com/v1/artists/2XOvFG8pp1XAV1V6ZJABim",
-        "id": "2XOvFG8pp1XAV1V6ZJABim",
-        "name": "Benjamin Diamond",
-        "type": "artist",
-        "uri": "spotify:artist:2XOvFG8pp1XAV1V6ZJABim"
-    },
-    "24JRvbKfTcF2x7c2kCCJrW": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        "href": "https://api.spotify.com/v1/artists/24JRvbKfTcF2x7c2kCCJrW",
-        "id": "24JRvbKfTcF2x7c2kCCJrW",
-        "name": "Alan Braxe",
-        "type": "artist",
-        "uri": "spotify:artist:24JRvbKfTcF2x7c2kCCJrW"
-    },
     "6tbjWDEIzxoDsBA1FuhfPW": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
@@ -41946,6 +41946,16 @@
         "name": "We Are KING",
         "type": "artist",
         "uri": "spotify:artist:0FPWyyf6MD4QZTj3aypD3O"
+    },
+    "1yDI9pWnlrJmi9kZn3gkCb": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yDI9pWnlrJmi9kZn3gkCb",
+        "id": "1yDI9pWnlrJmi9kZn3gkCb",
+        "name": "John Paul White",
+        "type": "artist",
+        "uri": "spotify:artist:1yDI9pWnlrJmi9kZn3gkCb"
     },
     "3LZZPxNDGDFVSIPqf4JuEf": {
         "external_urls": {
@@ -58606,16 +58616,6 @@
         "name": "Zella Day",
         "type": "artist",
         "uri": "spotify:artist:100sLnojEpcadRx4edEBA6"
-    },
-    "6wKxOKEA3K6R2UZ3COLXEY": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        "href": "https://api.spotify.com/v1/artists/6wKxOKEA3K6R2UZ3COLXEY",
-        "id": "6wKxOKEA3K6R2UZ3COLXEY",
-        "name": "Elohim",
-        "type": "artist",
-        "uri": "spotify:artist:6wKxOKEA3K6R2UZ3COLXEY"
     },
     "574ERIqzZ5yZU9JhIf3Ysf": {
         "external_urls": {
