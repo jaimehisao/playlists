@@ -3409,6 +3409,16 @@
         "type": "artist",
         "uri": "spotify:artist:4xQ2BGOBUXgjxO2PAhrIyS"
     },
+    "1VBflYyxBhnDc9uVib98rw": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
+        "id": "1VBflYyxBhnDc9uVib98rw",
+        "name": "Icona Pop",
+        "type": "artist",
+        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+    },
     "6JL8zeS1NmiOftqZTRgdTz": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
@@ -32019,6 +32029,16 @@
         "type": "artist",
         "uri": "spotify:artist:0HthCchcL0kVLHTr113Vk1"
     },
+    "7Eu1txygG6nJttLHbZdQOh": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        "href": "https://api.spotify.com/v1/artists/7Eu1txygG6nJttLHbZdQOh",
+        "id": "7Eu1txygG6nJttLHbZdQOh",
+        "name": "Four Tet",
+        "type": "artist",
+        "uri": "spotify:artist:7Eu1txygG6nJttLHbZdQOh"
+    },
     "6O74knDqdv3XaWtkII7Xjp": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
@@ -38856,16 +38876,6 @@
         "name": "Sergio Endrigo",
         "type": "artist",
         "uri": "spotify:artist:4ERMFbVCuwsv0eiUrG7LF3"
-    },
-    "1VBflYyxBhnDc9uVib98rw": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        "href": "https://api.spotify.com/v1/artists/1VBflYyxBhnDc9uVib98rw",
-        "id": "1VBflYyxBhnDc9uVib98rw",
-        "name": "Icona Pop",
-        "type": "artist",
-        "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
     },
     "4GWz1hkqnRxvBqWIu6BUM2": {
         "external_urls": {
