@@ -28909,6 +28909,16 @@
         "type": "artist",
         "uri": "spotify:artist:7wjeXCtRND2ZdKfMJFu6JC"
     },
+    "4THv7qQa82UNW5DTtEqNOy": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        },
+        "href": "https://api.spotify.com/v1/artists/4THv7qQa82UNW5DTtEqNOy",
+        "id": "4THv7qQa82UNW5DTtEqNOy",
+        "name": "Urb\u00f8i",
+        "type": "artist",
+        "uri": "spotify:artist:4THv7qQa82UNW5DTtEqNOy"
+    },
     "0a2vRhBsS3zNu6pTQo1Rnm": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0a2vRhBsS3zNu6pTQo1Rnm"
