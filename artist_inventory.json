@@ -64997,26 +64997,6 @@
         "type": "artist",
         "uri": "spotify:artist:2eHYvZiDBUN6ILJy27crpR"
     },
-    "0Xi59sEw38vRvwleSAVqoo": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        },
-        "href": "https://api.spotify.com/v1/artists/0Xi59sEw38vRvwleSAVqoo",
-        "id": "0Xi59sEw38vRvwleSAVqoo",
-        "name": "Marty Robbins",
-        "type": "artist",
-        "uri": "spotify:artist:0Xi59sEw38vRvwleSAVqoo"
-    },
-    "3xYXYzm9H3RzyQgBrYwIcx": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        },
-        "href": "https://api.spotify.com/v1/artists/3xYXYzm9H3RzyQgBrYwIcx",
-        "id": "3xYXYzm9H3RzyQgBrYwIcx",
-        "name": "Colter Wall",
-        "type": "artist",
-        "uri": "spotify:artist:3xYXYzm9H3RzyQgBrYwIcx"
-    },
     "2HHmvvSQ44ePDH7IKVzgK0": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
@@ -65286,6 +65266,16 @@
         "name": "Elique",
         "type": "artist",
         "uri": "spotify:artist:2fOEZlchV8ATyhouAmhjuW"
+    },
+    "3xYXYzm9H3RzyQgBrYwIcx": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3xYXYzm9H3RzyQgBrYwIcx",
+        "id": "3xYXYzm9H3RzyQgBrYwIcx",
+        "name": "Colter Wall",
+        "type": "artist",
+        "uri": "spotify:artist:3xYXYzm9H3RzyQgBrYwIcx"
     },
     "6AawJaQO4i99Be2A3w7BTW": {
         "external_urls": {
