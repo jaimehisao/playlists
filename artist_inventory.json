@@ -37507,16 +37507,6 @@
         "type": "artist",
         "uri": "spotify:artist:5D6V4Z6oPz4waooiuBaWIf"
     },
-    "0vyQIO5WNw4aGfAaf9yUXi": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi"
-        },
-        "href": "https://api.spotify.com/v1/artists/0vyQIO5WNw4aGfAaf9yUXi",
-        "id": "0vyQIO5WNw4aGfAaf9yUXi",
-        "name": "S\u014dNE",
-        "type": "artist",
-        "uri": "spotify:artist:0vyQIO5WNw4aGfAaf9yUXi"
-    },
     "0W03t1E2FUo9WAMBwhntuL": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL"
@@ -37546,6 +37536,16 @@
         "name": "nitsua.",
         "type": "artist",
         "uri": "spotify:artist:5RAUmZtkAPMIhgkRNwM8Xw"
+    },
+    "0vyQIO5WNw4aGfAaf9yUXi": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi"
+        },
+        "href": "https://api.spotify.com/v1/artists/0vyQIO5WNw4aGfAaf9yUXi",
+        "id": "0vyQIO5WNw4aGfAaf9yUXi",
+        "name": "S\u014dNE",
+        "type": "artist",
+        "uri": "spotify:artist:0vyQIO5WNw4aGfAaf9yUXi"
     },
     "7darGNapWiX3YbwJXwl0hR": {
         "external_urls": {
