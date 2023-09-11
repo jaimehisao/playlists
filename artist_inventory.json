@@ -52097,6 +52097,16 @@
         "type": "artist",
         "uri": "spotify:artist:28AyklUmMECPwdfo8NEsV0"
     },
+    "5y8tKLUfMvliMe8IKamR32": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
+        "id": "5y8tKLUfMvliMe8IKamR32",
+        "name": "d4vd",
+        "type": "artist",
+        "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32"
+    },
     "0qk9IE3icvkYLRii8qAko8": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
@@ -66686,16 +66696,6 @@
         "name": "Eels",
         "type": "artist",
         "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl"
-    },
-    "5y8tKLUfMvliMe8IKamR32": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
-        "id": "5y8tKLUfMvliMe8IKamR32",
-        "name": "d4vd",
-        "type": "artist",
-        "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32"
     },
     "69bG9tC62d8oTFC9aTTosn": {
         "external_urls": {
