@@ -32797,6 +32797,186 @@
         "type": "artist",
         "uri": "spotify:artist:3rB3PZ6d1hAkNFD4PhLgQk"
     },
+    "7qlQ50b9quDDiiucrNwoiV": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qlQ50b9quDDiiucrNwoiV"
+        },
+        "href": "https://api.spotify.com/v1/artists/7qlQ50b9quDDiiucrNwoiV",
+        "id": "7qlQ50b9quDDiiucrNwoiV",
+        "name": "k.xxiv",
+        "type": "artist",
+        "uri": "spotify:artist:7qlQ50b9quDDiiucrNwoiV"
+    },
+    "6HmeISbko4bc0zsZQvIAco": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HmeISbko4bc0zsZQvIAco"
+        },
+        "href": "https://api.spotify.com/v1/artists/6HmeISbko4bc0zsZQvIAco",
+        "id": "6HmeISbko4bc0zsZQvIAco",
+        "name": "Broey.",
+        "type": "artist",
+        "uri": "spotify:artist:6HmeISbko4bc0zsZQvIAco"
+    },
+    "1yPkoISx32UPPkBnHw8UON": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1yPkoISx32UPPkBnHw8UON"
+        },
+        "href": "https://api.spotify.com/v1/artists/1yPkoISx32UPPkBnHw8UON",
+        "id": "1yPkoISx32UPPkBnHw8UON",
+        "name": "S R Z",
+        "type": "artist",
+        "uri": "spotify:artist:1yPkoISx32UPPkBnHw8UON"
+    },
+    "1IMFkgZ2ZpHknO1v2n97CH": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH"
+        },
+        "href": "https://api.spotify.com/v1/artists/1IMFkgZ2ZpHknO1v2n97CH",
+        "id": "1IMFkgZ2ZpHknO1v2n97CH",
+        "name": "Roland Faunte",
+        "type": "artist",
+        "uri": "spotify:artist:1IMFkgZ2ZpHknO1v2n97CH"
+    },
+    "3wJwmDY940onW2oyyZKKGd": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3wJwmDY940onW2oyyZKKGd"
+        },
+        "href": "https://api.spotify.com/v1/artists/3wJwmDY940onW2oyyZKKGd",
+        "id": "3wJwmDY940onW2oyyZKKGd",
+        "name": "Jullian",
+        "type": "artist",
+        "uri": "spotify:artist:3wJwmDY940onW2oyyZKKGd"
+    },
+    "0uMri4LRZW5xNnWU87rkaI": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0uMri4LRZW5xNnWU87rkaI"
+        },
+        "href": "https://api.spotify.com/v1/artists/0uMri4LRZW5xNnWU87rkaI",
+        "id": "0uMri4LRZW5xNnWU87rkaI",
+        "name": "Sophie Wood",
+        "type": "artist",
+        "uri": "spotify:artist:0uMri4LRZW5xNnWU87rkaI"
+    },
+    "1QfpRUtH14JLoY6F6AYmwt": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        },
+        "href": "https://api.spotify.com/v1/artists/1QfpRUtH14JLoY6F6AYmwt",
+        "id": "1QfpRUtH14JLoY6F6AYmwt",
+        "name": "The Rare Occasions",
+        "type": "artist",
+        "uri": "spotify:artist:1QfpRUtH14JLoY6F6AYmwt"
+    },
+    "7vtSUU3zpHeYJfX6BPNrJd": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        },
+        "href": "https://api.spotify.com/v1/artists/7vtSUU3zpHeYJfX6BPNrJd",
+        "id": "7vtSUU3zpHeYJfX6BPNrJd",
+        "name": "Briston Maroney",
+        "type": "artist",
+        "uri": "spotify:artist:7vtSUU3zpHeYJfX6BPNrJd"
+    },
+    "6vVztIuqdDHvYWxOEXCzjN": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        },
+        "href": "https://api.spotify.com/v1/artists/6vVztIuqdDHvYWxOEXCzjN",
+        "id": "6vVztIuqdDHvYWxOEXCzjN",
+        "name": "SALES",
+        "type": "artist",
+        "uri": "spotify:artist:6vVztIuqdDHvYWxOEXCzjN"
+    },
+    "3zmfs9cQwzJl575W1ZYXeT": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        },
+        "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+        "id": "3zmfs9cQwzJl575W1ZYXeT",
+        "name": "Men I Trust",
+        "type": "artist",
+        "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+    },
+    "5dYGaoCO0iaUZKfl9K8Gtd": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        },
+        "href": "https://api.spotify.com/v1/artists/5dYGaoCO0iaUZKfl9K8Gtd",
+        "id": "5dYGaoCO0iaUZKfl9K8Gtd",
+        "name": "Harmless",
+        "type": "artist",
+        "uri": "spotify:artist:5dYGaoCO0iaUZKfl9K8Gtd"
+    },
+    "11260Smss09lExMicvRPeO": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/11260Smss09lExMicvRPeO"
+        },
+        "href": "https://api.spotify.com/v1/artists/11260Smss09lExMicvRPeO",
+        "id": "11260Smss09lExMicvRPeO",
+        "name": "Abby Roberts",
+        "type": "artist",
+        "uri": "spotify:artist:11260Smss09lExMicvRPeO"
+    },
+    "3DfG9ET9b76uCR3f805k0s": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3DfG9ET9b76uCR3f805k0s"
+        },
+        "href": "https://api.spotify.com/v1/artists/3DfG9ET9b76uCR3f805k0s",
+        "id": "3DfG9ET9b76uCR3f805k0s",
+        "name": "Doug Hoyer",
+        "type": "artist",
+        "uri": "spotify:artist:3DfG9ET9b76uCR3f805k0s"
+    },
+    "1vkWdqcabQ1swciXipkLBj": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
+        },
+        "href": "https://api.spotify.com/v1/artists/1vkWdqcabQ1swciXipkLBj",
+        "id": "1vkWdqcabQ1swciXipkLBj",
+        "name": "awfultune",
+        "type": "artist",
+        "uri": "spotify:artist:1vkWdqcabQ1swciXipkLBj"
+    },
+    "4kSGbjWGxTchKpIxXPJv0B": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href": "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id": "4kSGbjWGxTchKpIxXPJv0B",
+        "name": "Crumb",
+        "type": "artist",
+        "uri": "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    },
+    "4nzV0hThyodYzrwksnS86G": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        },
+        "href": "https://api.spotify.com/v1/artists/4nzV0hThyodYzrwksnS86G",
+        "id": "4nzV0hThyodYzrwksnS86G",
+        "name": "Ambar Lucid",
+        "type": "artist",
+        "uri": "spotify:artist:4nzV0hThyodYzrwksnS86G"
+    },
+    "4adSXA1GDOxNG7Zw89YHyz": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        },
+        "href": "https://api.spotify.com/v1/artists/4adSXA1GDOxNG7Zw89YHyz",
+        "id": "4adSXA1GDOxNG7Zw89YHyz",
+        "name": "mazie",
+        "type": "artist",
+        "uri": "spotify:artist:4adSXA1GDOxNG7Zw89YHyz"
+    },
+    "6FugQjLquBF4JzATRN70bR": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FugQjLquBF4JzATRN70bR",
+        "id": "6FugQjLquBF4JzATRN70bR",
+        "name": "Yot Club",
+        "type": "artist",
+        "uri": "spotify:artist:6FugQjLquBF4JzATRN70bR"
+    },
     "7waNCUQ1Ne7OoNHgqpgMZ7": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
@@ -40467,16 +40647,6 @@
         "type": "artist",
         "uri": "spotify:artist:2pM3a5lWWUSNOPRGYcmGqT"
     },
-    "5dYGaoCO0iaUZKfl9K8Gtd": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        },
-        "href": "https://api.spotify.com/v1/artists/5dYGaoCO0iaUZKfl9K8Gtd",
-        "id": "5dYGaoCO0iaUZKfl9K8Gtd",
-        "name": "Harmless",
-        "type": "artist",
-        "uri": "spotify:artist:5dYGaoCO0iaUZKfl9K8Gtd"
-    },
     "6ft7JnxMyZhp7N52qzHymY": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
@@ -41356,26 +41526,6 @@
         "name": "Dizzy",
         "type": "artist",
         "uri": "spotify:artist:0g3BS5QoR5r6pOAg1tvwXv"
-    },
-    "4kSGbjWGxTchKpIxXPJv0B": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        },
-        "href": "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
-        "id": "4kSGbjWGxTchKpIxXPJv0B",
-        "name": "Crumb",
-        "type": "artist",
-        "uri": "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
-    },
-    "6vVztIuqdDHvYWxOEXCzjN": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        },
-        "href": "https://api.spotify.com/v1/artists/6vVztIuqdDHvYWxOEXCzjN",
-        "id": "6vVztIuqdDHvYWxOEXCzjN",
-        "name": "SALES",
-        "type": "artist",
-        "uri": "spotify:artist:6vVztIuqdDHvYWxOEXCzjN"
     },
     "67E0wqAIfyT2erdSnMLzRI": {
         "external_urls": {
@@ -42336,16 +42486,6 @@
         "name": "Adam Melchor",
         "type": "artist",
         "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
-    },
-    "7vtSUU3zpHeYJfX6BPNrJd": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        },
-        "href": "https://api.spotify.com/v1/artists/7vtSUU3zpHeYJfX6BPNrJd",
-        "id": "7vtSUU3zpHeYJfX6BPNrJd",
-        "name": "Briston Maroney",
-        "type": "artist",
-        "uri": "spotify:artist:7vtSUU3zpHeYJfX6BPNrJd"
     },
     "3pT3KTodKJRyqpxoXINfQh": {
         "external_urls": {
@@ -43906,6 +44046,16 @@
         "name": "Israfelcello",
         "type": "artist",
         "uri": "spotify:artist:2LUusABHOLZxryUgXKvHEC"
+    },
+    "3XhZ7Cg2p2mWbY4GuegFp1": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3XhZ7Cg2p2mWbY4GuegFp1"
+        },
+        "href": "https://api.spotify.com/v1/artists/3XhZ7Cg2p2mWbY4GuegFp1",
+        "id": "3XhZ7Cg2p2mWbY4GuegFp1",
+        "name": "Jone Ruiz",
+        "type": "artist",
+        "uri": "spotify:artist:3XhZ7Cg2p2mWbY4GuegFp1"
     },
     "2SZO75WXLFAEwVu32KGEFz": {
         "external_urls": {
@@ -61737,16 +61887,6 @@
         "type": "artist",
         "uri": "spotify:artist:26T4yOaOoFJvUvxR87Y9HO"
     },
-    "3zmfs9cQwzJl575W1ZYXeT": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        },
-        "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
-        "id": "3zmfs9cQwzJl575W1ZYXeT",
-        "name": "Men I Trust",
-        "type": "artist",
-        "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
-    },
     "5T0MSzX9RC5NA6gAI6irSn": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
@@ -63246,6 +63386,16 @@
         "name": "Johnny Balik",
         "type": "artist",
         "uri": "spotify:artist:6cXU3B0U7wNEOOU8UjaWww"
+    },
+    "6yKG2IQiDrd3KM79Gcuzug": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6yKG2IQiDrd3KM79Gcuzug"
+        },
+        "href": "https://api.spotify.com/v1/artists/6yKG2IQiDrd3KM79Gcuzug",
+        "id": "6yKG2IQiDrd3KM79Gcuzug",
+        "name": "Captiva",
+        "type": "artist",
+        "uri": "spotify:artist:6yKG2IQiDrd3KM79Gcuzug"
     },
     "23apFYuBTpFemqLDn8ViLW": {
         "external_urls": {
@@ -65936,16 +66086,6 @@
         "name": "Laura Marling",
         "type": "artist",
         "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
-    },
-    "1QfpRUtH14JLoY6F6AYmwt": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        },
-        "href": "https://api.spotify.com/v1/artists/1QfpRUtH14JLoY6F6AYmwt",
-        "id": "1QfpRUtH14JLoY6F6AYmwt",
-        "name": "The Rare Occasions",
-        "type": "artist",
-        "uri": "spotify:artist:1QfpRUtH14JLoY6F6AYmwt"
     },
     "1SsWCyijEv548QDkKcclDG": {
         "external_urls": {
