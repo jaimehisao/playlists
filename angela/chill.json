@@ -1322,16 +1322,6 @@
             "uri": "spotify:track:78w4lk9noj8j1l2vOpHiOq"
         },
         {
-            "track_id": "7sWUntzx3WtrHUxDSx6rFu",
-            "track_name": "Decide",
-            "track_artist": "Junior Empire",
-            "track_album": "Junior Empire",
-            "track_duration": 181613,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-10-16T03:13:46Z",
-            "uri": "spotify:track:7sWUntzx3WtrHUxDSx6rFu"
-        },
-        {
             "track_id": "7ezHlsUtR8oo1pqHJBeC65",
             "track_name": "You Didn't Need My Love",
             "track_artist": "Anders",
@@ -1742,16 +1732,6 @@
             "uri": "spotify:track:4yiUkwGqJWlPN1BntZFKZ2"
         },
         {
-            "track_id": "5YulwF5SUayjpMSSXcHTJB",
-            "track_name": "Sweet to the Rind",
-            "track_artist": "Outer Vibe",
-            "track_album": "Sweet to the Rind",
-            "track_duration": 246764,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-01-07T23:40:32Z",
-            "uri": "spotify:track:5YulwF5SUayjpMSSXcHTJB"
-        },
-        {
             "track_id": "7DfFc7a6Rwfi3YQMRbDMau",
             "track_name": "Thinkin Bout You",
             "track_artist": "Frank Ocean",
@@ -1810,16 +1790,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-01-15T04:53:20Z",
             "uri": "spotify:track:20TYNq9o5sdBAbkCWE9ih7"
-        },
-        {
-            "track_id": "6roBK59UIWUDEbaJniWxjb",
-            "track_name": "Calypso Beach",
-            "track_artist": "Northeast Party House",
-            "track_album": "Dare",
-            "track_duration": 233169,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-01-15T04:57:47Z",
-            "uri": "spotify:track:6roBK59UIWUDEbaJniWxjb"
         },
         {
             "track_id": "47ww9AwOrtW59ayC72wMff",
@@ -2072,26 +2042,6 @@
             "uri": "spotify:track:2RiBogNRfulkNf7fVbPOrJ"
         },
         {
-            "track_id": "0mMl6VdvsCNQ0IYisbgaCl",
-            "track_name": "Teenage Bones",
-            "track_artist": "Noirre",
-            "track_album": "Nite Tales",
-            "track_duration": 241904,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-03-12T13:35:16Z",
-            "uri": "spotify:track:0mMl6VdvsCNQ0IYisbgaCl"
-        },
-        {
-            "track_id": "1md5g5OJ1ys2rC9N5Md6VX",
-            "track_name": "Ashes",
-            "track_artist": "Camarano",
-            "track_album": "Ashes",
-            "track_duration": 231130,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-03-13T05:42:39Z",
-            "uri": "spotify:track:1md5g5OJ1ys2rC9N5Md6VX"
-        },
-        {
             "track_id": "60DLEQisAr5jpxRCXHXbdO",
             "track_name": "Leaning",
             "track_artist": "LOLO",
@@ -2130,16 +2080,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-04-19T14:55:44Z",
             "uri": "spotify:track:6zyXhzPJg7dCGuC5ToIxqN"
-        },
-        {
-            "track_id": "68SE4UYrrrshna4naCpe0X",
-            "track_name": "&burn (with Vince Staples)",
-            "track_artist": "Billie Eilish",
-            "track_album": "&burn (with Vince Staples)",
-            "track_duration": 179015,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-05-08T05:30:22Z",
-            "uri": "spotify:track:68SE4UYrrrshna4naCpe0X"
         },
         {
             "track_id": "61JDaStnXY3vbaEjliB5WA",
@@ -2282,16 +2222,6 @@
             "uri": "spotify:track:0LO7f7ZJg871B8hLTRzrfB"
         },
         {
-            "track_id": "6BRW1hLPP14wpaxJF8YTWe",
-            "track_name": "Hallucinogenics",
-            "track_artist": "Matt Maeson",
-            "track_album": "Hallucinogenics",
-            "track_duration": 185133,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-06-12T08:38:12Z",
-            "uri": "spotify:track:6BRW1hLPP14wpaxJF8YTWe"
-        },
-        {
             "track_id": "5IJeF04dun8atDi4oq8XEj",
             "track_name": "Shaky in the Knees",
             "track_artist": "Grizfolk",
@@ -2360,16 +2290,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-06-14T18:42:17Z",
             "uri": "spotify:track:4SLHNBbZW1888CFzQgaiYI"
-        },
-        {
-            "track_id": "1N10MdGT4HypP8QA3kmmbQ",
-            "track_name": "dont ask dont tell",
-            "track_artist": "Tove Lo",
-            "track_album": "BLUE LIPS (lady wood phase II)",
-            "track_duration": 226161,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-06-15T07:11:03Z",
-            "uri": "spotify:track:1N10MdGT4HypP8QA3kmmbQ"
         },
         {
             "track_id": "1irXmwdCbngOtucJNd5mSl",
@@ -2732,16 +2652,6 @@
             "uri": "spotify:track:1J5rHMEvQFpM07iLULi48A"
         },
         {
-            "track_id": "2rd4FH1cSaWGc0ZiUaMbX9",
-            "track_name": "Lover Boy",
-            "track_artist": "Phum Viphurit",
-            "track_album": "Lover Boy",
-            "track_duration": 236727,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-08-27T14:11:42Z",
-            "uri": "spotify:track:2rd4FH1cSaWGc0ZiUaMbX9"
-        },
-        {
             "track_id": "46q3SEXroVvqbpwD0eNDRX",
             "track_name": "Fish",
             "track_artist": "Will Joseph Cook",
@@ -2760,16 +2670,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-08-30T13:16:30Z",
             "uri": "spotify:track:6Zjw7NdXuLiwULHgyJ0Jk8"
-        },
-        {
-            "track_id": "2VrOrpMi5tyjs6sRYd5bPK",
-            "track_name": "Tiny Umbrella",
-            "track_artist": "Coast Modern",
-            "track_album": "Coast Modern",
-            "track_duration": 207880,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-08-30T13:37:01Z",
-            "uri": "spotify:track:2VrOrpMi5tyjs6sRYd5bPK"
         },
         {
             "track_id": "4hh1lvWiUaLMOcVXhyK6TA",
@@ -2902,16 +2802,6 @@
             "uri": "spotify:track:7nSy3t75qYYiRLbWCoEBJU"
         },
         {
-            "track_id": "4R5ibiJ2duf2rUkjyLTXpB",
-            "track_name": "Nina Cried Power - edit (featuring Mavis Staples)",
-            "track_artist": "Hozier",
-            "track_album": "Nina Cried Power - EP",
-            "track_duration": 225213,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-09-11T03:02:19Z",
-            "uri": "spotify:track:4R5ibiJ2duf2rUkjyLTXpB"
-        },
-        {
             "track_id": "0RSGSJmhWH46MF5DQXFOaz",
             "track_name": "Superposition",
             "track_artist": "Young the Giant",
@@ -3000,6 +2890,116 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2018-10-01T12:06:42Z",
             "uri": "spotify:track:5bAazKBFJXIslvzbNOUxzC"
+        },
+        {
+            "track_id": "2bMBCcNG1zY9cIWkwvTmkY",
+            "track_name": "I Suppose",
+            "track_artist": "Maudlin Strangers",
+            "track_album": "Midnight",
+            "track_duration": 258124,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-01T16:46:15Z",
+            "uri": "spotify:track:2bMBCcNG1zY9cIWkwvTmkY"
+        },
+        {
+            "track_id": "49X1d9QKZKU2WFBtm4GUzN",
+            "track_name": "Nothing But You",
+            "track_artist": "Bob Moses",
+            "track_album": "Battle Lines",
+            "track_duration": 219960,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-01T17:32:04Z",
+            "uri": "spotify:track:49X1d9QKZKU2WFBtm4GUzN"
+        },
+        {
+            "track_id": "7ERTi1RsIo6jtM8zaziUlQ",
+            "track_name": "Five Minutes",
+            "track_artist": "Her",
+            "track_album": "Her Tape #1",
+            "track_duration": 224672,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-06T21:03:40Z",
+            "uri": "spotify:track:7ERTi1RsIo6jtM8zaziUlQ"
+        },
+        {
+            "track_id": "2vWUBOmMS1W6x2dhovTp97",
+            "track_name": "Luna - En Vivo",
+            "track_artist": "Zo\u00e9",
+            "track_album": "MTV Unplugged M\u00fasica De Fondo",
+            "track_duration": 280419,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-06T21:03:49Z",
+            "uri": "spotify:track:2vWUBOmMS1W6x2dhovTp97"
+        },
+        {
+            "track_id": "6pDV2eXUwq1PP9SCwqOivp",
+            "track_name": "99",
+            "track_artist": "Elliot Moss",
+            "track_album": "Boomerang EP",
+            "track_duration": 244464,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-08T12:59:25Z",
+            "uri": "spotify:track:6pDV2eXUwq1PP9SCwqOivp"
+        },
+        {
+            "track_id": "77I0nIqpSIu6MFLLR1HhW2",
+            "track_name": "Presidential Campaign",
+            "track_artist": "Captiva",
+            "track_album": "Pay No Mind",
+            "track_duration": 145432,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-08T22:35:46Z",
+            "uri": "spotify:track:77I0nIqpSIu6MFLLR1HhW2"
+        },
+        {
+            "track_id": "6liNJDyWJjyHAgDnAX95bw",
+            "track_name": "Fire and the Flood",
+            "track_artist": "Vance Joy",
+            "track_album": "Dream Your Life Away (Special Edition)",
+            "track_duration": 249382,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-09T21:30:06Z",
+            "uri": "spotify:track:6liNJDyWJjyHAgDnAX95bw"
+        },
+        {
+            "track_id": "58c8cXCMaZfpZQQqHnIqoV",
+            "track_name": "Get to You",
+            "track_artist": "The Honeysticks",
+            "track_album": "The Honeysticks",
+            "track_duration": 255746,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-10T00:38:33Z",
+            "uri": "spotify:track:58c8cXCMaZfpZQQqHnIqoV"
+        },
+        {
+            "track_id": "5C8Vwr9o1WtsoDVPFqPCob",
+            "track_name": "It's That Talk Again",
+            "track_artist": "Broken Bells",
+            "track_album": "It's That Talk Again",
+            "track_duration": 241333,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-17T17:11:15Z",
+            "uri": "spotify:track:5C8Vwr9o1WtsoDVPFqPCob"
+        },
+        {
+            "track_id": "4qOIb1qgiCGhaQVaZLG4QI",
+            "track_name": "Parents House",
+            "track_artist": "Kid Bloom",
+            "track_album": "Parents House",
+            "track_duration": 224346,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-10-21T23:41:41Z",
+            "uri": "spotify:track:4qOIb1qgiCGhaQVaZLG4QI"
+        },
+        {
+            "track_id": "61au8r2wPFZVPhEG11bQTx",
+            "track_name": "Electric U",
+            "track_artist": "Kid Bloom",
+            "track_album": "Electric U",
+            "track_duration": 171696,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2018-11-07T14:29:03Z",
+            "uri": "spotify:track:61au8r2wPFZVPhEG11bQTx"
         }
     ]
 }
