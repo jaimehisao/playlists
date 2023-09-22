@@ -82,16 +82,6 @@
             "uri": "spotify:track:3kNVYo6BJE9AENxzokM9YC"
         },
         {
-            "track_id": "70fVcEP5pRrxaIICY3DcPe",
-            "track_name": "Mi Persona Favorita",
-            "track_artist": "R\u00edo Roma",
-            "track_album": "Otra Vida",
-            "track_duration": 190480,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2018-03-21T21:36:33Z",
-            "uri": "spotify:track:70fVcEP5pRrxaIICY3DcPe"
-        },
-        {
             "track_id": "4i8JlTedcMA31X5CanXke0",
             "track_name": "El Rey Tibur\u00f3n",
             "track_artist": "Man\u00e1",
@@ -1810,6 +1800,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-23T02:08:50Z",
             "uri": "spotify:track:3XJmD5suzFUBHJ7sizBAiy"
+        },
+        {
+            "track_id": "0PBHDqIm5rrlC4iln6pWsY",
+            "track_name": "Nuevo M\u00e9xico",
+            "track_artist": "Little Jesus",
+            "track_album": "R\u00edo Salvaje",
+            "track_duration": 215173,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-06T15:39:03Z",
+            "uri": "spotify:track:0PBHDqIm5rrlC4iln6pWsY"
         }
     ]
 }
