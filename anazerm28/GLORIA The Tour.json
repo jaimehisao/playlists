@@ -22,6 +22,36 @@
             "uri": "spotify:track:7795WJLVKJoAyVoOtCWqXN"
         },
         {
+            "track_id": "5Nm9ERjJZ5oyfXZTECKmRt",
+            "track_name": "Stay With Me",
+            "track_artist": "Sam Smith",
+            "track_album": "In The Lonely Hour",
+            "track_duration": 172723,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-01-13T08:52:40Z",
+            "uri": "spotify:track:5Nm9ERjJZ5oyfXZTECKmRt"
+        },
+        {
+            "track_id": "6Qs4SXO9dwPj5GKvVOv8Ki",
+            "track_name": "Dancing With A Stranger (with Normani)",
+            "track_artist": "Sam Smith",
+            "track_album": "Dancing With A Stranger (with Normani)",
+            "track_duration": 171029,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-01-13T08:52:18Z",
+            "uri": "spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki"
+        },
+        {
+            "track_id": "6b2RcmUt1g9N9mQ3CbjX2Y",
+            "track_name": "How Do You Sleep?",
+            "track_artist": "Sam Smith",
+            "track_album": "How Do You Sleep?",
+            "track_duration": 202204,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-01-13T08:52:29Z",
+            "uri": "spotify:track:6b2RcmUt1g9N9mQ3CbjX2Y"
+        },
+        {
             "track_id": "3nqQXoyQOWXiESFLlDF1hG",
             "track_name": "Unholy (feat. Kim Petras)",
             "track_artist": "Sam Smith",
@@ -42,16 +72,6 @@
             "uri": "spotify:track:16MQETUgqXwY4lZcyRafU3"
         },
         {
-            "track_id": "6Qs4SXO9dwPj5GKvVOv8Ki",
-            "track_name": "Dancing With A Stranger (with Normani)",
-            "track_artist": "Sam Smith",
-            "track_album": "Dancing With A Stranger (with Normani)",
-            "track_duration": 171029,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-01-13T08:52:18Z",
-            "uri": "spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki"
-        },
-        {
             "track_id": "3VlbOrM6nYPprVvzBZllE5",
             "track_name": "Too Good At Goodbyes",
             "track_artist": "Sam Smith",
@@ -62,16 +82,6 @@
             "uri": "spotify:track:3VlbOrM6nYPprVvzBZllE5"
         },
         {
-            "track_id": "6b2RcmUt1g9N9mQ3CbjX2Y",
-            "track_name": "How Do You Sleep?",
-            "track_artist": "Sam Smith",
-            "track_album": "How Do You Sleep?",
-            "track_duration": 202204,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-01-13T08:52:29Z",
-            "uri": "spotify:track:6b2RcmUt1g9N9mQ3CbjX2Y"
-        },
-        {
             "track_id": "5N5k9nd479b1xpDZ4usjrg",
             "track_name": "Promises (with Sam Smith)",
             "track_artist": "Calvin Harris",
@@ -80,16 +90,6 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-01-13T08:52:36Z",
             "uri": "spotify:track:5N5k9nd479b1xpDZ4usjrg"
-        },
-        {
-            "track_id": "5Nm9ERjJZ5oyfXZTECKmRt",
-            "track_name": "Stay With Me",
-            "track_artist": "Sam Smith",
-            "track_album": "In The Lonely Hour",
-            "track_duration": 172723,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-01-13T08:52:40Z",
-            "uri": "spotify:track:5Nm9ERjJZ5oyfXZTECKmRt"
         },
         {
             "track_id": "7t3Xdbufg7q2onVsR8RBdY",
@@ -130,6 +130,136 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-06-07T16:08:39Z",
             "uri": "spotify:track:3i0FkJYlU4MFfYkjFHXXAM"
+        },
+        {
+            "track_id": "2QXmZCQwDsXxSgAGEEY5ep",
+            "track_name": "Nirvana",
+            "track_artist": "Sam Smith",
+            "track_album": "In The Lonely Hour (Drowning Shadows Edition)",
+            "track_duration": 202268,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:2QXmZCQwDsXxSgAGEEY5ep"
+        },
+        {
+            "track_id": "66ZD4DFAmJe3Y9jv2NXqgI",
+            "track_name": "To Die For",
+            "track_artist": "Sam Smith",
+            "track_album": "Love Goes",
+            "track_duration": 193795,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:66ZD4DFAmJe3Y9jv2NXqgI"
+        },
+        {
+            "track_id": "1t4G4h7uqANRBY75nsrwtl",
+            "track_name": "Perfect (feat. Jessie Reyez)",
+            "track_artist": "Sam Smith",
+            "track_album": "Gloria (Special Edition)",
+            "track_duration": 231592,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:1t4G4h7uqANRBY75nsrwtl"
+        },
+        {
+            "track_id": "4cTafvpYaCM3u41plC0eK4",
+            "track_name": "Kissing You",
+            "track_artist": "Sam Smith",
+            "track_album": "Gloria (Special Edition)",
+            "track_duration": 295266,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:4cTafvpYaCM3u41plC0eK4"
+        },
+        {
+            "track_id": "74sb4Gib0cL3TQeCjYF8vh",
+            "track_name": "Lay Me Down",
+            "track_artist": "Sam Smith",
+            "track_album": "In The Lonely Hour",
+            "track_duration": 253208,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:74sb4Gib0cL3TQeCjYF8vh"
+        },
+        {
+            "track_id": "5aRlRDvXRuP81qEzKTXQvM",
+            "track_name": "Love Goes (feat. Labrinth)",
+            "track_artist": "Sam Smith",
+            "track_album": "Love Goes",
+            "track_duration": 284271,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:5aRlRDvXRuP81qEzKTXQvM"
+        },
+        {
+            "track_id": "7o44vqiznJAsLZpSZwtCkV",
+            "track_name": "Gimme (feat. Koffee & Jessie Reyez)",
+            "track_artist": "Sam Smith",
+            "track_album": "Gloria",
+            "track_duration": 169973,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:7o44vqiznJAsLZpSZwtCkV"
+        },
+        {
+            "track_id": "0nj10HgZ07ALWmo7NFbUrQ",
+            "track_name": "Lose You",
+            "track_artist": "Sam Smith",
+            "track_album": "Gloria (Special Edition)",
+            "track_duration": 190243,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:0nj10HgZ07ALWmo7NFbUrQ"
+        },
+        {
+            "track_id": "3Lv3frZVXU7Q0JEFvLIzWW",
+            "track_name": "Promises (with Sam Smith) - David Guetta Remix",
+            "track_artist": "Calvin Harris",
+            "track_album": "Promises (with Sam Smith) [Remixes]",
+            "track_duration": 190416,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:3Lv3frZVXU7Q0JEFvLIzWW"
+        },
+        {
+            "track_id": "51ODNNDZm21HU7wI7cccRr",
+            "track_name": "Latch",
+            "track_artist": "Disclosure",
+            "track_album": "Settle (Special Edition)",
+            "track_duration": 255631,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:51ODNNDZm21HU7wI7cccRr"
+        },
+        {
+            "track_id": "29MOOOmMRPeWyPwKQFoF5t",
+            "track_name": "I Feel Love",
+            "track_artist": "Sam Smith",
+            "track_album": "I Feel Love",
+            "track_duration": 254453,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:29MOOOmMRPeWyPwKQFoF5t"
+        },
+        {
+            "track_id": "60qgg890t9qRIWxEo3wO8s",
+            "track_name": "Restart",
+            "track_artist": "Sam Smith",
+            "track_album": "In The Lonely Hour (Drowning Shadows Edition)",
+            "track_duration": 232779,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:60qgg890t9qRIWxEo3wO8s"
+        },
+        {
+            "track_id": "0eiSOdI9rD539QlKroFnSn",
+            "track_name": "Gloria",
+            "track_artist": "Sam Smith",
+            "track_album": "Gloria",
+            "track_duration": 110445,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-11T17:51:15Z",
+            "uri": "spotify:track:0eiSOdI9rD539QlKroFnSn"
         }
     ]
 }
