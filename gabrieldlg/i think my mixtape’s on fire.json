@@ -1470,6 +1470,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-09-04T05:14:50Z",
             "uri": "spotify:track:6xagjcywpcyNFghafZPQJv"
+        },
+        {
+            "track_id": "1zzxoZVylsna2BQB65Ppcb",
+            "track_name": "X Gon' Give It To Ya",
+            "track_artist": "DMX",
+            "track_album": "The Definition Of X: Pick Of The Litter",
+            "track_duration": 217586,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-14T00:15:05Z",
+            "uri": "spotify:track:1zzxoZVylsna2BQB65Ppcb"
         }
     ]
 }
