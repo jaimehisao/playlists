@@ -2790,6 +2790,26 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-08-12T03:51:05Z",
             "uri": "spotify:track:51Grh1RyUDcMBbpuyUIUHI"
+        },
+        {
+            "track_id": "72CYcSX4sXc52gOfljH3JC",
+            "track_name": "Strawberry",
+            "track_artist": "Sabrina Song",
+            "track_album": "Strawberry",
+            "track_duration": 172500,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-13T17:34:35Z",
+            "uri": "spotify:track:72CYcSX4sXc52gOfljH3JC"
+        },
+        {
+            "track_id": "6TvxPS4fj4LUdjw2es4g21",
+            "track_name": "Slipping Through My Fingers",
+            "track_artist": "ABBA",
+            "track_album": "The Visitors (Deluxe Edition)",
+            "track_duration": 233720,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-20T15:27:46Z",
+            "uri": "spotify:track:6TvxPS4fj4LUdjw2es4g21"
         }
     ]
 }
