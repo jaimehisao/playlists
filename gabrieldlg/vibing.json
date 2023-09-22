@@ -1,0 +1,125 @@
+{
+    "id": "5dSTZnQcjZ6UCeVaxTN9X0",
+    "tracks": [
+        {
+            "track_id": "3z49BSA3G1371doAevPhdD",
+            "track_name": "Garden Gate",
+            "track_artist": "Mon Rov\u00cea",
+            "track_album": "Act 1: The Wandering",
+            "track_duration": 119301,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-11T18:31:22Z",
+            "uri": "spotify:track:3z49BSA3G1371doAevPhdD"
+        },
+        {
+            "track_id": "3LwcUjK7q0cnbeYJRZbjbd",
+            "track_name": "Son of Nyx",
+            "track_artist": "Hozier",
+            "track_album": "Unreal Unearth",
+            "track_duration": 199013,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-11T18:31:33Z",
+            "uri": "spotify:track:3LwcUjK7q0cnbeYJRZbjbd"
+        },
+        {
+            "track_id": "6GiCszfL4D2GlCU8tFU3sR",
+            "track_name": "Si Me Voy (with The Mar\u00edas)",
+            "track_artist": "Cuco",
+            "track_album": "Si Me Voy (with The Mar\u00edas)",
+            "track_duration": 203219,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-11T18:31:37Z",
+            "uri": "spotify:track:6GiCszfL4D2GlCU8tFU3sR"
+        },
+        {
+            "track_id": "6dBUzqjtbnIa1TwYbyw5CM",
+            "track_name": "Lovers Rock",
+            "track_artist": "TV Girl",
+            "track_album": "French Exit",
+            "track_duration": 213920,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-11T18:31:42Z",
+            "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM"
+        },
+        {
+            "track_id": "51Grh1RyUDcMBbpuyUIUHI",
+            "track_name": "rises the moon",
+            "track_artist": "Liana Flores",
+            "track_album": "recently",
+            "track_duration": 161929,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-11T18:31:47Z",
+            "uri": "spotify:track:51Grh1RyUDcMBbpuyUIUHI"
+        },
+        {
+            "track_id": "6vX00oaG3bMuNBKxapoPYO",
+            "track_name": "Kollage",
+            "track_artist": "Carly Rae Jepsen",
+            "track_album": "The Loveliest Time",
+            "track_duration": 256528,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-11T18:31:52Z",
+            "uri": "spotify:track:6vX00oaG3bMuNBKxapoPYO"
+        },
+        {
+            "track_id": "3hxIUxnT27p5WcmjGUXNwx",
+            "track_name": "Shut up My Moms Calling",
+            "track_artist": "Hotel Ugly",
+            "track_album": "Shut up My Moms Calling",
+            "track_duration": 164571,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-11T18:31:57Z",
+            "uri": "spotify:track:3hxIUxnT27p5WcmjGUXNwx"
+        },
+        {
+            "track_id": "01TyFEZu6mHbffsVfxgrFn",
+            "track_name": "Show Me How",
+            "track_artist": "Men I Trust",
+            "track_album": "Show Me How",
+            "track_duration": 215110,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-13T17:04:31Z",
+            "uri": "spotify:track:01TyFEZu6mHbffsVfxgrFn"
+        },
+        {
+            "track_id": "79rfskJwK9NLN3p5cdccth",
+            "track_name": "Intolewd",
+            "track_artist": "Matt Maltese",
+            "track_album": "Krystal",
+            "track_duration": 79989,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-14T14:24:06Z",
+            "uri": "spotify:track:79rfskJwK9NLN3p5cdccth"
+        },
+        {
+            "track_id": "3iBgrkexCzVuPy4O9vx7Mf",
+            "track_name": "Glue Song",
+            "track_artist": "beabadoobee",
+            "track_album": "Glue Song",
+            "track_duration": 135066,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-15T18:51:11Z",
+            "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf"
+        },
+        {
+            "track_id": "5IthoyshZJrOla93K9cDmY",
+            "track_name": "Pers\u00e9phone",
+            "track_artist": "Lysandre",
+            "track_album": "Maison-Dieu",
+            "track_duration": 145478,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-15T19:17:37Z",
+            "uri": "spotify:track:5IthoyshZJrOla93K9cDmY"
+        },
+        {
+            "track_id": "30jui3PqevssdIVpjEWM38",
+            "track_name": "Is there free breakfast here?",
+            "track_artist": "Hotel Ugly",
+            "track_album": "Ugly Duck",
+            "track_duration": 129199,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-15T19:32:39Z",
+            "uri": "spotify:track:30jui3PqevssdIVpjEWM38"
+        }
+    ]
+}
