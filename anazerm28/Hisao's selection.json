@@ -320,6 +320,26 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-03-13T23:57:37Z",
             "uri": "spotify:track:2oWpe2L8ypC080BxpDVuTY"
+        },
+        {
+            "track_id": "6F67FNdOBNMFzxdj1CQ5pL",
+            "track_name": "Lavender Haze - Snakehips Remix",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lavender Haze (Remixes)",
+            "track_duration": 187510,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-08T22:08:27Z",
+            "uri": "spotify:track:6F67FNdOBNMFzxdj1CQ5pL"
+        },
+        {
+            "track_id": "0qAIiGFKLdV1xpNlEhjpq8",
+            "track_name": "New Romantics",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 230466,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-09-08T22:09:35Z",
+            "uri": "spotify:track:0qAIiGFKLdV1xpNlEhjpq8"
         }
     ]
 }
