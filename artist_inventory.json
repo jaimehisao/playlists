@@ -51167,6 +51167,26 @@
         "type": "artist",
         "uri": "spotify:artist:0dDeQpopZYsiuvZVTZ0o44"
     },
+    "2Oc5k5AzcBOoH470jTgZzp": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        "href": "https://api.spotify.com/v1/artists/2Oc5k5AzcBOoH470jTgZzp",
+        "id": "2Oc5k5AzcBOoH470jTgZzp",
+        "name": "El Frizian",
+        "type": "artist",
+        "uri": "spotify:artist:2Oc5k5AzcBOoH470jTgZzp"
+    },
+    "3p8PwzenE7ktd4BVFuQzMD": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p8PwzenE7ktd4BVFuQzMD",
+        "id": "3p8PwzenE7ktd4BVFuQzMD",
+        "name": "La Receta",
+        "type": "artist",
+        "uri": "spotify:artist:3p8PwzenE7ktd4BVFuQzMD"
+    },
     "12d4iIvTOk7JkI6ecvc3ca": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
