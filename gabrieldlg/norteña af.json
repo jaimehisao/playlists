@@ -880,6 +880,16 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-08-30T20:52:49Z",
             "uri": "spotify:track:5fXk93H1gUgNtZrDGiNLR4"
+        },
+        {
+            "track_id": "4DylHCW46VE8AmQiW1EjUZ",
+            "track_name": "Amor Confuso",
+            "track_artist": "Gerardo Ortiz",
+            "track_album": "Entre Dios y El Diablo (Deluxe Version)",
+            "track_duration": 181986,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-07T06:07:00Z",
+            "uri": "spotify:track:4DylHCW46VE8AmQiW1EjUZ"
         }
     ]
 }
