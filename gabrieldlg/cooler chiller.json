@@ -152,16 +152,6 @@
             "uri": "spotify:track:6sDP5eAl2X2VZXc6vQfRJM"
         },
         {
-            "track_id": "5JdLUE9D743ob2RtgmVpVx",
-            "track_name": "Makeba",
-            "track_artist": "Jain",
-            "track_album": "Zanaka",
-            "track_duration": 249533,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-06-05T22:23:43Z",
-            "uri": "spotify:track:5JdLUE9D743ob2RtgmVpVx"
-        },
-        {
             "track_id": "5rurggqwwudn9clMdcchxT",
             "track_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
             "track_artist": "Metro Boomin",
@@ -430,6 +420,96 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-09-03T20:00:51Z",
             "uri": "spotify:track:62tGzw9OJOwDcjPBnMPCuj"
+        },
+        {
+            "track_id": "0PBHDqIm5rrlC4iln6pWsY",
+            "track_name": "Nuevo M\u00e9xico",
+            "track_artist": "Little Jesus",
+            "track_album": "R\u00edo Salvaje",
+            "track_duration": 215173,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-06T15:39:03Z",
+            "uri": "spotify:track:0PBHDqIm5rrlC4iln6pWsY"
+        },
+        {
+            "track_id": "6qZjm61s6u8Ead9sWxCDro",
+            "track_name": "Elephant",
+            "track_artist": "Tame Impala",
+            "track_album": "Lonerism",
+            "track_duration": 211226,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-09T21:15:44Z",
+            "uri": "spotify:track:6qZjm61s6u8Ead9sWxCDro"
+        },
+        {
+            "track_id": "1unBUyjeQUDiJ8N89XiDrr",
+            "track_name": "Glimmer",
+            "track_artist": "Tame Impala",
+            "track_album": "The Slow Rush",
+            "track_duration": 128826,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-13T17:31:49Z",
+            "uri": "spotify:track:1unBUyjeQUDiJ8N89XiDrr"
+        },
+        {
+            "track_id": "1NjzNt18LlNTuJYErYGvbQ",
+            "track_name": "She Needs Him",
+            "track_artist": "Her's",
+            "track_album": "Invitation to Her's",
+            "track_duration": 314390,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-15T06:37:33Z",
+            "uri": "spotify:track:1NjzNt18LlNTuJYErYGvbQ"
+        },
+        {
+            "track_id": "3JgCyIcJPmBVfcgyedU9FV",
+            "track_name": "California",
+            "track_artist": "The Growlers",
+            "track_album": "California",
+            "track_duration": 136360,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-15T18:57:54Z",
+            "uri": "spotify:track:3JgCyIcJPmBVfcgyedU9FV"
+        },
+        {
+            "track_id": "50M7nY1oQuNHecs0ahWAtI",
+            "track_name": "I Need My Girl",
+            "track_artist": "The National",
+            "track_album": "Trouble Will Find Me",
+            "track_duration": 245240,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-15T19:20:57Z",
+            "uri": "spotify:track:50M7nY1oQuNHecs0ahWAtI"
+        },
+        {
+            "track_id": "7mUbWcWPImNVcLcNewe2Dy",
+            "track_name": "Eucalyptus",
+            "track_artist": "The National",
+            "track_album": "First Two Pages of Frankenstein",
+            "track_duration": 264960,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-15T19:24:09Z",
+            "uri": "spotify:track:7mUbWcWPImNVcLcNewe2Dy"
+        },
+        {
+            "track_id": "5uDdyVU0jDST7xmuOqpnC3",
+            "track_name": "Retina Show - Unreleased Demo",
+            "track_artist": "Tame Impala",
+            "track_album": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
+            "track_duration": 322307,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-21T17:58:50Z",
+            "uri": "spotify:track:5uDdyVU0jDST7xmuOqpnC3"
+        },
+        {
+            "track_id": "0KIpuVYhKUUUpjo6H5NvBY",
+            "track_name": "After Midnight (feat. Clairo)",
+            "track_artist": "Phoenix",
+            "track_album": "After Midnight (feat. Clairo)",
+            "track_duration": 188000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-09-21T18:05:34Z",
+            "uri": "spotify:track:0KIpuVYhKUUUpjo6H5NvBY"
         }
     ]
 }
