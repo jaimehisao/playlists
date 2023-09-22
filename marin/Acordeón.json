@@ -1284,7 +1284,7 @@
         {
             "track_id": "5qMNtxty5qlQbmPppxan0c",
             "track_name": "Tampico Hermoso",
-            "track_artist": "Eliseo Robles y los B\u00e1rbaros del Norte",
+            "track_artist": "Eliseo Robles Y Los Barbaros Del Norte",
             "track_album": "Corridos Famosos",
             "track_duration": 184610,
             "track_added_by": "1291740798",
@@ -2880,6 +2880,16 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-08-30T15:46:56Z",
             "uri": "spotify:track:37atCuvroITNeJyoRrJeMm"
+        },
+        {
+            "track_id": "4iZx2XXvbw8a6HfqPa3B40",
+            "track_name": "Una Paloma Blanca",
+            "track_artist": "Lola La Grande",
+            "track_album": "La M\u00fasica Mexicana",
+            "track_duration": 109923,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-07T06:37:20Z",
+            "uri": "spotify:track:4iZx2XXvbw8a6HfqPa3B40"
         }
     ]
 }
