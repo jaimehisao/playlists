@@ -202,16 +202,6 @@
             "uri": "spotify:track:00t8BP7RdsG7eprMzeWrXi"
         },
         {
-            "track_id": "06tMSo6WYXwqrBZD8w2q1O",
-            "track_name": "Cositas del Pasado",
-            "track_artist": "Lucho Barrios",
-            "track_album": "Los Exitos de Lucho Barrios",
-            "track_duration": 173087,
-            "track_added_by": "1291740798",
-            "track_added_at": "2020-12-17T20:34:36Z",
-            "uri": "spotify:track:06tMSo6WYXwqrBZD8w2q1O"
-        },
-        {
             "track_id": "6IEEa5BYxm1BGNPaAsnl0O",
             "track_name": "Odiame Alma M\u00eda",
             "track_artist": "Los Visconti",
@@ -2230,6 +2220,136 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-08-29T22:05:52Z",
             "uri": "spotify:track:0fOlcr3fxEmfVGPPfJqHOP"
+        },
+        {
+            "track_id": "6otRncUfwUM0xMfghG3x2g",
+            "track_name": "Leyda",
+            "track_artist": "Lisandro Meza",
+            "track_album": "Hay Amores Que Matan (El Sabanero Mayor)",
+            "track_duration": 266840,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T16:20:15Z",
+            "uri": "spotify:track:6otRncUfwUM0xMfghG3x2g"
+        },
+        {
+            "track_id": "4UUNy9YEQitK95hBpvnFdO",
+            "track_name": "Mi Raz\u00f3n de Ser",
+            "track_artist": "Lisandro Meza",
+            "track_album": "Antolog\u00eda de la Cumbia",
+            "track_duration": 203833,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T16:22:03Z",
+            "uri": "spotify:track:4UUNy9YEQitK95hBpvnFdO"
+        },
+        {
+            "track_id": "4wiKYssc7HFSPmbriIBcOR",
+            "track_name": "El Huerfanito",
+            "track_artist": "Cuarteto Machin",
+            "track_album": "Serie Los Inmortales - Desvelo De Amor",
+            "track_duration": 153146,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:12:21Z",
+            "uri": "spotify:track:4wiKYssc7HFSPmbriIBcOR"
+        },
+        {
+            "track_id": "3qpGXMMJ9mWTjhR6aS8vp5",
+            "track_name": "Adela",
+            "track_artist": "Cuarteto Machin",
+            "track_album": "Ilusi\u00f3n China",
+            "track_duration": 176770,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:14:23Z",
+            "uri": "spotify:track:3qpGXMMJ9mWTjhR6aS8vp5"
+        },
+        {
+            "track_id": "7uun6SYwhtLl1w0IxWUn1e",
+            "track_name": "Julia mia",
+            "track_artist": "Antonio Mach\u00edn",
+            "track_album": "Sombras de la noche",
+            "track_duration": 169508,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:16:49Z",
+            "uri": "spotify:track:7uun6SYwhtLl1w0IxWUn1e"
+        },
+        {
+            "track_id": "1rThG1jDTmHAVktqzMI799",
+            "track_name": "Dos gardenias",
+            "track_artist": "Antonio Mach\u00edn",
+            "track_album": "Sombras de la noche",
+            "track_duration": 169717,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:17:46Z",
+            "uri": "spotify:track:1rThG1jDTmHAVktqzMI799"
+        },
+        {
+            "track_id": "4Ox1VidKpMI7XhWTS2Tp07",
+            "track_name": "Clara",
+            "track_artist": "Cuarteto Machin",
+            "track_album": "Ilusi\u00f3n China",
+            "track_duration": 168803,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:19:49Z",
+            "uri": "spotify:track:4Ox1VidKpMI7XhWTS2Tp07"
+        },
+        {
+            "track_id": "0mAS4AbtK9KHE9QJQbPuZN",
+            "track_name": "L\u00e1grimas Negras (feat. Omara Portuondo)",
+            "track_artist": "Buena Vista Social Club",
+            "track_album": "Lost and Found",
+            "track_duration": 244916,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:20:46Z",
+            "uri": "spotify:track:0mAS4AbtK9KHE9QJQbPuZN"
+        },
+        {
+            "track_id": "2lQ5cIjkGB4ahMOTjkpkfu",
+            "track_name": "Lamento Cubano",
+            "track_artist": "Guillermo Portabales",
+            "track_album": "El Carretero",
+            "track_duration": 144840,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:23:42Z",
+            "uri": "spotify:track:2lQ5cIjkGB4ahMOTjkpkfu"
+        },
+        {
+            "track_id": "2fjRInUmwqLhgvW9hQtbo6",
+            "track_name": "Beyond The Sea",
+            "track_artist": "Robbie Williams",
+            "track_album": "Finding Nemo (Original Motion Picture Soundtrack)",
+            "track_duration": 266600,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-19T18:33:08Z",
+            "uri": "spotify:track:2fjRInUmwqLhgvW9hQtbo6"
+        },
+        {
+            "track_id": "2F13ZZuJ1EQnWhdvBpsvpD",
+            "track_name": "Lejos De Ti",
+            "track_artist": "Angel Canales",
+            "track_album": "Sabor",
+            "track_duration": 255586,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-20T02:08:56Z",
+            "uri": "spotify:track:2F13ZZuJ1EQnWhdvBpsvpD"
+        },
+        {
+            "track_id": "57sdRcA5sfIFOKFjReXp2P",
+            "track_name": "I Can't Believe That You're In Love With Me",
+            "track_artist": "Louis Armstrong",
+            "track_album": "The Great American Songbook",
+            "track_duration": 183960,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-21T18:34:38Z",
+            "uri": "spotify:track:57sdRcA5sfIFOKFjReXp2P"
+        },
+        {
+            "track_id": "6Sm8fATeEUr1sSYdD7AY3q",
+            "track_name": "Say It Isn't So",
+            "track_artist": "Billie Holiday",
+            "track_album": "All Or Nothing At All",
+            "track_duration": 199080,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-21T18:36:02Z",
+            "uri": "spotify:track:6Sm8fATeEUr1sSYdD7AY3q"
         }
     ]
 }
