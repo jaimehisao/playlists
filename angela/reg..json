@@ -52,16 +52,6 @@
             "uri": "spotify:track:0M6KY0x5u65ybXHZ3IAega"
         },
         {
-            "track_id": "3A332PPGLcGVIlNpwWf42t",
-            "track_name": "No Me Doy Por Vencido",
-            "track_artist": "Luis Fonsi",
-            "track_album": "Palabras Del Silencio",
-            "track_duration": 238360,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-02-24T19:44:49Z",
-            "uri": "spotify:track:3A332PPGLcGVIlNpwWf42t"
-        },
-        {
             "track_id": "2QVxtXH6aEC75Z0Wb5esCg",
             "track_name": "Me Dediqu\u00e9 a Perderte",
             "track_artist": "Alejandro Fern\u00e1ndez",
@@ -412,16 +402,6 @@
             "uri": "spotify:track:6AGh8CJ0jhJXmNgxzCH6P8"
         },
         {
-            "track_id": "6NRC6sb38DjO5cpWtuevDn",
-            "track_name": "Caminar\u00e9",
-            "track_artist": "Iskander",
-            "track_album": "De Amor y Ra\u00edces",
-            "track_duration": 229053,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-06-03T19:50:09Z",
-            "uri": "spotify:track:6NRC6sb38DjO5cpWtuevDn"
-        },
-        {
             "track_id": "3ZbbcpcCcgsWjTNVRzVZ5c",
             "track_name": "La Luna",
             "track_artist": "J\u00f3sean Log",
@@ -702,16 +682,6 @@
             "uri": "spotify:track:1zDuB9BuEt9Bm3J8OtKEvq"
         },
         {
-            "track_id": "6hFHsQWB7HdVrSe7efRR82",
-            "track_name": "Como te extra\u00f1o mi amor",
-            "track_artist": "Caf\u00e9 Tacvba",
-            "track_album": "Avalancha de \u00e9xitos",
-            "track_duration": 214880,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2018-12-12T04:03:27Z",
-            "uri": "spotify:track:6hFHsQWB7HdVrSe7efRR82"
-        },
-        {
             "track_id": "44rsMeqqv07qr4G6iMPhDe",
             "track_name": "Cama",
             "track_artist": "SERBIA",
@@ -900,16 +870,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2019-01-05T19:33:46Z",
             "uri": "spotify:track:0s5DNDV6LAKn2u2Ufa3VjQ"
-        },
-        {
-            "track_id": "7uQmJ1jgNzBpATSoWKSPFu",
-            "track_name": "Ya No Tiene Novio",
-            "track_artist": "Sebastian Yatra",
-            "track_album": "Ya No Tiene Novio",
-            "track_duration": 198933,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2019-01-05T19:42:32Z",
-            "uri": "spotify:track:7uQmJ1jgNzBpATSoWKSPFu"
         },
         {
             "track_id": "1j6xOGusnyXq3l6IryKF3G",
@@ -1610,16 +1570,6 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2020-08-21T23:46:49Z",
             "uri": "spotify:track:4uoR6qeWeuL4Qeu2qJzkuG"
-        },
-        {
-            "track_id": "7HW5tUjaKxBUamSi7nnzPt",
-            "track_name": "Eso Y M\u00e1s",
-            "track_artist": "Joan Sebastian",
-            "track_album": "M\u00e1s All\u00e1 Del Sol",
-            "track_duration": 159172,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2020-08-22T06:02:26Z",
-            "uri": "spotify:track:7HW5tUjaKxBUamSi7nnzPt"
         },
         {
             "track_id": "6d1tiItSWw2y4UudEoeT9k",
@@ -3000,6 +2950,56 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-07-24T08:59:42Z",
             "uri": "spotify:track:0QN1rkBy3D6j9Yw3Czlcsc"
+        },
+        {
+            "track_id": "2y0WCy503qjDcbpG1cYRMN",
+            "track_name": "Pa' Olvidarme de tus Besos",
+            "track_artist": "Lenin Ram\u00edrez",
+            "track_album": "Pa' Olvidarme de tus Besos",
+            "track_duration": 187448,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-07-29T07:19:58Z",
+            "uri": "spotify:track:2y0WCy503qjDcbpG1cYRMN"
+        },
+        {
+            "track_id": "2Eg6dOam7cAe5turf2bnCg",
+            "track_name": "En La Cama (feat. Daddy Yankee)",
+            "track_artist": "Nicky Jam",
+            "track_album": "Exitos",
+            "track_duration": 157023,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-01T01:50:26Z",
+            "uri": "spotify:track:2Eg6dOam7cAe5turf2bnCg"
+        },
+        {
+            "track_id": "54e9bcdmliuVkhrzE7sM9m",
+            "track_name": "D\u00eda De Suerte",
+            "track_artist": "Alejandra Guzman",
+            "track_album": "Alejandra Guzm\u00e1n 20 A\u00f1os De Exito Con Moderatto (Edici\u00f3n Especial)",
+            "track_duration": 212573,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-03T06:34:07Z",
+            "uri": "spotify:track:54e9bcdmliuVkhrzE7sM9m"
+        },
+        {
+            "track_id": "12uSaxjNUs5PJjMDgjdtqk",
+            "track_name": "LAS FLORES",
+            "track_artist": "Grupo Frontera",
+            "track_album": "El Comienzo",
+            "track_duration": 166380,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-06T22:52:19Z",
+            "uri": "spotify:track:12uSaxjNUs5PJjMDgjdtqk"
+        },
+        {
+            "track_id": "6wNoscHlrYgkS8Wl0XbJtd",
+            "track_name": "El Pr\u00f3ximo Viernes",
+            "track_artist": "Espinoza Paz",
+            "track_album": "Mis \u00c9xitos Con Tololoche",
+            "track_duration": 252746,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-13T22:52:55Z",
+            "uri": "spotify:track:6wNoscHlrYgkS8Wl0XbJtd"
         }
     ]
 }
