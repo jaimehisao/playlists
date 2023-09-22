@@ -1,0 +1,65 @@
+{
+    "id": "1r8EQMBxtTKfBAdNk0zdqW",
+    "tracks": [
+        {
+            "track_id": "6PkxSIt2TYLMFa8ybyngVP",
+            "track_name": "Eat Your Young",
+            "track_artist": "Hozier",
+            "track_album": "Eat Your Young",
+            "track_duration": 242293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-09-05T04:50:42Z",
+            "uri": "spotify:track:6PkxSIt2TYLMFa8ybyngVP"
+        },
+        {
+            "track_id": "4LGJ2pLDvTRnul3EcZoYkX",
+            "track_name": "Like Real People Do",
+            "track_artist": "Hozier",
+            "track_album": "Hozier",
+            "track_duration": 198029,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-09-05T04:50:57Z",
+            "uri": "spotify:track:4LGJ2pLDvTRnul3EcZoYkX"
+        },
+        {
+            "track_id": "4byXh93siQtzKLdjKuJaAF",
+            "track_name": "No Plan",
+            "track_artist": "Hozier",
+            "track_album": "Wasteland, Baby!",
+            "track_duration": 331013,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-09-05T04:51:01Z",
+            "uri": "spotify:track:4byXh93siQtzKLdjKuJaAF"
+        },
+        {
+            "track_id": "0L3oQdYUvVbsOOPJSkZ3C3",
+            "track_name": "Would That I",
+            "track_artist": "Hozier",
+            "track_album": "Wasteland, Baby!",
+            "track_duration": 268293,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-09-05T04:51:06Z",
+            "uri": "spotify:track:0L3oQdYUvVbsOOPJSkZ3C3"
+        },
+        {
+            "track_id": "35PKfoynRpVFoAUE3D5Kc6",
+            "track_name": "Work Song",
+            "track_artist": "Hozier",
+            "track_album": "Hozier",
+            "track_duration": 229715,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-09-05T04:51:14Z",
+            "uri": "spotify:track:35PKfoynRpVFoAUE3D5Kc6"
+        },
+        {
+            "track_id": "1Qd2xhbAtS1MP5UW2BUfqj",
+            "track_name": "Unknown / Nth",
+            "track_artist": "Hozier",
+            "track_album": "Unknown / Nth",
+            "track_duration": 280106,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-09-05T04:51:21Z",
+            "uri": "spotify:track:1Qd2xhbAtS1MP5UW2BUfqj"
+        }
+    ]
+}
