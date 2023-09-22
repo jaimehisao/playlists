@@ -1040,6 +1040,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-08-17T05:53:41Z",
             "uri": "spotify:track:10ZrEcxWcD9vOSUVhUH33O"
+        },
+        {
+            "track_id": "0CrSNuD6vtQckyW6ANxIMY",
+            "track_name": "M\u00e1s Azul Que Ayer",
+            "track_artist": "Urb\u00f8i",
+            "track_album": "Felicidad y Otros Mitos",
+            "track_duration": 167893,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-09-07T15:57:01Z",
+            "uri": "spotify:track:0CrSNuD6vtQckyW6ANxIMY"
         }
     ]
 }
