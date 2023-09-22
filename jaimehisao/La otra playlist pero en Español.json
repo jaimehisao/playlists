@@ -2282,6 +2282,16 @@
             "uri": "spotify:track:4kLBNF8TemKftRMLV93sOJ"
         },
         {
+            "track_id": "241I3O891QjV1m4raTHshI",
+            "track_name": "Ay Qu\u00e9 Pesado",
+            "track_artist": "M\u0153nia",
+            "track_album": "Stereo Hits",
+            "track_duration": 211600,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-08-10T23:04:28Z",
+            "uri": "spotify:track:241I3O891QjV1m4raTHshI"
+        },
+        {
             "track_id": "3JBFUsZatpE435Y8ejP7RZ",
             "track_name": "Te Vi",
             "track_artist": "Julieta Venegas",
@@ -2330,16 +2340,6 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-08-10T22:59:13Z",
             "uri": "spotify:track:2uhaDVmfG7pT94VO5jl2r4"
-        },
-        {
-            "track_id": "241I3O891QjV1m4raTHshI",
-            "track_name": "Ay Qu\u00e9 Pesado",
-            "track_artist": "M\u0153nia",
-            "track_album": "Stereo Hits",
-            "track_duration": 211600,
-            "track_added_by": "jaimehisao",
-            "track_added_at": "2023-08-10T23:04:28Z",
-            "uri": "spotify:track:241I3O891QjV1m4raTHshI"
         },
         {
             "track_id": "2QFjBBDcrnEIqQcKSwZdv0",
@@ -2430,6 +2430,56 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-08-24T21:40:48Z",
             "uri": "spotify:track:3WqAQcdxzj0jQpj25FHC3H"
+        },
+        {
+            "track_id": "4f6bE40jl7zuFJ3cOCwaI1",
+            "track_name": "Mi Vida",
+            "track_artist": "DLD",
+            "track_album": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+            "track_duration": 282760,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-19T18:22:30Z",
+            "uri": "spotify:track:4f6bE40jl7zuFJ3cOCwaI1"
+        },
+        {
+            "track_id": "74KqkyHbpneHF6JT8EwUOO",
+            "track_name": "No Te Apartes de M\u00ed",
+            "track_artist": "Vicentico",
+            "track_album": "Vicentico 5",
+            "track_duration": 198333,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-19T18:22:34Z",
+            "uri": "spotify:track:74KqkyHbpneHF6JT8EwUOO"
+        },
+        {
+            "track_id": "3hK9u5GThJt0pIm1Q6rZAt",
+            "track_name": "Es Mejor As\u00ed (feat. Reik) - Primera Fila - Live Version",
+            "track_artist": "Cristian Castro",
+            "track_album": "Cristian Castro En Primera Fila - D\u00eda 1",
+            "track_duration": 218080,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-19T18:23:27Z",
+            "uri": "spotify:track:3hK9u5GThJt0pIm1Q6rZAt"
+        },
+        {
+            "track_id": "2cVJwPD5CaTx2kBZyomzGN",
+            "track_name": "En el 2000",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "Natalia Lafourcade",
+            "track_duration": 215000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-19T18:23:49Z",
+            "uri": "spotify:track:2cVJwPD5CaTx2kBZyomzGN"
+        },
+        {
+            "track_id": "6TqXieeBcZZHyaO14hQpKx",
+            "track_name": "Luz De Dia",
+            "track_artist": "Los Enanitos Verdes",
+            "track_album": "Nectar",
+            "track_duration": 268866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-19T18:24:21Z",
+            "uri": "spotify:track:6TqXieeBcZZHyaO14hQpKx"
         }
     ]
 }
