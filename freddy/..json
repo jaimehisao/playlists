@@ -1282,16 +1282,6 @@
             "uri": "spotify:track:5FZxsHWIvUsmSK1IAvm2pp"
         },
         {
-            "track_id": "2gvhbU2mvwxITWzCI0q9CS",
-            "track_name": "T\u00fa S\u00ed Sabes Quererme",
-            "track_artist": "Natalia Lafourcade",
-            "track_album": "T\u00fa S\u00ed Sabes Quererme",
-            "track_duration": 245493,
-            "track_added_by": "1293929854",
-            "track_added_at": "2017-06-12T05:16:34Z",
-            "uri": "spotify:track:2gvhbU2mvwxITWzCI0q9CS"
-        },
-        {
             "track_id": "0smyCrJiibi2uwCiq5R1vj",
             "track_name": "Save Tonight",
             "track_artist": "Eagle-Eye Cherry",
@@ -2152,16 +2142,6 @@
             "uri": "spotify:track:0ib1eHSccu3AZ9UnL4JZdc"
         },
         {
-            "track_id": "0lMrWcrVXHPEuVBuc0nRzZ",
-            "track_name": "",
-            "track_artist": "",
-            "track_album": "",
-            "track_duration": 0,
-            "track_added_by": "1293929854",
-            "track_added_at": "2018-04-16T06:21:32Z",
-            "uri": "spotify:track:0lMrWcrVXHPEuVBuc0nRzZ"
-        },
-        {
             "track_id": "47qYqGPgMTh3l1PRKBHEfI",
             "track_name": "Unity",
             "track_artist": "TheFatRat",
@@ -3000,6 +2980,26 @@
             "track_added_by": "1293929854",
             "track_added_at": "2018-10-14T02:01:31Z",
             "uri": "spotify:track:4LrHMXsXJf2zx1CTYsnOoF"
+        },
+        {
+            "track_id": "2fscHtYDKLd7xYRCTe3prP",
+            "track_name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
+            "track_artist": "Los Aut\u00e9nticos Decadentes",
+            "track_album": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
+            "track_duration": 312442,
+            "track_added_by": "1293929854",
+            "track_added_at": "2018-10-18T01:51:20Z",
+            "uri": "spotify:track:2fscHtYDKLd7xYRCTe3prP"
+        },
+        {
+            "track_id": "2bKhIGdMdcqCqQ2ZhSv5nE",
+            "track_name": "Middle",
+            "track_artist": "DJ Snake",
+            "track_album": "Middle",
+            "track_duration": 220573,
+            "track_added_by": "1293929854",
+            "track_added_at": "2018-10-19T05:08:23Z",
+            "uri": "spotify:track:2bKhIGdMdcqCqQ2ZhSv5nE"
         }
     ]
 }
