@@ -1680,6 +1680,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-09-12T22:50:58Z",
             "uri": "spotify:track:6pSNRgtbbqRYgpwkVQqi3Z"
+        },
+        {
+            "track_id": "1q4BCQssFe74UJmnWt5lov",
+            "track_name": "Lipstick",
+            "track_artist": "Charlie Puth",
+            "track_album": "Lipstick",
+            "track_duration": 208421,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-22T23:13:52Z",
+            "uri": "spotify:track:1q4BCQssFe74UJmnWt5lov"
         }
     ]
 }
