@@ -33217,6 +33217,16 @@
         "type": "artist",
         "uri": "spotify:artist:024sMKXZ3Vd1br0b1LGyTI"
     },
+    "2wmwGWrqRizLaSEYrm5dzZ": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/2wmwGWrqRizLaSEYrm5dzZ",
+        "id": "2wmwGWrqRizLaSEYrm5dzZ",
+        "name": "Los Huracanes del Norte",
+        "type": "artist",
+        "uri": "spotify:artist:2wmwGWrqRizLaSEYrm5dzZ"
+    },
     "7qlQ50b9quDDiiucrNwoiV": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/7qlQ50b9quDDiiucrNwoiV"
@@ -46216,16 +46226,6 @@
         "name": "The 88",
         "type": "artist",
         "uri": "spotify:artist:3OfiFNgFbJAwuQnVvOL2bh"
-    },
-    "2wmwGWrqRizLaSEYrm5dzZ": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        },
-        "href": "https://api.spotify.com/v1/artists/2wmwGWrqRizLaSEYrm5dzZ",
-        "id": "2wmwGWrqRizLaSEYrm5dzZ",
-        "name": "Los Huracanes del Norte",
-        "type": "artist",
-        "uri": "spotify:artist:2wmwGWrqRizLaSEYrm5dzZ"
     },
     "5PA4sqwMcqyPKasMY1lGLY": {
         "external_urls": {
