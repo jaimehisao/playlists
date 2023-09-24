@@ -1690,6 +1690,26 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-09-22T23:13:52Z",
             "uri": "spotify:track:1q4BCQssFe74UJmnWt5lov"
+        },
+        {
+            "track_id": "5LciLoxa1gK70yIUeoHgRx",
+            "track_name": "To My Love - Tainy Remix",
+            "track_artist": "Bomba Est\u00e9reo",
+            "track_album": "Amanecer (Remixed)",
+            "track_duration": 251773,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-23T21:44:36Z",
+            "uri": "spotify:track:5LciLoxa1gK70yIUeoHgRx"
+        },
+        {
+            "track_id": "2FRnf9qhLbvw8fu4IBXx78",
+            "track_name": "Last Christmas",
+            "track_artist": "Wham!",
+            "track_album": "LAST CHRISTMAS",
+            "track_duration": 262960,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-24T05:27:01Z",
+            "uri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78"
         }
     ]
 }
