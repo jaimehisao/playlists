@@ -60,6 +60,76 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-09-13T01:01:31Z",
             "uri": "spotify:track:13cBon4WXZ0YELcAcizGTP"
+        },
+        {
+            "track_id": "2FgdYV9AnS0CTjwoHY42E3",
+            "track_name": "Fnaf 1 - Big Band Version",
+            "track_artist": "The 8-Bit Big Band",
+            "track_album": "Fnaf 1 (Big Band Version)",
+            "track_duration": 222028,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-24T11:28:03Z",
+            "uri": "spotify:track:2FgdYV9AnS0CTjwoHY42E3"
+        },
+        {
+            "track_id": "6FU64m12iYGoyhPcFddZCZ",
+            "track_name": "Love!",
+            "track_artist": "Swingrowers",
+            "track_album": "Love!",
+            "track_duration": 184737,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-24T11:32:22Z",
+            "uri": "spotify:track:6FU64m12iYGoyhPcFddZCZ"
+        },
+        {
+            "track_id": "5PgBTweGfIpo5SCmZJEi91",
+            "track_name": "Hello Hurry",
+            "track_artist": "Deladap",
+            "track_album": "Hello Hurry",
+            "track_duration": 162805,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-24T11:33:53Z",
+            "uri": "spotify:track:5PgBTweGfIpo5SCmZJEi91"
+        },
+        {
+            "track_id": "5IMLktI2bB2baQFTacuyeN",
+            "track_name": "Rose",
+            "track_artist": "Swingrowers",
+            "track_album": "Hybrid",
+            "track_duration": 213120,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-24T11:35:22Z",
+            "uri": "spotify:track:5IMLktI2bB2baQFTacuyeN"
+        },
+        {
+            "track_id": "6XNUg7eTezvSOexhI3fbLw",
+            "track_name": "Never Wanna Say Goodbye",
+            "track_artist": "Elle & The Pocket Belles",
+            "track_album": "Never Wanna Say Goodbye",
+            "track_duration": 179493,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-24T11:36:37Z",
+            "uri": "spotify:track:6XNUg7eTezvSOexhI3fbLw"
+        },
+        {
+            "track_id": "287DTM4lAobDZVhQUstxOD",
+            "track_name": "Levitating",
+            "track_artist": "Scott Bradlee's Postmodern Jukebox",
+            "track_album": "Levitating",
+            "track_duration": 225974,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-24T11:38:00Z",
+            "uri": "spotify:track:287DTM4lAobDZVhQUstxOD"
+        },
+        {
+            "track_id": "7axzBxPU1QDvhDGqLrRSku",
+            "track_name": "Dreamland (Say Goodbye Bye Bye)",
+            "track_artist": "Swingrowers",
+            "track_album": "Hybrid",
+            "track_duration": 176842,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-09-24T11:38:04Z",
+            "uri": "spotify:track:7axzBxPU1QDvhDGqLrRSku"
         }
     ]
 }
