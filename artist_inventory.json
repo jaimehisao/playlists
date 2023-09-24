@@ -3439,6 +3439,16 @@
         "type": "artist",
         "uri": "spotify:artist:5n9bMYfz9qss2VOW89EVs2"
     },
+    "5lpH0xAS4fVfLkACg9DAuM": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        },
+        "href": "https://api.spotify.com/v1/artists/5lpH0xAS4fVfLkACg9DAuM",
+        "id": "5lpH0xAS4fVfLkACg9DAuM",
+        "name": "Wham!",
+        "type": "artist",
+        "uri": "spotify:artist:5lpH0xAS4fVfLkACg9DAuM"
+    },
     "6JL8zeS1NmiOftqZTRgdTz": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
@@ -7778,16 +7788,6 @@
         "name": "The Outfield",
         "type": "artist",
         "uri": "spotify:artist:1zxDewzd2j1ZdSBGaYcr0y"
-    },
-    "5lpH0xAS4fVfLkACg9DAuM": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        },
-        "href": "https://api.spotify.com/v1/artists/5lpH0xAS4fVfLkACg9DAuM",
-        "id": "5lpH0xAS4fVfLkACg9DAuM",
-        "name": "Wham!",
-        "type": "artist",
-        "uri": "spotify:artist:5lpH0xAS4fVfLkACg9DAuM"
     },
     "1dfeR4HaWDbWqFHLkxsg1d": {
         "external_urls": {
@@ -43987,6 +43987,66 @@
         "type": "artist",
         "uri": "spotify:artist:5Ot9o0POYefyeEWVdhvcdr"
     },
+    "5d1sgs6DwqUcHqQsvwStt2": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5d1sgs6DwqUcHqQsvwStt2"
+        },
+        "href": "https://api.spotify.com/v1/artists/5d1sgs6DwqUcHqQsvwStt2",
+        "id": "5d1sgs6DwqUcHqQsvwStt2",
+        "name": "The 8-Bit Big Band",
+        "type": "artist",
+        "uri": "spotify:artist:5d1sgs6DwqUcHqQsvwStt2"
+    },
+    "1KIo4b95g1KHA2AQz7fwa2": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2"
+        },
+        "href": "https://api.spotify.com/v1/artists/1KIo4b95g1KHA2AQz7fwa2",
+        "id": "1KIo4b95g1KHA2AQz7fwa2",
+        "name": "Deladap",
+        "type": "artist",
+        "uri": "spotify:artist:1KIo4b95g1KHA2AQz7fwa2"
+    },
+    "68TSKE26i8EDiY2UkCiRhE": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE"
+        },
+        "href": "https://api.spotify.com/v1/artists/68TSKE26i8EDiY2UkCiRhE",
+        "id": "68TSKE26i8EDiY2UkCiRhE",
+        "name": "Melinda Stoika",
+        "type": "artist",
+        "uri": "spotify:artist:68TSKE26i8EDiY2UkCiRhE"
+    },
+    "0MbDNDhsDB35CyvApzybJt": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt"
+        },
+        "href": "https://api.spotify.com/v1/artists/0MbDNDhsDB35CyvApzybJt",
+        "id": "0MbDNDhsDB35CyvApzybJt",
+        "name": "Elle & The Pocket Belles",
+        "type": "artist",
+        "uri": "spotify:artist:0MbDNDhsDB35CyvApzybJt"
+    },
+    "5HYNPEO2NNBONQkp3Mvwvc": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        "href": "https://api.spotify.com/v1/artists/5HYNPEO2NNBONQkp3Mvwvc",
+        "id": "5HYNPEO2NNBONQkp3Mvwvc",
+        "name": "Scott Bradlee's Postmodern Jukebox",
+        "type": "artist",
+        "uri": "spotify:artist:5HYNPEO2NNBONQkp3Mvwvc"
+    },
+    "0qEkBKEjZQo9NtBjCIIyPE": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qEkBKEjZQo9NtBjCIIyPE"
+        },
+        "href": "https://api.spotify.com/v1/artists/0qEkBKEjZQo9NtBjCIIyPE",
+        "id": "0qEkBKEjZQo9NtBjCIIyPE",
+        "name": "Sweet Megg",
+        "type": "artist",
+        "uri": "spotify:artist:0qEkBKEjZQo9NtBjCIIyPE"
+    },
     "0qZlB7IX5lWPhlxsayt31p": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
@@ -46746,6 +46806,16 @@
         "name": "La\u00edto Jr.",
         "type": "artist",
         "uri": "spotify:artist:4rgdsOnaxt9nOiHZskenTX"
+    },
+    "2NeFajzkAQ4UfviWdzf0pK": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        },
+        "href": "https://api.spotify.com/v1/artists/2NeFajzkAQ4UfviWdzf0pK",
+        "id": "2NeFajzkAQ4UfviWdzf0pK",
+        "name": "Marta Santos",
+        "type": "artist",
+        "uri": "spotify:artist:2NeFajzkAQ4UfviWdzf0pK"
     },
     "54h3j85gGrqCsfK8D0RuUM": {
         "external_urls": {
@@ -50736,6 +50806,16 @@
         "name": "Isolina Carrillo",
         "type": "artist",
         "uri": "spotify:artist:13BCSBDVHrJstJ0GwZhDzL"
+    },
+    "1TFrtkP5626HcDmpXJqSqi": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1TFrtkP5626HcDmpXJqSqi"
+        },
+        "href": "https://api.spotify.com/v1/artists/1TFrtkP5626HcDmpXJqSqi",
+        "id": "1TFrtkP5626HcDmpXJqSqi",
+        "name": "Rufo Garrido Y Su Banda",
+        "type": "artist",
+        "uri": "spotify:artist:1TFrtkP5626HcDmpXJqSqi"
     },
     "7AgtFmxbJL1wDbp7yYrzQb": {
         "external_urls": {
