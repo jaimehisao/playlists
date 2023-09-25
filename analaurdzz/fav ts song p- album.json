@@ -52,14 +52,24 @@
             "uri": "spotify:track:1NmVZsG18CzCAtw7rnV3yA"
         },
         {
-            "track_id": "0VE4kBnHJUgtMf0dy6DRmW",
-            "track_name": "Getaway Car",
+            "track_id": "6oVxXO5oQ4pTpO8RSnkzvv",
+            "track_name": "Dress",
             "track_artist": "Taylor Swift",
             "track_album": "reputation",
-            "track_duration": 233626,
+            "track_duration": 230373,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-03-12T17:50:19Z",
-            "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+            "track_added_at": "2023-09-25T04:37:08Z",
+            "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv"
+        },
+        {
+            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
+            "track_name": "Paper Rings",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 222400,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-03-12T17:48:50Z",
+            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
         },
         {
             "track_id": "4R2kfaDFhslZEMJqAFNpdd",
@@ -80,16 +90,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-27T16:56:51Z",
             "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
-        },
-        {
-            "track_id": "4y5bvROuBDPr5fuwXbIBZR",
-            "track_name": "Paper Rings",
-            "track_artist": "Taylor Swift",
-            "track_album": "Lover",
-            "track_duration": 222400,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-03-12T17:48:50Z",
-            "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR"
         },
         {
             "track_id": "199E1RRrVmVTQqBXih5qRC",
