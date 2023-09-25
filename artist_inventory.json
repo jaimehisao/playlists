@@ -30999,6 +30999,76 @@
         "type": "artist",
         "uri": "spotify:artist:2uKpEK3jTfBUVZcN3JCLHn"
     },
+    "3SYGWAHCe31oykdeUPpoJp": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp"
+        },
+        "href": "https://api.spotify.com/v1/artists/3SYGWAHCe31oykdeUPpoJp",
+        "id": "3SYGWAHCe31oykdeUPpoJp",
+        "name": "Miranda Cosgrove",
+        "type": "artist",
+        "uri": "spotify:artist:3SYGWAHCe31oykdeUPpoJp"
+    },
+    "03ilIKH0i08IxmjKcn63ne": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        },
+        "href": "https://api.spotify.com/v1/artists/03ilIKH0i08IxmjKcn63ne",
+        "id": "03ilIKH0i08IxmjKcn63ne",
+        "name": "Drake Bell",
+        "type": "artist",
+        "uri": "spotify:artist:03ilIKH0i08IxmjKcn63ne"
+    },
+    "33PwkSp7tLhc9FjuEaAtJ7": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/33PwkSp7tLhc9FjuEaAtJ7"
+        },
+        "href": "https://api.spotify.com/v1/artists/33PwkSp7tLhc9FjuEaAtJ7",
+        "id": "33PwkSp7tLhc9FjuEaAtJ7",
+        "name": "iCarly & Victorious Casts",
+        "type": "artist",
+        "uri": "spotify:artist:33PwkSp7tLhc9FjuEaAtJ7"
+    },
+    "1KYszkVzlhV3rAqmAcYIgd": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd"
+        },
+        "href": "https://api.spotify.com/v1/artists/1KYszkVzlhV3rAqmAcYIgd",
+        "id": "1KYszkVzlhV3rAqmAcYIgd",
+        "name": "Victorious Cast",
+        "type": "artist",
+        "uri": "spotify:artist:1KYszkVzlhV3rAqmAcYIgd"
+    },
+    "2OTfr6S2kuHRYStjt1IkY6": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
+        },
+        "href": "https://api.spotify.com/v1/artists/2OTfr6S2kuHRYStjt1IkY6",
+        "id": "2OTfr6S2kuHRYStjt1IkY6",
+        "name": "Victoria Justice",
+        "type": "artist",
+        "uri": "spotify:artist:2OTfr6S2kuHRYStjt1IkY6"
+    },
+    "0tnLXvm7c6ozq46x6qzgvL": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0tnLXvm7c6ozq46x6qzgvL"
+        },
+        "href": "https://api.spotify.com/v1/artists/0tnLXvm7c6ozq46x6qzgvL",
+        "id": "0tnLXvm7c6ozq46x6qzgvL",
+        "name": "Elizabeth Gillies",
+        "type": "artist",
+        "uri": "spotify:artist:0tnLXvm7c6ozq46x6qzgvL"
+    },
+    "5Z3CI4r6K4WAtl1O1id3HJ": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5Z3CI4r6K4WAtl1O1id3HJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5Z3CI4r6K4WAtl1O1id3HJ",
+        "id": "5Z3CI4r6K4WAtl1O1id3HJ",
+        "name": "Leon Thomas III",
+        "type": "artist",
+        "uri": "spotify:artist:5Z3CI4r6K4WAtl1O1id3HJ"
+    },
     "3vAaWhdBR38Q02ohXqaNHT": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
@@ -36816,6 +36886,16 @@
         "name": "Selah Sol",
         "type": "artist",
         "uri": "spotify:artist:3ZnFOxqZB6PMOGElerc68j"
+    },
+    "2mOJsXjZZ1f0L8Jx784TCh": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mOJsXjZZ1f0L8Jx784TCh"
+        },
+        "href": "https://api.spotify.com/v1/artists/2mOJsXjZZ1f0L8Jx784TCh",
+        "id": "2mOJsXjZZ1f0L8Jx784TCh",
+        "name": "Felix Cartal",
+        "type": "artist",
+        "uri": "spotify:artist:2mOJsXjZZ1f0L8Jx784TCh"
     },
     "4QTVePrFu1xuGM9K0kNXkk": {
         "external_urls": {
@@ -50797,15 +50877,15 @@
         "type": "artist",
         "uri": "spotify:artist:4FnHzvjWwTgLkUXsS3Bu4g"
     },
-    "13BCSBDVHrJstJ0GwZhDzL": {
+    "7lggpF8RwCxslt8jkgkOXx": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/13BCSBDVHrJstJ0GwZhDzL"
+            "spotify": "https://open.spotify.com/artist/7lggpF8RwCxslt8jkgkOXx"
         },
-        "href": "https://api.spotify.com/v1/artists/13BCSBDVHrJstJ0GwZhDzL",
-        "id": "13BCSBDVHrJstJ0GwZhDzL",
+        "href": "https://api.spotify.com/v1/artists/7lggpF8RwCxslt8jkgkOXx",
+        "id": "7lggpF8RwCxslt8jkgkOXx",
         "name": "Isolina Carrillo",
         "type": "artist",
-        "uri": "spotify:artist:13BCSBDVHrJstJ0GwZhDzL"
+        "uri": "spotify:artist:7lggpF8RwCxslt8jkgkOXx"
     },
     "1TFrtkP5626HcDmpXJqSqi": {
         "external_urls": {
@@ -68536,26 +68616,6 @@
         "name": "Bingo Players",
         "type": "artist",
         "uri": "spotify:artist:1pbHrVayIcVpHI9z97u4bK"
-    },
-    "3SYGWAHCe31oykdeUPpoJp": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp"
-        },
-        "href": "https://api.spotify.com/v1/artists/3SYGWAHCe31oykdeUPpoJp",
-        "id": "3SYGWAHCe31oykdeUPpoJp",
-        "name": "Miranda Cosgrove",
-        "type": "artist",
-        "uri": "spotify:artist:3SYGWAHCe31oykdeUPpoJp"
-    },
-    "03ilIKH0i08IxmjKcn63ne": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
-        },
-        "href": "https://api.spotify.com/v1/artists/03ilIKH0i08IxmjKcn63ne",
-        "id": "03ilIKH0i08IxmjKcn63ne",
-        "name": "Drake Bell",
-        "type": "artist",
-        "uri": "spotify:artist:03ilIKH0i08IxmjKcn63ne"
     },
     "4ME85YvMUi1hdqhbind7gy": {
         "external_urls": {
