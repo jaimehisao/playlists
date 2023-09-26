@@ -35577,15 +35577,15 @@
         "type": "artist",
         "uri": "spotify:artist:2BVYdY4PyfCF9z4NrkhEB2"
     },
-    "4VsbQvC84B8Z3IsBY1HLQy": {
+    "00Lc7Ok0Grodr365KFTSi3": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+            "spotify": "https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3"
         },
-        "href": "https://api.spotify.com/v1/artists/4VsbQvC84B8Z3IsBY1HLQy",
-        "id": "4VsbQvC84B8Z3IsBY1HLQy",
+        "href": "https://api.spotify.com/v1/artists/00Lc7Ok0Grodr365KFTSi3",
+        "id": "00Lc7Ok0Grodr365KFTSi3",
         "name": "La Factoria",
         "type": "artist",
-        "uri": "spotify:artist:4VsbQvC84B8Z3IsBY1HLQy"
+        "uri": "spotify:artist:00Lc7Ok0Grodr365KFTSi3"
     },
     "7gR53ad9JjCweCv4f9MWEX": {
         "external_urls": {
@@ -42256,6 +42256,16 @@
         "name": "Joycee",
         "type": "artist",
         "uri": "spotify:artist:7IjPW8bcW8D5mccCuVxbEC"
+    },
+    "4VsbQvC84B8Z3IsBY1HLQy": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        "href": "https://api.spotify.com/v1/artists/4VsbQvC84B8Z3IsBY1HLQy",
+        "id": "4VsbQvC84B8Z3IsBY1HLQy",
+        "name": "La Factoria",
+        "type": "artist",
+        "uri": "spotify:artist:4VsbQvC84B8Z3IsBY1HLQy"
     },
     "3hz57XL7wSiPMO9g3k1CW6": {
         "external_urls": {
