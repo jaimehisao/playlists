@@ -382,16 +382,6 @@
             "uri": "spotify:track:3AHfCskJ4hWkdcmReFatGT"
         },
         {
-            "track_id": "4iFbVYqFXzY4Ti2nt8DHEo",
-            "track_name": "Fie$ta",
-            "track_artist": "Marcos Menchaca",
-            "track_album": "Fie$ta",
-            "track_duration": 208021,
-            "track_added_by": "angela.sierra",
-            "track_added_at": "2017-06-03T06:32:26Z",
-            "uri": "spotify:track:4iFbVYqFXzY4Ti2nt8DHEo"
-        },
-        {
             "track_id": "6AGh8CJ0jhJXmNgxzCH6P8",
             "track_name": "La Que Me Gusta",
             "track_artist": "Los Amigos Invisibles",
@@ -3000,6 +2990,16 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-08-13T22:52:55Z",
             "uri": "spotify:track:6wNoscHlrYgkS8Wl0XbJtd"
+        },
+        {
+            "track_id": "4YqCBC4FwzGXuhixt5cgmm",
+            "track_name": "Tra Tra Tra Remix - Remix",
+            "track_artist": "Ghetto Kids",
+            "track_album": "Tra Tra Tra Remix",
+            "track_duration": 171000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-08-20T02:37:57Z",
+            "uri": "spotify:track:4YqCBC4FwzGXuhixt5cgmm"
         }
     ]
 }
