@@ -42077,15 +42077,25 @@
         "type": "artist",
         "uri": "spotify:artist:3LZZPxNDGDFVSIPqf4JuEf"
     },
-    "5wcXTMooUetMp8uUNqC03W": {
+    "1GmsPCcpKgF9OhlNXjOsbS": {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+            "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         },
-        "href": "https://api.spotify.com/v1/artists/5wcXTMooUetMp8uUNqC03W",
-        "id": "5wcXTMooUetMp8uUNqC03W",
-        "name": "Jeremy Shada",
+        "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
+        "id": "1GmsPCcpKgF9OhlNXjOsbS",
+        "name": "Lizzy McAlpine",
         "type": "artist",
-        "uri": "spotify:artist:5wcXTMooUetMp8uUNqC03W"
+        "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
+    },
+    "4Uc8Dsxct0oMqx0P6i60ea": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
+        "id": "4Uc8Dsxct0oMqx0P6i60ea",
+        "name": "Conan Gray",
+        "type": "artist",
+        "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     "4RSyJzf7ef6Iu2rnLdabNq": {
         "external_urls": {
@@ -42156,16 +42166,6 @@
         "name": "Angel Lopez",
         "type": "artist",
         "uri": "spotify:artist:0w57qOEVTcqs0bLyFJ7Q52"
-    },
-    "4Uc8Dsxct0oMqx0P6i60ea": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        },
-        "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-        "id": "4Uc8Dsxct0oMqx0P6i60ea",
-        "name": "Conan Gray",
-        "type": "artist",
-        "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     "2S9W9aSAd7e5mp8WqWxN2h": {
         "external_urls": {
@@ -42696,16 +42696,6 @@
         "name": "Peach Tree Rascals",
         "type": "artist",
         "uri": "spotify:artist:0imE3buPhAowREqCrr4CYe"
-    },
-    "1GmsPCcpKgF9OhlNXjOsbS": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        "href": "https://api.spotify.com/v1/artists/1GmsPCcpKgF9OhlNXjOsbS",
-        "id": "1GmsPCcpKgF9OhlNXjOsbS",
-        "name": "Lizzy McAlpine",
-        "type": "artist",
-        "uri": "spotify:artist:1GmsPCcpKgF9OhlNXjOsbS"
     },
     "1e16kiJQtCTveTl7TQnkFN": {
         "external_urls": {
@@ -64707,6 +64697,26 @@
         "type": "artist",
         "uri": "spotify:artist:01rgao9OzfBm2BOHWJpi1Y"
     },
+    "6XvKTz2XRPwlry0UdjqoKq": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        "href": "https://api.spotify.com/v1/artists/6XvKTz2XRPwlry0UdjqoKq",
+        "id": "6XvKTz2XRPwlry0UdjqoKq",
+        "name": "Ghetto Kids",
+        "type": "artist",
+        "uri": "spotify:artist:6XvKTz2XRPwlry0UdjqoKq"
+    },
+    "6fzh7nbhTUmqHUlx7a6DFW": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        "href": "https://api.spotify.com/v1/artists/6fzh7nbhTUmqHUlx7a6DFW",
+        "id": "6fzh7nbhTUmqHUlx7a6DFW",
+        "name": "Mad Fuentes",
+        "type": "artist",
+        "uri": "spotify:artist:6fzh7nbhTUmqHUlx7a6DFW"
+    },
     "4GzIiGnHYrOnq2LUiD6zdo": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo"
@@ -67076,26 +67086,6 @@
         "name": "Dalmata",
         "type": "artist",
         "uri": "spotify:artist:3jGlU8UMMo44I2xeLQ6FD3"
-    },
-    "6XvKTz2XRPwlry0UdjqoKq": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        "href": "https://api.spotify.com/v1/artists/6XvKTz2XRPwlry0UdjqoKq",
-        "id": "6XvKTz2XRPwlry0UdjqoKq",
-        "name": "Ghetto Kids",
-        "type": "artist",
-        "uri": "spotify:artist:6XvKTz2XRPwlry0UdjqoKq"
-    },
-    "6fzh7nbhTUmqHUlx7a6DFW": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        },
-        "href": "https://api.spotify.com/v1/artists/6fzh7nbhTUmqHUlx7a6DFW",
-        "id": "6fzh7nbhTUmqHUlx7a6DFW",
-        "name": "Mad Fuentes",
-        "type": "artist",
-        "uri": "spotify:artist:6fzh7nbhTUmqHUlx7a6DFW"
     },
     "5Y8eJDj37KhaEeqbVO7Ag1": {
         "external_urls": {
@@ -71416,6 +71406,16 @@
         "name": "Dixie",
         "type": "artist",
         "uri": "spotify:artist:3DKkhRCGOG4e8IUPYFPfWs"
+    },
+    "5wcXTMooUetMp8uUNqC03W": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+        },
+        "href": "https://api.spotify.com/v1/artists/5wcXTMooUetMp8uUNqC03W",
+        "id": "5wcXTMooUetMp8uUNqC03W",
+        "name": "Jeremy Shada",
+        "type": "artist",
+        "uri": "spotify:artist:5wcXTMooUetMp8uUNqC03W"
     },
     "6RHKEd9dpzQ4c09x8Zdaxu": {
         "external_urls": {
