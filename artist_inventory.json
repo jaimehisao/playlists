@@ -42837,6 +42837,26 @@
         "type": "artist",
         "uri": "spotify:artist:3MdG05syQeRYPPcClLaUGl"
     },
+    "16eV2TebyEhqaDRFEZJ9h8": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8"
+        },
+        "href": "https://api.spotify.com/v1/artists/16eV2TebyEhqaDRFEZJ9h8",
+        "id": "16eV2TebyEhqaDRFEZJ9h8",
+        "name": "Audrey Hepburn",
+        "type": "artist",
+        "uri": "spotify:artist:16eV2TebyEhqaDRFEZJ9h8"
+    },
+    "4tuJ0bMpJh08umKkEXKUI5": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        "href": "https://api.spotify.com/v1/artists/4tuJ0bMpJh08umKkEXKUI5",
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "type": "artist",
+        "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+    },
     "5TnuP42pw475UrjjeabtwZ": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
@@ -69456,16 +69476,6 @@
         "name": "Los Del Rio",
         "type": "artist",
         "uri": "spotify:artist:2JXn03fudjyRkQ1Ye9f5rk"
-    },
-    "4tuJ0bMpJh08umKkEXKUI5": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        "href": "https://api.spotify.com/v1/artists/4tuJ0bMpJh08umKkEXKUI5",
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "type": "artist",
-        "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
     },
     "5kSJMVPcTITrSZxTrHllVN": {
         "external_urls": {
