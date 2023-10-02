@@ -3449,6 +3449,16 @@
         "type": "artist",
         "uri": "spotify:artist:5lpH0xAS4fVfLkACg9DAuM"
     },
+    "23zg3TcAtWQy7J6upgbUnj": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        "href": "https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj",
+        "id": "23zg3TcAtWQy7J6upgbUnj",
+        "name": "USHER",
+        "type": "artist",
+        "uri": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
+    },
     "6JL8zeS1NmiOftqZTRgdTz": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
@@ -3558,16 +3568,6 @@
         "name": "Anne-Marie",
         "type": "artist",
         "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
-    },
-    "23zg3TcAtWQy7J6upgbUnj": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        "href": "https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj",
-        "id": "23zg3TcAtWQy7J6upgbUnj",
-        "name": "USHER",
-        "type": "artist",
-        "uri": "spotify:artist:23zg3TcAtWQy7J6upgbUnj"
     },
     "0TnOYISbd1XYRBk9myaseg": {
         "external_urls": {
