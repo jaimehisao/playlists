@@ -1710,6 +1710,36 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-09-24T05:27:01Z",
             "uri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78"
+        },
+        {
+            "track_id": "6EJiVf7U0p1BBfs0qqeb1f",
+            "track_name": "Cut To The Feeling",
+            "track_artist": "Carly Rae Jepsen",
+            "track_album": "Cut To The Feeling",
+            "track_duration": 207959,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-09-28T00:32:17Z",
+            "uri": "spotify:track:6EJiVf7U0p1BBfs0qqeb1f"
+        },
+        {
+            "track_id": "4pbyDPjFgfPqFTcIMC8xpK",
+            "track_name": "Rock DJ",
+            "track_artist": "Robbie Williams",
+            "track_album": "Sing When You're Winning",
+            "track_duration": 258560,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-01T05:50:18Z",
+            "uri": "spotify:track:4pbyDPjFgfPqFTcIMC8xpK"
+        },
+        {
+            "track_id": "6yfITc3fnExeWFIG0spGRp",
+            "track_name": "More",
+            "track_artist": "USHER",
+            "track_album": "Raymond v Raymond",
+            "track_duration": 229480,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-01T19:49:11Z",
+            "uri": "spotify:track:6yfITc3fnExeWFIG0spGRp"
         }
     ]
 }
