@@ -1980,6 +1980,16 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-09-25T03:33:00Z",
             "uri": "spotify:track:4cIGiGbsqV7X9Uk3QJ5l1A"
+        },
+        {
+            "track_id": "7g7pOUq65ODMkQ1Jo9as0v",
+            "track_name": "Chemicals",
+            "track_artist": "Forester",
+            "track_album": "Chemicals",
+            "track_duration": 190570,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-09-30T00:10:05Z",
+            "uri": "spotify:track:7g7pOUq65ODMkQ1Jo9as0v"
         }
     ]
 }
