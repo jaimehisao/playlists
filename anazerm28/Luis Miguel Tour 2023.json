@@ -240,6 +240,46 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-05-19T03:06:20Z",
             "uri": "spotify:track:3eGfb1IkcwXqYCwDnmQKYA"
+        },
+        {
+            "track_id": "3pJlTmnEjkf1u9Bualfo8X",
+            "track_name": "Sol, arena y mar",
+            "track_artist": "Luis Miguel",
+            "track_album": "Amarte Es Un Placer",
+            "track_duration": 197933,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-15T15:35:10Z",
+            "uri": "spotify:track:3pJlTmnEjkf1u9Bualfo8X"
+        },
+        {
+            "track_id": "4TQ90ljASOU0gnF8T3QKIb",
+            "track_name": "Palabra De Honor",
+            "track_artist": "Luis Miguel",
+            "track_album": "La Miel De Mis Primeros \u00c9xitos",
+            "track_duration": 218951,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-15T15:36:20Z",
+            "uri": "spotify:track:4TQ90ljASOU0gnF8T3QKIb"
+        },
+        {
+            "track_id": "5fj3zNkXfOlrJGVcZBId6D",
+            "track_name": "Entr\u00e9gate",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 263906,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-15T15:36:27Z",
+            "uri": "spotify:track:5fj3zNkXfOlrJGVcZBId6D"
+        },
+        {
+            "track_id": "6T32aKDo9fEQ1E0wDrhrTO",
+            "track_name": "Todo El Amor Del Mundo",
+            "track_artist": "Luis Miguel",
+            "track_album": "Fiebre De Amor",
+            "track_duration": 159635,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-27T19:50:07Z",
+            "uri": "spotify:track:6T32aKDo9fEQ1E0wDrhrTO"
         }
     ]
 }
