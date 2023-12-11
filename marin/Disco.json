@@ -212,16 +212,6 @@
             "uri": "spotify:track:0L3XCv9i9IHs8cJEVhsJ3J"
         },
         {
-            "track_id": "2tUBqZG2AbRi7Q0BIrVrEj",
-            "track_name": "I Wanna Dance with Somebody (Who Loves Me)",
-            "track_artist": "Whitney Houston",
-            "track_album": "Whitney",
-            "track_duration": 291293,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-07-17T18:54:30Z",
-            "uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj"
-        },
-        {
             "track_id": "0QjPiq9Wka9I1b4uzWETYI",
             "track_name": "If I Can't Have You",
             "track_artist": "Yvonne Elliman",
@@ -250,26 +240,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2022-09-11T06:58:13Z",
             "uri": "spotify:track:0RnCUYXa7jhgTXtiMXF2PQ"
-        },
-        {
-            "track_id": "0z7k9lTYzdTjuT7KmtOr2q",
-            "track_name": "Dance (Disco Heat)",
-            "track_artist": "Sylvester",
-            "track_album": "Step II",
-            "track_duration": 355263,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-09-11T07:00:30Z",
-            "uri": "spotify:track:0z7k9lTYzdTjuT7KmtOr2q"
-        },
-        {
-            "track_id": "2zMJN9JvDlvGP4jB03l1Bz",
-            "track_name": "Hot Stuff",
-            "track_artist": "Donna Summer",
-            "track_album": "Bad Girls",
-            "track_duration": 314760,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-09-11T07:00:58Z",
-            "uri": "spotify:track:2zMJN9JvDlvGP4jB03l1Bz"
         },
         {
             "track_id": "3Ua5tojEvJ2YzibMzlrs6t",
@@ -332,26 +302,6 @@
             "uri": "spotify:track:5dXED6MP1v1qghkaniirb1"
         },
         {
-            "track_id": "4VR8erwUal5AIAhX4aBkhv",
-            "track_name": "Knowing Me, Knowing You",
-            "track_artist": "ABBA",
-            "track_album": "ABBA Gold",
-            "track_duration": 241813,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-10-06T02:15:40Z",
-            "uri": "spotify:track:4VR8erwUal5AIAhX4aBkhv"
-        },
-        {
-            "track_id": "3Uyxe1fbF4zWSEwy38qgMw",
-            "track_name": "Neutron Dance",
-            "track_artist": "The Pointer Sisters",
-            "track_album": "Break Out (1983 Version - Expanded Edition)",
-            "track_duration": 253413,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-11-07T02:03:00Z",
-            "uri": "spotify:track:3Uyxe1fbF4zWSEwy38qgMw"
-        },
-        {
             "track_id": "0zIEjHhwQI5APWI3qhofGC",
             "track_name": "Angeleyes",
             "track_artist": "ABBA",
@@ -400,6 +350,66 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-02-26T16:22:49Z",
             "uri": "spotify:track:3PWRW1qah9497Zv68Tgxpl"
+        },
+        {
+            "track_id": "0qemIQjSxcKyf42VPfZnfa",
+            "track_name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+            "track_artist": "Bee Gees",
+            "track_album": "How Can You Mend A Broken Heart",
+            "track_duration": 212800,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-28T16:21:35Z",
+            "uri": "spotify:track:0qemIQjSxcKyf42VPfZnfa"
+        },
+        {
+            "track_id": "3koCCeSaVUyrRo3N2gHrd8",
+            "track_name": "Let's Groove",
+            "track_artist": "Earth, Wind & Fire",
+            "track_album": "Raise!",
+            "track_duration": 339320,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-28T16:22:16Z",
+            "uri": "spotify:track:3koCCeSaVUyrRo3N2gHrd8"
+        },
+        {
+            "track_id": "0B5kY9i9bmP7554oU4jRoO",
+            "track_name": "Funkytown - Single Version",
+            "track_artist": "Lipps Inc.",
+            "track_album": "'80s Pop #1's",
+            "track_duration": 245413,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-28T16:22:21Z",
+            "uri": "spotify:track:0B5kY9i9bmP7554oU4jRoO"
+        },
+        {
+            "track_id": "2IvetNzSZMH5gwjInoyr18",
+            "track_name": "It's Raining Men",
+            "track_artist": "The Weather Girls",
+            "track_album": "Success",
+            "track_duration": 325426,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-28T16:23:59Z",
+            "uri": "spotify:track:2IvetNzSZMH5gwjInoyr18"
+        },
+        {
+            "track_id": "5hXB7bqU2KWHhiSc8UWtLv",
+            "track_name": "Love You Inside Out",
+            "track_artist": "Bee Gees",
+            "track_album": "Mythology",
+            "track_duration": 249880,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-05T18:11:59Z",
+            "uri": "spotify:track:5hXB7bqU2KWHhiSc8UWtLv"
+        },
+        {
+            "track_id": "1RsxUuB1Q5OdseLpHMBkEN",
+            "track_name": "(Our Love) Don't Throw It All Away",
+            "track_artist": "Andy Gibb",
+            "track_album": "Shadow Dancing",
+            "track_duration": 250200,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-05T18:47:57Z",
+            "uri": "spotify:track:1RsxUuB1Q5OdseLpHMBkEN"
         }
     ]
 }
