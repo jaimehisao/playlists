@@ -122,6 +122,16 @@
             "uri": "spotify:track:6v0UJD4a2FtleHeSYVX02A"
         },
         {
+            "track_id": "0AaV4MJrgmLV3XhoiWXjjb",
+            "track_name": "evermore (feat. Bon Iver)",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 304106,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-01T08:47:27Z",
+            "uri": "spotify:track:0AaV4MJrgmLV3XhoiWXjjb"
+        },
+        {
             "track_id": "5xo8RrjJ9CVNrtRg2S3B1R",
             "track_name": "Motion Sickness",
             "track_artist": "Phoebe Bridgers",
@@ -150,6 +160,16 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-09-29T15:46:39Z",
             "uri": "spotify:track:01K4zKU104LyJ8gMb7227B"
+        },
+        {
+            "track_id": "7vBNFh3NIZTj6tB5s1IBjE",
+            "track_name": "marjorie",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 257773,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-01T08:47:20Z",
+            "uri": "spotify:track:7vBNFh3NIZTj6tB5s1IBjE"
         },
         {
             "track_id": "7GgWAITsYJaRM3r50rfh5w",
@@ -182,26 +202,6 @@
             "uri": "spotify:track:19CSr8rwW05VJL2F91KFNK"
         },
         {
-            "track_id": "7vBNFh3NIZTj6tB5s1IBjE",
-            "track_name": "marjorie",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore",
-            "track_duration": 257773,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-10-01T08:47:20Z",
-            "uri": "spotify:track:7vBNFh3NIZTj6tB5s1IBjE"
-        },
-        {
-            "track_id": "0AaV4MJrgmLV3XhoiWXjjb",
-            "track_name": "evermore (feat. Bon Iver)",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore",
-            "track_duration": 304106,
-            "track_added_by": "anazerm28",
-            "track_added_at": "2023-10-01T08:47:27Z",
-            "uri": "spotify:track:0AaV4MJrgmLV3XhoiWXjjb"
-        },
-        {
             "track_id": "6uvh0In7u1Xn4HgxOfAn8O",
             "track_name": "Matilda",
             "track_artist": "Harry Styles",
@@ -210,6 +210,166 @@
             "track_added_by": "anazerm28",
             "track_added_at": "2023-10-01T08:48:02Z",
             "uri": "spotify:track:6uvh0In7u1Xn4HgxOfAn8O"
+        },
+        {
+            "track_id": "5ihS6UUlyQAfmp48eSkxuQ",
+            "track_name": "Landslide",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Fleetwood Mac",
+            "track_duration": 199493,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-03T22:08:29Z",
+            "uri": "spotify:track:5ihS6UUlyQAfmp48eSkxuQ"
+        },
+        {
+            "track_id": "5FQ9NDyx3KZXhovWWq4Gxo",
+            "track_name": "Should've Been Me",
+            "track_artist": "Mitski",
+            "track_album": "Laurel Hell",
+            "track_duration": 191774,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-04T14:16:06Z",
+            "uri": "spotify:track:5FQ9NDyx3KZXhovWWq4Gxo"
+        },
+        {
+            "track_id": "0ofHAoxe9vBkTCp2UQIavz",
+            "track_name": "Dreams - 2004 Remaster",
+            "track_artist": "Fleetwood Mac",
+            "track_album": "Rumours (Super Deluxe)",
+            "track_duration": 257800,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-06T21:03:13Z",
+            "uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz"
+        },
+        {
+            "track_id": "43A8VtuqZuJHn8CCtnSL2l",
+            "track_name": "Walking Back Home",
+            "track_artist": "Vira Talisa",
+            "track_album": "Walking Back Home",
+            "track_duration": 132762,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-06T21:01:44Z",
+            "uri": "spotify:track:43A8VtuqZuJHn8CCtnSL2l"
+        },
+        {
+            "track_id": "5Y6nVaayzitvsD5F7nr3DV",
+            "track_name": "West Coast",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Ultraviolence (Deluxe)",
+            "track_duration": 256760,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-06T22:45:58Z",
+            "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV"
+        },
+        {
+            "track_id": "0sY6ZUTh4yoctD8VIXz339",
+            "track_name": "champagne problems",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 244000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-14T17:42:45Z",
+            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+        },
+        {
+            "track_id": "5PJH1U5Iie893v48Fl9yaC",
+            "track_name": "Cool About It",
+            "track_artist": "boygenius",
+            "track_album": "the record",
+            "track_duration": 180000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-06T22:54:49Z",
+            "uri": "spotify:track:5PJH1U5Iie893v48Fl9yaC"
+        },
+        {
+            "track_id": "6vC7mF2CXYW6MVF2voO4FU",
+            "track_name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+            "track_artist": "Phoebe Bridgers",
+            "track_album": "Spotify Singles",
+            "track_duration": 220812,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-06T22:56:02Z",
+            "uri": "spotify:track:6vC7mF2CXYW6MVF2voO4FU"
+        },
+        {
+            "track_id": "3vkCueOmm7xQDoJ17W1Pm3",
+            "track_name": "My Love Mine All Mine",
+            "track_artist": "Mitski",
+            "track_album": "The Land Is Inhospitable and So Are We",
+            "track_duration": 137773,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-07T03:48:06Z",
+            "uri": "spotify:track:3vkCueOmm7xQDoJ17W1Pm3"
+        },
+        {
+            "track_id": "2DnJjbjNTV9Nd5NOa1KGba",
+            "track_name": "You're So Vain",
+            "track_artist": "Carly Simon",
+            "track_album": "No Secrets",
+            "track_duration": 258411,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-07T13:33:22Z",
+            "uri": "spotify:track:2DnJjbjNTV9Nd5NOa1KGba"
+        },
+        {
+            "track_id": "4vziJcnB2Qyi9o4nIRUeN7",
+            "track_name": "Now And Then",
+            "track_artist": "The Beatles",
+            "track_album": "Now And Then",
+            "track_duration": 248333,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-06T23:06:48Z",
+            "uri": "spotify:track:4vziJcnB2Qyi9o4nIRUeN7"
+        },
+        {
+            "track_id": "6qFUJVkHQCbaYOhzmzhEqU",
+            "track_name": "Sage Green Eyes",
+            "track_artist": "Erin Donahue",
+            "track_album": "Sage Green Eyes",
+            "track_duration": 163436,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-13T22:43:52Z",
+            "uri": "spotify:track:6qFUJVkHQCbaYOhzmzhEqU"
+        },
+        {
+            "track_id": "3CWq0pAKKTWb0K4yiglDc4",
+            "track_name": "You\u2019re Losing Me (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "You're Losing Me (From The Vault)",
+            "track_duration": 277831,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-29T13:32:23Z",
+            "uri": "spotify:track:3CWq0pAKKTWb0K4yiglDc4"
+        },
+        {
+            "track_id": "56xHMIfQPoe0prrSi3BGhf",
+            "track_name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+            "track_artist": "Olivia Rodrigo",
+            "track_album": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+            "track_duration": 205483,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-22T01:33:27Z",
+            "uri": "spotify:track:56xHMIfQPoe0prrSi3BGhf"
+        },
+        {
+            "track_id": "3G6XpCfczuhbTSBlgfqe9v",
+            "track_name": "El lugar correcto",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "De Todas las Flores",
+            "track_duration": 231053,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-22T16:02:03Z",
+            "uri": "spotify:track:3G6XpCfczuhbTSBlgfqe9v"
+        },
+        {
+            "track_id": "4CIu6ip0JlQeCqLLfoqlDW",
+            "track_name": "Eh, Eh (Nothing Else I Can Say)",
+            "track_artist": "Lady Gaga",
+            "track_album": "The Fame",
+            "track_duration": 175360,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-13T22:48:23Z",
+            "uri": "spotify:track:4CIu6ip0JlQeCqLLfoqlDW"
         }
     ]
 }
