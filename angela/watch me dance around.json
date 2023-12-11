@@ -360,6 +360,16 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-08-24T19:13:58Z",
             "uri": "spotify:track:3oBVv54hTMSYXXJGxO5JxJ"
+        },
+        {
+            "track_id": "4Yps42QJDbtsgBRQguNH2p",
+            "track_name": "Stay High",
+            "track_artist": "Childish Gambino",
+            "track_album": "Stay High",
+            "track_duration": 218400,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-12-08T23:42:51Z",
+            "uri": "spotify:track:4Yps42QJDbtsgBRQguNH2p"
         }
     ]
 }
