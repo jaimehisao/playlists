@@ -92,16 +92,6 @@
             "uri": "spotify:track:4i8JlTedcMA31X5CanXke0"
         },
         {
-            "track_id": "7nZSAOovLkakbdo3narfUf",
-            "track_name": "Que Bonito Amor",
-            "track_artist": "Breiky",
-            "track_album": "Rinocerdote",
-            "track_duration": 197590,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2018-03-21T21:37:20Z",
-            "uri": "spotify:track:7nZSAOovLkakbdo3narfUf"
-        },
-        {
             "track_id": "5rMMiv9S50ja6ypmOIi1SP",
             "track_name": "C\u00f3mo Te Atreves",
             "track_artist": "Morat",
@@ -656,7 +646,7 @@
             "track_name": "Devu\u00e9lveme a mi chica",
             "track_artist": "Hombres G",
             "track_album": "Lo Mejor De Los Hombres G",
-            "track_duration": 194560,
+            "track_duration": 194080,
             "track_added_by": "gabrieldlg",
             "track_added_at": "2018-06-05T18:31:38Z",
             "uri": "spotify:track:6pYbhX5gYix4ESpbSUArnA"
@@ -1106,7 +1096,7 @@
             "track_name": "El ataque de las chicas cocodrilo",
             "track_artist": "Hombres G",
             "track_album": "La Cagaste... Burt Lancaster",
-            "track_duration": 184360,
+            "track_duration": 184080,
             "track_added_by": "gabrieldlg",
             "track_added_at": "2021-06-24T03:29:31Z",
             "uri": "spotify:track:3quyxN3SapEsojxk1Uw10K"
@@ -1653,7 +1643,7 @@
         },
         {
             "track_id": "2d6Rpz91tksIznqw75Fdpq",
-            "track_name": "Mil Horas",
+            "track_name": "Mil Horas - 1994 Remastered Version",
             "track_artist": "Los Abuelos De La Nada",
             "track_album": "Los Abuelos De La Nada 1",
             "track_duration": 167213,
@@ -1782,16 +1772,6 @@
             "uri": "spotify:track:6J7iWDCXou5nebuntJ59ei"
         },
         {
-            "track_id": "4GhaiN8g3mwCcbfDLGoYqy",
-            "track_name": "Ansiedades",
-            "track_artist": "Mora",
-            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
-            "track_duration": 174066,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-06-06T17:50:21Z",
-            "uri": "spotify:track:4GhaiN8g3mwCcbfDLGoYqy"
-        },
-        {
             "track_id": "3XJmD5suzFUBHJ7sizBAiy",
             "track_name": "La Magia",
             "track_artist": "Little Jesus",
@@ -1810,6 +1790,36 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-09-06T15:39:03Z",
             "uri": "spotify:track:0PBHDqIm5rrlC4iln6pWsY"
+        },
+        {
+            "track_id": "44XbWNRHal0zmIFVdxdG18",
+            "track_name": "Nada por Hecho (feat. Leiva)",
+            "track_artist": "Siddhartha",
+            "track_album": "Nada por Hecho (feat. Leiva)",
+            "track_duration": 208802,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-11T19:09:20Z",
+            "uri": "spotify:track:44XbWNRHal0zmIFVdxdG18"
+        },
+        {
+            "track_id": "1et2VDNG2yWvhM5hYmbUQP",
+            "track_name": "F\u00fatbol Rock",
+            "track_artist": "CLUBZ",
+            "track_album": "F\u00fatbol Rock",
+            "track_duration": 253600,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-15T23:08:38Z",
+            "uri": "spotify:track:1et2VDNG2yWvhM5hYmbUQP"
+        },
+        {
+            "track_id": "10HQmG706HZtAhXRypWw01",
+            "track_name": "Son Amores (That's Amore) (feat. Los Macorinos)",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+            "track_duration": 224533,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-12-10T05:45:16Z",
+            "uri": "spotify:track:10HQmG706HZtAhXRypWw01"
         }
     ]
 }
