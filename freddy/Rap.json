@@ -570,6 +570,16 @@
             "track_added_by": "1293929854",
             "track_added_at": "2023-02-27T03:32:55Z",
             "uri": "spotify:track:12cZWGf5ZgLcKubEW9mx5q"
+        },
+        {
+            "track_id": "285pBltuF7vW8TeWk8hdRR",
+            "track_name": "Lucid Dreams",
+            "track_artist": "Juice WRLD",
+            "track_album": "Goodbye & Good Riddance",
+            "track_duration": 239835,
+            "track_added_by": "1293929854",
+            "track_added_at": "2023-11-03T22:01:21Z",
+            "uri": "spotify:track:285pBltuF7vW8TeWk8hdRR"
         }
     ]
 }
