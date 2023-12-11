@@ -332,16 +332,6 @@
             "uri": "spotify:track:2KkIiEt1WIHOYItqkD30kR"
         },
         {
-            "track_id": "4sC589n5FFW9jHOSUxnkd6",
-            "track_name": "Question...?",
-            "track_artist": "Taylor Swift",
-            "track_album": "Midnights (3am Edition)",
-            "track_duration": 210556,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:42:42Z",
-            "uri": "spotify:track:4sC589n5FFW9jHOSUxnkd6"
-        },
-        {
             "track_id": "5Xv1T61pCSa1tFhcj3XVXe",
             "track_name": "Bejeweled",
             "track_artist": "Taylor Swift",
@@ -350,16 +340,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-27T16:42:45Z",
             "uri": "spotify:track:5Xv1T61pCSa1tFhcj3XVXe"
-        },
-        {
-            "track_id": "5GjkD2Xujig8TPty57wfsS",
-            "track_name": "Karma",
-            "track_artist": "Taylor Swift",
-            "track_album": "Midnights (3am Edition)",
-            "track_duration": 204852,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:42:47Z",
-            "uri": "spotify:track:5GjkD2Xujig8TPty57wfsS"
         },
         {
             "track_id": "6J834IBcZJMH38ksrgAqwF",
@@ -382,64 +362,84 @@
             "uri": "spotify:track:4356PL6jkERzJouVfQQkZo"
         },
         {
-            "track_id": "3nRmDz7qGCvsMS30rGGY0x",
-            "track_name": "Welcome To New York",
+            "track_id": "1hR8BSuEqPCCZfv93zzzz9",
+            "track_name": "Welcome To New York (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
+            "track_album": "1989 (Taylor's Version)",
             "track_duration": 212600,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:46:47Z",
-            "uri": "spotify:track:3nRmDz7qGCvsMS30rGGY0x"
+            "track_added_at": "2023-10-27T16:14:11Z",
+            "uri": "spotify:track:1hR8BSuEqPCCZfv93zzzz9"
         },
         {
-            "track_id": "1u8c2t2Cy7UBoG4ArRcF5g",
-            "track_name": "Blank Space",
+            "track_id": "45wMBGri1PORPjM9PwFfrS",
+            "track_name": "Blank Space (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 231826,
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 231833,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:46:50Z",
-            "uri": "spotify:track:1u8c2t2Cy7UBoG4ArRcF5g"
+            "track_added_at": "2023-10-27T16:14:18Z",
+            "uri": "spotify:track:45wMBGri1PORPjM9PwFfrS"
         },
         {
-            "track_id": "0ug5NqcwcFR2xrfTkc7k8e",
-            "track_name": "Style",
+            "track_id": "1hjRhYpWyqDpPahmSlUTlc",
+            "track_name": "Style (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
+            "track_album": "1989 (Taylor's Version)",
             "track_duration": 231000,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:46:51Z",
-            "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+            "track_added_at": "2023-10-27T16:14:28Z",
+            "uri": "spotify:track:1hjRhYpWyqDpPahmSlUTlc"
         },
         {
-            "track_id": "0cqRj7pUJDkTCEsJkx8snD",
-            "track_name": "Shake It Off",
+            "track_id": "3pv7Q5v2dpdefwdWIvE7yH",
+            "track_name": "Shake It Off (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 219200,
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 219209,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:46:55Z",
-            "uri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
+            "track_added_at": "2023-10-27T16:14:35Z",
+            "uri": "spotify:track:3pv7Q5v2dpdefwdWIvE7yH"
         },
         {
-            "track_id": "0fM9dEhUFV4MHDuJgrcfOv",
-            "track_name": "How You Get The Girl",
+            "track_id": "75W3SngKzTuoQ94uLf3y82",
+            "track_name": "How You Get The Girl (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
+            "track_album": "1989 (Taylor's Version)",
             "track_duration": 247533,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:47:07Z",
-            "uri": "spotify:track:0fM9dEhUFV4MHDuJgrcfOv"
+            "track_added_at": "2023-10-27T16:14:42Z",
+            "uri": "spotify:track:75W3SngKzTuoQ94uLf3y82"
         },
         {
-            "track_id": "0qAIiGFKLdV1xpNlEhjpq8",
-            "track_name": "New Romantics",
+            "track_id": "2vPMoMDXxu9uX1igWZmXSG",
+            "track_name": "New Romantics (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 230466,
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 230177,
             "track_added_by": "analaurdzz",
-            "track_added_at": "2023-07-27T16:47:13Z",
-            "uri": "spotify:track:0qAIiGFKLdV1xpNlEhjpq8"
+            "track_added_at": "2023-10-27T16:14:48Z",
+            "uri": "spotify:track:2vPMoMDXxu9uX1igWZmXSG"
+        },
+        {
+            "track_id": "45R112Jz5hQeKgITXgSXzs",
+            "track_name": "Karma",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (The Til Dawn Edition)",
+            "track_duration": 204852,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-12-05T20:29:01Z",
+            "uri": "spotify:track:45R112Jz5hQeKgITXgSXzs"
+        },
+        {
+            "track_id": "7oomkQSYf1ia2VnVEWfFIU",
+            "track_name": "Question...?",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (The Til Dawn Edition)",
+            "track_duration": 210556,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-12-05T20:29:05Z",
+            "uri": "spotify:track:7oomkQSYf1ia2VnVEWfFIU"
         }
     ]
 }
