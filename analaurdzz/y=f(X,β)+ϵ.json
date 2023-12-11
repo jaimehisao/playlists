@@ -1,0 +1,755 @@
+{
+    "id": "2PNNPzq6MUQyeHwoINGytR",
+    "tracks": [
+        {
+            "track_id": "19CSr8rwW05VJL2F91KFNK",
+            "track_name": "ivy",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 260440,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:32Z",
+            "uri": "spotify:track:19CSr8rwW05VJL2F91KFNK"
+        },
+        {
+            "track_id": "3S7HNKPakdwNEBFIVTL6dZ",
+            "track_name": "Treacherous (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 242720,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:34Z",
+            "uri": "spotify:track:3S7HNKPakdwNEBFIVTL6dZ"
+        },
+        {
+            "track_id": "2NIBaWXdjaTDmytjjwbEfP",
+            "track_name": "Eyes Open (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Eyes Open (Taylor's Version)",
+            "track_duration": 243264,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:39Z",
+            "uri": "spotify:track:2NIBaWXdjaTDmytjjwbEfP"
+        },
+        {
+            "track_id": "6oPDWUwxTIsGejcHd9tLdc",
+            "track_name": "This is what the drugs are for",
+            "track_artist": "Gracie Abrams",
+            "track_album": "Good Riddance (Deluxe)",
+            "track_duration": 245610,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:49Z",
+            "uri": "spotify:track:6oPDWUwxTIsGejcHd9tLdc"
+        },
+        {
+            "track_id": "5HO2RD12vZ5NcIdAULo43M",
+            "track_name": "Best",
+            "track_artist": "Gracie Abrams",
+            "track_album": "Good Riddance (Deluxe)",
+            "track_duration": 233499,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:49Z",
+            "uri": "spotify:track:5HO2RD12vZ5NcIdAULo43M"
+        },
+        {
+            "track_id": "1HCdems7PQZRj42QDWLA0A",
+            "track_name": "Timeless (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 321396,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:49Z",
+            "uri": "spotify:track:1HCdems7PQZRj42QDWLA0A"
+        },
+        {
+            "track_id": "4sKZlRkHsoovZB9M3XbP1u",
+            "track_name": "Recency Bias",
+            "track_artist": "Tommy Lefroy",
+            "track_album": "Rivals EP",
+            "track_duration": 190186,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:51Z",
+            "uri": "spotify:track:4sKZlRkHsoovZB9M3XbP1u"
+        },
+        {
+            "track_id": "7dW84mWkdWE5a6lFWxJCBG",
+            "track_name": "\u2018tis the damn season",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 229840,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:54Z",
+            "uri": "spotify:track:7dW84mWkdWE5a6lFWxJCBG"
+        },
+        {
+            "track_id": "1zeQjPT367QcGrkpIXYjuW",
+            "track_name": "Wouldn't Come Back",
+            "track_artist": "Trousdale",
+            "track_album": "Wouldn't Come Back",
+            "track_duration": 219533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:55Z",
+            "uri": "spotify:track:1zeQjPT367QcGrkpIXYjuW"
+        },
+        {
+            "track_id": "6uvh0In7u1Xn4HgxOfAn8O",
+            "track_name": "Matilda",
+            "track_artist": "Harry Styles",
+            "track_album": "Harry's House",
+            "track_duration": 245964,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:59Z",
+            "uri": "spotify:track:6uvh0In7u1Xn4HgxOfAn8O"
+        },
+        {
+            "track_id": "4j6kId9QIqhoXvqHKgSKa0",
+            "track_name": "Grapejuice",
+            "track_artist": "Harry Styles",
+            "track_album": "Harry's House",
+            "track_duration": 191958,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:04Z",
+            "uri": "spotify:track:4j6kId9QIqhoXvqHKgSKa0"
+        },
+        {
+            "track_id": "4UJYasyUJsxLUCyQRMgl2H",
+            "track_name": "Exless",
+            "track_artist": "Kate Stephenson",
+            "track_album": "Exless",
+            "track_duration": 205773,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:58:13Z",
+            "uri": "spotify:track:4UJYasyUJsxLUCyQRMgl2H"
+        },
+        {
+            "track_id": "2t2fnYja6b2pUizMungIo0",
+            "track_name": "things i wish you said",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "emails i can\u2019t send fwd:",
+            "track_duration": 162748,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:19Z",
+            "uri": "spotify:track:2t2fnYja6b2pUizMungIo0"
+        },
+        {
+            "track_id": "0HYhOGKAHiOsv8GW4JdMJ8",
+            "track_name": "Lonesome",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "emails i can\u2019t send fwd:",
+            "track_duration": 187591,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:21Z",
+            "uri": "spotify:track:0HYhOGKAHiOsv8GW4JdMJ8"
+        },
+        {
+            "track_id": "27Jko74ZSVY1kwt0vMY6Pu",
+            "track_name": "opposite",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "emails i can\u2019t send fwd:",
+            "track_duration": 168170,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:23Z",
+            "uri": "spotify:track:27Jko74ZSVY1kwt0vMY6Pu"
+        },
+        {
+            "track_id": "2emeScREzF5sqckc9Lejc4",
+            "track_name": "bet u wanna",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "emails i can\u2019t send fwd:",
+            "track_duration": 191025,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:25Z",
+            "uri": "spotify:track:2emeScREzF5sqckc9Lejc4"
+        },
+        {
+            "track_id": "6NvlhDdVgFotNgPK30LM2T",
+            "track_name": "how many things",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "emails i can\u2019t send fwd:",
+            "track_duration": 243880,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:27Z",
+            "uri": "spotify:track:6NvlhDdVgFotNgPK30LM2T"
+        },
+        {
+            "track_id": "443Rp7TCj7n3SNDkmRIQb6",
+            "track_name": "Already Over",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "emails i can\u2019t send fwd:",
+            "track_duration": 170827,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:29Z",
+            "uri": "spotify:track:443Rp7TCj7n3SNDkmRIQb6"
+        },
+        {
+            "track_id": "53pcTIVGVE58vWWM7hfYPl",
+            "track_name": "Tornado Warnings",
+            "track_artist": "Sabrina Carpenter",
+            "track_album": "emails i can\u2019t send fwd:",
+            "track_duration": 204179,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:30Z",
+            "uri": "spotify:track:53pcTIVGVE58vWWM7hfYPl"
+        },
+        {
+            "track_id": "4e5ayHsOLJNLTGfjau2mEw",
+            "track_name": "The Lucky One (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 240466,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:34Z",
+            "uri": "spotify:track:4e5ayHsOLJNLTGfjau2mEw"
+        },
+        {
+            "track_id": "4O0AqdFBbUOcZG44uzNVhY",
+            "track_name": "I Pray",
+            "track_artist": "LANY",
+            "track_album": "a beautiful blur",
+            "track_duration": 182694,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:36Z",
+            "uri": "spotify:track:4O0AqdFBbUOcZG44uzNVhY"
+        },
+        {
+            "track_id": "3AVrVz5rK8Hrqo9YGiVGN5",
+            "track_name": "Apocalypse",
+            "track_artist": "Cigarettes After Sex",
+            "track_album": "Cigarettes After Sex",
+            "track_duration": 290146,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:37Z",
+            "uri": "spotify:track:3AVrVz5rK8Hrqo9YGiVGN5"
+        },
+        {
+            "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+            "track_name": "Iris",
+            "track_artist": "The Goo Goo Dolls",
+            "track_album": "Dizzy up the Girl",
+            "track_duration": 289533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:39Z",
+            "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs"
+        },
+        {
+            "track_id": "5yrAkKml7mtzmPPbjB2qTC",
+            "track_name": "Violets for Roses",
+            "track_artist": "Lana Del Rey",
+            "track_album": "Blue Banisters",
+            "track_duration": 255040,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:41Z",
+            "uri": "spotify:track:5yrAkKml7mtzmPPbjB2qTC"
+        },
+        {
+            "track_id": "3vkCueOmm7xQDoJ17W1Pm3",
+            "track_name": "My Love Mine All Mine",
+            "track_artist": "Mitski",
+            "track_album": "The Land Is Inhospitable and So Are We",
+            "track_duration": 137773,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:46Z",
+            "uri": "spotify:track:3vkCueOmm7xQDoJ17W1Pm3"
+        },
+        {
+            "track_id": "2ite9c2oq2zsxP3NGCYLxq",
+            "track_name": "Stubborn Love",
+            "track_artist": "The Lumineers",
+            "track_album": "The Lumineers",
+            "track_duration": 277333,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T19:59:48Z",
+            "uri": "spotify:track:2ite9c2oq2zsxP3NGCYLxq"
+        },
+        {
+            "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
+            "track_name": "Delicate",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 232253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:01:35Z",
+            "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+        },
+        {
+            "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "track_name": "Cruel Summer",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 178426,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:01:40Z",
+            "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+        },
+        {
+            "track_id": "12M5uqx0ZuwkpLp5rJim1a",
+            "track_name": "Cornelia Street",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 287266,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:01:42Z",
+            "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
+        },
+        {
+            "track_id": "4R2kfaDFhslZEMJqAFNpdd",
+            "track_name": "cardigan",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 239560,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:01:46Z",
+            "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+        },
+        {
+            "track_id": "7A2cNLRT0YJc1yjxHlKihs",
+            "track_name": "Starlight (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 220413,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:01:50Z",
+            "uri": "spotify:track:7A2cNLRT0YJc1yjxHlKihs"
+        },
+        {
+            "track_id": "75zvC8d4iozawMJvxt8T1f",
+            "track_name": "Eres T\u00fa",
+            "track_artist": "Carla Morrison",
+            "track_album": "D\u00e9jenme Llorar",
+            "track_duration": 228253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:01:51Z",
+            "uri": "spotify:track:75zvC8d4iozawMJvxt8T1f"
+        },
+        {
+            "track_id": "3zwMVvkBe2qIKDObWgXw4N",
+            "track_name": "right where you left me - bonus track",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore (deluxe version)",
+            "track_duration": 245026,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:02:00Z",
+            "uri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N"
+        },
+        {
+            "track_id": "1MgV7FIyNxIG7WzMRJV5HC",
+            "track_name": "my tears ricochet",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 255893,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:02:04Z",
+            "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC"
+        },
+        {
+            "track_id": "0PurA4JVJ8YQgSVopY8fn6",
+            "track_name": "tolerate it",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 245440,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T20:02:06Z",
+            "uri": "spotify:track:0PurA4JVJ8YQgSVopY8fn6"
+        },
+        {
+            "track_id": "0A1JLUlkZkp2EFrosoNQi0",
+            "track_name": "Labyrinth",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights",
+            "track_duration": 247962,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:18:33Z",
+            "uri": "spotify:track:0A1JLUlkZkp2EFrosoNQi0"
+        },
+        {
+            "track_id": "0sY6ZUTh4yoctD8VIXz339",
+            "track_name": "champagne problems",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 244000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:21:48Z",
+            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+        },
+        {
+            "track_id": "0lx2cLdOt3piJbcaXIV74f",
+            "track_name": "willow",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 214706,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:21:50Z",
+            "uri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+        },
+        {
+            "track_id": "35rdVq36LMHQX0Suw9a6tK",
+            "track_name": "closure",
+            "track_artist": "Taylor Swift",
+            "track_album": "evermore",
+            "track_duration": 180653,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:22:02Z",
+            "uri": "spotify:track:35rdVq36LMHQX0Suw9a6tK"
+        },
+        {
+            "track_id": "7gVWKBcfIW93YxNBi3ApIE",
+            "track_name": "You're On Your Own, Kid",
+            "track_artist": "Taylor Swift",
+            "track_album": "Midnights (3am Edition)",
+            "track_duration": 194206,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:22:20Z",
+            "uri": "spotify:track:7gVWKBcfIW93YxNBi3ApIE"
+        },
+        {
+            "track_id": "4pNApnaUWAL2J4KO2eqokq",
+            "track_name": "Come Back...Be Here (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 223333,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:22:28Z",
+            "uri": "spotify:track:4pNApnaUWAL2J4KO2eqokq"
+        },
+        {
+            "track_id": "4OmFmE0fzcMG6g0Y8p4eSD",
+            "track_name": "Better Man (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Red (Taylor's Version)",
+            "track_duration": 297013,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:22:30Z",
+            "uri": "spotify:track:4OmFmE0fzcMG6g0Y8p4eSD"
+        },
+        {
+            "track_id": "0P9wLFurlgumLXuqFEpw52",
+            "track_name": "the 1",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 210240,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:23:08Z",
+            "uri": "spotify:track:0P9wLFurlgumLXuqFEpw52"
+        },
+        {
+            "track_id": "1UHoF9p75IVsvUt6WdTYhn",
+            "track_name": "august",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+            "track_duration": 261920,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:23:11Z",
+            "uri": "spotify:track:1UHoF9p75IVsvUt6WdTYhn"
+        },
+        {
+            "track_id": "3sW3oSbzsfecv9XoUdGs7h",
+            "track_name": "Enchanted (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 353253,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:23:30Z",
+            "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h"
+        },
+        {
+            "track_id": "59KOoHFcw5XfICnO57holu",
+            "track_name": "Last Kiss (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 369120,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:23:33Z",
+            "uri": "spotify:track:59KOoHFcw5XfICnO57holu"
+        },
+        {
+            "track_id": "3MytWN8L7shNYzGl4tAKRp",
+            "track_name": "Sparks Fly (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 261230,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-26T22:23:36Z",
+            "uri": "spotify:track:3MytWN8L7shNYzGl4tAKRp"
+        },
+        {
+            "track_id": "7kt9e9LFSpN1zQtYEl19o1",
+            "track_name": "this is me trying",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 195097,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T02:14:04Z",
+            "uri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T02:14:06Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "6GXgd1BPD9bUpqw5AntGV5",
+            "track_name": "All You Had To Do Was Stay (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 193289,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T04:17:15Z",
+            "uri": "spotify:track:6GXgd1BPD9bUpqw5AntGV5"
+        },
+        {
+            "track_id": "43y1WpBdnEy5TR9aZoSQL9",
+            "track_name": "I Wish You Would (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 207650,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T04:22:37Z",
+            "uri": "spotify:track:43y1WpBdnEy5TR9aZoSQL9"
+        },
+        {
+            "track_id": "75W3SngKzTuoQ94uLf3y82",
+            "track_name": "How You Get The Girl (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 247533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T04:33:51Z",
+            "uri": "spotify:track:75W3SngKzTuoQ94uLf3y82"
+        },
+        {
+            "track_id": "2ByBBvpR9b7IynvRmnG7kG",
+            "track_name": "Clean (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 271000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T04:44:47Z",
+            "uri": "spotify:track:2ByBBvpR9b7IynvRmnG7kG"
+        },
+        {
+            "track_id": "4UwqOWDpdeIDVQDuKT6iza",
+            "track_name": "You Are In Love (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 267389,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T04:54:11Z",
+            "uri": "spotify:track:4UwqOWDpdeIDVQDuKT6iza"
+        },
+        {
+            "track_id": "4NioO5R9sHEZh4cGzMHyNt",
+            "track_name": "Say Don't Go (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 279833,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T05:05:12Z",
+            "uri": "spotify:track:4NioO5R9sHEZh4cGzMHyNt"
+        },
+        {
+            "track_id": "5KD6AEm19QnMbfWpfoOHMl",
+            "track_name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 146436,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T05:10:25Z",
+            "uri": "spotify:track:5KD6AEm19QnMbfWpfoOHMl"
+        },
+        {
+            "track_id": "1Iq8oo9XkmmvCQiGOfORiz",
+            "track_name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 229477,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T05:16:23Z",
+            "uri": "spotify:track:1Iq8oo9XkmmvCQiGOfORiz"
+        },
+        {
+            "track_id": "3yNJkriPzWjkkDAWHIAVUq",
+            "track_name": "Ours (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 235803,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T19:14:24Z",
+            "uri": "spotify:track:3yNJkriPzWjkkDAWHIAVUq"
+        },
+        {
+            "track_id": "7G0gBu6nLdhFDPRLc0HdDG",
+            "track_name": "Mine (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 231706,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T19:14:32Z",
+            "uri": "spotify:track:7G0gBu6nLdhFDPRLc0HdDG"
+        },
+        {
+            "track_id": "3FxJDucHWdw6caWTKO5b23",
+            "track_name": "I Wish You Would (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 207650,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T23:44:52Z",
+            "uri": "spotify:track:3FxJDucHWdw6caWTKO5b23"
+        },
+        {
+            "track_id": "00b4fX1wQnsRnsUJ1XW0q3",
+            "track_name": "Universe & U",
+            "track_artist": "KT Tunstall",
+            "track_album": "Eye To The Telescope",
+            "track_duration": 241093,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-29T17:36:46Z",
+            "uri": "spotify:track:00b4fX1wQnsRnsUJ1XW0q3"
+        },
+        {
+            "track_id": "6VsvKPJ4xjVNKpI8VVZ3SV",
+            "track_name": "invisible string",
+            "track_artist": "Taylor Swift",
+            "track_album": "folklore",
+            "track_duration": 252880,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-02T00:36:41Z",
+            "uri": "spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV"
+        },
+        {
+            "track_id": "4s8BIKx4Zh6ryAEz8RTlaU",
+            "track_name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 311765,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-06T01:43:15Z",
+            "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU"
+        },
+        {
+            "track_id": "5few7Mi55PFf2E3o1lqiXI",
+            "track_name": "you're just a guy",
+            "track_artist": "Avery Lynch",
+            "track_album": "you're just a guy",
+            "track_duration": 230652,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-07T23:47:10Z",
+            "uri": "spotify:track:5few7Mi55PFf2E3o1lqiXI"
+        },
+        {
+            "track_id": "6MhKWuDqaRMCVuGFR5cVNe",
+            "track_name": "Fools in Love",
+            "track_artist": "Inara George",
+            "track_album": "All Rise",
+            "track_duration": 282160,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-09T03:57:47Z",
+            "uri": "spotify:track:6MhKWuDqaRMCVuGFR5cVNe"
+        },
+        {
+            "track_id": "27XboT5Wb8VOn7A0heo3Ei",
+            "track_name": "Tengo Todo Excepto a Ti",
+            "track_artist": "Luis Miguel",
+            "track_album": "20 A\u00f1os",
+            "track_duration": 272826,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-16T02:39:19Z",
+            "uri": "spotify:track:27XboT5Wb8VOn7A0heo3Ei"
+        },
+        {
+            "track_id": "6vPAmoERUMRoTZaCCSWQ12",
+            "track_name": "Hasta Que Me Olvides",
+            "track_artist": "Luis Miguel",
+            "track_album": "Aries",
+            "track_duration": 281000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-16T02:39:25Z",
+            "uri": "spotify:track:6vPAmoERUMRoTZaCCSWQ12"
+        },
+        {
+            "track_id": "4FqfHVML025cwjfhAOFbfa",
+            "track_name": "Por Debajo De La Mesa",
+            "track_artist": "Luis Miguel",
+            "track_album": "Romances",
+            "track_duration": 184080,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-16T02:39:27Z",
+            "uri": "spotify:track:4FqfHVML025cwjfhAOFbfa"
+        },
+        {
+            "track_id": "3rZySdtQD7kNmpVb8gYQv4",
+            "track_name": "Te propongo esta noche",
+            "track_artist": "Luis Miguel",
+            "track_album": "Amarte Es Un Placer",
+            "track_duration": 371533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-16T02:39:34Z",
+            "uri": "spotify:track:3rZySdtQD7kNmpVb8gYQv4"
+        },
+        {
+            "track_id": "4mu9UDULgYFQfWQFx5fkKM",
+            "track_name": "Dame",
+            "track_artist": "Luis Miguel",
+            "track_album": "Nada Es Igual",
+            "track_duration": 297893,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-16T02:39:36Z",
+            "uri": "spotify:track:4mu9UDULgYFQfWQFx5fkKM"
+        },
+        {
+            "track_id": "2SGqPctdqs0xkFexK0cAOC",
+            "track_name": "A Veces",
+            "track_artist": "TIM\u00d8",
+            "track_album": "Estemos Donde Estemos",
+            "track_duration": 213773,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-28T19:56:46Z",
+            "uri": "spotify:track:2SGqPctdqs0xkFexK0cAOC"
+        },
+        {
+            "track_id": "1r28ZDlVxz24Rmy8Sq9REY",
+            "track_name": "No Me Queda M\u00e1s",
+            "track_artist": "Selena",
+            "track_album": "Amor Prohibido",
+            "track_duration": 200840,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-30T00:34:35Z",
+            "uri": "spotify:track:1r28ZDlVxz24Rmy8Sq9REY"
+        },
+        {
+            "track_id": "04mAOoQNsXmDJlyupJwmkO",
+            "track_name": "Waiting Room",
+            "track_artist": "Phoebe Bridgers",
+            "track_album": "Lost Ark Studio Compilation, Vol. 8",
+            "track_duration": 393962,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-12-08T21:20:26Z",
+            "uri": "spotify:track:04mAOoQNsXmDJlyupJwmkO"
+        },
+        {
+            "track_id": "1ZYjhvNnxN6sk6f0SMLcR9",
+            "track_name": "all i need (the distance song)",
+            "track_artist": "Avery Lynch",
+            "track_album": "As Written, Vol. 1",
+            "track_duration": 244390,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-12-08T21:28:36Z",
+            "uri": "spotify:track:1ZYjhvNnxN6sk6f0SMLcR9"
+        },
+        {
+            "track_id": "5wHaZHMw8PZQIoKqGqI7oE",
+            "track_name": "Lost Stars",
+            "track_artist": "Adam Levine",
+            "track_album": "V (Deluxe)",
+            "track_duration": 266933,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-12-10T19:33:57Z",
+            "uri": "spotify:track:5wHaZHMw8PZQIoKqGqI7oE"
+        }
+    ]
+}
