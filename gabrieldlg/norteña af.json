@@ -2,16 +2,6 @@
     "id": "27s2P81ORuh9qwlIMIrbMQ",
     "tracks": [
         {
-            "track_id": "0yZngohV8RQssqhGgEDUkU",
-            "track_name": "Abeja Reina",
-            "track_artist": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-            "track_album": "Las M\u00e1s Famosas (Versi\u00f3n M\u00e9xico)",
-            "track_duration": 203093,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2017-01-26T01:29:47Z",
-            "uri": "spotify:track:0yZngohV8RQssqhGgEDUkU"
-        },
-        {
             "track_id": "1IPChWVvMD1UY73izochGC",
             "track_name": "Huele a Peligro",
             "track_artist": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
@@ -672,16 +662,6 @@
             "uri": "spotify:track:2jPufybqAAmiF16Jirt9Ez"
         },
         {
-            "track_id": "2OaOdPdmVhp2YzoQWnQshS",
-            "track_name": "La Boda Del Huitlacoche",
-            "track_artist": "Banda Renovacion",
-            "track_album": "Experiencia y Juventud",
-            "track_duration": 141627,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2022-12-30T02:55:12Z",
-            "uri": "spotify:track:2OaOdPdmVhp2YzoQWnQshS"
-        },
-        {
             "track_id": "6rOy9SIawgruuIWLP5divC",
             "track_name": "Eres Ese Algo",
             "track_artist": "La Maquinaria Norte\u00f1a",
@@ -732,36 +712,6 @@
             "uri": "spotify:track:6pD0ufEQq0xdHSsRbg9LBK"
         },
         {
-            "track_id": "3dnP0JxCgygwQH9Gm7q7nb",
-            "track_name": "Ella Baila Sola",
-            "track_artist": "Eslabon Armado",
-            "track_album": "Ella Baila Sola",
-            "track_duration": 165671,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-04-17T21:00:43Z",
-            "uri": "spotify:track:3dnP0JxCgygwQH9Gm7q7nb"
-        },
-        {
-            "track_id": "1haJsMtoBhHfvuM7XWuT3W",
-            "track_name": "El Azul",
-            "track_artist": "Junior H",
-            "track_album": "El Azul",
-            "track_duration": 187225,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-04-17T21:11:20Z",
-            "uri": "spotify:track:1haJsMtoBhHfvuM7XWuT3W"
-        },
-        {
-            "track_id": "2VzCjpKvPB1l1tqLndtAQa",
-            "track_name": "Por las Noches",
-            "track_artist": "Peso Pluma",
-            "track_album": "Por las Noches",
-            "track_duration": 239845,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-04-17T21:19:34Z",
-            "uri": "spotify:track:2VzCjpKvPB1l1tqLndtAQa"
-        },
-        {
             "track_id": "6Um358vY92UBv5DloTRX9L",
             "track_name": "Que Vuelvas",
             "track_artist": "Carin Leon",
@@ -810,26 +760,6 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-04-21T19:46:14Z",
             "uri": "spotify:track:7uZ5C69LskNw0B4szvVWI5"
-        },
-        {
-            "track_id": "1lRtH4FszTrwwlK5gTSbXO",
-            "track_name": "AMG",
-            "track_artist": "Natanael Cano",
-            "track_album": "AMG",
-            "track_duration": 174942,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-05-10T23:43:40Z",
-            "uri": "spotify:track:1lRtH4FszTrwwlK5gTSbXO"
-        },
-        {
-            "track_id": "2mpoNBkngUEwnaKoBhZ0vl",
-            "track_name": "PRC",
-            "track_artist": "Peso Pluma",
-            "track_album": "PRC",
-            "track_duration": 184066,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-05-10T23:43:51Z",
-            "uri": "spotify:track:2mpoNBkngUEwnaKoBhZ0vl"
         },
         {
             "track_id": "0ldT3gl7aGNzrJyd4b1CA4",
@@ -890,6 +820,46 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-09-07T06:07:00Z",
             "uri": "spotify:track:4DylHCW46VE8AmQiW1EjUZ"
+        },
+        {
+            "track_id": "7A07Yu1dRND3RKDzbhKrDs",
+            "track_name": "Fuerte No Soy",
+            "track_artist": "Intocable",
+            "track_album": "Contigo",
+            "track_duration": 267333,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-19T06:20:02Z",
+            "uri": "spotify:track:7A07Yu1dRND3RKDzbhKrDs"
+        },
+        {
+            "track_id": "406qqOwEMlBUUugyHXBy8B",
+            "track_name": "Abeja Re\u00edna",
+            "track_artist": "Los Traileros Del Norte",
+            "track_album": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+            "track_duration": 170973,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-22T02:13:31Z",
+            "uri": "spotify:track:406qqOwEMlBUUugyHXBy8B"
+        },
+        {
+            "track_id": "2JJSGhPpATm8lXeYjD95fw",
+            "track_name": "Desvelado",
+            "track_artist": "Bobby Pulido",
+            "track_album": "Desvelado",
+            "track_duration": 221226,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-07T13:08:27Z",
+            "uri": "spotify:track:2JJSGhPpATm8lXeYjD95fw"
+        },
+        {
+            "track_id": "1UMm1Qs3u59Wvk53zBUE8r",
+            "track_name": "SABOR FRESA",
+            "track_artist": "Fuerza Regida",
+            "track_album": "SABOR FRESA",
+            "track_duration": 156500,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-25T05:51:16Z",
+            "uri": "spotify:track:1UMm1Qs3u59Wvk53zBUE8r"
         }
     ]
 }
