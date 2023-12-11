@@ -122,16 +122,6 @@
             "uri": "spotify:track:1zFbBrZmJr1Z49HYe84dBg"
         },
         {
-            "track_id": "62uRYwQ4UV7UoMpQ6hXqPj",
-            "track_name": "Thankful",
-            "track_artist": "Surfaces",
-            "track_album": "Thankful",
-            "track_duration": 209986,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-05-17T00:38:32Z",
-            "uri": "spotify:track:62uRYwQ4UV7UoMpQ6hXqPj"
-        },
-        {
             "track_id": "5wv2XK6ms7KBBVDD1cOwlx",
             "track_name": "Cool with You",
             "track_artist": "Her's",
@@ -150,26 +140,6 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-03T02:59:50Z",
             "uri": "spotify:track:6sDP5eAl2X2VZXc6vQfRJM"
-        },
-        {
-            "track_id": "5rurggqwwudn9clMdcchxT",
-            "track_name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-            "track_artist": "Metro Boomin",
-            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "track_duration": 219453,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-06-13T22:09:54Z",
-            "uri": "spotify:track:5rurggqwwudn9clMdcchxT"
-        },
-        {
-            "track_id": "0grfvXep0gn5nXdQoHue1a",
-            "track_name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
-            "track_artist": "Metro Boomin",
-            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
-            "track_duration": 231746,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-06-13T22:10:14Z",
-            "uri": "spotify:track:0grfvXep0gn5nXdQoHue1a"
         },
         {
             "track_id": "6vu5xJWIvukCK8cwBXOOj0",
@@ -210,16 +180,6 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-06-16T16:55:45Z",
             "uri": "spotify:track:1Ssx0q4HGSoZnqROoHDJ3l"
-        },
-        {
-            "track_id": "6Ec5LeRzkisa5KJtwLfOoW",
-            "track_name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
-            "track_artist": "Metro Boomin",
-            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "track_duration": 256026,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-06-24T03:21:23Z",
-            "uri": "spotify:track:6Ec5LeRzkisa5KJtwLfOoW"
         },
         {
             "track_id": "6golelYKuy85o3u0cxIxFK",
@@ -510,6 +470,56 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-09-21T18:05:34Z",
             "uri": "spotify:track:0KIpuVYhKUUUpjo6H5NvBY"
+        },
+        {
+            "track_id": "52ojopYMUzeNcudsoz7O9D",
+            "track_name": "New Person, Same Old Mistakes",
+            "track_artist": "Tame Impala",
+            "track_album": "Currents",
+            "track_duration": 363240,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-17T18:38:41Z",
+            "uri": "spotify:track:52ojopYMUzeNcudsoz7O9D"
+        },
+        {
+            "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
+            "track_name": "Babydoll",
+            "track_artist": "Dominic Fike",
+            "track_album": "Don't Forget About Me, Demos",
+            "track_duration": 97960,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T17:59:50Z",
+            "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc"
+        },
+        {
+            "track_id": "2flxduIqEbsicdmPyj1WVW",
+            "track_name": "Imagination",
+            "track_artist": "Foster The People",
+            "track_album": "Imagination",
+            "track_duration": 256266,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:08:50Z",
+            "uri": "spotify:track:2flxduIqEbsicdmPyj1WVW"
+        },
+        {
+            "track_id": "3qhlB30KknSejmIvZZLjOD",
+            "track_name": "End of Beginning",
+            "track_artist": "Djo",
+            "track_album": "DECIDE",
+            "track_duration": 159245,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:47:04Z",
+            "uri": "spotify:track:3qhlB30KknSejmIvZZLjOD"
+        },
+        {
+            "track_id": "1Ad2HcIX9zBqoWRvxtpYGf",
+            "track_name": "Candle Flame",
+            "track_artist": "Jungle",
+            "track_album": "Volcano",
+            "track_duration": 174020,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-12-08T17:17:06Z",
+            "uri": "spotify:track:1Ad2HcIX9zBqoWRvxtpYGf"
         }
     ]
 }
