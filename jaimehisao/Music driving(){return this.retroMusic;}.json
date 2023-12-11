@@ -1423,10 +1423,10 @@
         },
         {
             "track_id": "1pTw2cNrp9L3esxLAvWnN2",
-            "track_name": "Separate Ways (Worlds Apart)",
+            "track_name": "Separate Ways (Worlds Apart) [2023 Remaster]",
             "track_artist": "Journey",
-            "track_album": "Frontiers",
-            "track_duration": 323666,
+            "track_album": "Frontiers (2023 Remaster)",
+            "track_duration": 323453,
             "track_added_by": "jaimehisao",
             "track_added_at": "2019-09-18T19:39:30Z",
             "uri": "spotify:track:1pTw2cNrp9L3esxLAvWnN2"
@@ -2330,6 +2330,16 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-02-10T06:42:42Z",
             "uri": "spotify:track:2D5xQtVNi4o6F3Gh1qxD3Y"
+        },
+        {
+            "track_id": "0ELzxemxnjAasucn8Sww3m",
+            "track_name": "Hold Me Now",
+            "track_artist": "Thompson Twins",
+            "track_album": "Into the Gap (Deluxe Edition)",
+            "track_duration": 286360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-08T05:52:14Z",
+            "uri": "spotify:track:0ELzxemxnjAasucn8Sww3m"
         }
     ]
 }
