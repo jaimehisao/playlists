@@ -1,0 +1,75 @@
+{
+    "id": "11tJIdkxLF7i29eLk7NrNg",
+    "tracks": [
+        {
+            "track_id": "4RGWHfQeJftd5XrP8JUgFj",
+            "track_name": "Metamodernity",
+            "track_artist": "Vansire",
+            "track_album": "Metamodernity",
+            "track_duration": 162663,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T17:53:20Z",
+            "uri": "spotify:track:4RGWHfQeJftd5XrP8JUgFj"
+        },
+        {
+            "track_id": "0pJTrMWCiR0TuJ5FApIqrz",
+            "track_name": "Music To Walk Home By",
+            "track_artist": "Tame Impala",
+            "track_album": "Lonerism",
+            "track_duration": 312213,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:01:29Z",
+            "uri": "spotify:track:0pJTrMWCiR0TuJ5FApIqrz"
+        },
+        {
+            "track_id": "0xtIp0lgccN85GfGOekS5L",
+            "track_name": "Yes I'm Changing",
+            "track_artist": "Tame Impala",
+            "track_album": "Currents",
+            "track_duration": 270680,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:59:29Z",
+            "uri": "spotify:track:0xtIp0lgccN85GfGOekS5L"
+        },
+        {
+            "track_id": "3GZD6HmiNUhxXYf8Gch723",
+            "track_name": "Lost",
+            "track_artist": "Frank Ocean",
+            "track_album": "channel ORANGE",
+            "track_duration": 234093,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T19:19:33Z",
+            "uri": "spotify:track:3GZD6HmiNUhxXYf8Gch723"
+        },
+        {
+            "track_id": "2gNfxysfBRfl9Lvi9T3v6R",
+            "track_name": "Disciples",
+            "track_artist": "Tame Impala",
+            "track_album": "Currents",
+            "track_duration": 108546,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T19:23:50Z",
+            "uri": "spotify:track:2gNfxysfBRfl9Lvi9T3v6R"
+        },
+        {
+            "track_id": "2X485T9Z5Ly0xyaghN73ed",
+            "track_name": "Let It Happen",
+            "track_artist": "Tame Impala",
+            "track_album": "Currents",
+            "track_duration": 467586,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T23:21:06Z",
+            "uri": "spotify:track:2X485T9Z5Ly0xyaghN73ed"
+        },
+        {
+            "track_id": "0t4z0WaQomQqPONghWn8c2",
+            "track_name": "Me and Michael",
+            "track_artist": "MGMT",
+            "track_album": "Little Dark Age",
+            "track_duration": 289853,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-19T16:49:07Z",
+            "uri": "spotify:track:0t4z0WaQomQqPONghWn8c2"
+        }
+    ]
+}
