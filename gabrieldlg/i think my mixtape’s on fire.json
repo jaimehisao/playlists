@@ -1332,16 +1332,6 @@
             "uri": "spotify:track:1KUZ33cOqk3X4Ezk0aZnVp"
         },
         {
-            "track_id": "39MK3d3fonIP8Mz9oHCTBB",
-            "track_name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
-            "track_artist": "Metro Boomin",
-            "track_album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "track_duration": 231746,
-            "track_added_by": "gabrieldlg",
-            "track_added_at": "2023-06-09T16:13:26Z",
-            "uri": "spotify:track:39MK3d3fonIP8Mz9oHCTBB"
-        },
-        {
             "track_id": "2sFEmuVVAa2klHwhFaT0rR",
             "track_name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
             "track_artist": "Tyler, The Creator",
@@ -1480,6 +1470,106 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-09-14T00:15:05Z",
             "uri": "spotify:track:1zzxoZVylsna2BQB65Ppcb"
+        },
+        {
+            "track_id": "0t9V60QxyMyVZSUVTBgOnt",
+            "track_name": "Bitch Where",
+            "track_artist": "Chief Keef",
+            "track_album": "4NEM",
+            "track_duration": 111483,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-16T03:33:23Z",
+            "uri": "spotify:track:0t9V60QxyMyVZSUVTBgOnt"
+        },
+        {
+            "track_id": "7rbECVPkY5UODxoOUVKZnA",
+            "track_name": "I Wonder",
+            "track_artist": "Kanye West",
+            "track_album": "Graduation",
+            "track_duration": 243440,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-16T19:18:31Z",
+            "uri": "spotify:track:7rbECVPkY5UODxoOUVKZnA"
+        },
+        {
+            "track_id": "2qOm7ukLyHUXWyR4ZWLwxA",
+            "track_name": "It Was A Good Day",
+            "track_artist": "Ice Cube",
+            "track_album": "The Predator",
+            "track_duration": 260000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-09T14:31:02Z",
+            "uri": "spotify:track:2qOm7ukLyHUXWyR4ZWLwxA"
+        },
+        {
+            "track_id": "44FzVABpR2cciquTqADA0D",
+            "track_name": "Lisa",
+            "track_artist": "Young Miko",
+            "track_album": "Lisa",
+            "track_duration": 159306,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-20T22:13:12Z",
+            "uri": "spotify:track:44FzVABpR2cciquTqADA0D"
+        },
+        {
+            "track_id": "6XSqqQIy7Lm7SnwxS4NrGx",
+            "track_name": "CLASSY 101",
+            "track_artist": "Feid",
+            "track_album": "CLASSY 101",
+            "track_duration": 195986,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:38:58Z",
+            "uri": "spotify:track:6XSqqQIy7Lm7SnwxS4NrGx"
+        },
+        {
+            "track_id": "0J9g1MMJDhyvOb3NWckHMm",
+            "track_name": "Chulo pt.2",
+            "track_artist": "Bad Gyal",
+            "track_album": "Chulo pt.2",
+            "track_duration": 219333,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:39:03Z",
+            "uri": "spotify:track:0J9g1MMJDhyvOb3NWckHMm"
+        },
+        {
+            "track_id": "4xU4XeklG562EnanWzpY3A",
+            "track_name": "wiggy",
+            "track_artist": "Young Miko",
+            "track_album": "wiggy",
+            "track_duration": 146559,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:39:15Z",
+            "uri": "spotify:track:4xU4XeklG562EnanWzpY3A"
+        },
+        {
+            "track_id": "15U5RHzuLMPNFThQqfKL0U",
+            "track_name": "COLMILLO",
+            "track_artist": "Tainy",
+            "track_album": "DATA",
+            "track_duration": 265999,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:39:28Z",
+            "uri": "spotify:track:15U5RHzuLMPNFThQqfKL0U"
+        },
+        {
+            "track_id": "2Vz7y1NOvV3sq3bXvsS2DI",
+            "track_name": "Puerto Rican Mami",
+            "track_artist": "Young Miko",
+            "track_album": "Puerto Rican Mami",
+            "track_duration": 199627,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:39:36Z",
+            "uri": "spotify:track:2Vz7y1NOvV3sq3bXvsS2DI"
+        },
+        {
+            "track_id": "13FHy6nHjXHbzHj1dZFB1G",
+            "track_name": "Riri",
+            "track_artist": "Young Miko",
+            "track_album": "TRAP KITTY",
+            "track_duration": 134000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T23:13:46Z",
+            "uri": "spotify:track:13FHy6nHjXHbzHj1dZFB1G"
         }
     ]
 }
