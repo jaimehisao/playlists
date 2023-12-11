@@ -920,6 +920,366 @@
             "track_added_by": "angela.sierra",
             "track_added_at": "2023-08-29T17:23:38Z",
             "uri": "spotify:track:4d1CG5ei1E2vGbvmgf5KKv"
+        },
+        {
+            "track_id": "2yLa0QULdQr0qAIvVwN6B5",
+            "track_name": "...Ready For It?",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 208186,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:2yLa0QULdQr0qAIvVwN6B5"
+        },
+        {
+            "track_id": "2x0WlnmfG39ZuDmstl9xfX",
+            "track_name": "End Game",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 244826,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:2x0WlnmfG39ZuDmstl9xfX"
+        },
+        {
+            "track_id": "4svZDCRz4cJoneBpjpx8DJ",
+            "track_name": "I Did Something Bad",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 238253,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:4svZDCRz4cJoneBpjpx8DJ"
+        },
+        {
+            "track_id": "1R0a2iXumgCiFb7HEZ7gUE",
+            "track_name": "Don\u2019t Blame Me",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 236413,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:1R0a2iXumgCiFb7HEZ7gUE"
+        },
+        {
+            "track_id": "6NFyWDv5CjfwuzoCkw47Xf",
+            "track_name": "Delicate",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 232253,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+        },
+        {
+            "track_id": "1P17dC1amhFzptugyAO7Il",
+            "track_name": "Look What You Made Me Do",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 211853,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:1P17dC1amhFzptugyAO7Il"
+        },
+        {
+            "track_id": "5PxFv9yJEg9dxvbZggykro",
+            "track_name": "So It Goes...",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 227906,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:5PxFv9yJEg9dxvbZggykro"
+        },
+        {
+            "track_id": "1ZY1PqizIl78geGM4xWlEA",
+            "track_name": "Gorgeous",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 209680,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:1ZY1PqizIl78geGM4xWlEA"
+        },
+        {
+            "track_id": "0VE4kBnHJUgtMf0dy6DRmW",
+            "track_name": "Getaway Car",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 233626,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+        },
+        {
+            "track_id": "7HuBDWi18s4aJM8UFnNheH",
+            "track_name": "King Of My Heart",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 214320,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:7HuBDWi18s4aJM8UFnNheH"
+        },
+        {
+            "track_id": "7I7JbDv63ZJJsSi24DyJrz",
+            "track_name": "Dancing With Our Hands Tied",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 211506,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:7I7JbDv63ZJJsSi24DyJrz"
+        },
+        {
+            "track_id": "6oVxXO5oQ4pTpO8RSnkzvv",
+            "track_name": "Dress",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 230373,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv"
+        },
+        {
+            "track_id": "07NxDD1iKCHbAldceD7QLP",
+            "track_name": "This Is Why We Can't Have Nice Things",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 207133,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:07NxDD1iKCHbAldceD7QLP"
+        },
+        {
+            "track_id": "1GwMQaZz6Au3QLDbjbMdme",
+            "track_name": "Call It What You Want",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 203506,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:1GwMQaZz6Au3QLDbjbMdme"
+        },
+        {
+            "track_id": "7F5oktn5YOsR9eR5YsFtqb",
+            "track_name": "New Year\u2019s Day",
+            "track_artist": "Taylor Swift",
+            "track_album": "reputation",
+            "track_duration": 235466,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-17T00:18:24Z",
+            "uri": "spotify:track:7F5oktn5YOsR9eR5YsFtqb"
+        },
+        {
+            "track_id": "4WUepByoeqcedHoYhSNHRt",
+            "track_name": "Welcome To New York (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 212600,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:4WUepByoeqcedHoYhSNHRt"
+        },
+        {
+            "track_id": "0108kcWLnn2HlH2kedi1gn",
+            "track_name": "Blank Space (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 231833,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:0108kcWLnn2HlH2kedi1gn"
+        },
+        {
+            "track_id": "3Vpk1hfMAQme8VJ0SNRSkd",
+            "track_name": "Style (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 231000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:3Vpk1hfMAQme8VJ0SNRSkd"
+        },
+        {
+            "track_id": "1OcSfkeCg9hRC2sFKB4IMJ",
+            "track_name": "Out Of The Woods (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 235800,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:1OcSfkeCg9hRC2sFKB4IMJ"
+        },
+        {
+            "track_id": "2k0ZEeAqzvYMcx9Qt5aClQ",
+            "track_name": "All You Had To Do Was Stay (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 193289,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:2k0ZEeAqzvYMcx9Qt5aClQ"
+        },
+        {
+            "track_id": "3FxJDucHWdw6caWTKO5b23",
+            "track_name": "I Wish You Would (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 207650,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:3FxJDucHWdw6caWTKO5b23"
+        },
+        {
+            "track_id": "7oZONwFiFIErZcXAtTu7FY",
+            "track_name": "Bad Blood (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 211103,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:7oZONwFiFIErZcXAtTu7FY"
+        },
+        {
+            "track_id": "27exgla7YBw9DUNNcTIpjy",
+            "track_name": "Wildest Dreams (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 220433,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:27exgla7YBw9DUNNcTIpjy"
+        },
+        {
+            "track_id": "733OhaXQIHY7BKtY3vnSkn",
+            "track_name": "How You Get The Girl (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 247533,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:733OhaXQIHY7BKtY3vnSkn"
+        },
+        {
+            "track_id": "4WBEj8TeGtRPNJdOmT3WJW",
+            "track_name": "This Love (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 250100,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:4WBEj8TeGtRPNJdOmT3WJW"
+        },
+        {
+            "track_id": "1ULabO0PEsdJekqVH6G10G",
+            "track_name": "I Know Places (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 195700,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:1ULabO0PEsdJekqVH6G10G"
+        },
+        {
+            "track_id": "0lKUBmEyQfzsQHozyeXzES",
+            "track_name": "Clean (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 271000,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:0lKUBmEyQfzsQHozyeXzES"
+        },
+        {
+            "track_id": "6HRsJu8vcnzYDN4t0570FY",
+            "track_name": "Wonderland (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 245566,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:6HRsJu8vcnzYDN4t0570FY"
+        },
+        {
+            "track_id": "0TyGh27YQ5LknmiDhCzJiT",
+            "track_name": "You Are In Love (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 267389,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:0TyGh27YQ5LknmiDhCzJiT"
+        },
+        {
+            "track_id": "5M787RexsAiVYjQusM98CV",
+            "track_name": "New Romantics (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 230177,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:5M787RexsAiVYjQusM98CV"
+        },
+        {
+            "track_id": "0CD7DzeCsuPJygddqlUVYa",
+            "track_name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 180381,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:0CD7DzeCsuPJygddqlUVYa"
+        },
+        {
+            "track_id": "3CCRVu4F91Qp2mnGjmWBrf",
+            "track_name": "Say Don't Go (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 279833,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:3CCRVu4F91Qp2mnGjmWBrf"
+        },
+        {
+            "track_id": "5QUIK7ZtziW8kGWo8RqopF",
+            "track_name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 146436,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:5QUIK7ZtziW8kGWo8RqopF"
+        },
+        {
+            "track_id": "6M9ppdfFjR1AbpUl3Y8DcV",
+            "track_name": "Suburban Legends (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 171818,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:6M9ppdfFjR1AbpUl3Y8DcV"
+        },
+        {
+            "track_id": "6IG3sQ8s9nfk6TUlVzRhbN",
+            "track_name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 229477,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:6IG3sQ8s9nfk6TUlVzRhbN"
+        },
+        {
+            "track_id": "6qAcApH8obo8eqatCKUHd9",
+            "track_name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 199773,
+            "track_added_by": "angela.sierra",
+            "track_added_at": "2023-10-31T12:35:42Z",
+            "uri": "spotify:track:6qAcApH8obo8eqatCKUHd9"
         }
     ]
 }
