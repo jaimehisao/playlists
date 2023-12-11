@@ -266,7 +266,7 @@
             "track_name": "Devu\u00e9lveme a mi chica",
             "track_artist": "Hombres G",
             "track_album": "Lo Mejor De Los Hombres G",
-            "track_duration": 194560,
+            "track_duration": 194080,
             "track_added_by": "gabrieldlg",
             "track_added_at": "2018-06-05T18:31:41Z",
             "uri": "spotify:track:6pYbhX5gYix4ESpbSUArnA"
@@ -1773,7 +1773,7 @@
         },
         {
             "track_id": "4XCQtUoRSh22Ep18ULmDnT",
-            "track_name": "La f\u00f3rmula (feat. Chris Jedi)",
+            "track_name": "La F\u00f3rmula (feat. Chris Jedi)",
             "track_artist": "De La Ghetto",
             "track_album": "La Formula (feat. Chris Jeday)",
             "track_duration": 232240,
@@ -2300,6 +2300,116 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-07-13T20:50:04Z",
             "uri": "spotify:track:7JVIiaJPFiZypYSOMREhhA"
+        },
+        {
+            "track_id": "4eMKD8MRroxCqugpsxCCNb",
+            "track_name": "MOJABI GHOST",
+            "track_artist": "Tainy",
+            "track_album": "DATA",
+            "track_duration": 232131,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-14T06:59:36Z",
+            "uri": "spotify:track:4eMKD8MRroxCqugpsxCCNb"
+        },
+        {
+            "track_id": "7ro0hRteUMfnOioTFI5TG1",
+            "track_name": "WHERE SHE GOES",
+            "track_artist": "Bad Bunny",
+            "track_album": "WHERE SHE GOES",
+            "track_duration": 231704,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-14T07:00:58Z",
+            "uri": "spotify:track:7ro0hRteUMfnOioTFI5TG1"
+        },
+        {
+            "track_id": "3dnP0JxCgygwQH9Gm7q7nb",
+            "track_name": "Ella Baila Sola",
+            "track_artist": "Eslabon Armado",
+            "track_album": "Ella Baila Sola",
+            "track_duration": 165671,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-22T01:26:12Z",
+            "uri": "spotify:track:3dnP0JxCgygwQH9Gm7q7nb"
+        },
+        {
+            "track_id": "3nNmRE0DxHC6ZaKkrpUumS",
+            "track_name": "FINA",
+            "track_artist": "Bad Bunny",
+            "track_album": "nadie sabe lo que va a pasar ma\u00f1ana",
+            "track_duration": 216327,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-16T23:28:02Z",
+            "uri": "spotify:track:3nNmRE0DxHC6ZaKkrpUumS"
+        },
+        {
+            "track_id": "44FzVABpR2cciquTqADA0D",
+            "track_name": "Lisa",
+            "track_artist": "Young Miko",
+            "track_album": "Lisa",
+            "track_duration": 159306,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-20T22:12:52Z",
+            "uri": "spotify:track:44FzVABpR2cciquTqADA0D"
+        },
+        {
+            "track_id": "6XSqqQIy7Lm7SnwxS4NrGx",
+            "track_name": "CLASSY 101",
+            "track_artist": "Feid",
+            "track_album": "CLASSY 101",
+            "track_duration": 195986,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:18:22Z",
+            "uri": "spotify:track:6XSqqQIy7Lm7SnwxS4NrGx"
+        },
+        {
+            "track_id": "0J9g1MMJDhyvOb3NWckHMm",
+            "track_name": "Chulo pt.2",
+            "track_artist": "Bad Gyal",
+            "track_album": "Chulo pt.2",
+            "track_duration": 219333,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:25:29Z",
+            "uri": "spotify:track:0J9g1MMJDhyvOb3NWckHMm"
+        },
+        {
+            "track_id": "15U5RHzuLMPNFThQqfKL0U",
+            "track_name": "COLMILLO",
+            "track_artist": "Tainy",
+            "track_album": "DATA",
+            "track_duration": 265999,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:25:35Z",
+            "uri": "spotify:track:15U5RHzuLMPNFThQqfKL0U"
+        },
+        {
+            "track_id": "4xU4XeklG562EnanWzpY3A",
+            "track_name": "wiggy",
+            "track_artist": "Young Miko",
+            "track_album": "wiggy",
+            "track_duration": 146559,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T01:25:41Z",
+            "uri": "spotify:track:4xU4XeklG562EnanWzpY3A"
+        },
+        {
+            "track_id": "0crVjW9Jz8ktVuVXoUi187",
+            "track_name": "ID",
+            "track_artist": "Young Miko",
+            "track_album": "ID",
+            "track_duration": 235525,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-11-21T19:06:44Z",
+            "uri": "spotify:track:0crVjW9Jz8ktVuVXoUi187"
+        },
+        {
+            "track_id": "0FmIDOVz1wI7F8axO6elnu",
+            "track_name": "Se\u00f1orita",
+            "track_artist": "Wisin",
+            "track_album": "Se\u00f1orita",
+            "track_duration": 191588,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-12-07T16:54:27Z",
+            "uri": "spotify:track:0FmIDOVz1wI7F8axO6elnu"
         }
     ]
 }
