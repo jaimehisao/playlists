@@ -1702,16 +1702,6 @@
             "uri": "spotify:track:1uf5f99kLdlmUBEvVqrFyy"
         },
         {
-            "track_id": "0ikz6tENMONtK6qGkOrU3c",
-            "track_name": "Wake Me Up Before You Go-Go",
-            "track_artist": "Wham!",
-            "track_album": "Make It Big",
-            "track_duration": 231333,
-            "track_added_by": "mariomoo",
-            "track_added_at": "2023-09-07T17:23:16Z",
-            "uri": "spotify:track:0ikz6tENMONtK6qGkOrU3c"
-        },
-        {
             "track_id": "0BAQjCC9gfqOebxpmonHKz",
             "track_name": "Everytime",
             "track_artist": "Medasin",
@@ -1942,16 +1932,6 @@
             "uri": "spotify:track:4mr24lt1CSJMQTPFFVj4LS"
         },
         {
-            "track_id": "2nUDK9SvpAA5EEMOJ4Bsn4",
-            "track_name": "Toxic",
-            "track_artist": "Pauline Herr",
-            "track_album": "Toxic",
-            "track_duration": 197538,
-            "track_added_by": "mariomoo",
-            "track_added_at": "2023-09-21T15:44:40Z",
-            "uri": "spotify:track:2nUDK9SvpAA5EEMOJ4Bsn4"
-        },
-        {
             "track_id": "3mhmsgWbnEex2qBUZEUnCK",
             "track_name": "Landscape",
             "track_artist": "DROELOE",
@@ -1972,24 +1952,604 @@
             "uri": "spotify:track:5vzNApeGxycrRYkK1PanGR"
         },
         {
-            "track_id": "4cIGiGbsqV7X9Uk3QJ5l1A",
-            "track_name": "Just Know It - Felix Cartal's Sunset Mix",
-            "track_artist": "Dan Mangan",
-            "track_album": "Just Know It",
-            "track_duration": 238048,
+            "track_id": "2lHYvU950JRFgn09g31V01",
+            "track_name": "Too Small For The World",
+            "track_artist": "Taska Black",
+            "track_album": "Too Small For The World",
+            "track_duration": 177898,
             "track_added_by": "mariomoo",
-            "track_added_at": "2023-09-25T03:33:00Z",
-            "uri": "spotify:track:4cIGiGbsqV7X9Uk3QJ5l1A"
+            "track_added_at": "2023-10-07T03:03:38Z",
+            "uri": "spotify:track:2lHYvU950JRFgn09g31V01"
         },
         {
-            "track_id": "7g7pOUq65ODMkQ1Jo9as0v",
-            "track_name": "Chemicals",
-            "track_artist": "Forester",
-            "track_album": "Chemicals",
-            "track_duration": 190570,
+            "track_id": "6Rpk7fmD3TWTBfJnIpjiZp",
+            "track_name": "HEARTBREAKER CLUB",
+            "track_artist": "City Girl",
+            "track_album": "HEARTBREAKER CLUB",
+            "track_duration": 123281,
             "track_added_by": "mariomoo",
-            "track_added_at": "2023-09-30T00:10:05Z",
-            "uri": "spotify:track:7g7pOUq65ODMkQ1Jo9as0v"
+            "track_added_at": "2023-10-16T19:36:09Z",
+            "uri": "spotify:track:6Rpk7fmD3TWTBfJnIpjiZp"
+        },
+        {
+            "track_id": "0z95CqBxQnSQhNnoWTZJKL",
+            "track_name": "Slow Down Love (feat. Chelsea Cutler)",
+            "track_artist": "Louis The Child",
+            "track_album": "Love Is Alive EP",
+            "track_duration": 157891,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T17:41:22Z",
+            "uri": "spotify:track:0z95CqBxQnSQhNnoWTZJKL"
+        },
+        {
+            "track_id": "6hI3PnULFXwkOQSHLHNfOO",
+            "track_name": "Where You Are - Zedd Remix",
+            "track_artist": "John Summit",
+            "track_album": "Where You Are (Zedd Remix)",
+            "track_duration": 184649,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:19:03Z",
+            "uri": "spotify:track:6hI3PnULFXwkOQSHLHNfOO"
+        },
+        {
+            "track_id": "0j4mJiFv3L87bl9X5MPMsm",
+            "track_name": "Sleepwalking",
+            "track_artist": "The Chain Gang Of 1974",
+            "track_album": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+            "track_duration": 218693,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:30:40Z",
+            "uri": "spotify:track:0j4mJiFv3L87bl9X5MPMsm"
+        },
+        {
+            "track_id": "4AfGJPK64DlMAy86TtTVUa",
+            "track_name": "I Do",
+            "track_artist": "PL\u00dcM",
+            "track_album": "I Do",
+            "track_duration": 145000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:30:56Z",
+            "uri": "spotify:track:4AfGJPK64DlMAy86TtTVUa"
+        },
+        {
+            "track_id": "2qgugMsJH1hMgHtGdl4JyR",
+            "track_name": "Liebe?",
+            "track_artist": "ok.danke.tsch\u00fcss",
+            "track_album": "B\u00f6ses M\u00e4dchen",
+            "track_duration": 260742,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:31:59Z",
+            "uri": "spotify:track:2qgugMsJH1hMgHtGdl4JyR"
+        },
+        {
+            "track_id": "2La21GqU4fKTQLcfLxTeoz",
+            "track_name": "Agitations tropicales",
+            "track_artist": "L'Imp\u00e9ratrice",
+            "track_album": "Odyss\u00e9e - EP",
+            "track_duration": 248892,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:32:08Z",
+            "uri": "spotify:track:2La21GqU4fKTQLcfLxTeoz"
+        },
+        {
+            "track_id": "0Zb19M8DGaIEreIyyFTo5k",
+            "track_name": "Smoke & Mirrors",
+            "track_artist": "TOKiMONSTA",
+            "track_album": "Cosmic Intoxication",
+            "track_duration": 218506,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:32:52Z",
+            "uri": "spotify:track:0Zb19M8DGaIEreIyyFTo5k"
+        },
+        {
+            "track_id": "6pqZjgc1HAGImauB9sCGU1",
+            "track_name": "DESTINATIONS",
+            "track_artist": "Mild Minds",
+            "track_album": "MOOD",
+            "track_duration": 243783,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:33:45Z",
+            "uri": "spotify:track:6pqZjgc1HAGImauB9sCGU1"
+        },
+        {
+            "track_id": "23ntTt28Gi43YbexAyAP8K",
+            "track_name": "Down The Line",
+            "track_artist": "Alison Wonderland",
+            "track_album": "Down The Line",
+            "track_duration": 208440,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:35:41Z",
+            "uri": "spotify:track:23ntTt28Gi43YbexAyAP8K"
+        },
+        {
+            "track_id": "5lSGL6BnaHsW22aeOCq5ZU",
+            "track_name": "PROTECT ME",
+            "track_artist": "k?d",
+            "track_album": "PROTECT ME",
+            "track_duration": 144000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:35:53Z",
+            "uri": "spotify:track:5lSGL6BnaHsW22aeOCq5ZU"
+        },
+        {
+            "track_id": "2a7kFbxMwmmZWDvH0JbZFU",
+            "track_name": "Touch",
+            "track_artist": "Dillon Francis",
+            "track_album": "You Do You",
+            "track_duration": 177658,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:36:14Z",
+            "uri": "spotify:track:2a7kFbxMwmmZWDvH0JbZFU"
+        },
+        {
+            "track_id": "0RTzhu50HHxsGc07v5CB35",
+            "track_name": "Racers",
+            "track_artist": "A.W.O.L.",
+            "track_album": "Racers",
+            "track_duration": 430590,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:36:58Z",
+            "uri": "spotify:track:0RTzhu50HHxsGc07v5CB35"
+        },
+        {
+            "track_id": "4HrI0DIPyvRF1cxUUAGQJc",
+            "track_name": "No",
+            "track_artist": "Alison Wonderland",
+            "track_album": "Awake",
+            "track_duration": 240557,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:38:02Z",
+            "uri": "spotify:track:4HrI0DIPyvRF1cxUUAGQJc"
+        },
+        {
+            "track_id": "4WqbHB4JbvdnMHRonuKthy",
+            "track_name": "Games",
+            "track_artist": "Alison Wonderland",
+            "track_album": "Run",
+            "track_duration": 215919,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:38:03Z",
+            "uri": "spotify:track:4WqbHB4JbvdnMHRonuKthy"
+        },
+        {
+            "track_id": "3LS2MlVs2sHPvw8JnzgmFJ",
+            "track_name": "I Can\u2019t Sleep",
+            "track_artist": "ODESZA",
+            "track_album": "The Last Goodbye",
+            "track_duration": 187268,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:38:37Z",
+            "uri": "spotify:track:3LS2MlVs2sHPvw8JnzgmFJ"
+        },
+        {
+            "track_id": "2b0X6Ez2gjNclpRRosTC8q",
+            "track_name": "Everything You Want",
+            "track_artist": "Taska Black",
+            "track_album": "Expectations",
+            "track_duration": 125454,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:38:37Z",
+            "uri": "spotify:track:2b0X6Ez2gjNclpRRosTC8q"
+        },
+        {
+            "track_id": "0r9YkTwz8mrHoCJG3AiTYv",
+            "track_name": "City Lights",
+            "track_artist": "Conro",
+            "track_album": "City Lights",
+            "track_duration": 179060,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:39:31Z",
+            "uri": "spotify:track:0r9YkTwz8mrHoCJG3AiTYv"
+        },
+        {
+            "track_id": "2slzepVFBJoYTa5lTWQXGO",
+            "track_name": "Lose Myself",
+            "track_artist": "k?d",
+            "track_album": "Lose Myself",
+            "track_duration": 230246,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:39:35Z",
+            "uri": "spotify:track:2slzepVFBJoYTa5lTWQXGO"
+        },
+        {
+            "track_id": "4fuzJPejlQaMsrvXYOYEdF",
+            "track_name": "Turn Around",
+            "track_artist": "Michael Wyckoff",
+            "track_album": "LAB JAMS: The Bonelab Original Soundtrack",
+            "track_duration": 246544,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:39:54Z",
+            "uri": "spotify:track:4fuzJPejlQaMsrvXYOYEdF"
+        },
+        {
+            "track_id": "18CxEp76HOCl1xSDpbVLa1",
+            "track_name": "Eye In The Sky (Danko Edit)",
+            "track_artist": "SRNDE",
+            "track_album": "Eye In The Sky (Danko Edit)",
+            "track_duration": 162580,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:40:25Z",
+            "uri": "spotify:track:18CxEp76HOCl1xSDpbVLa1"
+        },
+        {
+            "track_id": "7LmyUD78mtwBDzgVV4P5F4",
+            "track_name": "Snakes (from the series Arcane League of Legends)",
+            "track_artist": "MIYAVI",
+            "track_album": "Snakes (from the series Arcane League of Legends)",
+            "track_duration": 161376,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:44:33Z",
+            "uri": "spotify:track:7LmyUD78mtwBDzgVV4P5F4"
+        },
+        {
+            "track_id": "2BNvmY18hMAE72miMXmfap",
+            "track_name": "Bloom",
+            "track_artist": "Bronze Whale",
+            "track_album": "Bloom",
+            "track_duration": 150923,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-21T21:37:13Z",
+            "uri": "spotify:track:2BNvmY18hMAE72miMXmfap"
+        },
+        {
+            "track_id": "5pxtj7cCnv2hZe6mbS2MBx",
+            "track_name": "Lovin' Feeling",
+            "track_artist": "French 79",
+            "track_album": "Olympic",
+            "track_duration": 204933,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-24T14:23:58Z",
+            "uri": "spotify:track:5pxtj7cCnv2hZe6mbS2MBx"
+        },
+        {
+            "track_id": "6RK3IsiUW6YaSMEodbO4tk",
+            "track_name": "Solitude - Felsmann + Tiley Reinterpretation",
+            "track_artist": "M83",
+            "track_album": "Solitude (Felsmann + Tiley Reinterpretation)",
+            "track_duration": 222354,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-24T14:24:06Z",
+            "uri": "spotify:track:6RK3IsiUW6YaSMEodbO4tk"
+        },
+        {
+            "track_id": "7wtU7N6R49UAbzQcLjRy5q",
+            "track_name": "if god didnt want us to snort worms he wouldn't have made them cylindrical!",
+            "track_artist": "MIMIDEATH",
+            "track_album": "effective. Power",
+            "track_duration": 58363,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-24T15:01:51Z",
+            "uri": "spotify:track:7wtU7N6R49UAbzQcLjRy5q"
+        },
+        {
+            "track_id": "4SnuG111QPmgwRmlwhJ4Mg",
+            "track_name": "Hold Me",
+            "track_artist": "Lavern",
+            "track_album": "Hold Me",
+            "track_duration": 140000,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-24T15:10:20Z",
+            "uri": "spotify:track:4SnuG111QPmgwRmlwhJ4Mg"
+        },
+        {
+            "track_id": "7aarAImx6lJIDIYPGanjH0",
+            "track_name": "Pretty",
+            "track_artist": "Kaivon",
+            "track_album": "Pretty",
+            "track_duration": 221772,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-31T03:26:51Z",
+            "uri": "spotify:track:7aarAImx6lJIDIYPGanjH0"
+        },
+        {
+            "track_id": "0FYWktQGzoRXziTRhx25zS",
+            "track_name": "The Way You Had Me",
+            "track_artist": "Kasbo",
+            "track_album": "The Way You Had Me",
+            "track_duration": 190423,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-31T03:27:29Z",
+            "uri": "spotify:track:0FYWktQGzoRXziTRhx25zS"
+        },
+        {
+            "track_id": "7yBp97KVQqvzsHMTPpL8tz",
+            "track_name": "Holiday (feat. Ponette)",
+            "track_artist": "DROELOE",
+            "track_album": "Holiday",
+            "track_duration": 228960,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-31T03:27:35Z",
+            "uri": "spotify:track:7yBp97KVQqvzsHMTPpL8tz"
+        },
+        {
+            "track_id": "6JbeNVHHrvRGY9BjB8hmkR",
+            "track_name": "I Just Need (with Lyrah)",
+            "track_artist": "Daniel Allan",
+            "track_album": "I Just Need (with Lyrah)",
+            "track_duration": 146165,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-31T03:29:38Z",
+            "uri": "spotify:track:6JbeNVHHrvRGY9BjB8hmkR"
+        },
+        {
+            "track_id": "0V12LRLpBbFruRRu5akv6W",
+            "track_name": "Above Us (Interlude)",
+            "track_artist": "Ekali",
+            "track_album": "Alinea",
+            "track_duration": 61241,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-01T18:55:11Z",
+            "uri": "spotify:track:0V12LRLpBbFruRRu5akv6W"
+        },
+        {
+            "track_id": "2MsgPJQZMfAoDyXAfqqPZs",
+            "track_name": "I Feel It",
+            "track_artist": "Kaivon",
+            "track_album": "Awakening",
+            "track_duration": 166400,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-01T18:58:30Z",
+            "uri": "spotify:track:2MsgPJQZMfAoDyXAfqqPZs"
+        },
+        {
+            "track_id": "5tMIPziwf8Tcf1eanzQtPs",
+            "track_name": "Casual Trouble",
+            "track_artist": "DROELOE",
+            "track_album": "A Matter Of Perspective",
+            "track_duration": 191635,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-01T19:08:13Z",
+            "uri": "spotify:track:5tMIPziwf8Tcf1eanzQtPs"
+        },
+        {
+            "track_id": "3HSf2e7s5Q9WQO16biu4U4",
+            "track_name": "Wasted On You",
+            "track_artist": "Elderbrook",
+            "track_album": "Little Love",
+            "track_duration": 263891,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-01T22:07:54Z",
+            "uri": "spotify:track:3HSf2e7s5Q9WQO16biu4U4"
+        },
+        {
+            "track_id": "51w0BMC24JALh8uzwRzjMB",
+            "track_name": "God Is In The Soundwaves",
+            "track_artist": "Armin van Buuren",
+            "track_album": "God Is In The Soundwaves",
+            "track_duration": 163510,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-01T22:11:23Z",
+            "uri": "spotify:track:51w0BMC24JALh8uzwRzjMB"
+        },
+        {
+            "track_id": "3JrMXGfyYUlBNKrHe99Csy",
+            "track_name": "Places We Don't Know",
+            "track_artist": "Kasbo",
+            "track_album": "Places We Don't Know",
+            "track_duration": 204532,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-11T15:07:24Z",
+            "uri": "spotify:track:3JrMXGfyYUlBNKrHe99Csy"
+        },
+        {
+            "track_id": "5DfHG17Xoqn08NP8SINsiP",
+            "track_name": "Los Angeles",
+            "track_artist": "Robotaki",
+            "track_album": "The Grand Mirage",
+            "track_duration": 211200,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-11T19:19:06Z",
+            "uri": "spotify:track:5DfHG17Xoqn08NP8SINsiP"
+        },
+        {
+            "track_id": "5qM4xXjaE3XDmv86oFCRoj",
+            "track_name": "Strider",
+            "track_artist": "MEMBA",
+            "track_album": "Strider",
+            "track_duration": 218997,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-13T21:55:35Z",
+            "uri": "spotify:track:5qM4xXjaE3XDmv86oFCRoj"
+        },
+        {
+            "track_id": "199NCUFJcLhF0bbNSdqaXD",
+            "track_name": "Island Fever",
+            "track_artist": "Just A Gent",
+            "track_album": "Planet Oasis",
+            "track_duration": 231600,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-14T22:42:10Z",
+            "uri": "spotify:track:199NCUFJcLhF0bbNSdqaXD"
+        },
+        {
+            "track_id": "2tQsVUErLrEXfxq2MoA8Z7",
+            "track_name": "Pure Luck",
+            "track_artist": "Ninajirachi",
+            "track_album": "Pure Luck",
+            "track_duration": 202866,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-14T22:42:18Z",
+            "uri": "spotify:track:2tQsVUErLrEXfxq2MoA8Z7"
+        },
+        {
+            "track_id": "5ug8KuTWGtMTW7c2TvB8dd",
+            "track_name": "I'll Wait",
+            "track_artist": "Enschway",
+            "track_album": "I'll Wait",
+            "track_duration": 159428,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-14T23:09:07Z",
+            "uri": "spotify:track:5ug8KuTWGtMTW7c2TvB8dd"
+        },
+        {
+            "track_id": "4ToNBURFziUHOgZlackamI",
+            "track_name": "Floating (feat. Khalid) [Ekali Remix]",
+            "track_artist": "Alina Baraz",
+            "track_album": "The Color Of You (Remixes)",
+            "track_duration": 198423,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-14T23:25:00Z",
+            "uri": "spotify:track:4ToNBURFziUHOgZlackamI"
+        },
+        {
+            "track_id": "4YqKwczSdUtz7Ux83cLmCZ",
+            "track_name": "Flaws in Our Design",
+            "track_artist": "ODESZA",
+            "track_album": "Flaws in Our Design",
+            "track_duration": 256870,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-18T21:40:10Z",
+            "uri": "spotify:track:4YqKwczSdUtz7Ux83cLmCZ"
+        },
+        {
+            "track_id": "6FWAIkMvnS0ABEdBKcIp5K",
+            "track_name": "Lose It All (I Don't Wanna)",
+            "track_artist": "BUNT.",
+            "track_album": "Lose It All (I Don't Wanna)",
+            "track_duration": 139071,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-19T01:26:09Z",
+            "uri": "spotify:track:6FWAIkMvnS0ABEdBKcIp5K"
+        },
+        {
+            "track_id": "3YuxGoeg2nR8T0pRkxizLn",
+            "track_name": "lost.",
+            "track_artist": "t\u00f8m hughes",
+            "track_album": "lost.",
+            "track_duration": 144020,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-19T17:07:11Z",
+            "uri": "spotify:track:3YuxGoeg2nR8T0pRkxizLn"
+        },
+        {
+            "track_id": "0KGDi04kAyQbNmQqDlnwFD",
+            "track_name": "Undone",
+            "track_artist": "ODESZA",
+            "track_album": "Flaws in Our Design",
+            "track_duration": 278398,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-20T21:30:33Z",
+            "uri": "spotify:track:0KGDi04kAyQbNmQqDlnwFD"
+        },
+        {
+            "track_id": "6VkEYBQnX69DebyV5peCqi",
+            "track_name": "Courage",
+            "track_artist": "CloZee",
+            "track_album": "Microworlds",
+            "track_duration": 223098,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-20T21:44:28Z",
+            "uri": "spotify:track:6VkEYBQnX69DebyV5peCqi"
+        },
+        {
+            "track_id": "7v4bxjji2rTj0qAwkm8qM0",
+            "track_name": "Fantasy",
+            "track_artist": "Volyri",
+            "track_album": "Fantasy",
+            "track_duration": 143674,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-22T17:46:19Z",
+            "uri": "spotify:track:7v4bxjji2rTj0qAwkm8qM0"
+        },
+        {
+            "track_id": "7dysHvjVrHkpLhamDe1HJz",
+            "track_name": "Do or Die",
+            "track_artist": "\u0141aszewo",
+            "track_album": "Do or Die",
+            "track_duration": 220875,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-22T17:49:47Z",
+            "uri": "spotify:track:7dysHvjVrHkpLhamDe1HJz"
+        },
+        {
+            "track_id": "2FXwX8wv2nmDy1U8NRiHo2",
+            "track_name": "Make Up My Mind",
+            "track_artist": "Snackbox",
+            "track_album": "Make Up My Mind",
+            "track_duration": 145228,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-22T17:55:57Z",
+            "uri": "spotify:track:2FXwX8wv2nmDy1U8NRiHo2"
+        },
+        {
+            "track_id": "1LNQiM8hMfJcMIhVlLNU1a",
+            "track_name": "Lights Out - Remix",
+            "track_artist": "Taska Black",
+            "track_album": "Expectations (Deluxe)",
+            "track_duration": 163800,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-22T18:08:27Z",
+            "uri": "spotify:track:1LNQiM8hMfJcMIhVlLNU1a"
+        },
+        {
+            "track_id": "7usCSLFTINmqoyne3AfKgZ",
+            "track_name": "Listen to Me",
+            "track_artist": "ARTY",
+            "track_album": "Listen to Me",
+            "track_duration": 178186,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-22T18:12:33Z",
+            "uri": "spotify:track:7usCSLFTINmqoyne3AfKgZ"
+        },
+        {
+            "track_id": "0LUy0hahVPfQJe5kqRm1jI",
+            "track_name": "sunset skies",
+            "track_artist": "sad face.",
+            "track_album": "in & out",
+            "track_duration": 191538,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-22T18:59:20Z",
+            "uri": "spotify:track:0LUy0hahVPfQJe5kqRm1jI"
+        },
+        {
+            "track_id": "6R6W1NE2sBwoUZg86Zd9Y5",
+            "track_name": "Close",
+            "track_artist": "\u0141aszewo",
+            "track_album": "Close",
+            "track_duration": 150746,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-24T00:10:49Z",
+            "uri": "spotify:track:6R6W1NE2sBwoUZg86Zd9Y5"
+        },
+        {
+            "track_id": "2LqWswubpbLhEPtB3mRlJH",
+            "track_name": "Downside Up",
+            "track_artist": "DROELOE",
+            "track_album": "The Art Of Change",
+            "track_duration": 216222,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-24T01:27:22Z",
+            "uri": "spotify:track:2LqWswubpbLhEPtB3mRlJH"
+        },
+        {
+            "track_id": "7pfDqoJTf20w13DQf9uYO0",
+            "track_name": "Don't Fence Me In",
+            "track_artist": "Michael Wyckoff",
+            "track_album": "LAB JAMS: The Bonelab Original Soundtrack",
+            "track_duration": 201333,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-29T04:50:31Z",
+            "uri": "spotify:track:7pfDqoJTf20w13DQf9uYO0"
+        },
+        {
+            "track_id": "618b4IeoPFq5kTP1QMwUDS",
+            "track_name": "Don't Fret!",
+            "track_artist": "Tobiahs",
+            "track_album": "Don't Fret!",
+            "track_duration": 199687,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-12-02T16:40:47Z",
+            "uri": "spotify:track:618b4IeoPFq5kTP1QMwUDS"
+        },
+        {
+            "track_id": "2ouFrmMwYik8nQX2n9SeZu",
+            "track_name": "On My Knees",
+            "track_artist": "R\u00dcF\u00dcS DU SOL",
+            "track_album": "Surrender",
+            "track_duration": 261001,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-12-02T17:15:44Z",
+            "uri": "spotify:track:2ouFrmMwYik8nQX2n9SeZu"
         }
     ]
 }
