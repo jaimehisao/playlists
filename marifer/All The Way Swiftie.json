@@ -142,146 +142,6 @@
             "uri": "spotify:track:0YgHuReCSPwTXYny7isLja"
         },
         {
-            "track_id": "3nRmDz7qGCvsMS30rGGY0x",
-            "track_name": "Welcome To New York",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 212600,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:3nRmDz7qGCvsMS30rGGY0x"
-        },
-        {
-            "track_id": "1u8c2t2Cy7UBoG4ArRcF5g",
-            "track_name": "Blank Space",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 231826,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:1u8c2t2Cy7UBoG4ArRcF5g"
-        },
-        {
-            "track_id": "0ug5NqcwcFR2xrfTkc7k8e",
-            "track_name": "Style",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 231000,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
-        },
-        {
-            "track_id": "0qUnBLZ8bJqUNEeQgayL9t",
-            "track_name": "Out Of The Woods",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 235800,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:0qUnBLZ8bJqUNEeQgayL9t"
-        },
-        {
-            "track_id": "6aLOekfwbytwWvQftxTEF0",
-            "track_name": "All You Had To Do Was Stay",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 193293,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:6aLOekfwbytwWvQftxTEF0"
-        },
-        {
-            "track_id": "0cqRj7pUJDkTCEsJkx8snD",
-            "track_name": "Shake It Off",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 219200,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
-        },
-        {
-            "track_id": "5gRYrtvyVyaCRvLt56OfuV",
-            "track_name": "I Wish You Would",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 207440,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:5gRYrtvyVyaCRvLt56OfuV"
-        },
-        {
-            "track_id": "2NlmmAjGYrrjAp0MED5rGx",
-            "track_name": "Bad Blood",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 211933,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:2NlmmAjGYrrjAp0MED5rGx"
-        },
-        {
-            "track_id": "0fM9dEhUFV4MHDuJgrcfOv",
-            "track_name": "How You Get The Girl",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 247533,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:0fM9dEhUFV4MHDuJgrcfOv"
-        },
-        {
-            "track_id": "6EwNJz8CuVsrsLvXprJ20Q",
-            "track_name": "I Know Places",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 195706,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:6EwNJz8CuVsrsLvXprJ20Q"
-        },
-        {
-            "track_id": "1NmVZsG18CzCAtw7rnV3yA",
-            "track_name": "Clean",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 271000,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:1NmVZsG18CzCAtw7rnV3yA"
-        },
-        {
-            "track_id": "6RvRzl1YJTDnUvdOtV21IK",
-            "track_name": "Wonderland",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 245560,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:6RvRzl1YJTDnUvdOtV21IK"
-        },
-        {
-            "track_id": "2KrOAg6FftbjgSKdd2a4rS",
-            "track_name": "You Are In Love",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 267106,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:2KrOAg6FftbjgSKdd2a4rS"
-        },
-        {
-            "track_id": "0qAIiGFKLdV1xpNlEhjpq8",
-            "track_name": "New Romantics",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 230466,
-            "track_added_by": "marifer_salas",
-            "track_added_at": "2021-03-06T20:15:31Z",
-            "uri": "spotify:track:0qAIiGFKLdV1xpNlEhjpq8"
-        },
-        {
             "track_id": "2yLa0QULdQr0qAIvVwN6B5",
             "track_name": "...Ready For It?",
             "track_artist": "Taylor Swift",
@@ -2030,6 +1890,216 @@
             "track_added_by": "marifer_salas",
             "track_added_at": "2023-08-28T04:25:19Z",
             "uri": "spotify:track:3xYJScVfxByb61dYHTwiby"
+        },
+        {
+            "track_id": "1hR8BSuEqPCCZfv93zzzz9",
+            "track_name": "Welcome To New York (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 212600,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:1hR8BSuEqPCCZfv93zzzz9"
+        },
+        {
+            "track_id": "45wMBGri1PORPjM9PwFfrS",
+            "track_name": "Blank Space (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 231833,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:45wMBGri1PORPjM9PwFfrS"
+        },
+        {
+            "track_id": "1hjRhYpWyqDpPahmSlUTlc",
+            "track_name": "Style (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 231000,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:1hjRhYpWyqDpPahmSlUTlc"
+        },
+        {
+            "track_id": "045ZeOHPIzhxxsm8bq5kyE",
+            "track_name": "Out Of The Woods (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 235800,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:045ZeOHPIzhxxsm8bq5kyE"
+        },
+        {
+            "track_id": "6GXgd1BPD9bUpqw5AntGV5",
+            "track_name": "All You Had To Do Was Stay (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 193289,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:6GXgd1BPD9bUpqw5AntGV5"
+        },
+        {
+            "track_id": "3pv7Q5v2dpdefwdWIvE7yH",
+            "track_name": "Shake It Off (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 219209,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:3pv7Q5v2dpdefwdWIvE7yH"
+        },
+        {
+            "track_id": "43y1WpBdnEy5TR9aZoSQL9",
+            "track_name": "I Wish You Would (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 207650,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:43y1WpBdnEy5TR9aZoSQL9"
+        },
+        {
+            "track_id": "64FzgoLZ3oXu2SriZblHic",
+            "track_name": "Bad Blood (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 211103,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:64FzgoLZ3oXu2SriZblHic"
+        },
+        {
+            "track_id": "1K39ty6o1sHwwlZwO6a7wK",
+            "track_name": "Wildest Dreams (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 220433,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:1K39ty6o1sHwwlZwO6a7wK"
+        },
+        {
+            "track_id": "75W3SngKzTuoQ94uLf3y82",
+            "track_name": "How You Get The Girl (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 247533,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:75W3SngKzTuoQ94uLf3y82"
+        },
+        {
+            "track_id": "5QVVjX0ZItqlVpEuVCM9Yg",
+            "track_name": "This Love (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 250100,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:5QVVjX0ZItqlVpEuVCM9Yg"
+        },
+        {
+            "track_id": "2f0GI2ZLUtbGqFx8t2Gk6A",
+            "track_name": "I Know Places (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 195700,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:2f0GI2ZLUtbGqFx8t2Gk6A"
+        },
+        {
+            "track_id": "2ByBBvpR9b7IynvRmnG7kG",
+            "track_name": "Clean (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 271000,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:2ByBBvpR9b7IynvRmnG7kG"
+        },
+        {
+            "track_id": "2ve0kuaWUCt4Zx8x4bf1MR",
+            "track_name": "Wonderland (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 245566,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:2ve0kuaWUCt4Zx8x4bf1MR"
+        },
+        {
+            "track_id": "4UwqOWDpdeIDVQDuKT6iza",
+            "track_name": "You Are In Love (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 267389,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:4UwqOWDpdeIDVQDuKT6iza"
+        },
+        {
+            "track_id": "2vPMoMDXxu9uX1igWZmXSG",
+            "track_name": "New Romantics (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 230177,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:2vPMoMDXxu9uX1igWZmXSG"
+        },
+        {
+            "track_id": "71BqAINEnezjQfxE4VuJfq",
+            "track_name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 180381,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:71BqAINEnezjQfxE4VuJfq"
+        },
+        {
+            "track_id": "4NioO5R9sHEZh4cGzMHyNt",
+            "track_name": "Say Don't Go (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 279833,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:4NioO5R9sHEZh4cGzMHyNt"
+        },
+        {
+            "track_id": "5KD6AEm19QnMbfWpfoOHMl",
+            "track_name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 146436,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:5KD6AEm19QnMbfWpfoOHMl"
+        },
+        {
+            "track_id": "6T0sEnqjmHISIKwFETeeiP",
+            "track_name": "Suburban Legends (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 171818,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:6T0sEnqjmHISIKwFETeeiP"
+        },
+        {
+            "track_id": "1Iq8oo9XkmmvCQiGOfORiz",
+            "track_name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 229477,
+            "track_added_by": "marifer_salas",
+            "track_added_at": "2023-10-27T17:43:50Z",
+            "uri": "spotify:track:1Iq8oo9XkmmvCQiGOfORiz"
         }
     ]
 }
