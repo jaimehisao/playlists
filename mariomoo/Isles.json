@@ -1215,7 +1215,7 @@
             "track_id": "2YkIDPL5lGhRhomCq4S2RO",
             "track_name": "My Way - 2008 Remastered",
             "track_artist": "Frank Sinatra",
-            "track_album": "Nothing But The Best (Remastered)",
+            "track_album": "Nothing But The Best (2008 Remastered)",
             "track_duration": 276253,
             "track_added_by": "mariomoo",
             "track_added_at": "2023-06-18T22:49:14Z",
@@ -1225,7 +1225,7 @@
             "track_id": "7FXj7Qg3YorUxdrzvrcY25",
             "track_name": "Fly Me To The Moon - 2008 Remastered",
             "track_artist": "Frank Sinatra",
-            "track_album": "Nothing But The Best (Remastered)",
+            "track_album": "Nothing But The Best (2008 Remastered)",
             "track_duration": 147520,
             "track_added_by": "mariomoo",
             "track_added_at": "2023-06-18T22:49:31Z",
@@ -1530,6 +1530,56 @@
             "track_added_by": "mariomoo",
             "track_added_at": "2023-09-30T21:55:26Z",
             "uri": "spotify:track:0gEyKnHvgkrkBM6fbeHdwK"
+        },
+        {
+            "track_id": "3BZGi1yUqQyCNC868AqUGG",
+            "track_name": "Big in Japan",
+            "track_artist": "Alphaville",
+            "track_album": "Forever Young",
+            "track_duration": 286160,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T17:40:41Z",
+            "uri": "spotify:track:3BZGi1yUqQyCNC868AqUGG"
+        },
+        {
+            "track_id": "6QewNVIDKdSl8Y3ycuHIei",
+            "track_name": "Even Flow",
+            "track_artist": "Pearl Jam",
+            "track_album": "Ten",
+            "track_duration": 292580,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-20T22:31:12Z",
+            "uri": "spotify:track:6QewNVIDKdSl8Y3ycuHIei"
+        },
+        {
+            "track_id": "4a5pNRjwmzYQuEY1E7O6pj",
+            "track_name": "Breakfast In America - 2010 Remastered",
+            "track_artist": "Supertramp",
+            "track_album": "Breakfast In America (Deluxe Edition)",
+            "track_duration": 159346,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-10-29T05:18:30Z",
+            "uri": "spotify:track:4a5pNRjwmzYQuEY1E7O6pj"
+        },
+        {
+            "track_id": "78RIER8V6EhrqVPOBi2GYa",
+            "track_name": "Here Comes the Rain Again - Remastered Version",
+            "track_artist": "Eurythmics",
+            "track_album": "Touch (Reissue - Deluxe Edition)",
+            "track_duration": 294586,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-04T03:59:25Z",
+            "uri": "spotify:track:78RIER8V6EhrqVPOBi2GYa"
+        },
+        {
+            "track_id": "4qO03RMQm88DdpTJcxlglY",
+            "track_name": "Call Me",
+            "track_artist": "Blondie",
+            "track_album": "Atomic/Atomix",
+            "track_duration": 212600,
+            "track_added_by": "mariomoo",
+            "track_added_at": "2023-11-07T00:48:42Z",
+            "uri": "spotify:track:4qO03RMQm88DdpTJcxlglY"
         }
     ]
 }
