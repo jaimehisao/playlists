@@ -142,16 +142,6 @@
             "uri": "spotify:track:3SutPPyD0uGNBjGuRlkcKq"
         },
         {
-            "track_id": "6esEhdzABVyF2RqXJIyJOO",
-            "track_name": "Alma Llanera",
-            "track_artist": "Los Chalchaleros",
-            "track_album": "Serie Platino",
-            "track_duration": 158066,
-            "track_added_by": "1291740798",
-            "track_added_at": "2020-12-16T21:11:14Z",
-            "uri": "spotify:track:6esEhdzABVyF2RqXJIyJOO"
-        },
-        {
             "track_id": "1j57d1cxwbLZhnHyBFUpJE",
             "track_name": "Puerto De Santa Cruz",
             "track_artist": "Horacio Guarany",
@@ -900,16 +890,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2021-03-28T16:42:57Z",
             "uri": "spotify:track:0qZpK7jDhokkZugzz7KfmA"
-        },
-        {
-            "track_id": "1JG27QjSUOvSnwkjqhTXMi",
-            "track_name": "Toda una Vida",
-            "track_artist": "Antonio Mach\u00edn",
-            "track_album": "Todos Sus Exitos",
-            "track_duration": 182773,
-            "track_added_by": "1291740798",
-            "track_added_at": "2021-04-15T16:11:08Z",
-            "uri": "spotify:track:1JG27QjSUOvSnwkjqhTXMi"
         },
         {
             "track_id": "4bctNy4NQDBheODvK56ab8",
@@ -2360,6 +2340,266 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-09-24T05:53:32Z",
             "uri": "spotify:track:1LRo9wZ0rvCk6VmIr5fY4s"
+        },
+        {
+            "track_id": "0WsWvyKba4ZHcpk8ebsine",
+            "track_name": "Funny How Time Slips Away - Single Version",
+            "track_artist": "Billy Walker",
+            "track_album": "Billy Walker: Columbia Hits",
+            "track_duration": 171720,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-02T16:46:05Z",
+            "uri": "spotify:track:0WsWvyKba4ZHcpk8ebsine"
+        },
+        {
+            "track_id": "2njnOMDYMDVbvN97DVlmOW",
+            "track_name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da (\u05d1\u05e9\u05e7\u05d8, \u05db\u05de\u05e2\u05d8 \u05d1\u05e1\u05d5\u05d3)",
+            "track_artist": "Haparvarim",
+            "track_album": "(\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da) \u05d1\u05e9\u05e7\u05d8 \u05db\u05de\u05e2\u05d8 \u05d1\u05e1\u05d5\u05d3",
+            "track_duration": 201300,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-03T17:28:53Z",
+            "uri": "spotify:track:2njnOMDYMDVbvN97DVlmOW"
+        },
+        {
+            "track_id": "4FVQ97h6rWhIh7LqN7Qxy1",
+            "track_name": "\u05ea\u05dc\u05d1\u05e9\u05d9 \u05dc\u05d1\u05df",
+            "track_artist": "The Dudaim",
+            "track_album": "\u05d4\u05d3\u05d5\u05d3\u05d0\u05d9\u05dd - \u05d4\u05e4\u05e8\u05d1\u05e8\u05d9\u05dd",
+            "track_duration": 207440,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-03T17:29:02Z",
+            "uri": "spotify:track:4FVQ97h6rWhIh7LqN7Qxy1"
+        },
+        {
+            "track_id": "28YADFbCauCA7ethhvCFwW",
+            "track_name": "Hay Amores",
+            "track_artist": "Shakira",
+            "track_album": "El Amor En Los Tiempos del Colera (Love In The Time Of Cholera)",
+            "track_duration": 209053,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-06T17:47:11Z",
+            "uri": "spotify:track:28YADFbCauCA7ethhvCFwW"
+        },
+        {
+            "track_id": "1uwALtj33N0ibowBOKw9KC",
+            "track_name": "Un Poco M\u00e1s",
+            "track_artist": "Alvaro Carrillo",
+            "track_album": "La Coleccion Del Siglo",
+            "track_duration": 189626,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-29T17:57:51Z",
+            "uri": "spotify:track:1uwALtj33N0ibowBOKw9KC"
+        },
+        {
+            "track_id": "6yCkccxYgWjdAi210LJdhr",
+            "track_name": "Popurr\u00ed: Amor M\u00edo / Sabr\u00e1 Dios / Sabor a M\u00ed",
+            "track_artist": "Alvaro Carrillo",
+            "track_album": "La Coleccion Del Siglo",
+            "track_duration": 276266,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-29T18:00:43Z",
+            "uri": "spotify:track:6yCkccxYgWjdAi210LJdhr"
+        },
+        {
+            "track_id": "0G96Q4KvsZpREwEZcAQhOM",
+            "track_name": "La Mentira \"Se Te Olvida\"",
+            "track_artist": "Alvaro Carrillo",
+            "track_album": "La Coleccion Del Siglo",
+            "track_duration": 171293,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-29T18:02:57Z",
+            "uri": "spotify:track:0G96Q4KvsZpREwEZcAQhOM"
+        },
+        {
+            "track_id": "3WjYJ2LMEQoNQ2deivEWdA",
+            "track_name": "Tolu - Fast",
+            "track_artist": "Lucho Bermudez Y Su Orquesta",
+            "track_album": "Lucho Berm\u00fadez y Su Orquesta",
+            "track_duration": 144533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-09T13:02:23Z",
+            "uri": "spotify:track:3WjYJ2LMEQoNQ2deivEWdA"
+        },
+        {
+            "track_id": "19iBenjfmMwftUHl50UZFJ",
+            "track_name": "Moliendo Caf\u00e9",
+            "track_artist": "Sonora Palacios",
+            "track_album": "M\u00e1s \u00c9xitos Tropicales",
+            "track_duration": 301203,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-17T20:01:16Z",
+            "uri": "spotify:track:19iBenjfmMwftUHl50UZFJ"
+        },
+        {
+            "track_id": "0kaQZiBsJvFhIBU1agrqvK",
+            "track_name": "Quisiera Amarte Menos - Vals",
+            "track_artist": "D\u00fao Irizarry de C\u00f3rdova",
+            "track_album": "Nuestro Juramento",
+            "track_duration": 189560,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-17T20:06:54Z",
+            "uri": "spotify:track:0kaQZiBsJvFhIBU1agrqvK"
+        },
+        {
+            "track_id": "11ICAbTqqB2RoCt0REnGtw",
+            "track_name": "No Me Olvides Nunca",
+            "track_artist": "Trio Los Embajadores",
+            "track_album": "Boleros Campeones, Vol. 2",
+            "track_duration": 193346,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-17T20:11:14Z",
+            "uri": "spotify:track:11ICAbTqqB2RoCt0REnGtw"
+        },
+        {
+            "track_id": "5uGYWKg1yqhr4gPsZZgWKA",
+            "track_name": "Cinco Centavitos",
+            "track_artist": "Los Coyotes",
+            "track_album": "Historia Musical de Los Coyotes",
+            "track_duration": 145920,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-17T22:34:02Z",
+            "uri": "spotify:track:5uGYWKg1yqhr4gPsZZgWKA"
+        },
+        {
+            "track_id": "2gTtS33SZLNJV4VorpxGGN",
+            "track_name": "No Dejes de Quererme (with Diego Verdaguer)",
+            "track_artist": "La Sonora Santanera",
+            "track_album": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+            "track_duration": 207120,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-21T00:36:20Z",
+            "uri": "spotify:track:2gTtS33SZLNJV4VorpxGGN"
+        },
+        {
+            "track_id": "745wXwwU5x5o1zI4xeQwPB",
+            "track_name": "Tu Voz",
+            "track_artist": "Celia Cruz",
+            "track_album": "Cuando Sal\u00ed de Cuba",
+            "track_duration": 201493,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-21T01:19:48Z",
+            "uri": "spotify:track:745wXwwU5x5o1zI4xeQwPB"
+        },
+        {
+            "track_id": "6YnvENj0TdekZctNH1LiFQ",
+            "track_name": "Caminar bonito",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "De Todas las Flores",
+            "track_duration": 237346,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-22T17:24:55Z",
+            "uri": "spotify:track:6YnvENj0TdekZctNH1LiFQ"
+        },
+        {
+            "track_id": "0U1tYg60QpzEStW7DhwdHO",
+            "track_name": "Pasan los d\u00edas",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "De Todas las Flores",
+            "track_duration": 403306,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-22T18:24:13Z",
+            "uri": "spotify:track:0U1tYg60QpzEStW7DhwdHO"
+        },
+        {
+            "track_id": "0UJedj04Z4NGCT9fzMSN8W",
+            "track_name": "Lo Dudo",
+            "track_artist": "Los Panchos",
+            "track_album": "Cantando al Amor",
+            "track_duration": 162986,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:42:49Z",
+            "uri": "spotify:track:0UJedj04Z4NGCT9fzMSN8W"
+        },
+        {
+            "track_id": "65nQU5BJ8cbMPsX112qOSL",
+            "track_name": "No Me Quieras Tanto",
+            "track_artist": "Los Tres Reyes",
+            "track_album": "Lo Mejor de Lo Mejor de RCA Victor",
+            "track_duration": 174546,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:43:21Z",
+            "uri": "spotify:track:65nQU5BJ8cbMPsX112qOSL"
+        },
+        {
+            "track_id": "41PQkZ4limmBseacp4c15A",
+            "track_name": "Los Dos",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 166034,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:46:04Z",
+            "uri": "spotify:track:41PQkZ4limmBseacp4c15A"
+        },
+        {
+            "track_id": "0sZ0w4HJgkhurywq6OUbUE",
+            "track_name": "Sin Ti",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 177972,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:48:27Z",
+            "uri": "spotify:track:0sZ0w4HJgkhurywq6OUbUE"
+        },
+        {
+            "track_id": "7j1FlLsncYBlWgRCrMOPDm",
+            "track_name": "La Hiedra",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 163735,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:49:23Z",
+            "uri": "spotify:track:7j1FlLsncYBlWgRCrMOPDm"
+        },
+        {
+            "track_id": "0R0AQBRrFCvoRCHJOMceYo",
+            "track_name": "Lo Dudo",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 166034,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:50:26Z",
+            "uri": "spotify:track:0R0AQBRrFCvoRCHJOMceYo"
+        },
+        {
+            "track_id": "177P2tbdpTBKtrJsx3eSZj",
+            "track_name": "Triunfamos",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 130063,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:51:46Z",
+            "uri": "spotify:track:177P2tbdpTBKtrJsx3eSZj"
+        },
+        {
+            "track_id": "3TvkMv92v3KA9MleZhjr4f",
+            "track_name": "Usted",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 194664,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:53:15Z",
+            "uri": "spotify:track:3TvkMv92v3KA9MleZhjr4f"
+        },
+        {
+            "track_id": "0czFM6FxX8LezyeIyvWEcl",
+            "track_name": "Contigo",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 173844,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:54:03Z",
+            "uri": "spotify:track:0czFM6FxX8LezyeIyvWEcl"
+        },
+        {
+            "track_id": "5hUzPDaYH9z5kfXIVljGq0",
+            "track_name": "Como Han Pasado Los A\u00f1os",
+            "track_artist": "Los Panchos",
+            "track_album": "Perfidia",
+            "track_duration": 197903,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:56:09Z",
+            "uri": "spotify:track:5hUzPDaYH9z5kfXIVljGq0"
         }
     ]
 }
