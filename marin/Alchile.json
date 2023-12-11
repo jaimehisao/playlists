@@ -564,7 +564,7 @@
         {
             "track_id": "1cSUiEaL0jmmtuKQdjMTAZ",
             "track_name": "Disculpe Usted",
-            "track_artist": "Mariachi Nuevo Tecalitlan",
+            "track_artist": "Mariachi Nuevo Tecalitl\u00e1n",
             "track_album": "Mexico Voz Que Canta",
             "track_duration": 177353,
             "track_added_by": "1291740798",
@@ -1963,9 +1963,9 @@
         },
         {
             "track_id": "133WjEWjB6jC8fkF7MYCU6",
-            "track_name": "Amor Pecador",
+            "track_name": "Amor Pecador - Remastered 2005",
             "track_artist": "Los Chichos",
-            "track_album": "Hoy Igual Que Ayer",
+            "track_album": "Hoy Igual Que Ayer (Remastered 2005)",
             "track_duration": 186786,
             "track_added_by": "1291740798",
             "track_added_at": "2021-03-23T11:50:57Z",
