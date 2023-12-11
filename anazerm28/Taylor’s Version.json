@@ -1602,6 +1602,26 @@
             "uri": "spotify:track:0j0gJqxitjhmmkrW56dtQH"
         },
         {
+            "track_id": "05kJkr80XEaZeN8kxyQoFp",
+            "track_name": "Lavender Haze - Acoustic Version",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lavender Haze (Acoustic Version)",
+            "track_duration": 174375,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-31T05:17:28Z",
+            "uri": "spotify:track:05kJkr80XEaZeN8kxyQoFp"
+        },
+        {
+            "track_id": "2d3d9xZutJjmUpntiyHt3F",
+            "track_name": "Anti-Hero - Acoustic Version",
+            "track_artist": "Taylor Swift",
+            "track_album": "Anti-Hero (Acoustic Version)",
+            "track_duration": 196473,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-07-31T05:24:08Z",
+            "uri": "spotify:track:2d3d9xZutJjmUpntiyHt3F"
+        },
+        {
             "track_id": "3xYJScVfxByb61dYHTwiby",
             "track_name": "Hits Different",
             "track_artist": "Taylor Swift",
@@ -1852,24 +1872,244 @@
             "uri": "spotify:track:1HCdems7PQZRj42QDWLA0A"
         },
         {
-            "track_id": "05kJkr80XEaZeN8kxyQoFp",
-            "track_name": "Lavender Haze - Acoustic Version",
+            "track_id": "6ClYMObS7f3Nn4AiZHYQt3",
+            "track_name": "Cruel Summer - Live from TS | The Eras Tour",
             "track_artist": "Taylor Swift",
-            "track_album": "Lavender Haze (Acoustic Version)",
-            "track_duration": 174375,
+            "track_album": "The Cruelest Summer",
+            "track_duration": 229566,
             "track_added_by": "anazerm28",
-            "track_added_at": "2023-07-31T05:17:28Z",
-            "uri": "spotify:track:05kJkr80XEaZeN8kxyQoFp"
+            "track_added_at": "2023-10-21T04:45:34Z",
+            "uri": "spotify:track:6ClYMObS7f3Nn4AiZHYQt3"
         },
         {
-            "track_id": "2d3d9xZutJjmUpntiyHt3F",
-            "track_name": "Anti-Hero - Acoustic Version",
+            "track_id": "1hR8BSuEqPCCZfv93zzzz9",
+            "track_name": "Welcome To New York (Taylor's Version)",
             "track_artist": "Taylor Swift",
-            "track_album": "Anti-Hero (Acoustic Version)",
-            "track_duration": 196473,
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 212600,
             "track_added_by": "anazerm28",
-            "track_added_at": "2023-07-31T05:24:08Z",
-            "uri": "spotify:track:2d3d9xZutJjmUpntiyHt3F"
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:1hR8BSuEqPCCZfv93zzzz9"
+        },
+        {
+            "track_id": "45wMBGri1PORPjM9PwFfrS",
+            "track_name": "Blank Space (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 231833,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:45wMBGri1PORPjM9PwFfrS"
+        },
+        {
+            "track_id": "1hjRhYpWyqDpPahmSlUTlc",
+            "track_name": "Style (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 231000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:1hjRhYpWyqDpPahmSlUTlc"
+        },
+        {
+            "track_id": "045ZeOHPIzhxxsm8bq5kyE",
+            "track_name": "Out Of The Woods (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 235800,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:045ZeOHPIzhxxsm8bq5kyE"
+        },
+        {
+            "track_id": "6GXgd1BPD9bUpqw5AntGV5",
+            "track_name": "All You Had To Do Was Stay (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 193289,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:6GXgd1BPD9bUpqw5AntGV5"
+        },
+        {
+            "track_id": "3pv7Q5v2dpdefwdWIvE7yH",
+            "track_name": "Shake It Off (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 219209,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:3pv7Q5v2dpdefwdWIvE7yH"
+        },
+        {
+            "track_id": "43y1WpBdnEy5TR9aZoSQL9",
+            "track_name": "I Wish You Would (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 207650,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:43y1WpBdnEy5TR9aZoSQL9"
+        },
+        {
+            "track_id": "64FzgoLZ3oXu2SriZblHic",
+            "track_name": "Bad Blood (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 211103,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:64FzgoLZ3oXu2SriZblHic"
+        },
+        {
+            "track_id": "1K39ty6o1sHwwlZwO6a7wK",
+            "track_name": "Wildest Dreams (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 220433,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:1K39ty6o1sHwwlZwO6a7wK"
+        },
+        {
+            "track_id": "75W3SngKzTuoQ94uLf3y82",
+            "track_name": "How You Get The Girl (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 247533,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:75W3SngKzTuoQ94uLf3y82"
+        },
+        {
+            "track_id": "5QVVjX0ZItqlVpEuVCM9Yg",
+            "track_name": "This Love (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 250100,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:5QVVjX0ZItqlVpEuVCM9Yg"
+        },
+        {
+            "track_id": "2f0GI2ZLUtbGqFx8t2Gk6A",
+            "track_name": "I Know Places (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 195700,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:2f0GI2ZLUtbGqFx8t2Gk6A"
+        },
+        {
+            "track_id": "2ByBBvpR9b7IynvRmnG7kG",
+            "track_name": "Clean (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 271000,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:2ByBBvpR9b7IynvRmnG7kG"
+        },
+        {
+            "track_id": "2ve0kuaWUCt4Zx8x4bf1MR",
+            "track_name": "Wonderland (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 245566,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:2ve0kuaWUCt4Zx8x4bf1MR"
+        },
+        {
+            "track_id": "4UwqOWDpdeIDVQDuKT6iza",
+            "track_name": "You Are In Love (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 267389,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:4UwqOWDpdeIDVQDuKT6iza"
+        },
+        {
+            "track_id": "2vPMoMDXxu9uX1igWZmXSG",
+            "track_name": "New Romantics (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 230177,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:2vPMoMDXxu9uX1igWZmXSG"
+        },
+        {
+            "track_id": "71BqAINEnezjQfxE4VuJfq",
+            "track_name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 180381,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:71BqAINEnezjQfxE4VuJfq"
+        },
+        {
+            "track_id": "4NioO5R9sHEZh4cGzMHyNt",
+            "track_name": "Say Don't Go (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 279833,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:4NioO5R9sHEZh4cGzMHyNt"
+        },
+        {
+            "track_id": "5KD6AEm19QnMbfWpfoOHMl",
+            "track_name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 146436,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:5KD6AEm19QnMbfWpfoOHMl"
+        },
+        {
+            "track_id": "6T0sEnqjmHISIKwFETeeiP",
+            "track_name": "Suburban Legends (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 171818,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:6T0sEnqjmHISIKwFETeeiP"
+        },
+        {
+            "track_id": "1Iq8oo9XkmmvCQiGOfORiz",
+            "track_name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 229477,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T04:14:16Z",
+            "uri": "spotify:track:1Iq8oo9XkmmvCQiGOfORiz"
+        },
+        {
+            "track_id": "6qAcApH8obo8eqatCKUHd9",
+            "track_name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version) [Deluxe]",
+            "track_duration": 199773,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-10-27T15:43:27Z",
+            "uri": "spotify:track:6qAcApH8obo8eqatCKUHd9"
+        },
+        {
+            "track_id": "3CWq0pAKKTWb0K4yiglDc4",
+            "track_name": "You\u2019re Losing Me (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "You're Losing Me (From The Vault)",
+            "track_duration": 277831,
+            "track_added_by": "anazerm28",
+            "track_added_at": "2023-11-29T13:26:49Z",
+            "uri": "spotify:track:3CWq0pAKKTWb0K4yiglDc4"
         }
     ]
 }
