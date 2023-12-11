@@ -120,6 +120,106 @@
             "track_added_by": "gabrieldlg",
             "track_added_at": "2023-09-15T19:32:39Z",
             "uri": "spotify:track:30jui3PqevssdIVpjEWM38"
+        },
+        {
+            "track_id": "2joEpsXflccZD0ZwKEdz5m",
+            "track_name": "Sugar",
+            "track_artist": "Men I Trust",
+            "track_album": "Untourable Album",
+            "track_duration": 176315,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T17:41:46Z",
+            "uri": "spotify:track:2joEpsXflccZD0ZwKEdz5m"
+        },
+        {
+            "track_id": "6cmt9CRoK0KGcNg9Tpje53",
+            "track_name": "Riot!",
+            "track_artist": "Earl Sweatshirt",
+            "track_album": "Some Rap Songs",
+            "track_duration": 66133,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T17:55:51Z",
+            "uri": "spotify:track:6cmt9CRoK0KGcNg9Tpje53"
+        },
+        {
+            "track_id": "4JYJU761kWJEK91hyug33F",
+            "track_name": "Tree Among Shrubs",
+            "track_artist": "Men I Trust",
+            "track_album": "Untourable Album",
+            "track_duration": 188301,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T17:57:00Z",
+            "uri": "spotify:track:4JYJU761kWJEK91hyug33F"
+        },
+        {
+            "track_id": "0pJTrMWCiR0TuJ5FApIqrz",
+            "track_name": "Music To Walk Home By",
+            "track_artist": "Tame Impala",
+            "track_album": "Lonerism",
+            "track_duration": 312213,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:01:29Z",
+            "uri": "spotify:track:0pJTrMWCiR0TuJ5FApIqrz"
+        },
+        {
+            "track_id": "6FBzhcfgGacfXF3AmtfEaX",
+            "track_name": "C U Girl",
+            "track_artist": "Steve Lacy",
+            "track_album": "C U Girl",
+            "track_duration": 129697,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:06:37Z",
+            "uri": "spotify:track:6FBzhcfgGacfXF3AmtfEaX"
+        },
+        {
+            "track_id": "5RxpYHVbGJPOvSEATQyg9P",
+            "track_name": "Lucy",
+            "track_artist": "Still Woozy",
+            "track_album": "Lucy",
+            "track_duration": 142500,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:13:22Z",
+            "uri": "spotify:track:5RxpYHVbGJPOvSEATQyg9P"
+        },
+        {
+            "track_id": "1TQuqiFxqnVeez9OMq3emB",
+            "track_name": "Home",
+            "track_artist": "Vacations",
+            "track_album": "Vibes",
+            "track_duration": 145666,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-18T18:30:19Z",
+            "uri": "spotify:track:1TQuqiFxqnVeez9OMq3emB"
+        },
+        {
+            "track_id": "0XgRWgcs0Pcr9PSIdFWD4N",
+            "track_name": "Clay Pigeons",
+            "track_artist": "Michael Cera",
+            "track_album": "True That",
+            "track_duration": 186000,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-25T05:27:30Z",
+            "uri": "spotify:track:0XgRWgcs0Pcr9PSIdFWD4N"
+        },
+        {
+            "track_id": "165MD8kz7TPMUhjro3NnA8",
+            "track_name": "The Bug Collector",
+            "track_artist": "BEN SCOTT",
+            "track_album": "The Bug Collector",
+            "track_duration": 130063,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-10-25T22:03:25Z",
+            "uri": "spotify:track:165MD8kz7TPMUhjro3NnA8"
+        },
+        {
+            "track_id": "5hS8s1Vf4CeSRBT1bTWa39",
+            "track_name": "Roddy",
+            "track_artist": "Djo",
+            "track_album": "Twenty Twenty",
+            "track_duration": 252987,
+            "track_added_by": "gabrieldlg",
+            "track_added_at": "2023-12-07T16:42:06Z",
+            "uri": "spotify:track:5hS8s1Vf4CeSRBT1bTWa39"
         }
     ]
 }
