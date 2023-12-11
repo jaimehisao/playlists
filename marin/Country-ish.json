@@ -102,16 +102,6 @@
             "uri": "spotify:track:1xADYlM5rjnbJvAW2tc0qF"
         },
         {
-            "track_id": "08PjS6opdc0vLlaf0Z7YIl",
-            "track_name": "Dogs of War",
-            "track_artist": "Blues Saraceno",
-            "track_album": "Dark Country 3",
-            "track_duration": 176960,
-            "track_added_by": "1291740798",
-            "track_added_at": "2019-09-05T04:17:44Z",
-            "uri": "spotify:track:08PjS6opdc0vLlaf0Z7YIl"
-        },
-        {
             "track_id": "2LzyUfJdRp3uqTrITBJXEY",
             "track_name": "Bottom of the River",
             "track_artist": "Delta Rae",
@@ -390,16 +380,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2020-04-23T18:47:53Z",
             "uri": "spotify:track:2SUpC3UgKwLVOS2FtZif9N"
-        },
-        {
-            "track_id": "4XbxeoBeQnwpsyJyZEMoWc",
-            "track_name": "Take This Job and Shove It",
-            "track_artist": "Johnny Paycheck",
-            "track_album": "Super Hits",
-            "track_duration": 156293,
-            "track_added_by": "1291740798",
-            "track_added_at": "2020-09-07T13:51:08Z",
-            "uri": "spotify:track:4XbxeoBeQnwpsyJyZEMoWc"
         },
         {
             "track_id": "2fDHuS1PTkHBbCWWZF1ph9",
@@ -752,16 +732,6 @@
             "uri": "spotify:track:4BJhs8XWyr2M4MLvS4CSKx"
         },
         {
-            "track_id": "1PjsCgNHGI7MY7aKegKRKn",
-            "track_name": "All the Faces",
-            "track_artist": "Creed Bratton",
-            "track_album": "While the Young Punks Dance",
-            "track_duration": 183853,
-            "track_added_by": "1291740798",
-            "track_added_at": "2021-02-08T21:27:59Z",
-            "uri": "spotify:track:1PjsCgNHGI7MY7aKegKRKn"
-        },
-        {
             "track_id": "5A0GXKNA9SE15MqbvzVa7R",
             "track_name": "Is That You Shining",
             "track_artist": "Creed Bratton",
@@ -780,16 +750,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2021-02-08T21:33:01Z",
             "uri": "spotify:track:5CdrNWWEgTIuPHHVnAe01B"
-        },
-        {
-            "track_id": "2UicNzPoIwYvu08vVFzRTP",
-            "track_name": "I Been to Georgia on a Fast Train",
-            "track_artist": "Billy Joe Shaver",
-            "track_album": "Billy Joe Shaver",
-            "track_duration": 176973,
-            "track_added_by": "1291740798",
-            "track_added_at": "2021-02-09T03:51:30Z",
-            "uri": "spotify:track:2UicNzPoIwYvu08vVFzRTP"
         },
         {
             "track_id": "1q0SkvboXCdVQauHBzVr9z",
@@ -982,16 +942,6 @@
             "uri": "spotify:track:4DZFQ9d8XsMEpK8Q3nyg6E"
         },
         {
-            "track_id": "6CQWLysAbVpEMFTMPJ6aVq",
-            "track_name": "Georgia On a Fast Train - Live",
-            "track_artist": "Billy Joe Shaver",
-            "track_album": "Texas Outlaws",
-            "track_duration": 245106,
-            "track_added_by": "1291740798",
-            "track_added_at": "2021-08-14T21:35:00Z",
-            "uri": "spotify:track:6CQWLysAbVpEMFTMPJ6aVq"
-        },
-        {
             "track_id": "2SbKcsRWwgrl7sAFMP9u4X",
             "track_name": "Dust of the Chase",
             "track_artist": "Ray Wylie Hubbard",
@@ -1122,16 +1072,6 @@
             "uri": "spotify:track:7cxOL3nvmqd6w811wOlWT1"
         },
         {
-            "track_id": "2R4GzWIHMWTQfAtZX74l8i",
-            "track_name": "Big Day in a Small Town",
-            "track_artist": "Brandy Clark",
-            "track_album": "Big Day in a Small Town",
-            "track_duration": 223133,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-12-11T20:03:40Z",
-            "uri": "spotify:track:2R4GzWIHMWTQfAtZX74l8i"
-        },
-        {
             "track_id": "2PoOVPahdBzzlX8B35XflM",
             "track_name": "Then Again",
             "track_artist": "Mitch Rossell",
@@ -1140,16 +1080,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2022-12-11T20:08:11Z",
             "uri": "spotify:track:2PoOVPahdBzzlX8B35XflM"
-        },
-        {
-            "track_id": "0Mb0wOCpbmHOZbxyD0Eomu",
-            "track_name": "Broke Again",
-            "track_artist": "Joshua Hedley",
-            "track_album": "Broke Again",
-            "track_duration": 151930,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-12-11T20:14:05Z",
-            "uri": "spotify:track:0Mb0wOCpbmHOZbxyD0Eomu"
         },
         {
             "track_id": "28cnXtME493VX9NOw9cIUh",
@@ -1490,6 +1420,806 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-09-11T17:29:19Z",
             "uri": "spotify:track:5JDM1KbfvautHx2Il9DjMZ"
+        },
+        {
+            "track_id": "0L76ublFVvwRsA7QdZJbOt",
+            "track_name": "Down To My Last Cigarette - Single Version",
+            "track_artist": "Billy Walker",
+            "track_album": "Billy Walker: Columbia Hits",
+            "track_duration": 149066,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-02T17:16:57Z",
+            "uri": "spotify:track:0L76ublFVvwRsA7QdZJbOt"
+        },
+        {
+            "track_id": "11QUG7teTcHUXgP1KsdvuX",
+            "track_name": "Faster Horses (The Cowboy And The Poet)",
+            "track_artist": "Tom T. Hall",
+            "track_album": "Tom T. Hall - Storyteller, Poet, Philosopher",
+            "track_duration": 172626,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-02T17:22:23Z",
+            "uri": "spotify:track:11QUG7teTcHUXgP1KsdvuX"
+        },
+        {
+            "track_id": "5vd1QZ0tdXOExiegC55IAS",
+            "track_name": "Heart Of Gold",
+            "track_artist": "Neil Young",
+            "track_album": "Eat, Pray, Love",
+            "track_duration": 188440,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:05:04Z",
+            "uri": "spotify:track:5vd1QZ0tdXOExiegC55IAS"
+        },
+        {
+            "track_id": "53bf2gcVAqAsFzUk07F0ak",
+            "track_name": "RUNAWAYS",
+            "track_artist": "Goodnight, Texas",
+            "track_album": "RUNAWAYS",
+            "track_duration": 217321,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:21:30Z",
+            "uri": "spotify:track:53bf2gcVAqAsFzUk07F0ak"
+        },
+        {
+            "track_id": "5UKMxE8Ec8pa8YLXlqDkSZ",
+            "track_name": "Devil Don't You Fool Me",
+            "track_artist": "Josh Farrow",
+            "track_album": "Devil Don't You Fool Me",
+            "track_duration": 170985,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:26:16Z",
+            "uri": "spotify:track:5UKMxE8Ec8pa8YLXlqDkSZ"
+        },
+        {
+            "track_id": "2GHcy8kvmWwgTuHaBh0OIk",
+            "track_name": "Worryin Kind",
+            "track_artist": "Josh Farrow",
+            "track_album": "Trouble Walks With Me",
+            "track_duration": 216040,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:30:02Z",
+            "uri": "spotify:track:2GHcy8kvmWwgTuHaBh0OIk"
+        },
+        {
+            "track_id": "0BlWn4ZadRmT6Ksnvzc7Jp",
+            "track_name": "Don't Know Who I Am",
+            "track_artist": "Rebecca Roubion",
+            "track_album": "Sleepless Nights",
+            "track_duration": 140034,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:34:09Z",
+            "uri": "spotify:track:0BlWn4ZadRmT6Ksnvzc7Jp"
+        },
+        {
+            "track_id": "5xNpsWUHMrBvWNiQc3HAiK",
+            "track_name": "Change On The Rise",
+            "track_artist": "Avi Kaplan",
+            "track_album": "I'll Get By",
+            "track_duration": 240800,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:37:18Z",
+            "uri": "spotify:track:5xNpsWUHMrBvWNiQc3HAiK"
+        },
+        {
+            "track_id": "6uQn7dAD9rk1gmr20gumXz",
+            "track_name": "Got Your Number",
+            "track_artist": "Serena Ryder",
+            "track_album": "Utopia (Deluxe)",
+            "track_duration": 187266,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:42:42Z",
+            "uri": "spotify:track:6uQn7dAD9rk1gmr20gumXz"
+        },
+        {
+            "track_id": "3zIEvMYvCM0jiszho8jaFH",
+            "track_name": "Stompa",
+            "track_artist": "Serena Ryder",
+            "track_album": "Harmony (Deluxe)",
+            "track_duration": 221746,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:45:07Z",
+            "uri": "spotify:track:3zIEvMYvCM0jiszho8jaFH"
+        },
+        {
+            "track_id": "09rAqsUGWjqNEHna4aXBrk",
+            "track_name": "Bourbon Street",
+            "track_artist": "Jeff Tuohy",
+            "track_album": "Cocoon",
+            "track_duration": 169200,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:48:16Z",
+            "uri": "spotify:track:09rAqsUGWjqNEHna4aXBrk"
+        },
+        {
+            "track_id": "078DiVi4gPWnjMGKlP9tLT",
+            "track_name": "I Need to Go Somewhere",
+            "track_artist": "Drew Holcomb & The Neighbors",
+            "track_album": "I Need to Go Somewhere",
+            "track_duration": 158253,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:51:59Z",
+            "uri": "spotify:track:078DiVi4gPWnjMGKlP9tLT"
+        },
+        {
+            "track_id": "79qxqRPrbOCbD6I9FnVaib",
+            "track_name": "Trouble Don't",
+            "track_artist": "AG",
+            "track_album": "Trouble Don't",
+            "track_duration": 149525,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:54:29Z",
+            "uri": "spotify:track:79qxqRPrbOCbD6I9FnVaib"
+        },
+        {
+            "track_id": "1Ap29R9m0UyLBH2uJHpcTy",
+            "track_name": "Make a Sound",
+            "track_artist": "Bruce Peninsula",
+            "track_album": "No Earthly Sound",
+            "track_duration": 201338,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T18:58:30Z",
+            "uri": "spotify:track:1Ap29R9m0UyLBH2uJHpcTy"
+        },
+        {
+            "track_id": "0quTatZyPt0RKBGLrwHyUZ",
+            "track_name": "Blood in the Water",
+            "track_artist": "Layup",
+            "track_album": "Blood in the Water",
+            "track_duration": 193745,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T19:00:23Z",
+            "uri": "spotify:track:0quTatZyPt0RKBGLrwHyUZ"
+        },
+        {
+            "track_id": "0ZFuiyDETaNNLp4cNVVYVL",
+            "track_name": "Wild",
+            "track_artist": "LOLO",
+            "track_album": "Wild",
+            "track_duration": 150782,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T19:01:52Z",
+            "uri": "spotify:track:0ZFuiyDETaNNLp4cNVVYVL"
+        },
+        {
+            "track_id": "5Wih3ZX2ECE2Dv8kaQnA5V",
+            "track_name": "Bring It On",
+            "track_artist": "ZOI",
+            "track_album": "Bring It On",
+            "track_duration": 160870,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-19T19:03:55Z",
+            "uri": "spotify:track:5Wih3ZX2ECE2Dv8kaQnA5V"
+        },
+        {
+            "track_id": "7cwFLQokUMwJUQUD9hbRxd",
+            "track_name": "Better Than Your Memory",
+            "track_artist": "Hayden Haddock",
+            "track_album": "Better Than Your Memory",
+            "track_duration": 185967,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-22T06:53:08Z",
+            "uri": "spotify:track:7cwFLQokUMwJUQUD9hbRxd"
+        },
+        {
+            "track_id": "2xPCu0CWSKDMa2w28yt9D5",
+            "track_name": "I'm the One That Aint Coming Back",
+            "track_artist": "Gabe Garcia",
+            "track_album": "One More Memory for the Road",
+            "track_duration": 264206,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-22T06:58:04Z",
+            "uri": "spotify:track:2xPCu0CWSKDMa2w28yt9D5"
+        },
+        {
+            "track_id": "2bKKIHntnnP4bJsaKlZoAG",
+            "track_name": "Missing",
+            "track_artist": "Gabe Garcia",
+            "track_album": "Missing",
+            "track_duration": 243026,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-22T07:00:56Z",
+            "uri": "spotify:track:2bKKIHntnnP4bJsaKlZoAG"
+        },
+        {
+            "track_id": "5Fleg1XWLGqswcZMzz34ao",
+            "track_name": "Meant to Be",
+            "track_artist": "Sasha McVeigh",
+            "track_album": "Meant to Be",
+            "track_duration": 194085,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-22T07:17:06Z",
+            "uri": "spotify:track:5Fleg1XWLGqswcZMzz34ao"
+        },
+        {
+            "track_id": "4uzkxvMRxOYs6gkI7qbe8o",
+            "track_name": "Run Out",
+            "track_artist": "Buck Twenty",
+            "track_album": "Run Out",
+            "track_duration": 148733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-22T07:20:43Z",
+            "uri": "spotify:track:4uzkxvMRxOYs6gkI7qbe8o"
+        },
+        {
+            "track_id": "2aq1oBnP7Q176mZw5P6eUk",
+            "track_name": "Get Rhythm",
+            "track_artist": "Johnny Cash",
+            "track_album": "Greatest",
+            "track_duration": 132970,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-23T13:42:44Z",
+            "uri": "spotify:track:2aq1oBnP7Q176mZw5P6eUk"
+        },
+        {
+            "track_id": "2rjeRpzY5eKn2zZMwAfuod",
+            "track_name": "A Thousand Miles from Nowhere",
+            "track_artist": "Dwight Yoakam",
+            "track_album": "This Time",
+            "track_duration": 268386,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-23T15:02:38Z",
+            "uri": "spotify:track:2rjeRpzY5eKn2zZMwAfuod"
+        },
+        {
+            "track_id": "6FevJcaJvt5EvsHnuJHBnb",
+            "track_name": "Fast as You",
+            "track_artist": "Dwight Yoakam",
+            "track_album": "This Time",
+            "track_duration": 285200,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-23T15:07:57Z",
+            "uri": "spotify:track:6FevJcaJvt5EvsHnuJHBnb"
+        },
+        {
+            "track_id": "5ff5mzTNa8c9srS3Eck6KN",
+            "track_name": "Leaving Louisiana In The Broad Daylight",
+            "track_artist": "The Oak Ridge Boys",
+            "track_album": "Oak Ridge Boys Collection",
+            "track_duration": 178733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-02T17:11:05Z",
+            "uri": "spotify:track:5ff5mzTNa8c9srS3Eck6KN"
+        },
+        {
+            "track_id": "1lCTSaEInMuOGlL7VHfm7C",
+            "track_name": "Tijuana Gal",
+            "track_artist": "Josh Farrow",
+            "track_album": "Trouble Walks With Me",
+            "track_duration": 196533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-02T20:04:57Z",
+            "uri": "spotify:track:1lCTSaEInMuOGlL7VHfm7C"
+        },
+        {
+            "track_id": "2D8EYXeyOB6ATgfGpKJpK2",
+            "track_name": "Who's Gonna Love You When I'm Gone",
+            "track_artist": "Josh Farrow",
+            "track_album": "Trouble Walks With Me",
+            "track_duration": 219920,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-02T20:08:02Z",
+            "uri": "spotify:track:2D8EYXeyOB6ATgfGpKJpK2"
+        },
+        {
+            "track_id": "18IemYk3lpfHr2rMXZfKFJ",
+            "track_name": "One by One",
+            "track_artist": "Hayden Haddock",
+            "track_album": "Red Dirt Texas",
+            "track_duration": 236226,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-22T00:53:40Z",
+            "uri": "spotify:track:18IemYk3lpfHr2rMXZfKFJ"
+        },
+        {
+            "track_id": "4yugZvBYaoREkJKtbG08Qr",
+            "track_name": "Take It Easy - 2013 Remaster",
+            "track_artist": "Eagles",
+            "track_album": "Eagles (2013 Remaster)",
+            "track_duration": 211577,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-24T18:06:42Z",
+            "uri": "spotify:track:4yugZvBYaoREkJKtbG08Qr"
+        },
+        {
+            "track_id": "6GnPpKPJHe7WBtY4eFFFuN",
+            "track_name": "Long Walk Back To San Antone",
+            "track_artist": "Junior Brown",
+            "track_album": "Long Walk Back",
+            "track_duration": 213440,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-24T18:08:49Z",
+            "uri": "spotify:track:6GnPpKPJHe7WBtY4eFFFuN"
+        },
+        {
+            "track_id": "0TdxyXEUkq08bRRGmAyqJv",
+            "track_name": "Pop a Top",
+            "track_artist": "Alan Jackson",
+            "track_album": "Under The Influence",
+            "track_duration": 185333,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-24T18:25:14Z",
+            "uri": "spotify:track:0TdxyXEUkq08bRRGmAyqJv"
+        },
+        {
+            "track_id": "0Xg68XXMRWzKQvD5S6BFvI",
+            "track_name": "Dust On The Bottle",
+            "track_artist": "David Lee Murphy",
+            "track_album": "Out With A Bang",
+            "track_duration": 224666,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-24T19:26:54Z",
+            "uri": "spotify:track:0Xg68XXMRWzKQvD5S6BFvI"
+        },
+        {
+            "track_id": "1ipcb9qXpSHWhSUvdxJhsx",
+            "track_name": "Forever and Ever, Amen",
+            "track_artist": "Randy Travis",
+            "track_album": "Always & Forever",
+            "track_duration": 212640,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-24T19:46:41Z",
+            "uri": "spotify:track:1ipcb9qXpSHWhSUvdxJhsx"
+        },
+        {
+            "track_id": "6XixumK1atNVgBVoqpNvAg",
+            "track_name": "Pretty Polly",
+            "track_artist": "Vandaveer",
+            "track_album": "Oh, Willie, Please...",
+            "track_duration": 228958,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T00:31:40Z",
+            "uri": "spotify:track:6XixumK1atNVgBVoqpNvAg"
+        },
+        {
+            "track_id": "2PgK1O7JF8trLCW5tCR2zB",
+            "track_name": "I'm the Only Hell (Mama Ever Raised)",
+            "track_artist": "Johnny Paycheck",
+            "track_album": "Slide off Your Satin Sheets",
+            "track_duration": 189040,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T00:37:17Z",
+            "uri": "spotify:track:2PgK1O7JF8trLCW5tCR2zB"
+        },
+        {
+            "track_id": "4nDSp3EfqukajqqtEEibhr",
+            "track_name": "Leavin' Amarillo",
+            "track_artist": "Shaver",
+            "track_album": "The Earth Rolls On",
+            "track_duration": 217466,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T00:42:30Z",
+            "uri": "spotify:track:4nDSp3EfqukajqqtEEibhr"
+        },
+        {
+            "track_id": "22j5038LQw4E7h8cA1ym8A",
+            "track_name": "Amtrak",
+            "track_artist": "Billy Joe Shaver",
+            "track_album": "Billy Joe Shaver",
+            "track_duration": 175706,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T00:49:56Z",
+            "uri": "spotify:track:22j5038LQw4E7h8cA1ym8A"
+        },
+        {
+            "track_id": "2dWCrXAgzncrnIOEzMTF8l",
+            "track_name": "Set \"Em Up Joe",
+            "track_artist": "Vern Gosdin",
+            "track_album": "Super Hits",
+            "track_duration": 146133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T04:17:16Z",
+            "uri": "spotify:track:2dWCrXAgzncrnIOEzMTF8l"
+        },
+        {
+            "track_id": "43UV5Uk0ntzH6MP8Rx1RKh",
+            "track_name": "The Devil Wears a Suit and Tie",
+            "track_artist": "Colter Wall",
+            "track_album": "Imaginary Appalachia",
+            "track_duration": 236026,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T04:29:31Z",
+            "uri": "spotify:track:43UV5Uk0ntzH6MP8Rx1RKh"
+        },
+        {
+            "track_id": "7b8RDXtvuGMjSCa8NcWeCP",
+            "track_name": "Georgia on a Fast Train",
+            "track_artist": "Shaver",
+            "track_album": "Shaver's Jewels (The Best of Shaver)",
+            "track_duration": 191666,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T05:00:54Z",
+            "uri": "spotify:track:7b8RDXtvuGMjSCa8NcWeCP"
+        },
+        {
+            "track_id": "27IdM7EFM2qveGJiaofrtf",
+            "track_name": "Mama Knows The Highway",
+            "track_artist": "Hal Ketchum",
+            "track_album": "Sure Love",
+            "track_duration": 257533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T15:10:32Z",
+            "uri": "spotify:track:27IdM7EFM2qveGJiaofrtf"
+        },
+        {
+            "track_id": "0zvNHIL7ci0ZzIoWU6RO2u",
+            "track_name": "I Love a Rainy Night",
+            "track_artist": "Eddie Rabbitt",
+            "track_album": "All Time Greatest Hits",
+            "track_duration": 191066,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T15:21:29Z",
+            "uri": "spotify:track:0zvNHIL7ci0ZzIoWU6RO2u"
+        },
+        {
+            "track_id": "1Mf27cnAF1Q6Ko83XTM5d1",
+            "track_name": "Glitter & Gold",
+            "track_artist": "Barns Courtney",
+            "track_album": "The Attractions Of Youth",
+            "track_duration": 176093,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T15:30:02Z",
+            "uri": "spotify:track:1Mf27cnAF1Q6Ko83XTM5d1"
+        },
+        {
+            "track_id": "6CQWLysAbVpEMFTMPJ6aVq",
+            "track_name": "Georgia On a Fast Train - Live",
+            "track_artist": "Billy Joe Shaver",
+            "track_album": "Texas Outlaws",
+            "track_duration": 245106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T00:34:20Z",
+            "uri": "spotify:track:6CQWLysAbVpEMFTMPJ6aVq"
+        },
+        {
+            "track_id": "6Xq9rdROPIMvymi6ob7XkP",
+            "track_name": "He Sings for Mary",
+            "track_artist": "Hayden Haddock",
+            "track_album": "He Sings for Mary",
+            "track_duration": 219789,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T00:47:07Z",
+            "uri": "spotify:track:6Xq9rdROPIMvymi6ob7XkP"
+        },
+        {
+            "track_id": "5DQU4Fmdx7Hs7pwtcZMSTK",
+            "track_name": "The Painter",
+            "track_artist": "Cody Johnson",
+            "track_album": "Leather",
+            "track_duration": 211413,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T00:52:25Z",
+            "uri": "spotify:track:5DQU4Fmdx7Hs7pwtcZMSTK"
+        },
+        {
+            "track_id": "7vLzS4QoDV2wP9zfvdhVgd",
+            "track_name": "Like She Does",
+            "track_artist": "Wynn Williams",
+            "track_album": "Your Love",
+            "track_duration": 228557,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T00:57:11Z",
+            "uri": "spotify:track:7vLzS4QoDV2wP9zfvdhVgd"
+        },
+        {
+            "track_id": "115CHmW7Y3cRC0qYZyeUGM",
+            "track_name": "Settle for a Beer (with Triston Marez)",
+            "track_artist": "Triston Marez",
+            "track_album": "Settle for a Beer (with Triston Marez)",
+            "track_duration": 174327,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T01:00:46Z",
+            "uri": "spotify:track:115CHmW7Y3cRC0qYZyeUGM"
+        },
+        {
+            "track_id": "3JdYaC2tRhh6VTTEQcccvM",
+            "track_name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Some Day)",
+            "track_artist": "John Anderson",
+            "track_album": "Greatest Hits",
+            "track_duration": 227080,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T02:48:57Z",
+            "uri": "spotify:track:3JdYaC2tRhh6VTTEQcccvM"
+        },
+        {
+            "track_id": "4uHqnkz6Nxpkw5DvuworSV",
+            "track_name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday) - Live at Exit Inn, Nashville, Tenn",
+            "track_artist": "Johnny Cash",
+            "track_album": "Bootleg Vol. III: Live Around The World",
+            "track_duration": 150440,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T05:16:16Z",
+            "uri": "spotify:track:4uHqnkz6Nxpkw5DvuworSV"
+        },
+        {
+            "track_id": "2op0kDNARK2VHWHntEeH4g",
+            "track_name": "Just To See You Smile",
+            "track_artist": "Tim McGraw",
+            "track_album": "Everywhere",
+            "track_duration": 215173,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T05:42:50Z",
+            "uri": "spotify:track:2op0kDNARK2VHWHntEeH4g"
+        },
+        {
+            "track_id": "5lqdap8Wuk75QYNWEq69dJ",
+            "track_name": "Your Love",
+            "track_artist": "Wynn Williams",
+            "track_album": "Your Love",
+            "track_duration": 195031,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T15:30:16Z",
+            "uri": "spotify:track:5lqdap8Wuk75QYNWEq69dJ"
+        },
+        {
+            "track_id": "45zZXXsEzrcO99XSwqlZIe",
+            "track_name": "All Over Me",
+            "track_artist": "Wynn Williams",
+            "track_album": "Your Love",
+            "track_duration": 186051,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T15:30:19Z",
+            "uri": "spotify:track:45zZXXsEzrcO99XSwqlZIe"
+        },
+        {
+            "track_id": "3fqwjXwUGN6vbzIwvyFMhx",
+            "track_name": "Tennessee Whiskey",
+            "track_artist": "Chris Stapleton",
+            "track_album": "Traveller",
+            "track_duration": 293293,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T00:32:51Z",
+            "uri": "spotify:track:3fqwjXwUGN6vbzIwvyFMhx"
+        },
+        {
+            "track_id": "05ZACkzW8YbRq3eFgIfSNB",
+            "track_name": "Springsteen",
+            "track_artist": "Eric Church",
+            "track_album": "Chief",
+            "track_duration": 263386,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T00:37:11Z",
+            "uri": "spotify:track:05ZACkzW8YbRq3eFgIfSNB"
+        },
+        {
+            "track_id": "4Az17HfqonKSWNsaLgTBeK",
+            "track_name": "If I Told You",
+            "track_artist": "Darius Rucker",
+            "track_album": "When Was The Last Time",
+            "track_duration": 212320,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T00:41:26Z",
+            "uri": "spotify:track:4Az17HfqonKSWNsaLgTBeK"
+        },
+        {
+            "track_id": "07NRJ7TdZHv6x6oN5ag3HV",
+            "track_name": "Fires Don't Start Themselves",
+            "track_artist": "Darius Rucker",
+            "track_album": "Carolyn's Boy",
+            "track_duration": 226546,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T00:42:54Z",
+            "uri": "spotify:track:07NRJ7TdZHv6x6oN5ag3HV"
+        },
+        {
+            "track_id": "53ZBmg56GgjwPWvZQVa1ME",
+            "track_name": "Hank Williams Lonesome",
+            "track_artist": "Gord Bamford",
+            "track_album": "Day Job",
+            "track_duration": 160173,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T00:59:44Z",
+            "uri": "spotify:track:53ZBmg56GgjwPWvZQVa1ME"
+        },
+        {
+            "track_id": "6CndOcAbhE3b8WpSe6uykK",
+            "track_name": "Put Some Alcohol on It",
+            "track_artist": "Gord Bamford",
+            "track_album": "Day Job",
+            "track_duration": 161520,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T01:03:24Z",
+            "uri": "spotify:track:6CndOcAbhE3b8WpSe6uykK"
+        },
+        {
+            "track_id": "0p1HtkrNYxv0iDfEKwXSTp",
+            "track_name": "Sangria",
+            "track_artist": "Blake Shelton",
+            "track_album": "BRINGING BACK THE SUNSHINE",
+            "track_duration": 233480,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T01:05:12Z",
+            "uri": "spotify:track:0p1HtkrNYxv0iDfEKwXSTp"
+        },
+        {
+            "track_id": "0O1x2tRm8ZpfDbcpOWZp7z",
+            "track_name": "American Country Love Song",
+            "track_artist": "Jake Owen",
+            "track_album": "American Love",
+            "track_duration": 199746,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T01:10:07Z",
+            "uri": "spotify:track:0O1x2tRm8ZpfDbcpOWZp7z"
+        },
+        {
+            "track_id": "34SQ0QfLSR316d8KL2zkuZ",
+            "track_name": "With You I Am",
+            "track_artist": "Cody Johnson",
+            "track_album": "Gotta Be Me",
+            "track_duration": 220893,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T01:13:44Z",
+            "uri": "spotify:track:34SQ0QfLSR316d8KL2zkuZ"
+        },
+        {
+            "track_id": "3yvkResQ3yrNa1zwIGtvIt",
+            "track_name": "Like the Wind",
+            "track_artist": "Wynn Williams",
+            "track_album": "Your Love",
+            "track_duration": 194770,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T19:15:49Z",
+            "uri": "spotify:track:3yvkResQ3yrNa1zwIGtvIt"
+        },
+        {
+            "track_id": "2QluBOvyNrvSCH9NdGI8Jm",
+            "track_name": "I Love Her for Leaving",
+            "track_artist": "Wynn Williams",
+            "track_album": "Your Love",
+            "track_duration": 217975,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-28T19:18:48Z",
+            "uri": "spotify:track:2QluBOvyNrvSCH9NdGI8Jm"
+        },
+        {
+            "track_id": "58UKC45GPNTflCN6nwCUeF",
+            "track_name": "Fancy Like",
+            "track_artist": "Walker Hayes",
+            "track_album": "Country Stuff The Album",
+            "track_duration": 161853,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T18:09:00Z",
+            "uri": "spotify:track:58UKC45GPNTflCN6nwCUeF"
+        },
+        {
+            "track_id": "7aEtlGHoiPAfRB084NiDmx",
+            "track_name": "Beer Never Broke My Heart",
+            "track_artist": "Luke Combs",
+            "track_album": "What You See Is What You Get",
+            "track_duration": 186733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T18:10:33Z",
+            "uri": "spotify:track:7aEtlGHoiPAfRB084NiDmx"
+        },
+        {
+            "track_id": "3oW6SWwGqiZSPTiAp7ZQoH",
+            "track_name": "It's A Great Day To Be Alive",
+            "track_artist": "Travis Tritt",
+            "track_album": "Down The Road I Go",
+            "track_duration": 241533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T18:13:21Z",
+            "uri": "spotify:track:3oW6SWwGqiZSPTiAp7ZQoH"
+        },
+        {
+            "track_id": "7u6kAP26NFU2rwNKjFUpI8",
+            "track_name": "I Was On a Boat That Day",
+            "track_artist": "Old Dominion",
+            "track_album": "Time, Tequila & Therapy",
+            "track_duration": 178680,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T18:14:56Z",
+            "uri": "spotify:track:7u6kAP26NFU2rwNKjFUpI8"
+        },
+        {
+            "track_id": "2rQyI7A1yTvTXJ9J4qFmmN",
+            "track_name": "Mud On the Tires",
+            "track_artist": "Brad Paisley",
+            "track_album": "Hits Alive",
+            "track_duration": 206720,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T19:21:25Z",
+            "uri": "spotify:track:2rQyI7A1yTvTXJ9J4qFmmN"
+        },
+        {
+            "track_id": "5jROdl6MhcmP3O7h2sVgtw",
+            "track_name": "Parachute",
+            "track_artist": "Chris Stapleton",
+            "track_album": "Traveller",
+            "track_duration": 253200,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T19:23:22Z",
+            "uri": "spotify:track:5jROdl6MhcmP3O7h2sVgtw"
+        },
+        {
+            "track_id": "143YESFOZqxVGrKEWisbid",
+            "track_name": "I'm Not For Everyone",
+            "track_artist": "Brothers Osborne",
+            "track_album": "Skeletons",
+            "track_duration": 172106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T19:25:49Z",
+            "uri": "spotify:track:143YESFOZqxVGrKEWisbid"
+        },
+        {
+            "track_id": "3K07bGe8iljQ3mOKArHLDo",
+            "track_name": "Starting Over",
+            "track_artist": "Chris Stapleton",
+            "track_album": "Starting Over",
+            "track_duration": 240413,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-02T19:29:47Z",
+            "uri": "spotify:track:3K07bGe8iljQ3mOKArHLDo"
+        },
+        {
+            "track_id": "1mMLMZYXkMueg65jRRWG1l",
+            "track_name": "When It Rains It Pours",
+            "track_artist": "Luke Combs",
+            "track_album": "This One's for You",
+            "track_duration": 240760,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T18:46:06Z",
+            "uri": "spotify:track:1mMLMZYXkMueg65jRRWG1l"
+        },
+        {
+            "track_id": "60IGhnH20N82dNxKnc8jDd",
+            "track_name": "Knee Deep (feat. Jimmy Buffett)",
+            "track_artist": "Zac Brown Band",
+            "track_album": "You Get What You Give",
+            "track_duration": 203173,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T18:51:33Z",
+            "uri": "spotify:track:60IGhnH20N82dNxKnc8jDd"
+        },
+        {
+            "track_id": "65UCejW01DAovmluVYHWAt",
+            "track_name": "As She's Walking Away (feat. Alan Jackson)",
+            "track_artist": "Zac Brown Band",
+            "track_album": "You Get What You Give",
+            "track_duration": 223826,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T18:53:40Z",
+            "uri": "spotify:track:65UCejW01DAovmluVYHWAt"
+        },
+        {
+            "track_id": "7B2ETOSXeXPfWQl4gLjcat",
+            "track_name": "Keep Me in Mind",
+            "track_artist": "Zac Brown Band",
+            "track_album": "You Get What You Give",
+            "track_duration": 214106,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T18:54:36Z",
+            "uri": "spotify:track:7B2ETOSXeXPfWQl4gLjcat"
+        },
+        {
+            "track_id": "51GLLm1PTHfddgSqrs347e",
+            "track_name": "Look What Followed Me Home",
+            "track_artist": "David Ball",
+            "track_album": "Thinkin' Problem",
+            "track_duration": 178733,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:02:27Z",
+            "uri": "spotify:track:51GLLm1PTHfddgSqrs347e"
+        },
+        {
+            "track_id": "3ucCQjfd4LnqZ7tFT0LtmG",
+            "track_name": "The Kick",
+            "track_artist": "Diamond Rio",
+            "track_album": "The Kick",
+            "track_duration": 152875,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:04:11Z",
+            "uri": "spotify:track:3ucCQjfd4LnqZ7tFT0LtmG"
+        },
+        {
+            "track_id": "0ZfLFldhoCYY5McK1ZyLVN",
+            "track_name": "Stand On It",
+            "track_artist": "Mel McDaniel",
+            "track_album": "Just Can't Sit Down Music",
+            "track_duration": 158760,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-12-10T19:04:45Z",
+            "uri": "spotify:track:0ZfLFldhoCYY5McK1ZyLVN"
         }
     ]
 }
