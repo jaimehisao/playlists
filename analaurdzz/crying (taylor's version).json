@@ -342,26 +342,6 @@
             "uri": "spotify:track:3pHkh7d0lzM2AldUtz2x37"
         },
         {
-            "track_id": "5gRYrtvyVyaCRvLt56OfuV",
-            "track_name": "I Wish You Would",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 207440,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:40:02Z",
-            "uri": "spotify:track:5gRYrtvyVyaCRvLt56OfuV"
-        },
-        {
-            "track_id": "1NmVZsG18CzCAtw7rnV3yA",
-            "track_name": "Clean",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 271000,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-06-22T16:40:06Z",
-            "uri": "spotify:track:1NmVZsG18CzCAtw7rnV3yA"
-        },
-        {
             "track_id": "2TF4UtYreqNbQ6Z9AccldU",
             "track_name": "Teardrops On My Guitar - Radio Single Remix",
             "track_artist": "Taylor Swift",
@@ -490,6 +470,76 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-11T15:28:50Z",
             "uri": "spotify:track:0kAZ3H6G9Zac4PMpmobMkj"
+        },
+        {
+            "track_id": "43y1WpBdnEy5TR9aZoSQL9",
+            "track_name": "I Wish You Would (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 207650,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:15:16Z",
+            "uri": "spotify:track:43y1WpBdnEy5TR9aZoSQL9"
+        },
+        {
+            "track_id": "2ByBBvpR9b7IynvRmnG7kG",
+            "track_name": "Clean (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 271000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:15:20Z",
+            "uri": "spotify:track:2ByBBvpR9b7IynvRmnG7kG"
+        },
+        {
+            "track_id": "4NioO5R9sHEZh4cGzMHyNt",
+            "track_name": "Say Don't Go (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 279833,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:15:23Z",
+            "uri": "spotify:track:4NioO5R9sHEZh4cGzMHyNt"
+        },
+        {
+            "track_id": "1Iq8oo9XkmmvCQiGOfORiz",
+            "track_name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 229477,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:15:26Z",
+            "uri": "spotify:track:1Iq8oo9XkmmvCQiGOfORiz"
+        },
+        {
+            "track_id": "12M5uqx0ZuwkpLp5rJim1a",
+            "track_name": "Cornelia Street",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 287266,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-04T18:43:18Z",
+            "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a"
+        },
+        {
+            "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
+            "track_name": "Death By A Thousand Cuts",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 198533,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-04T18:43:20Z",
+            "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+        },
+        {
+            "track_id": "3CWq0pAKKTWb0K4yiglDc4",
+            "track_name": "You\u2019re Losing Me (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "You're Losing Me (From The Vault)",
+            "track_duration": 277831,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-30T00:42:40Z",
+            "uri": "spotify:track:3CWq0pAKKTWb0K4yiglDc4"
         }
     ]
 }
