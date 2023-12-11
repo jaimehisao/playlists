@@ -1270,6 +1270,36 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-08-21T23:29:00Z",
             "uri": "spotify:track:4UZnuQKIE6lQHJjTU8OViS"
+        },
+        {
+            "track_id": "5w6B0sAH7XauCvMOAtplQj",
+            "track_name": "Fire",
+            "track_artist": "Barns Courtney",
+            "track_album": "The Attractions Of Youth",
+            "track_duration": 197520,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T15:35:05Z",
+            "uri": "spotify:track:5w6B0sAH7XauCvMOAtplQj"
+        },
+        {
+            "track_id": "3HFvMIvCBNGkypFCQUHjyV",
+            "track_name": "Supernatural",
+            "track_artist": "Barns Courtney",
+            "track_album": "Supernatural",
+            "track_duration": 167287,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T15:37:20Z",
+            "uri": "spotify:track:3HFvMIvCBNGkypFCQUHjyV"
+        },
+        {
+            "track_id": "0FNLnZRNWEIbGsb8jkU2lv",
+            "track_name": "Champion",
+            "track_artist": "Barns Courtney",
+            "track_album": "The Attractions Of Youth",
+            "track_duration": 190360,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T15:39:17Z",
+            "uri": "spotify:track:0FNLnZRNWEIbGsb8jkU2lv"
         }
     ]
 }
