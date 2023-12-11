@@ -1,0 +1,35 @@
+{
+    "id": "4NDIL2sIPtTpDX4ikJ5Sth",
+    "tracks": [
+        {
+            "track_id": "5h6X58YJWSm4VQIDDq5OHA",
+            "track_name": "Streets of Rabanastre - Zodiac Age Version",
+            "track_artist": "\u5d0e\u5143\u4ec1",
+            "track_album": "FINAL FANTASY XII THE ZODIAC AGE ORIGINAL SOUNDTRACK",
+            "track_duration": 356624,
+            "track_added_by": "1297451658",
+            "track_added_at": "2023-11-27T15:44:58Z",
+            "uri": "spotify:track:5h6X58YJWSm4VQIDDq5OHA"
+        },
+        {
+            "track_id": "7GOdVx9B0JWksYUWV5bhu7",
+            "track_name": "Shelter",
+            "track_artist": "Masayoshi Soken",
+            "track_album": "Heavensward: FINAL FANTASY XIV Original Soundtrack",
+            "track_duration": 67484,
+            "track_added_by": "1297451658",
+            "track_added_at": "2023-11-27T15:51:40Z",
+            "uri": "spotify:track:7GOdVx9B0JWksYUWV5bhu7"
+        },
+        {
+            "track_id": "3cPtZw0oqMEkKlGSF0SLkc",
+            "track_name": "Hammond Song",
+            "track_artist": "The Roches",
+            "track_album": "The Roches",
+            "track_duration": 345200,
+            "track_added_by": "1297451658",
+            "track_added_at": "2023-12-01T12:11:23Z",
+            "uri": "spotify:track:3cPtZw0oqMEkKlGSF0SLkc"
+        }
+    ]
+}
