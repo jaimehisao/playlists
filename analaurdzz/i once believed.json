@@ -103,7 +103,7 @@
         },
         {
             "track_id": "1htQs0WEb5t0nojFwBQyuT",
-            "track_name": "Tan S\u00f3lo un Minuto",
+            "track_name": "Tan Solo un Minuto",
             "track_artist": "R\u00edo Roma",
             "track_album": "Al Fin Te Encontr\u00e9",
             "track_duration": 205706,
@@ -1402,26 +1402,6 @@
             "uri": "spotify:track:4LGJ2pLDvTRnul3EcZoYkX"
         },
         {
-            "track_id": "0sY6ZUTh4yoctD8VIXz339",
-            "track_name": "champagne problems",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore",
-            "track_duration": 244000,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2020-12-15T22:08:09Z",
-            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
-        },
-        {
-            "track_id": "19CSr8rwW05VJL2F91KFNK",
-            "track_name": "ivy",
-            "track_artist": "Taylor Swift",
-            "track_album": "evermore",
-            "track_duration": 260440,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2020-12-15T22:40:06Z",
-            "uri": "spotify:track:19CSr8rwW05VJL2F91KFNK"
-        },
-        {
             "track_id": "0yEVCg6MfnBFvtbNxe2spZ",
             "track_name": "I Will Show You Love",
             "track_artist": "Kendall Payne",
@@ -1570,6 +1550,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2022-05-20T13:07:28Z",
             "uri": "spotify:track:1mw0RgNXIpYRyyCdBQbLgA"
+        },
+        {
+            "track_id": "6MhKWuDqaRMCVuGFR5cVNe",
+            "track_name": "Fools in Love",
+            "track_artist": "Inara George",
+            "track_album": "All Rise",
+            "track_duration": 282160,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-09T03:57:47Z",
+            "uri": "spotify:track:6MhKWuDqaRMCVuGFR5cVNe"
         }
     ]
 }
