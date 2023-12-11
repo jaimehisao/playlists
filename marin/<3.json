@@ -122,36 +122,6 @@
             "uri": "spotify:track:6zwhKdzJ4NXdY4HLU7pjns"
         },
         {
-            "track_id": "0TCgYIbphnGDyOrdTHRvtJ",
-            "track_name": "Robarle tiempo al tiempo",
-            "track_artist": "Caf\u00e9 Quijano",
-            "track_album": "Or\u00edgenes: El Bolero Volumen 2",
-            "track_duration": 252656,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-03T14:07:33Z",
-            "uri": "spotify:track:0TCgYIbphnGDyOrdTHRvtJ"
-        },
-        {
-            "track_id": "4dlJmzbFkjvut4QjJM8LPe",
-            "track_name": "Yo Te Necesito",
-            "track_artist": "Los Angeles Negros",
-            "track_album": "Todos Somos MAS",
-            "track_duration": 191906,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-05T12:44:07Z",
-            "uri": "spotify:track:4dlJmzbFkjvut4QjJM8LPe"
-        },
-        {
-            "track_id": "1PeBzEoE3YH1rD2BOJ8v9T",
-            "track_name": "Casualidad",
-            "track_artist": "Nelson Velasquez",
-            "track_album": "La Historia Contin\u00faa",
-            "track_duration": 292133,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-05T22:36:31Z",
-            "uri": "spotify:track:1PeBzEoE3YH1rD2BOJ8v9T"
-        },
-        {
             "track_id": "5pswRCml4PsxdmTHXt5qGB",
             "track_name": "Amor Profundo",
             "track_artist": "Julio Jaramillo",
@@ -160,16 +130,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2022-02-05T23:02:38Z",
             "uri": "spotify:track:5pswRCml4PsxdmTHXt5qGB"
-        },
-        {
-            "track_id": "1QjfU3jkGInap7Vm9lVJIQ",
-            "track_name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
-            "track_artist": "Los Aut\u00e9nticos Decadentes",
-            "track_album": "Fiesta Nacional (Mtv Unplugged)",
-            "track_duration": 312512,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-05T23:10:35Z",
-            "uri": "spotify:track:1QjfU3jkGInap7Vm9lVJIQ"
         },
         {
             "track_id": "1y2VxnSTMk39W8Y7gWZ5rr",
@@ -182,36 +142,6 @@
             "uri": "spotify:track:1y2VxnSTMk39W8Y7gWZ5rr"
         },
         {
-            "track_id": "4lmd6jUDk3bUWkID5w0CCA",
-            "track_name": "Estar Lejos",
-            "track_artist": "Fonseca",
-            "track_album": "Estar Lejos",
-            "track_duration": 247092,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-06T15:23:43Z",
-            "uri": "spotify:track:4lmd6jUDk3bUWkID5w0CCA"
-        },
-        {
-            "track_id": "2iXtZSokZMtYdnwP8Cp6et",
-            "track_name": "El Amor M\u00e1s Grande del Planeta",
-            "track_artist": "Felipe Pel\u00e1ez",
-            "track_album": "A Mi Manera",
-            "track_duration": 275186,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-10T06:45:14Z",
-            "uri": "spotify:track:2iXtZSokZMtYdnwP8Cp6et"
-        },
-        {
-            "track_id": "1IFLwV82NGH4DmdV6y8qPi",
-            "track_name": "Lo Mejor De Mis Ma\u00f1anas",
-            "track_artist": "Fidel Rueda",
-            "track_album": "Lo Mejor De Mis Ma\u00f1anas",
-            "track_duration": 200903,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-13T18:33:28Z",
-            "uri": "spotify:track:1IFLwV82NGH4DmdV6y8qPi"
-        },
-        {
             "track_id": "4msyEItsAavVb5pZYCuz4n",
             "track_name": "Tuyo y M\u00edo",
             "track_artist": "Camilo",
@@ -222,16 +152,6 @@
             "uri": "spotify:track:4msyEItsAavVb5pZYCuz4n"
         },
         {
-            "track_id": "2Vficy40iZyTKoAJNwLWzd",
-            "track_name": "Qu\u00e9 Bueno Es Tenerte",
-            "track_artist": "Natalia Jim\u00e9nez",
-            "track_album": "Qu\u00e9 Bueno Es Tenerte",
-            "track_duration": 205386,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-13T18:44:07Z",
-            "uri": "spotify:track:2Vficy40iZyTKoAJNwLWzd"
-        },
-        {
             "track_id": "5bP1RCdGcUxkwASwKAbPHa",
             "track_name": "No Paras de Hacerme Feliz",
             "track_artist": "La Fiera de Ojinaga",
@@ -240,16 +160,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2022-02-13T18:57:18Z",
             "uri": "spotify:track:5bP1RCdGcUxkwASwKAbPHa"
-        },
-        {
-            "track_id": "5DxEC5FJcjpxnOt14mwM39",
-            "track_name": "De Ti Me Enamor\u00e9",
-            "track_artist": "Banda El Recodo",
-            "track_album": "De Ti Me Enamor\u00e9",
-            "track_duration": 172386,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-02-13T18:59:06Z",
-            "uri": "spotify:track:5DxEC5FJcjpxnOt14mwM39"
         },
         {
             "track_id": "0WHNymCwaOZSgQSxFtkZWc",
@@ -312,16 +222,6 @@
             "uri": "spotify:track:16j4pxKza1V2AgayypfMzp"
         },
         {
-            "track_id": "7KcFlbQmzhVczGMor3Fhr9",
-            "track_name": "Por el Bulevar de los Sue\u00f1os Rotos",
-            "track_artist": "Joaqu\u00edn Sabina",
-            "track_album": "Esta Boca Es Mia",
-            "track_duration": 238573,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-03-04T13:00:51Z",
-            "uri": "spotify:track:7KcFlbQmzhVczGMor3Fhr9"
-        },
-        {
             "track_id": "798ahLNEcoFER7Vywg1FMT",
             "track_name": "A La Antig\u00fcita",
             "track_artist": "Calibre 50",
@@ -352,16 +252,6 @@
             "uri": "spotify:track:3StCElHKaN6ASLf7Pymdum"
         },
         {
-            "track_id": "3Y1Xr5Hfie9SDXPxIHSgbz",
-            "track_name": "Que Mas Puedo Pedir (Bonus Track)",
-            "track_artist": "Carin Leon",
-            "track_album": "In\u00e9dito",
-            "track_duration": 197107,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-03-18T15:08:51Z",
-            "uri": "spotify:track:3Y1Xr5Hfie9SDXPxIHSgbz"
-        },
-        {
             "track_id": "12xQ7IoHlz7qeCKaVaoj6L",
             "track_name": "Este Amor Tan Puro",
             "track_artist": "Carin Leon",
@@ -370,26 +260,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2022-03-18T15:12:02Z",
             "uri": "spotify:track:12xQ7IoHlz7qeCKaVaoj6L"
-        },
-        {
-            "track_id": "3SzJ5XTJhprRyHR3wIEfVc",
-            "track_name": "Si Soy Fiel",
-            "track_artist": "Carin Leon",
-            "track_album": "In\u00e9dito",
-            "track_duration": 156818,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-03-18T15:15:58Z",
-            "uri": "spotify:track:3SzJ5XTJhprRyHR3wIEfVc"
-        },
-        {
-            "track_id": "23ipg0GcfrpQtQfjPi347K",
-            "track_name": "Dios Bendiga Nuestro Amor",
-            "track_artist": "Marco Antonio Sol\u00eds",
-            "track_album": "Trozos De Mi Alma 2",
-            "track_duration": 233626,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-03-22T14:11:56Z",
-            "uri": "spotify:track:23ipg0GcfrpQtQfjPi347K"
         },
         {
             "track_id": "4RS8eU2TOrEvuvXXECr3iR",
@@ -532,16 +402,6 @@
             "uri": "spotify:track:41v23mPw4Se92JKUGvnkmW"
         },
         {
-            "track_id": "0NZHnjhoDxPr6CZxxIikYI",
-            "track_name": "Qui\u00e9n Te Cantar\u00e1 - Sinf\u00f3nico En Vivo",
-            "track_artist": "Mocedades",
-            "track_album": "Sinf\u00f3nico (Sinf\u00f3nico En Vivo)",
-            "track_duration": 192306,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-05-11T06:18:29Z",
-            "uri": "spotify:track:0NZHnjhoDxPr6CZxxIikYI"
-        },
-        {
             "track_id": "6GnHyBBUwSC0hvdi3G6ZVW",
             "track_name": "V\u00e1lgame Dios (with Antonio Orozco) - En Directo",
             "track_artist": "Ni\u00f1a Pastori",
@@ -652,16 +512,6 @@
             "uri": "spotify:track:5L8HLuokjsh3IIodgFIfZg"
         },
         {
-            "track_id": "1NirL6OIhmASx1jGKWcd2f",
-            "track_name": "Qui\u00e9reme Como Yo Te Quiero",
-            "track_artist": "Los Invasores De Nuevo Le\u00f3n",
-            "track_album": "15 \u00c9xitos",
-            "track_duration": 187346,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-07-17T18:14:42Z",
-            "uri": "spotify:track:1NirL6OIhmASx1jGKWcd2f"
-        },
-        {
             "track_id": "4ZL0omfHyzMCiuxZmy0cVU",
             "track_name": "Te Metiste",
             "track_artist": "Mariachi Continental de Mazatlan",
@@ -680,16 +530,6 @@
             "track_added_by": "1291740798",
             "track_added_at": "2022-07-17T18:27:18Z",
             "uri": "spotify:track:5TphzFf2iv0l3VrFHN08kN"
-        },
-        {
-            "track_id": "0f39eRFjSEPVWMEH8gQltN",
-            "track_name": "Idilio (En vivo) - Remasterizado",
-            "track_artist": "El Muso",
-            "track_album": "Leyendas de Cuba (En vivo) [Remasterizado]",
-            "track_duration": 360173,
-            "track_added_by": "1291740798",
-            "track_added_at": "2022-07-18T17:07:04Z",
-            "uri": "spotify:track:0f39eRFjSEPVWMEH8gQltN"
         },
         {
             "track_id": "2dSz2px33HmyFwL5rDlh2e",
@@ -880,6 +720,236 @@
             "track_added_by": "1291740798",
             "track_added_at": "2023-09-24T10:30:34Z",
             "uri": "spotify:track:5mYnrPNSzBZUpLtiaLbJ7s"
+        },
+        {
+            "track_id": "5BY0p2EH4EznNZ0MFD9mjt",
+            "track_name": "Me Enamora",
+            "track_artist": "Juanes",
+            "track_album": "La Vida Es Un Ratico",
+            "track_duration": 192613,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-02T17:51:10Z",
+            "uri": "spotify:track:5BY0p2EH4EznNZ0MFD9mjt"
+        },
+        {
+            "track_id": "7iNnPTqFvhpvOgHSigYeG8",
+            "track_name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
+            "track_artist": "Raviv Kaner",
+            "track_album": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
+            "track_duration": 179860,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-03T16:22:04Z",
+            "uri": "spotify:track:7iNnPTqFvhpvOgHSigYeG8"
+        },
+        {
+            "track_id": null,
+            "track_name": "(I Love You) Quietly, Almost Secretly - The Parvarim Duo",
+            "track_artist": "",
+            "track_album": "",
+            "track_duration": 204000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-10-03T16:37:09Z",
+            "uri": "spotify:local:::%28I+Love+You%29+Quietly%2C+Almost+Secretly+-+The+Parvarim+Duo:204"
+        },
+        {
+            "track_id": "5hXB7bqU2KWHhiSc8UWtLv",
+            "track_name": "Love You Inside Out",
+            "track_artist": "Bee Gees",
+            "track_album": "Mythology",
+            "track_duration": 249880,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-05T18:13:40Z",
+            "uri": "spotify:track:5hXB7bqU2KWHhiSc8UWtLv"
+        },
+        {
+            "track_id": "2njnOMDYMDVbvN97DVlmOW",
+            "track_name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da (\u05d1\u05e9\u05e7\u05d8, \u05db\u05de\u05e2\u05d8 \u05d1\u05e1\u05d5\u05d3)",
+            "track_artist": "Haparvarim",
+            "track_album": "(\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da) \u05d1\u05e9\u05e7\u05d8 \u05db\u05de\u05e2\u05d8 \u05d1\u05e1\u05d5\u05d3",
+            "track_duration": 201300,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-10T23:22:02Z",
+            "uri": "spotify:track:2njnOMDYMDVbvN97DVlmOW"
+        },
+        {
+            "track_id": "3KzgdYUlqV6TOG7JCmx2Wg",
+            "track_name": "Beyond the Sea",
+            "track_artist": "Bobby Darin",
+            "track_album": "That's All",
+            "track_duration": 172480,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-10T23:25:42Z",
+            "uri": "spotify:track:3KzgdYUlqV6TOG7JCmx2Wg"
+        },
+        {
+            "track_id": "4uDJdDSIARqTRf6qZhwYR6",
+            "track_name": "I Just Want To Be Your Everything",
+            "track_artist": "Andy Gibb",
+            "track_album": "Flowing Rivers",
+            "track_duration": 225666,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-10T23:32:10Z",
+            "uri": "spotify:track:4uDJdDSIARqTRf6qZhwYR6"
+        },
+        {
+            "track_id": "52hEx4MsZVWn3Sak5zaw88",
+            "track_name": "No Te Apartes de Mi (N\u00e3o Se Afaste de Mim)",
+            "track_artist": "Roberto Carlos",
+            "track_album": "L\u00ednea Azul - Vol. VI - La Guerra De Los Ni\u00f1os",
+            "track_duration": 255893,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-10T23:32:16Z",
+            "uri": "spotify:track:52hEx4MsZVWn3Sak5zaw88"
+        },
+        {
+            "track_id": "6p3yxt0uJJshAS3CT0znQg",
+            "track_name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
+            "track_artist": "Natalia Lafourcade",
+            "track_album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+            "track_duration": 244933,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-10T23:36:59Z",
+            "uri": "spotify:track:6p3yxt0uJJshAS3CT0znQg"
+        },
+        {
+            "track_id": "4PpuZIMmeng6qPicveSI22",
+            "track_name": "Beso",
+            "track_artist": "J\u00f3sean Log",
+            "track_album": "H\u00e1blate de M\u00ed",
+            "track_duration": 211021,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-10T23:50:44Z",
+            "uri": "spotify:track:4PpuZIMmeng6qPicveSI22"
+        },
+        {
+            "track_id": "0InXdsYe3yG2kml2tWb8A3",
+            "track_name": "It's Been a Long Long Time (Alternate Take)",
+            "track_artist": "Harry James",
+            "track_album": "The Incredible Harry James",
+            "track_duration": 187573,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-10T23:58:13Z",
+            "uri": "spotify:track:0InXdsYe3yG2kml2tWb8A3"
+        },
+        {
+            "track_id": "2xaHhKOr9Vy69Q2fxbOXz4",
+            "track_name": "An Everlasting Love",
+            "track_artist": "Andy Gibb",
+            "track_album": "Shadow Dancing",
+            "track_duration": 250360,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T00:34:52Z",
+            "uri": "spotify:track:2xaHhKOr9Vy69Q2fxbOXz4"
+        },
+        {
+            "track_id": "5NvOZCjZaGGGL597exlQWv",
+            "track_name": "Line Without a Hook",
+            "track_artist": "Ricky Montgomery",
+            "track_album": "Montgomery Ricky",
+            "track_duration": 249586,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T00:48:54Z",
+            "uri": "spotify:track:5NvOZCjZaGGGL597exlQWv"
+        },
+        {
+            "track_id": "33AAoOl6DIWwO2ll2bxpBq",
+            "track_name": "Cuando Estoy Contigo",
+            "track_artist": "Celia Cruz",
+            "track_album": "A Todos Mis Amigos",
+            "track_duration": 146893,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T00:59:50Z",
+            "uri": "spotify:track:33AAoOl6DIWwO2ll2bxpBq"
+        },
+        {
+            "track_id": "4smkJW6uzoHxGReZqqwHS5",
+            "track_name": "I'll Be Seeing You",
+            "track_artist": "Billie Holiday",
+            "track_album": "Billie Holiday",
+            "track_duration": 211533,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T00:59:53Z",
+            "uri": "spotify:track:4smkJW6uzoHxGReZqqwHS5"
+        },
+        {
+            "track_id": "6Fa7Sp2c9PmRF06LnLJzb5",
+            "track_name": "Nuestro Juramento",
+            "track_artist": "Julio Jaramillo",
+            "track_album": "Mis Mejores Boleros (Vol. 1)",
+            "track_duration": 195761,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T01:28:50Z",
+            "uri": "spotify:track:6Fa7Sp2c9PmRF06LnLJzb5"
+        },
+        {
+            "track_id": "4tAwP9QKeLEQJ2fgd1RWcY",
+            "track_name": "Detalles (Detalhes)",
+            "track_artist": "Roberto Carlos",
+            "track_album": "Un Gato En La Oscuridad",
+            "track_duration": 308133,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T01:37:57Z",
+            "uri": "spotify:track:4tAwP9QKeLEQJ2fgd1RWcY"
+        },
+        {
+            "track_id": "6zyuoGGD010ff2BPfyO6xZ",
+            "track_name": "Envidia",
+            "track_artist": "Vicentico Vald\u00e9s",
+            "track_album": "Mi Diario Musical",
+            "track_duration": 189000,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T01:39:21Z",
+            "uri": "spotify:track:6zyuoGGD010ff2BPfyO6xZ"
+        },
+        {
+            "track_id": "3V1jBnDI3zCn25ONFiqwN8",
+            "track_name": "Ojitos de Miel",
+            "track_artist": "T3R Elemento",
+            "track_album": "Our Wave Nuestra Ola",
+            "track_duration": 239497,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-11T16:17:15Z",
+            "uri": "spotify:track:3V1jBnDI3zCn25ONFiqwN8"
+        },
+        {
+            "track_id": "1ipcb9qXpSHWhSUvdxJhsx",
+            "track_name": "Forever and Ever, Amen",
+            "track_artist": "Randy Travis",
+            "track_album": "Always & Forever",
+            "track_duration": 212640,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-25T00:17:24Z",
+            "uri": "spotify:track:1ipcb9qXpSHWhSUvdxJhsx"
+        },
+        {
+            "track_id": "5DQU4Fmdx7Hs7pwtcZMSTK",
+            "track_name": "The Painter",
+            "track_artist": "Cody Johnson",
+            "track_album": "Leather",
+            "track_duration": 211413,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T00:52:29Z",
+            "uri": "spotify:track:5DQU4Fmdx7Hs7pwtcZMSTK"
+        },
+        {
+            "track_id": "7vLzS4QoDV2wP9zfvdhVgd",
+            "track_name": "Like She Does",
+            "track_artist": "Wynn Williams",
+            "track_album": "Your Love",
+            "track_duration": 228557,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T00:57:13Z",
+            "uri": "spotify:track:7vLzS4QoDV2wP9zfvdhVgd"
+        },
+        {
+            "track_id": "2op0kDNARK2VHWHntEeH4g",
+            "track_name": "Just To See You Smile",
+            "track_artist": "Tim McGraw",
+            "track_album": "Everywhere",
+            "track_duration": 215173,
+            "track_added_by": "1291740798",
+            "track_added_at": "2023-11-26T05:44:03Z",
+            "uri": "spotify:track:2op0kDNARK2VHWHntEeH4g"
         }
     ]
 }
