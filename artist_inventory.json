@@ -1,4 +1,94 @@
 {
+    "2SHhfs4BiDxGQ3oxqf0UHY": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
+        "id": "2SHhfs4BiDxGQ3oxqf0UHY",
+        "name": "Roxette",
+        "type": "artist",
+        "uri": "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
+    },
+    "19ra5tSw0tWufvUp8GotLo": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        "href": "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
+        "id": "19ra5tSw0tWufvUp8GotLo",
+        "name": "George Michael",
+        "type": "artist",
+        "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo"
+    },
+    "0lJlKQvuM2Sd9DPPyUXcHg": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        },
+        "href": "https://api.spotify.com/v1/artists/0lJlKQvuM2Sd9DPPyUXcHg",
+        "id": "0lJlKQvuM2Sd9DPPyUXcHg",
+        "name": "Sixpence None The Richer",
+        "type": "artist",
+        "uri": "spotify:artist:0lJlKQvuM2Sd9DPPyUXcHg"
+    },
+    "7t0rwkOPGlDPEhaOcVtOt9": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+        "id": "7t0rwkOPGlDPEhaOcVtOt9",
+        "name": "The Cranberries",
+        "type": "artist",
+        "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+    },
+    "0LcJLqbBmaGUft1e9Mm8HV": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        },
+        "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+        "id": "0LcJLqbBmaGUft1e9Mm8HV",
+        "name": "ABBA",
+        "type": "artist",
+        "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+    },
+    "0Suv0tRrNrUlRzAy8aXjma": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Suv0tRrNrUlRzAy8aXjma",
+        "id": "0Suv0tRrNrUlRzAy8aXjma",
+        "name": "Haddaway",
+        "type": "artist",
+        "uri": "spotify:artist:0Suv0tRrNrUlRzAy8aXjma"
+    },
+    "7ohlPA8dRBtCf92zaZCaaB": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/7ohlPA8dRBtCf92zaZCaaB",
+        "id": "7ohlPA8dRBtCf92zaZCaaB",
+        "name": "Crowded House",
+        "type": "artist",
+        "uri": "spotify:artist:7ohlPA8dRBtCf92zaZCaaB"
+    },
+    "4xXCRXOfQKQ2gjWxNhNzYW": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
+        "id": "4xXCRXOfQKQ2gjWxNhNzYW",
+        "name": "Air Supply",
+        "type": "artist",
+        "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
+    },
+    "3NRFinRTEqUCfaTTZmk8ek": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        },
+        "href": "https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek",
+        "id": "3NRFinRTEqUCfaTTZmk8ek",
+        "name": "Savage Garden",
+        "type": "artist",
+        "uri": "spotify:artist:3NRFinRTEqUCfaTTZmk8ek"
+    },
     "2w7IutHv5g4e8LumrwtjWR": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
@@ -1979,26 +2069,6 @@
         "type": "artist",
         "uri": "spotify:artist:0Grjlu7ncIuCaSYvCs9fcd"
     },
-    "7ohlPA8dRBtCf92zaZCaaB": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        },
-        "href": "https://api.spotify.com/v1/artists/7ohlPA8dRBtCf92zaZCaaB",
-        "id": "7ohlPA8dRBtCf92zaZCaaB",
-        "name": "Crowded House",
-        "type": "artist",
-        "uri": "spotify:artist:7ohlPA8dRBtCf92zaZCaaB"
-    },
-    "0lJlKQvuM2Sd9DPPyUXcHg": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        },
-        "href": "https://api.spotify.com/v1/artists/0lJlKQvuM2Sd9DPPyUXcHg",
-        "id": "0lJlKQvuM2Sd9DPPyUXcHg",
-        "name": "Sixpence None The Richer",
-        "type": "artist",
-        "uri": "spotify:artist:0lJlKQvuM2Sd9DPPyUXcHg"
-    },
     "0C0XlULifJtAgn6ZNCW2eu": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
@@ -3509,16 +3579,6 @@
         "type": "artist",
         "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
     },
-    "0LcJLqbBmaGUft1e9Mm8HV": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        },
-        "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
-        "id": "0LcJLqbBmaGUft1e9Mm8HV",
-        "name": "ABBA",
-        "type": "artist",
-        "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
-    },
     "7xeM7V59cA1X8GKyKKQV87": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
@@ -3568,16 +3628,6 @@
         "name": "The Cure",
         "type": "artist",
         "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
-    },
-    "3NRFinRTEqUCfaTTZmk8ek": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        },
-        "href": "https://api.spotify.com/v1/artists/3NRFinRTEqUCfaTTZmk8ek",
-        "id": "3NRFinRTEqUCfaTTZmk8ek",
-        "name": "Savage Garden",
-        "type": "artist",
-        "uri": "spotify:artist:3NRFinRTEqUCfaTTZmk8ek"
     },
     "536BYVgOnRky0xjsPT96zl": {
         "external_urls": {
@@ -3829,16 +3879,6 @@
         "type": "artist",
         "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
     },
-    "2SHhfs4BiDxGQ3oxqf0UHY": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        "href": "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
-        "id": "2SHhfs4BiDxGQ3oxqf0UHY",
-        "name": "Roxette",
-        "type": "artist",
-        "uri": "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
-    },
     "2EfG2EoT8GFJrMiilbTVl2": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
@@ -4018,16 +4058,6 @@
         "name": "Vanessa Zamora",
         "type": "artist",
         "uri": "spotify:artist:3IZxs4ZukiitIk8vkAPAxC"
-    },
-    "7t0rwkOPGlDPEhaOcVtOt9": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
-        "id": "7t0rwkOPGlDPEhaOcVtOt9",
-        "name": "The Cranberries",
-        "type": "artist",
-        "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
     },
     "7ai5TWiOG8g9Hds5AATS28": {
         "external_urls": {
@@ -5018,26 +5048,6 @@
         "name": "Bobby Pulido",
         "type": "artist",
         "uri": "spotify:artist:4EEZg8R3dxbTCCQ1DVWtHg"
-    },
-    "19ra5tSw0tWufvUp8GotLo": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        "href": "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
-        "id": "19ra5tSw0tWufvUp8GotLo",
-        "name": "George Michael",
-        "type": "artist",
-        "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo"
-    },
-    "4xXCRXOfQKQ2gjWxNhNzYW": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        },
-        "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
-        "id": "4xXCRXOfQKQ2gjWxNhNzYW",
-        "name": "Air Supply",
-        "type": "artist",
-        "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
     },
     "2jzc5TC5TVFLXQlBNiIUzE": {
         "external_urls": {
@@ -8608,16 +8618,6 @@
         "name": "Peter Cetera",
         "type": "artist",
         "uri": "spotify:artist:5xWPOujQqd4wXyB08slZ9Z"
-    },
-    "0Suv0tRrNrUlRzAy8aXjma": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        },
-        "href": "https://api.spotify.com/v1/artists/0Suv0tRrNrUlRzAy8aXjma",
-        "id": "0Suv0tRrNrUlRzAy8aXjma",
-        "name": "Haddaway",
-        "type": "artist",
-        "uri": "spotify:artist:0Suv0tRrNrUlRzAy8aXjma"
     },
     "293zczrfYafIItmnmM3coR": {
         "external_urls": {
