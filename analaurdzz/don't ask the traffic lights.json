@@ -442,6 +442,16 @@
             "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
         },
         {
+            "track_id": "1SymEzIT3H8UZfibCs3TYi",
+            "track_name": "Afterglow",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 223293,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-27T20:50:43Z",
+            "uri": "spotify:track:1SymEzIT3H8UZfibCs3TYi"
+        },
+        {
             "track_id": "2dgFqt3w9xIQRjhPtwNk3D",
             "track_name": "Death By A Thousand Cuts",
             "track_artist": "Taylor Swift",
@@ -460,6 +470,16 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-05-04T01:50:40Z",
             "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+        },
+        {
+            "track_id": "1fzAuUVbzlhZ1lJAx9PtY6",
+            "track_name": "Daylight",
+            "track_artist": "Taylor Swift",
+            "track_album": "Lover",
+            "track_duration": 293453,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-27T20:51:14Z",
+            "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
         },
         {
             "track_id": "12M5uqx0ZuwkpLp5rJim1a",
@@ -500,36 +520,6 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-05-04T01:51:09Z",
             "uri": "spotify:track:7F5oktn5YOsR9eR5YsFtqb"
-        },
-        {
-            "track_id": "4L560fic5PaTuCFm6CviKa",
-            "track_name": "This Love",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 250093,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:51:26Z",
-            "uri": "spotify:track:4L560fic5PaTuCFm6CviKa"
-        },
-        {
-            "track_id": "6RvRzl1YJTDnUvdOtV21IK",
-            "track_name": "Wonderland",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989 (Deluxe)",
-            "track_duration": 245560,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:51:28Z",
-            "uri": "spotify:track:6RvRzl1YJTDnUvdOtV21IK"
-        },
-        {
-            "track_id": "2k43eySbfpDVx0PrO99UI8",
-            "track_name": "Clean",
-            "track_artist": "Taylor Swift",
-            "track_album": "1989",
-            "track_duration": 271000,
-            "track_added_by": "analaurdzz",
-            "track_added_at": "2023-05-04T01:51:37Z",
-            "uri": "spotify:track:2k43eySbfpDVx0PrO99UI8"
         },
         {
             "track_id": "2TF4UtYreqNbQ6Z9AccldU",
@@ -650,6 +640,106 @@
             "track_added_by": "analaurdzz",
             "track_added_at": "2023-07-11T15:27:48Z",
             "uri": "spotify:track:3MytWN8L7shNYzGl4tAKRp"
+        },
+        {
+            "track_id": "4s8BIKx4Zh6ryAEz8RTlaU",
+            "track_name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "Speak Now (Taylor's Version)",
+            "track_duration": 311765,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-27T20:51:00Z",
+            "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU"
+        },
+        {
+            "track_id": "5QVVjX0ZItqlVpEuVCM9Yg",
+            "track_name": "This Love (Taylor\u2019s Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 250100,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:12:37Z",
+            "uri": "spotify:track:5QVVjX0ZItqlVpEuVCM9Yg"
+        },
+        {
+            "track_id": "2ve0kuaWUCt4Zx8x4bf1MR",
+            "track_name": "Wonderland (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 245566,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:12:39Z",
+            "uri": "spotify:track:2ve0kuaWUCt4Zx8x4bf1MR"
+        },
+        {
+            "track_id": "2ByBBvpR9b7IynvRmnG7kG",
+            "track_name": "Clean (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 271000,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:12:41Z",
+            "uri": "spotify:track:2ByBBvpR9b7IynvRmnG7kG"
+        },
+        {
+            "track_id": "43y1WpBdnEy5TR9aZoSQL9",
+            "track_name": "I Wish You Would (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 207650,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:12:45Z",
+            "uri": "spotify:track:43y1WpBdnEy5TR9aZoSQL9"
+        },
+        {
+            "track_id": "6GXgd1BPD9bUpqw5AntGV5",
+            "track_name": "All You Had To Do Was Stay (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 193289,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:12:47Z",
+            "uri": "spotify:track:6GXgd1BPD9bUpqw5AntGV5"
+        },
+        {
+            "track_id": "4NioO5R9sHEZh4cGzMHyNt",
+            "track_name": "Say Don't Go (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 279833,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:12:51Z",
+            "uri": "spotify:track:4NioO5R9sHEZh4cGzMHyNt"
+        },
+        {
+            "track_id": "1Iq8oo9XkmmvCQiGOfORiz",
+            "track_name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 229477,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-10-27T16:12:53Z",
+            "uri": "spotify:track:1Iq8oo9XkmmvCQiGOfORiz"
+        },
+        {
+            "track_id": "4UwqOWDpdeIDVQDuKT6iza",
+            "track_name": "You Are In Love (Taylor's Version)",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Taylor's Version)",
+            "track_duration": 267389,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-27T20:51:23Z",
+            "uri": "spotify:track:4UwqOWDpdeIDVQDuKT6iza"
+        },
+        {
+            "track_id": "3CWq0pAKKTWb0K4yiglDc4",
+            "track_name": "You\u2019re Losing Me (From The Vault)",
+            "track_artist": "Taylor Swift",
+            "track_album": "You're Losing Me (From The Vault)",
+            "track_duration": 277831,
+            "track_added_by": "analaurdzz",
+            "track_added_at": "2023-11-30T00:42:40Z",
+            "uri": "spotify:track:3CWq0pAKKTWb0K4yiglDc4"
         }
     ]
 }
