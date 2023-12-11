@@ -1740,6 +1740,276 @@
             "track_added_by": "jaimehisao",
             "track_added_at": "2023-10-01T19:49:11Z",
             "uri": "spotify:track:6yfITc3fnExeWFIG0spGRp"
+        },
+        {
+            "track_id": "2ENexcMEMsYk0rVJigVD3i",
+            "track_name": "Only Girl (In The World)",
+            "track_artist": "Rihanna",
+            "track_album": "Loud (Japan Version)",
+            "track_duration": 235493,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-03T10:52:57Z",
+            "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i"
+        },
+        {
+            "track_id": "4kFbxA8gCGx47zJrZ9KiQT",
+            "track_name": "XXL",
+            "track_artist": "LANY",
+            "track_album": "a beautiful blur",
+            "track_duration": 206706,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-04T19:18:47Z",
+            "uri": "spotify:track:4kFbxA8gCGx47zJrZ9KiQT"
+        },
+        {
+            "track_id": "609E1JCInJncactoMmkDon",
+            "track_name": "BESO",
+            "track_artist": "ROSAL\u00cdA",
+            "track_album": "RR",
+            "track_duration": 194543,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-06T01:13:19Z",
+            "uri": "spotify:track:609E1JCInJncactoMmkDon"
+        },
+        {
+            "track_id": "7zy2kNoeD72x2NEDaAsJOX",
+            "track_name": "Psychedelic Switch",
+            "track_artist": "Carly Rae Jepsen",
+            "track_album": "The Loveliest Time",
+            "track_duration": 272035,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-07T18:36:29Z",
+            "uri": "spotify:track:7zy2kNoeD72x2NEDaAsJOX"
+        },
+        {
+            "track_id": "0ELzxemxnjAasucn8Sww3m",
+            "track_name": "Hold Me Now",
+            "track_artist": "Thompson Twins",
+            "track_album": "Into the Gap (Deluxe Edition)",
+            "track_duration": 286360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-08T05:52:14Z",
+            "uri": "spotify:track:0ELzxemxnjAasucn8Sww3m"
+        },
+        {
+            "track_id": "5EJ2THuhAapEIeQOtXUQ0x",
+            "track_name": "Oye Mi Amor",
+            "track_artist": "Man\u00e1",
+            "track_album": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+            "track_duration": 263306,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-13T05:33:24Z",
+            "uri": "spotify:track:5EJ2THuhAapEIeQOtXUQ0x"
+        },
+        {
+            "track_id": "2iUXsYOEPhVqEBwsqP70rE",
+            "track_name": "Youngblood",
+            "track_artist": "5 Seconds of Summer",
+            "track_album": "Youngblood (Deluxe)",
+            "track_duration": 203417,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-28T06:33:34Z",
+            "uri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE"
+        },
+        {
+            "track_id": "1yJibnzyjGLqIkHvXsogBD",
+            "track_name": "Hindsight - Original Mix",
+            "track_artist": "Audien",
+            "track_album": "Hindsight",
+            "track_duration": 285000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-29T03:45:23Z",
+            "uri": "spotify:track:1yJibnzyjGLqIkHvXsogBD"
+        },
+        {
+            "track_id": "1fidCEsYlaVE3pHwKCvpFZ",
+            "track_name": "Am I Wrong",
+            "track_artist": "Nico & Vinz",
+            "track_album": "Black Star Elephant",
+            "track_duration": 245866,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-29T03:49:10Z",
+            "uri": "spotify:track:1fidCEsYlaVE3pHwKCvpFZ"
+        },
+        {
+            "track_id": "57iDDD9N9tTWe75x6qhStw",
+            "track_name": "Bitter Sweet Symphony - Remastered 2016",
+            "track_artist": "The Verve",
+            "track_album": "Urban Hymns (Remastered 2016)",
+            "track_duration": 357266,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-29T04:20:22Z",
+            "uri": "spotify:track:57iDDD9N9tTWe75x6qhStw"
+        },
+        {
+            "track_id": "0DiWol3AO6WpXZgp0goxAV",
+            "track_name": "One More Time",
+            "track_artist": "Daft Punk",
+            "track_album": "Discovery",
+            "track_duration": 320357,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-29T05:10:46Z",
+            "uri": "spotify:track:0DiWol3AO6WpXZgp0goxAV"
+        },
+        {
+            "track_id": "5M9jOReAKGZ2AttVefFjTY",
+            "track_name": "Don't Look Down (feat. Usher)",
+            "track_artist": "Martin Garrix",
+            "track_album": "Don't Look Down (feat. Usher)",
+            "track_duration": 223139,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-31T07:16:32Z",
+            "uri": "spotify:track:5M9jOReAKGZ2AttVefFjTY"
+        },
+        {
+            "track_id": "6xZ4Q2k2ompmDppyeESIY8",
+            "track_name": "Level of Concern",
+            "track_artist": "Twenty One Pilots",
+            "track_album": "Level of Concern",
+            "track_duration": 220051,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-31T08:27:32Z",
+            "uri": "spotify:track:6xZ4Q2k2ompmDppyeESIY8"
+        },
+        {
+            "track_id": "0ug5NqcwcFR2xrfTkc7k8e",
+            "track_name": "Style",
+            "track_artist": "Taylor Swift",
+            "track_album": "1989 (Deluxe)",
+            "track_duration": 231000,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-10-31T20:32:03Z",
+            "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+        },
+        {
+            "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+            "track_name": "Everybody Wants To Rule The World",
+            "track_artist": "Tears For Fears",
+            "track_album": "Songs From The Big Chair (Super Deluxe Edition)",
+            "track_duration": 251488,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-02T20:46:39Z",
+            "uri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE"
+        },
+        {
+            "track_id": "4c6vZqYHFur11FbWATIJ9P",
+            "track_name": "There She Goes",
+            "track_artist": "The La's",
+            "track_album": "The La's",
+            "track_duration": 162186,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-02T20:48:01Z",
+            "uri": "spotify:track:4c6vZqYHFur11FbWATIJ9P"
+        },
+        {
+            "track_id": "3xY5aYJcdvZX9xQxNd02ku",
+            "track_name": "In The City",
+            "track_artist": "Charli XCX",
+            "track_album": "In The City",
+            "track_duration": 176479,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-04T05:38:28Z",
+            "uri": "spotify:track:3xY5aYJcdvZX9xQxNd02ku"
+        },
+        {
+            "track_id": "0dxp7DyPJEo6JhtnjUtBnN",
+            "track_name": "On My Love",
+            "track_artist": "Zara Larsson",
+            "track_album": "On My Love",
+            "track_duration": 222911,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-07T02:13:11Z",
+            "uri": "spotify:track:0dxp7DyPJEo6JhtnjUtBnN"
+        },
+        {
+            "track_id": "7KA4W4McWYRpgf0fWsJZWB",
+            "track_name": "See You Again (feat. Kali Uchis)",
+            "track_artist": "Tyler, The Creator",
+            "track_album": "Flower Boy",
+            "track_duration": 180386,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-07T02:25:01Z",
+            "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB"
+        },
+        {
+            "track_id": "1QNqrsNQ1JVLEwncov3lEY",
+            "track_name": "True Love (feat. Lily Allen)",
+            "track_artist": "P!nk",
+            "track_album": "The Truth About Love",
+            "track_duration": 230733,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-08T16:34:44Z",
+            "uri": "spotify:track:1QNqrsNQ1JVLEwncov3lEY"
+        },
+        {
+            "track_id": "4a9tbd947vo9K8Vti9JwcI",
+            "track_name": "Boy With Luv (feat. Halsey)",
+            "track_artist": "BTS",
+            "track_album": "MAP OF THE SOUL : PERSONA",
+            "track_duration": 229773,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-08T21:50:29Z",
+            "uri": "spotify:track:4a9tbd947vo9K8Vti9JwcI"
+        },
+        {
+            "track_id": "2eS0qIRmqPpu32pligBmo8",
+            "track_name": "Eh, Eh (Nothing Else I Can Say)",
+            "track_artist": "Lady Gaga",
+            "track_album": "The Fame Monster (Deluxe Edition)",
+            "track_duration": 175360,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-09T02:25:59Z",
+            "uri": "spotify:track:2eS0qIRmqPpu32pligBmo8"
+        },
+        {
+            "track_id": "6lV2MSQmRIkycDScNtrBXO",
+            "track_name": "Airplanes (feat. Hayley Williams of Paramore)",
+            "track_artist": "B.o.B",
+            "track_album": "B.o.B Presents: The Adventures of Bobby Ray",
+            "track_duration": 180480,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-09T16:42:46Z",
+            "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO"
+        },
+        {
+            "track_id": "3rmqiQbzPDx7A8p88IRFKg",
+            "track_name": "Love U Like That",
+            "track_artist": "Lauv",
+            "track_album": "Love U Like That",
+            "track_duration": 211733,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-16T23:37:23Z",
+            "uri": "spotify:track:3rmqiQbzPDx7A8p88IRFKg"
+        },
+        {
+            "track_id": "50PyquzZ9BaBwLZZd1AuuV",
+            "track_name": "Close To You",
+            "track_artist": "Dayglow",
+            "track_album": "Harmony House",
+            "track_duration": 194693,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-19T03:10:12Z",
+            "uri": "spotify:track:50PyquzZ9BaBwLZZd1AuuV"
+        },
+        {
+            "track_id": "23RoR84KodL5HWvUTneQ1w",
+            "track_name": "(It Goes Like) Nanana - Edit",
+            "track_artist": "Peggy Gou",
+            "track_album": "(It Goes Like) Nanana [Edit]",
+            "track_duration": 231545,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-11-26T14:25:18Z",
+            "uri": "spotify:track:23RoR84KodL5HWvUTneQ1w"
+        },
+        {
+            "track_id": "5tz69p7tJuGPeMGwNTxYuV",
+            "track_name": "1-800-273-8255",
+            "track_artist": "Logic",
+            "track_album": "Everybody",
+            "track_duration": 250173,
+            "track_added_by": "jaimehisao",
+            "track_added_at": "2023-12-09T00:29:36Z",
+            "uri": "spotify:track:5tz69p7tJuGPeMGwNTxYuV"
         }
     ]
 }
