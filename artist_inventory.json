@@ -89,6 +89,56 @@
         "type": "artist",
         "uri": "spotify:artist:3NRFinRTEqUCfaTTZmk8ek"
     },
+    "2BTZIqw0ntH9MvilQ3ewNY": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+        "id": "2BTZIqw0ntH9MvilQ3ewNY",
+        "name": "Cyndi Lauper",
+        "type": "artist",
+        "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+    },
+    "2urZrEdsq72kx0UzfYN8Yv": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        },
+        "href": "https://api.spotify.com/v1/artists/2urZrEdsq72kx0UzfYN8Yv",
+        "id": "2urZrEdsq72kx0UzfYN8Yv",
+        "name": "Spandau Ballet",
+        "type": "artist",
+        "uri": "spotify:artist:2urZrEdsq72kx0UzfYN8Yv"
+    },
+    "55vs7NT1KxcFjbMC4y202E": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        },
+        "href": "https://api.spotify.com/v1/artists/55vs7NT1KxcFjbMC4y202E",
+        "id": "55vs7NT1KxcFjbMC4y202E",
+        "name": "REO Speedwagon",
+        "type": "artist",
+        "uri": "spotify:artist:55vs7NT1KxcFjbMC4y202E"
+    },
+    "695W5F2Ih8dYahLdjVOIoH": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        },
+        "href": "https://api.spotify.com/v1/artists/695W5F2Ih8dYahLdjVOIoH",
+        "id": "695W5F2Ih8dYahLdjVOIoH",
+        "name": "Christopher Cross",
+        "type": "artist",
+        "uri": "spotify:artist:695W5F2Ih8dYahLdjVOIoH"
+    },
+    "1fa0cOhromAZdq2xRA4vv8": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        },
+        "href": "https://api.spotify.com/v1/artists/1fa0cOhromAZdq2xRA4vv8",
+        "id": "1fa0cOhromAZdq2xRA4vv8",
+        "name": "Simply Red",
+        "type": "artist",
+        "uri": "spotify:artist:1fa0cOhromAZdq2xRA4vv8"
+    },
     "2w7IutHv5g4e8LumrwtjWR": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
@@ -2238,16 +2288,6 @@
         "name": "Electric Light Orchestra",
         "type": "artist",
         "uri": "spotify:artist:7jefIIksOi1EazgRTfW2Pk"
-    },
-    "2BTZIqw0ntH9MvilQ3ewNY": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        },
-        "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
-        "id": "2BTZIqw0ntH9MvilQ3ewNY",
-        "name": "Cyndi Lauper",
-        "type": "artist",
-        "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
     },
     "7ugN9bU7x54gVI2295brJF": {
         "external_urls": {
@@ -4629,16 +4669,6 @@
         "type": "artist",
         "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
     },
-    "1fa0cOhromAZdq2xRA4vv8": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        },
-        "href": "https://api.spotify.com/v1/artists/1fa0cOhromAZdq2xRA4vv8",
-        "id": "1fa0cOhromAZdq2xRA4vv8",
-        "name": "Simply Red",
-        "type": "artist",
-        "uri": "spotify:artist:1fa0cOhromAZdq2xRA4vv8"
-    },
     "5rSXSAkZ67PYJSvpUpkOr7": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
@@ -5068,16 +5098,6 @@
         "name": "Foreigner",
         "type": "artist",
         "uri": "spotify:artist:6IRouO5mvvfcyxtPDKMYFN"
-    },
-    "695W5F2Ih8dYahLdjVOIoH": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        },
-        "href": "https://api.spotify.com/v1/artists/695W5F2Ih8dYahLdjVOIoH",
-        "id": "695W5F2Ih8dYahLdjVOIoH",
-        "name": "Christopher Cross",
-        "type": "artist",
-        "uri": "spotify:artist:695W5F2Ih8dYahLdjVOIoH"
     },
     "3nFkdlSjzX9mRTtwJOzDYB": {
         "external_urls": {
@@ -8218,16 +8238,6 @@
         "name": "Chicago",
         "type": "artist",
         "uri": "spotify:artist:3iDD7bnsjL9J4fO298r0L0"
-    },
-    "55vs7NT1KxcFjbMC4y202E": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        },
-        "href": "https://api.spotify.com/v1/artists/55vs7NT1KxcFjbMC4y202E",
-        "id": "55vs7NT1KxcFjbMC4y202E",
-        "name": "REO Speedwagon",
-        "type": "artist",
-        "uri": "spotify:artist:55vs7NT1KxcFjbMC4y202E"
     },
     "1LZEQNv7sE11VDY3SdxQeN": {
         "external_urls": {
@@ -17718,16 +17728,6 @@
         "name": "Sam Hunt",
         "type": "artist",
         "uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38"
-    },
-    "2urZrEdsq72kx0UzfYN8Yv": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        },
-        "href": "https://api.spotify.com/v1/artists/2urZrEdsq72kx0UzfYN8Yv",
-        "id": "2urZrEdsq72kx0UzfYN8Yv",
-        "name": "Spandau Ballet",
-        "type": "artist",
-        "uri": "spotify:artist:2urZrEdsq72kx0UzfYN8Yv"
     },
     "6aZyMrc4doVtZyKNilOmwu": {
         "external_urls": {
