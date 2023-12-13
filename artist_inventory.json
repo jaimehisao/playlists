@@ -139,6 +139,26 @@
         "type": "artist",
         "uri": "spotify:artist:1fa0cOhromAZdq2xRA4vv8"
     },
+    "0zOcE3mg9nS6l3yxt1Y0bK": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        },
+        "href": "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
+        "id": "0zOcE3mg9nS6l3yxt1Y0bK",
+        "name": "The Fray",
+        "type": "artist",
+        "uri": "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
+    },
+    "3rIZMv9rysU7JkLzEaC5Jp": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        },
+        "href": "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+        "id": "3rIZMv9rysU7JkLzEaC5Jp",
+        "name": "Snow Patrol",
+        "type": "artist",
+        "uri": "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+    },
     "2w7IutHv5g4e8LumrwtjWR": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
@@ -538,16 +558,6 @@
         "name": "Big Sean",
         "type": "artist",
         "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
-    },
-    "3rIZMv9rysU7JkLzEaC5Jp": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        },
-        "href": "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
-        "id": "3rIZMv9rysU7JkLzEaC5Jp",
-        "name": "Snow Patrol",
-        "type": "artist",
-        "uri": "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
     },
     "6M2wZ9GZgrQXHCFfjv46we": {
         "external_urls": {
@@ -5278,16 +5288,6 @@
         "name": "The Rembrandts",
         "type": "artist",
         "uri": "spotify:artist:0gDg7FEsF4Y1jWddJJgcn4"
-    },
-    "0zOcE3mg9nS6l3yxt1Y0bK": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        },
-        "href": "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
-        "id": "0zOcE3mg9nS6l3yxt1Y0bK",
-        "name": "The Fray",
-        "type": "artist",
-        "uri": "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
     },
     "21UJ7PRWb3Etgsu99f8yo8": {
         "external_urls": {
