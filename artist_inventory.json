@@ -29849,6 +29849,26 @@
         "type": "artist",
         "uri": "spotify:artist:6kveFlWW2CZY1bfiX51UnW"
     },
+    "2qkGoWlOdUyYI4L2AqnASY": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qkGoWlOdUyYI4L2AqnASY"
+        },
+        "href": "https://api.spotify.com/v1/artists/2qkGoWlOdUyYI4L2AqnASY",
+        "id": "2qkGoWlOdUyYI4L2AqnASY",
+        "name": "Lindsey Ray",
+        "type": "artist",
+        "uri": "spotify:artist:2qkGoWlOdUyYI4L2AqnASY"
+    },
+    "6P4YT3qzItpnhZeRRLDRPL": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6P4YT3qzItpnhZeRRLDRPL"
+        },
+        "href": "https://api.spotify.com/v1/artists/6P4YT3qzItpnhZeRRLDRPL",
+        "id": "6P4YT3qzItpnhZeRRLDRPL",
+        "name": "TAIINA",
+        "type": "artist",
+        "uri": "spotify:artist:6P4YT3qzItpnhZeRRLDRPL"
+    },
     "3vAaWhdBR38Q02ohXqaNHT": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
@@ -36187,6 +36207,16 @@
         "type": "artist",
         "uri": "spotify:artist:0Y0QSi6lz1bPik5Ffjr8sd"
     },
+    "2jAzx88tHo3KNYauXANisl": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jAzx88tHo3KNYauXANisl",
+        "id": "2jAzx88tHo3KNYauXANisl",
+        "name": "Yellow House",
+        "type": "artist",
+        "uri": "spotify:artist:2jAzx88tHo3KNYauXANisl"
+    },
     "2NFrAuh8RQdQoS7iYFbckw": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
@@ -36206,16 +36236,6 @@
         "name": "Nikki Flores",
         "type": "artist",
         "uri": "spotify:artist:21q45xu51WtV5Td6ZBJHiB"
-    },
-    "2jAzx88tHo3KNYauXANisl": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        },
-        "href": "https://api.spotify.com/v1/artists/2jAzx88tHo3KNYauXANisl",
-        "id": "2jAzx88tHo3KNYauXANisl",
-        "name": "Yellow House",
-        "type": "artist",
-        "uri": "spotify:artist:2jAzx88tHo3KNYauXANisl"
     },
     "0DGAOR3KtqWwWSwDzhzqOa": {
         "external_urls": {
@@ -55796,16 +55816,6 @@
         "name": "Spanky & Our Gang",
         "type": "artist",
         "uri": "spotify:artist:12V5Y0dEdRroUCBr95IXO9"
-    },
-    "3LLNDXrxL4uxXtnUJS5XWM": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
-        },
-        "href": "https://api.spotify.com/v1/artists/3LLNDXrxL4uxXtnUJS5XWM",
-        "id": "3LLNDXrxL4uxXtnUJS5XWM",
-        "name": "Alexander Rybak",
-        "type": "artist",
-        "uri": "spotify:artist:3LLNDXrxL4uxXtnUJS5XWM"
     },
     "3Hb64DQZIhDCgyHKrzBXOL": {
         "external_urls": {
