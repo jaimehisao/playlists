@@ -1,4 +1,24 @@
 {
+    "4Abe9XH0fplj8dbOddoYgH": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Abe9XH0fplj8dbOddoYgH",
+        "id": "4Abe9XH0fplj8dbOddoYgH",
+        "name": "yaeow",
+        "type": "artist",
+        "uri": "spotify:artist:4Abe9XH0fplj8dbOddoYgH"
+    },
+    "3WdDxnyyYJgYLxrLPXSVyz": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
+        },
+        "href": "https://api.spotify.com/v1/artists/3WdDxnyyYJgYLxrLPXSVyz",
+        "id": "3WdDxnyyYJgYLxrLPXSVyz",
+        "name": "Neptune",
+        "type": "artist",
+        "uri": "spotify:artist:3WdDxnyyYJgYLxrLPXSVyz"
+    },
     "2SHhfs4BiDxGQ3oxqf0UHY": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
@@ -9339,6 +9359,16 @@
         "type": "artist",
         "uri": "spotify:artist:5enSNzCwMx61gCMv9jaV4Q"
     },
+    "1ldFRYgmjxDrX27bIe3dWx": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        },
+        "href": "https://api.spotify.com/v1/artists/1ldFRYgmjxDrX27bIe3dWx",
+        "id": "1ldFRYgmjxDrX27bIe3dWx",
+        "name": "Los Macorinos",
+        "type": "artist",
+        "uri": "spotify:artist:1ldFRYgmjxDrX27bIe3dWx"
+    },
     "69zVBf7wk5vKWsTF7zE5CC": {
         "external_urls": {
             "spotify": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
@@ -10288,16 +10318,6 @@
         "name": "Javiera Mena",
         "type": "artist",
         "uri": "spotify:artist:6c0qylj1D1gqcUUN2P8Ofp"
-    },
-    "1ldFRYgmjxDrX27bIe3dWx": {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        },
-        "href": "https://api.spotify.com/v1/artists/1ldFRYgmjxDrX27bIe3dWx",
-        "id": "1ldFRYgmjxDrX27bIe3dWx",
-        "name": "Los Macorinos",
-        "type": "artist",
-        "uri": "spotify:artist:1ldFRYgmjxDrX27bIe3dWx"
     },
     "5qUyJ52ARWXdUNECvFHBag": {
         "external_urls": {
@@ -37646,6 +37666,26 @@
         "name": "Tobiahs",
         "type": "artist",
         "uri": "spotify:artist:4eHzBO6qaL2wt35kENSbTs"
+    },
+    "38fu1DhmEN33ALaBa7jGhI": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI"
+        },
+        "href": "https://api.spotify.com/v1/artists/38fu1DhmEN33ALaBa7jGhI",
+        "id": "38fu1DhmEN33ALaBa7jGhI",
+        "name": "Tyzo Bloom",
+        "type": "artist",
+        "uri": "spotify:artist:38fu1DhmEN33ALaBa7jGhI"
+    },
+    "5wk7sY8GIg5ihSI09EbWeS": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        },
+        "href": "https://api.spotify.com/v1/artists/5wk7sY8GIg5ihSI09EbWeS",
+        "id": "5wk7sY8GIg5ihSI09EbWeS",
+        "name": "Freak Slug",
+        "type": "artist",
+        "uri": "spotify:artist:5wk7sY8GIg5ihSI09EbWeS"
     },
     "4QTVePrFu1xuGM9K0kNXkk": {
         "external_urls": {
@@ -68086,6 +68126,16 @@
         "name": "El David",
         "type": "artist",
         "uri": "spotify:artist:61h5RLs6eo1eapzuDzoA5b"
+    },
+    "77Rj6PHmQJFb8nbSH62y68": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+        },
+        "href": "https://api.spotify.com/v1/artists/77Rj6PHmQJFb8nbSH62y68",
+        "id": "77Rj6PHmQJFb8nbSH62y68",
+        "name": "Owen Pallett",
+        "type": "artist",
+        "uri": "spotify:artist:77Rj6PHmQJFb8nbSH62y68"
     },
     "5ypEYwWaSgtjBPCPcredFM": {
         "external_urls": {
